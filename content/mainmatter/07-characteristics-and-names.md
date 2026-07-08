@@ -1,3 +1,0 @@
-
-# His Characteristics and Names
-
