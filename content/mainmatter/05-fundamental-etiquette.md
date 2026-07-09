@@ -5,10 +5,15 @@
 
 Allah Says,
 
-[فَانْتَشِرُوا فِي الْأَرْضِ وَابْتَغُوا مِن فَضْلِ اللَّهِ]{dir="rtl"}
+\AYAH_AR_START
+فَٱنتَشِرُواْ فِي ٱلۡأَرۡضِ وَٱبۡتَغُواْ مِن فَضۡلِ ٱللَّهِ
+\AYAH_AR_END
 
-*Then disperse throughout the land and seek the bounty of Allah.* \[Sūrat
-al-Jumuʿah, 10\]
+\AYAH_START
+Then disperse throughout the land and seek the bounty of Allah. (Sūrat
+al-Jumuʿah, Q62:10)
+\AYAH_END
+
 
 Allah's bounty refers to lawful provision. Seeking lawful earnings is itself
 obedience and worship.
@@ -16,18 +21,18 @@ obedience and worship.
 Earning through labor, trade, farming, or employment---by any lawful means---is
 necessary to fulfill family obligations and to spend in the path of Allah.
 
-The Prophet [ﷺ]{dir="rtl"} said, "After the obligatory duties, seeking lawful
+The Prophet \hon{\P_HIM}{\BODY} said, "After the obligatory duties, seeking lawful
 sustenance is an obligation." \[Shuʿab al-Īmān\]
 
 The Companions all worked: Abū Bakr, ʿUmar, and ʿUthmān engaged in trade; Salmān
-[رضي الله عنه]{dir="rtl"} wove mats; one Companion worked with a pickaxe until
-his hands became blackened. When the Prophet [ﷺ]{dir="rtl"} saw his hands, he
+\hon{\P_HIM}{\BODY} wove mats; one Companion worked with a pickaxe until
+his hands became blackened. When the Prophet \hon{\P_HIM}{\BODY} saw his hands, he
 asked about them. The Companion replied that he labored to provide for his
-family. The Prophet [ﷺ]{dir="rtl"} kissed his hands. \[al-Iṣābah\]
+family. The Prophet \hon{\P_HIM}{\BODY} kissed his hands. \[al-Iṣābah\]
 
 Begging is not permissible for a wealthy or able-bodied person. The Prophet
-[ﷺ]{dir="rtl"} said, "No one has ever eaten better food than that which he earns
-with his own hands." In another place he [ﷺ]{dir="rtl"} said, "It is better for
+\hon{\P_HIM}{\BODY} said, "No one has ever eaten better food than that which he earns
+with his own hands." In another place he \hon{\P_HIM}{\BODY} said, "It is better for
 one of you to carry a bundle of firewood on his back than to ask people..."
 \[Ṣaḥīḥ al-Bukhārī\]
 
@@ -40,30 +45,35 @@ should fear Allah.
 
 Allah Says,
 
-[وَإِن كُنتُمْ جُنُبًا فَاطَّهَّرُوا]{dir="rtl"}
+\AYAH_AR_START
+وَإِن كُنتُمۡ جُنُبٗا فَٱطَّهَّرُواْۚ
+\AYAH_AR_END
 
-*If you are in a state of major impurity, then purify yourselves.* \[Sūrat
-al-Māʾidah, 6\]
+\AYAH_START
+If you are in a state of major impurity, then purify yourselves. (Sūrat
+al-Māʾidah, Q5:6)
+\AYAH_END
+
 
 Maintaining purity and cleanliness is of immense importance. The very foundation
 of the religion rests upon purity.
 
-Once, Prophet Muhammad [ﷺ]{dir="rtl"} passed by a grave and said that the person
+Once, Prophet Muhammad \hon{\P_HIM}{\BODY} passed by a grave and said that the person
 within it was being punished because he did not protect himself from drops of
 urine (i.e., neglected cleanliness after relieving himself).
 
-ʿUthmān [رضي الله عنه]{dir="rtl"} was so particular about cleanliness that after
+ʿUthmān \hon{\P_HIM}{\BODY} was so particular about cleanliness that after
 accepting Islam, he would generally perform ghusl (ritual bathing) once daily.
 
 **1. Washing Hands After Sleep**
 
-The Messenger of Allah [ﷺ]{dir="rtl"} said, "When one of you awakens from sleep,
+The Messenger of Allah \hon{\P_HIM}{\BODY} said, "When one of you awakens from sleep,
 he should not put his hand into a vessel until he washes it three times, for he
 does not know where his hand spent the night." \[Ṣaḥīḥ al-Bukhārī\]
 
 **2. Cleaning the Teeth (Siwāk)**
 
-The Messenger of Allah [ﷺ]{dir="rtl"} said, "If it were not that I would cause
+The Messenger of Allah \hon{\P_HIM}{\BODY} said, "If it were not that I would cause
 hardship for my Ummah, I would have commanded them to use the siwāk at every
 prayer." \[Ṣaḥīḥ al-Bukhārī\]
 
@@ -72,7 +82,7 @@ prayer." \[Ṣaḥīḥ al-Bukhārī\]
 It is instructed that one should not relieve oneself on pathways or in the shade
 of trees, as it harms others.
 
-The Messenger of Allah [ﷺ]{dir="rtl"} said, "Beware of the two matters that
+The Messenger of Allah \hon{\P_HIM}{\BODY} said, "Beware of the two matters that
 cause curses: relieving oneself on pathways or in places of shade." \[Ṣaḥīḥ
 Muslim\]
 
@@ -81,19 +91,19 @@ Muslim\]
 It is prohibited to urinate in the place where one bathes, as it leads to
 impurity and harm.
 
-The Messenger of Allah [ﷺ]{dir="rtl"} said, "None of you should urinate in the
+The Messenger of Allah \hon{\P_HIM}{\BODY} said, "None of you should urinate in the
 place where he bathes..." \[Sunan Abī Dāwūd\]
 
 **5. Istinjā' (Cleaning After Relieving Oneself)**
 
 It should be performed with the left hand. And cleansing should be done using
 water and (traditionally) earth or similar material This is established from
-multiple narrations describing the practice of the Prophet [ﷺ]{dir="rtl"}.
+multiple narrations describing the practice of the Prophet \hon{\P_HIM}{\BODY}.
 \[Ṣaḥīḥ Muslim\]
 
 **6. Weekly Ghusl and Personal Care**
 
-The Prophet [ﷺ]{dir="rtl"} said, "It is a duty upon every Muslim to perform
+The Prophet \hon{\P_HIM}{\BODY} said, "It is a duty upon every Muslim to perform
 ghusl once every seven days, washing his head and body." \[Ṣaḥīḥ al-Bukhārī\]
 
 Additionally: Wearing clean clothes and applying fragrance are from the
@@ -104,15 +114,19 @@ obligatory for Jumuʿah.
 
 Allah Says,
 
-[قَدْ أَنزَلْنَا عَلَيْكُمْ لِبَاسًا يُوَارِي سَوْآتِكُمْ وَرِيشًا]{dir="rtl"}
+\AYAH_AR_START
+قَدۡ أَنزَلۡنَا عَلَيۡكُمۡ لِبَاسٗا يُوَٰرِي سَوۡءَٰتِكُمۡ وَرِيشٗاۖ
+\AYAH_AR_END
 
-*We have sent down clothing to cover your nakedness and as adornment.* \[Sūrat
-al-Aʿrāf, 7:26\]
+\AYAH_START
+We have sent down clothing to cover your nakedness and as adornment. (Sūrat
+al-Aʿrāf, Q7:26)
+\AYAH_END
+
 
 Clothing serves two purposes:
 
 1.  To protect the body from heat and cold.
-
 2.  To cover those parts of the body that must not be exposed to others.
 
 For men, the area from the navel to the knees is ʿawrah.
@@ -120,11 +134,11 @@ For men, the area from the navel to the knees is ʿawrah.
 For women, the body from the head down to the ankles is ʿawrah.
 
 Exposing these parts before others is impermissible, and even in private it is
-disliked. A Companion asked the Messenger of Allah [ﷺ]{dir="rtl"}: "If we are
+disliked. A Companion asked the Messenger of Allah \hon{\P_HIM}{\BODY}: "If we are
 alone, may we uncover ourselves?" He replied: "Allah is more deserving that you
 feel shy before Him." \[Sunan Abī Dāwūd\]
 
-The Prophet [ﷺ]{dir="rtl"} said: "Never remain naked, for angels are with you
+The Prophet \hon{\P_HIM}{\BODY} said: "Never remain naked, for angels are with you
 who leave you only at times of relieving oneself and intimacy. Be shy before
 them." \[Jāmiʿ al-Tirmidhī\]
 
@@ -139,18 +153,18 @@ Further guidelines:
   garments. \[Ṣaḥīḥ al-Bukhārī and Jāmiʿ al-Tirmidhī\]
 
 - Clothes should not be so thin that the body is visible. The Prophet
-  [ﷺ]{dir="rtl"} warned of women who are clothed yet naked. \[Ṣaḥīḥ Muslim\]
+  \hon{\P_HIM}{\BODY} warned of women who are clothed yet naked. \[Ṣaḥīḥ Muslim\]
 
 - Men should avoid flashy colors, especially solid red; striped red is
   permitted. Saffron-dyed garments are disliked. \[Ṣaḥīḥ al-Bukhārī\]
 
-- The Prophet [ﷺ]{dir="rtl"} preferred white clothing for men. \[Sunan Abī
+- The Prophet \hon{\P_HIM}{\BODY} preferred white clothing for men. \[Sunan Abī
   Dāwūd\]
 
 - When wearing clothes with sleeves, one should first insert the right arm.
   \[Ṣaḥīḥ al-Bukhārī\]
 
-When wearing new clothes, the Prophet [ﷺ]{dir="rtl"} would say:
+When wearing new clothes, the Prophet \hon{\P_HIM}{\BODY} would say:
 
 [الْحَمْدُ لِلَّهِ الَّذِي كَسَانِي هَذَا وَرَزَقَنِيهِ مِنْ غَيْرِ حَوْلٍ
 مِنِّي وَلَا قُوَّةٍ]{dir="rtl"}
@@ -162,9 +176,14 @@ any power or strength from myself." \[Sunan Abī Dāwūd\]
 
 Allah Says,
 
-[وَقُولُوا لِلنَّاسِ حُسْنًا]{dir="rtl"}
+\AYAH_AR_START
+وَقُولُواْ لِلنَّاسِ حُسۡنٗا
+\AYAH_AR_END
 
-*And speak to people in a good manner.* \[Sūrat al-Baqarah, 83\]
+\AYAH_START
+And speak to people in a good manner. (Sūrat al-Baqarah, Q2:83)
+\AYAH_END
+
 
 This āyah teaches that when people speak to one another, their speech should be
 good, gentle, and well-mannered. One's tone should be soft, and harshness should
@@ -175,34 +194,39 @@ with affection and kindness.
 One should not utter words that contain mockery, sarcasm, or humiliation. Allah
 says:
 
-[وَلَا تَلْمِزُوا أَنفُسَكُمْ وَلَا تَنَابَزُوا بِالْأَلْقَابِ]{dir="rtl"}
+\AYAH_AR_START
+وَلَا تَلۡمِزُوٓاْ أَنفُسَكُمۡ وَلَا تَنَابَزُواْ بِٱلۡأَلۡقَٰبِۖ
+\AYAH_AR_END
 
-*Do not defame one another, nor call each other by offensive nicknames.* \[Sūrat
-al-Ḥujurāt, 11\]
+\AYAH_START
+Do not defame one another, nor call each other by offensive nicknames. (Sūrat
+al-Ḥujurāt, Q49:11)
+\AYAH_END
 
-The Messenger of Allah [ﷺ]{dir="rtl"} said, "A believer does not insult, curse,
-speak obscenely, or use foul language." \[Ṣaḥīḥ al-Bukhārī\]
 
-He [ﷺ]{dir="rtl"} also said: "Whoever believes in Allah and the Last Day should
+The Messenger of Allah \hon{\P_HIM}{\BODY} said, "A believer does not insult,
+curse, speak obscenely, or use foul language." \[Ṣaḥīḥ al-Bukhārī\]
+
+He \hon{\P_HIM}{\BODY} also said: "Whoever believes in Allah and the Last Day should
 speak good or remain silent." \[Ṣaḥīḥ al-Bukhārī\]
 
-Ḥārith ibn Hishām asked the Prophet [ﷺ]{dir="rtl"} to give him one piece of
-advice to hold firmly to. The Prophet [ﷺ]{dir="rtl"} pointed to his tongue and
+Ḥārith ibn Hishām asked the Prophet \hon{\P_HIM}{\BODY} to give him one piece of
+advice to hold firmly to. The Prophet \hon{\P_HIM}{\BODY} pointed to his tongue and
 said: "Restrain this." \[Ṣaḥīḥ al-Bukhārī\]
 
-He [ﷺ]{dir="rtl"} said: "A good word is charity." \[Ṣaḥīḥ al-Bukhārī\]
+He \hon{\P_HIM}{\BODY} said: "A good word is charity." \[Ṣaḥīḥ al-Bukhārī\]
 
 Indecent speech should be avoided. Speech should be truthful, just, and calm.
 One should not rush when speaking.
 
-The Messenger of Allah [ﷺ]{dir="rtl"} would speak slowly and distinctly---so
+The Messenger of Allah \hon{\P_HIM}{\BODY} would speak slowly and distinctly---so
 clearly that if someone wished to count his words, he could do so. \[Ṣaḥīḥ
 al-Bukhārī\]
 
 When addressing a group, one should direct attention to everyone, turning toward
 them gradually so that no one feels neglected. \[Jāmiʿ al-Tirmidhī\]
 
-Speech should be concise. The Prophet [ﷺ]{dir="rtl"} said: "I have been
+Speech should be concise. The Prophet \hon{\P_HIM}{\BODY} said: "I have been
 commanded to be concise in speech, for brevity is better." \[Ṣaḥīḥ al-Bukhārī\]
 
 When women speak to non-maḥram men, their tone should not be soft or alluring.
@@ -210,28 +234,36 @@ When women speak to non-maḥram men, their tone should not be soft or alluring.
 
 Speech should be low and calm; shouting without need is foolishness. Allah says:
 
-[وَاغْضُضْ مِن صَوْتِكَ إِنَّ أَنكَرَ الْأَصْوَاتِ لَصَوْتُ
-الْحَمِيرِ]{dir="rtl"}
+\AYAH_AR_START
+وَٱغۡضُضۡ مِن صَوۡتِكَۚ إِنَّ أَنكَرَ ٱلۡأَصۡوَٰتِ لَصَوۡتُ ٱلۡحَمِيرِ ١٩
+\AYAH_AR_END
 
-*Lower your voice; indeed, the harshest of voices is the voice of donkeys.*
-\[Sūrat Luqmān, 19\]
+\AYAH_START
+Lower your voice; indeed, the harshest of voices is the voice of donkeys. (Sūrat
+Luqmān, Q31:19)
+\AYAH_END
 
-The speech of the Messenger of Allah [ﷺ]{dir="rtl"} was gentle and pleasant,
+
+The speech of the Messenger of Allah \hon{\P_HIM}{\BODY} was gentle and pleasant,
 delivered with clarity and calmness.
 
 ## Etiquette of Greeting (Salām)
 
 Allah Says,
 
-[وَإِذَا حُيِّيتُم بِتَحِيَّةٍ فَحَيُّوا بِأَحْسَنَ مِنْهَا أَوْ
-رُدُّوهَا]{dir="rtl"}
+\AYAH_AR_START
+وَإِذَا حُيِّيتُم بِتَحِيَّةٖ فَحَيُّواْ بِأَحۡسَنَ مِنۡهَآ أَوۡ رُدُّوهَآۗ
+\AYAH_AR_END
 
-*When you are greeted with a greeting, respond with one better than it or at
-least return it equally.* \[Sūrat al-Nisāʾ, 86\]
+\AYAH_START
+When you are greeted with a greeting, respond with one better than it or at
+least return it equally. (Sūrat al-Nisāʾ, Q4:86)
+\AYAH_END
+
 
 When Muslims meet, they should say, "As-salāmu ʿalaykum" (Peace be upon you).
 This spreads blessings and increases love between hearts. The Prophet
-[ﷺ]{dir="rtl"} said: "You will not enter Paradise until you believe, and you
+\hon{\P_HIM}{\BODY} said: "You will not enter Paradise until you believe, and you
 will not truly believe until you love one another. Shall I tell you something
 which, if you do it, you will love one another? Spread salām among yourselves."
 \[Ṣaḥīḥ Muslim\]
@@ -253,16 +285,19 @@ returned in a better manner, thereby increasing in goodness and reward.
 
 Allah Says,
 
-[يَا أَيُّهَا الَّذِينَ آمَنُوا إِذَا قِيلَ لَكُمْ تَفَسَّحُوا فِي الْمَجَالِسِ
-فَافْسَحُوا يَفْسَحِ اللَّهُ لَكُمْ وَإِذَا قِيلَ انشُزُوا
-فَانشُزُوا]{dir="rtl"}
+\AYAH_AR_START
+يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓاْ إِذَا قِيلَ لَكُمۡ تَفَسَّحُواْ فِي ٱلۡمَجَٰلِسِ فَٱفۡسَحُواْ يَفۡسَحِ ٱللَّهُ لَكُمۡۖ وَإِذَا قِيلَ ٱنشُزُواْ فَٱنشُزُواْ
+\AYAH_AR_END
 
-*O believers, when you are told to make space in gatherings, then make space;
-Allah will make space for you. And when you are told to rise, then rise.*
-\[Sūrat al-Mujādilah, 11\]
+\AYAH_START
+O believers, when you are told to make space in gatherings, then make space;
+Allah will make space for you. And when you are told to rise, then rise.
+(Sūrat al-Mujādilah, Q58:11)
+\AYAH_END
+
 
 This āyah refers to the proper etiquette of sitting in gatherings, as taught in
-the Qur'an. Often, people try to sit specifically in places that carry some form
+the Quran. Often, people try to sit specifically in places that carry some form
 of distinction or status. In such situations, space becomes constrained, and
 others are inconvenienced. If they are asked to make room for others, they may
 take offense. Therefore, Allah has taught proper manners---that one should sit
@@ -273,15 +308,15 @@ without formality. They would not push through people to sit in front or occupy
 prominent positions.
 
 One should not make another person stand up to take their place. The Prophet
-[ﷺ]{dir="rtl"} said, "A man should not make another man stand from his place and
+\hon{\P_HIM}{\BODY} said, "A man should not make another man stand from his place and
 then sit in it." \[Ṣaḥīḥ al-Bukhārī\]
 
 If someone temporarily leaves their seat and then returns, they are more
-entitled to it. The Prophet [ﷺ]{dir="rtl"} said, "If one of you gets up from his
+entitled to it. The Prophet \hon{\P_HIM}{\BODY} said, "If one of you gets up from his
 place and then returns to it, then he has more right to it." \[Ṣaḥīḥ Muslim\]
 
 One should not attempt to sit in places of distinction or honor within a
-gathering. The Prophet [ﷺ]{dir="rtl"} warned against seeking prominence,
+gathering. The Prophet \hon{\P_HIM}{\BODY} warned against seeking prominence,
 "Whoever loves that people stand for him, let him take his seat in the Fire."
 \[Sunan Abī Dāwūd\]
 
@@ -294,41 +329,42 @@ permission..." \[Sūrat al-Nūr, 27\]
 
 Allah Says,
 
-[وَيَا أَيُّهَا الَّذِينَ آمَنُوا لَا تَدْخُلُوا بُيُوتًا غَيْرَ بُيُوتِكُمْ
-حَتَّىٰ تَسْتَأْنِسُوا وَتُسَلِّمُوا عَلَىٰ أَهْلِهَا ۚ ذَٰلِكُمْ خَيْرٌ لَكُمْ
-لَعَلَّكُمْ تَذَكَّرُونَ - فَإِن لَّمْ تَجِدُوا فِيهَا أَحَدًا فَلَا
-تَدْخُلُوهَا حَتَّىٰ يُؤْذَنَ لَكُمْ ۖ وَإِن قِيلَ لَكُمُ ارْجِعُوا فَارْجِعُوا
-ۖ هُوَ أَزْكَىٰ لَكُمْ]{dir="rtl"}
+\AYAH_AR_START
+يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ لَا تَدۡخُلُواْ بُيُوتًا غَيۡرَ بُيُوتِكُمۡ حَتَّىٰ تَسۡتَأۡنِسُواْ وَتُسَلِّمُواْ عَلَىٰٓ أَهۡلِهَاۚ ذَٰلِكُمۡ خَيۡرٞ لَّكُمۡ لَعَلَّكُمۡ تَذَكَّرُونَ ٢٧فَإِن لَّمۡ تَجِدُواْ فِيهَآ أَحَدٗا فَلَا تَدۡخُلُوهَا حَتَّىٰ يُؤۡذَنَ لَكُمۡۖ وَإِن قِيلَ لَكُمُ ٱرۡجِعُواْ فَٱرۡجِعُواْۖ هُوَ أَزۡكَىٰ لَكُمۡۚ
+\AYAH_AR_END
 
-*O believers! Do not enter houses other than your own until you have sought
+\AYAH_START
+O believers! Do not enter houses other than your own until you have sought
 permission and greeted their occupants. That is better for you, so that you may
 take heed. And if you find no one therein, do not enter until permission is
 given to you. And if it is said to you, 'Go back,' then go back; that is purer
-for you.* \[Sūrat al-Nūr, 24:27--28\]
+for you. (Sūrat al-Nūr, Q24:27--28)
+\AYAH_END
+
 
 There is great wisdom in seeking permission before entering someone's home. The
 primary reason is that at times a person may be in a condition in which they do
 not wish to be seen by others.
 
-When the Messenger of Allah [ﷺ]{dir="rtl"} went to someone's house, he would
+When the Messenger of Allah \hon{\P_HIM}{\BODY} went to someone's house, he would
 stand to the right or left of the door before seeking permission, and would not
 stand directly in front, so that his gaze would not fall upon the interior of
-the house. It is reported, "Whenever the Prophet [ﷺ]{dir="rtl"} came to a door,
+the house. It is reported, "Whenever the Prophet \hon{\P_HIM}{\BODY} came to a door,
 he would not stand facing it, but would stand to its right or left..." \[Sunan
 Abī Dāwūd\]
 
-Once, a man came and stood directly in front of the Prophet's [ﷺ]{dir="rtl"}
-door. The Prophet [ﷺ]{dir="rtl"} said to him to stand to the right or left of
+Once, a man came and stood directly in front of the Prophet's \hon{\P_HIM}{\BODY}
+door. The Prophet \hon{\P_HIM}{\BODY} said to him to stand to the right or left of
 the door, because permission was prescribed so that the inside of the house is
 not looked into. \[Sunan Abī Dāwūd\]
 
 The correct method of seeking permission is to offer salām and then ask, "May I
 enter?" A man asked, "Should I seek permission from my mother?" He
-[ﷺ]{dir="rtl"} replied, "Yes." \[Al-Adab al-Mufrad\]
+\hon{\P_HIM}{\BODY} replied, "Yes." \[Al-Adab al-Mufrad\]
 
 If permission is not granted after offering salām three times, one should
 return. \[Ṣaḥīḥ al-Bukhārī\] However, if a person has already been invited, then
-permission is not required. The Prophet [ﷺ]{dir="rtl"} said, "The messenger sent
+permission is not required. The Prophet \hon{\P_HIM}{\BODY} said, "The messenger sent
 to invite a man is his permission." \[Sunan Abī Dāwūd\]
 
 There is no need to seek permission when entering shops or similar public
@@ -342,44 +378,46 @@ house. For them, this ruling does not apply generally. However, there are three
 times when even they must seek permission:
 
 1.  After the night prayer (ʿIshāʾ)
-
 2.  Before the dawn prayer (Fajr)
+3.  At midday (when people rest)
 
-3.  At midday (when people rest.
-
-## Etiquette of Mourning 
+## Etiquette of Mourning
 
 Allah Says,
 
-[وَإِذَا أَصَابَتْهُم مُّصِيبَةٌ قَالُوا إِنَّا لِلَّهِ وَإِنَّا إِلَيْهِ
-رَاجِعُونَ]{dir="rtl"}
+\AYAH_AR_START
+إِذَآ أَصَٰبَتۡهُم مُّصِيبَةٞ قَالُوٓاْ إِنَّا لِلَّهِ وَإِنَّآ إِلَيۡهِ رَٰجِعُونَ ١٥٦
+\AYAH_AR_END
 
-*And when a calamity befalls them, they say: 'Indeed we belong to Allah, and to
-Him we shall return.'* \[Sūrat al-Baqarah, 2:156\]
+\AYAH_START
+And when a calamity befalls them, they say: 'Indeed we belong to Allah, and to
+Him we shall return.' (Sūrat al-Baqarah, Q2:156)
+\AYAH_END
+
 
 When a calamity strikes a person, or when someone passes away, one should
 exercise patience and supplicate to Allah. If tears flow due to grief, there is
 no harm in it. However, wailing loudly, tearing clothes, and similar actions are
 against the teachings of Islam.
 
-The Messenger of Allah [ﷺ]{dir="rtl"} said: "Whoever slaps his cheeks, tears his
+The Messenger of Allah \hon{\P_HIM}{\BODY} said: "Whoever slaps his cheeks, tears his
 clothes, and cries in the manner of the Days of Ignorance is not from my Ummah."
 \[Ṣaḥīḥ al-Bukhārī\]
 
-The Prophet [ﷺ]{dir="rtl"} loved Jaʿfar [رضي الله عنه]{dir="rtl"} deeply. When
+The Prophet \hon{\P_HIM}{\BODY} loved Jaʿfar \hon{\P_HIM}{\BODY} deeply. When
 news of his martyrdom reached him, the women of his household began wailing. The
-Prophet [ﷺ]{dir="rtl"} sent word forbidding them, but they did not stop. He
+Prophet \hon{\P_HIM}{\BODY} sent word forbidding them, but they did not stop. He
 warned them again, and when they persisted, he said: "Throw dust into their
 mouths." \[Musnad Aḥmad\] This expression indicates a strong prohibition of
 wailing and lamentation.
 
-The Prophet [ﷺ]{dir="rtl"} himself wept at the death of his son Ibrāhīm and
+The Prophet \hon{\P_HIM}{\BODY} himself wept at the death of his son Ibrāhīm and
 said, "The eyes shed tears, and the heart grieves, but we do not say except what
 pleases our Lord..." \[Ṣaḥīḥ al-Bukhārī\] This establishes the balance where
 natural grief is permitted, and excessive lamentation is prohibited.
 
 When a death occurs in a Muslim household, it is recommended that relatives,
 friends, or neighbors send food to the bereaved family. At the time of Jaʿfar's
-martyrdom, the Messenger of Allah [ﷺ]{dir="rtl"} sent food to his household and
+martyrdom, the Messenger of Allah \hon{\P_HIM}{\BODY} sent food to his household and
 said, "Prepare food for the family of Jaʿfar, for there has come to them that
 which has preoccupied them." \[Sunan Abī Dāwūd\]
