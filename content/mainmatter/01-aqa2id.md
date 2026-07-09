@@ -5,21 +5,26 @@
 
 Allah Says,
 
-[يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ ءَامِنُوا۟ بِٱللَّهِ وَرَسُولِهِۦ
-وَٱلْكِتَـٰبِ ٱلَّذِى نَزَّلَ عَلَىٰ رَسُولِهِۦ وَٱلْكِتَـٰبِ ٱلَّذِىٓ أَنزَلَ
-مِن قَبْلُ ۚ وَمَن يَكْفُرْ بِٱللَّهِ وَمَلَـٰٓئِكَتِهِۦ وَكُتُبِهِۦ وَرُسُلِهِۦ
-وَٱلْيَوْمِ ٱلْـَٔاخِرِ فَقَدْ ضَلَّ ضَلَـٰلًۢا بَعِيدًا]{dir="rtl"}
+\AYAH_AR_START
+يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓاْ ءَامِنُواْ بِٱللَّهِ وَرَسُولِهِۦ وَٱلۡكِتَٰبِ ٱلَّذِي نَزَّلَ عَلَىٰ رَسُولِهِۦ وَٱلۡكِتَٰبِ ٱلَّذِيٓ أَنزَلَ مِن قَبۡلُۚ وَمَن يَكۡفُرۡ بِٱللَّهِ وَمَلَٰٓئِكَتِهِۦ وَكُتُبِهِۦ وَرُسُلِهِۦ وَٱلۡيَوۡمِ ٱلۡأٓخِرِ فَقَدۡ ضَلَّ ضَلَٰلَۢا بَعِيدًا ١٣٦
+\AYAH_AR_END
 
-*O believers! Have faith in Allah, His Messenger, the Book He has revealed to
+\AYAH_START
+O believers! Have faith in Allah, His Messenger, the Book He has revealed to
 His Messenger, and the Scriptures He revealed before. Indeed, whoever denies
 Allah, His angels, His Books, His messengers, and the Last Day has clearly gone
-far astray.* \[Sūrat al-Nisā, 136\]
+far astray. (Sūrat al-Nisā, Q4:136)
+\AYAH_END
 
 Let's start by focusing on:
 
-[يَا أَيُّهَا ٱلَّذِينَ آمَنُوا آمِنُوا بِٱللَّه]{dir="rtl"}ِ
+\AYAH_AR_START
+يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓاْ ءَامِنُواْ بِٱللَّهِ
+\AYAH_AR_END
 
-*O believers! Have faith in Allah*
+\AYAH_START
+O believers! Have faith in Allah...
+\AYAH_END
 
 When we raise our eyes and look at the world around us, we see large houses,
 fast cars, trains, different kinds of clothing, large and small machines, and
@@ -45,92 +50,126 @@ value.
 
 Allah Says,
 
-[]{dir="ltr"}[\
-ذَٰلِكُمُ ٱللَّهُ رَبُّكُمْ لَآ إِلَٰهَ إِلَّا هُوَ خَالِقُ كُلِّ شَىْءٍ
-فَٱعْبُدُوهُ ۖ وَهُوَ عَلَىٰ كُلِّ شَىْءٍ وَكِيلٌ]{dir="rtl"}
+\AYAH_AR_START
+ذَٰلِكُمُ ٱللَّهُ رَبُّكُمۡۖ لَآ إِلَٰهَ إِلَّا هُوَۖ خَٰلِقُ كُلِّ شَيۡءٖ فَٱعۡبُدُوهُۚ وَهُوَ عَلَىٰ كُلِّ شَيۡءٖ وَكِيلٞ ١٠٢
+\AYAH_AR_END
 
-*That is Allah, your Lord; there is no deity (worthy of worship) except Him, the
-Creator of all things, so worship Him. And He is Disposer of all things.*
-\[Sūrat al-Anʿām, 102\]
+\AYAH_START
+That is Allah, your Lord; there is no deity (worthy of worship) except Him, the
+Creator of all things, so worship Him. And He is Disposer of all things.
+(Sūrat al-Anʿām, Q6:102)
+\AYAH_END
 
-[صُنْعَ ٱللَّهِ ٱلَّذِىٓ أَتْقَنَ كُلَّ شَىْءٍ]{dir="rtl"}
+\AYAH_AR_START
+صُنۡعَ ٱللَّهِ ٱلَّذِيٓ أَتۡقَنَ كُلَّ شَيۡءٍۚ
+\AYAH_AR_END
 
-*This is the craftsmanship of Allah, who has perfected all things*. \[Sūrat
-al-Naml, 88\]
+\AYAH_START
+This is the craftsmanship of Allah, who has perfected all things. (Sūrat
+al-Naml, Q27:88)
+\AYAH_END
+
 
 ### Recognizing Our Lord
 
 Allah Says,
 
-[ٱللَّهُ لَآ إِلَـٰهَ إِلَّا هُوَ ٱلْحَىُّ ٱلْقَيُّومُ ۚ لَا تَأْخُذُهُۥ
-سِنَةٌۭ وَلَا نَوْمٌۭ ۚ لَّهُۥ مَا فِى ٱلسَّمَـٰوَٰتِ وَمَا فِى ٱلْأَرْضِ ۗ مَن
-ذَا ٱلَّذِى يَشْفَعُ عِندَهُۥٓ إِلَّا بِإِذْنِهِۦ ۚ يَعْلَمُ مَا بَيْنَ
-أَيْدِيهِمْ وَمَا خَلْفَهُمْ ۖ وَلَا يُحِيطُونَ بِشَىْءٍۢ مِّنْ عِلْمِهِۦٓ
-إِلَّا بِمَا شَآءَ ۚ وَسِعَ كُرْسِيُّهُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضَ ۖ وَلَا
-يَـُٔودُهُۥ حِفْظُهُمَا ۚ وَهُوَ ٱلْعَلِىُّ ٱلْعَظِيمُ]{dir="rtl"}[]{dir="ltr"}
+\AYAH_AR_START
+ٱللَّهُ لَآ إِلَٰهَ إِلَّا هُوَ ٱلۡحَيُّ ٱلۡقَيُّومُۚ لَا تَأۡخُذُهُۥ سِنَةٞ وَلَا نَوۡمٞۚ لَّهُۥ مَا فِي ٱلسَّمَٰوَٰتِ وَمَا فِي ٱلۡأَرۡضِۗ مَن ذَا ٱلَّذِي يَشۡفَعُ عِندَهُۥٓ إِلَّا بِإِذۡنِهِۦۚ يَعۡلَمُ مَا بَيۡنَ أَيۡدِيهِمۡ وَمَا خَلۡفَهُمۡۖ وَلَا يُحِيطُونَ بِشَيۡءٖ مِّنۡ عِلۡمِهِۦٓ إِلَّا بِمَا شَآءَۚ وَسِعَ كُرۡسِيُّهُ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضَۖ وَلَا يَـُٔودُهُۥ حِفۡظُهُمَاۚ وَهُوَ ٱلۡعَلِيُّ ٱلۡعَظِيمُ ٢٥٥
+\AYAH_AR_END
 
-*Allah! There is no deity (worthy of worship) except Him, the Ever-Living,
+\AYAH_START
+Allah! There is no deity (worthy of worship) except Him, the Ever-Living,
 All-Sustaining. Neither drowsiness nor sleep overtakes Him. To Him belongs
 whatever is in the heavens and whatever is on the earth. Who could possibly
 intercede with Him without His permission? He (fully) knows what is ahead of
 them and what is behind them, but no one can grasp any of His knowledge---except
 what He wills (to reveal). His Seat encompasses the heavens and the earth, and
 the preservation of both does not tire Him. For He is the Most High, the
-Greatest.* \[Sūrat al-Baqarah, 255\]
+Greatest. (Sūrat al-Baqarah, Q2:255)
+\AYAH_END
 
 Allah alone gives sustenance to His servants and fulfills their needs. He is the
 One who gives life and causes death. He alone governs every affair. Everything
 in the heavens and the earth is under His control, and nothing exists
 independently of Him.
 
-[هُوَ ٱلَّذِى يُحْىِۦ وَيُمِيتُ ۖ فَإِذَا قَضَىٰٓ أَمْرًۭا فَإِنَّمَا يَقُولُ
-لَهُۥ كُن فَيَكُونُ]{dir="rtl"}[]{dir="ltr"}
+\AYAH_AR_START
+هُوَ ٱلَّذِي يُحۡيِۦ وَيُمِيتُۖ فَإِذَا قَضَىٰٓ أَمۡرٗا فَإِنَّمَا يَقُولُ لَهُۥ كُن فَيَكُونُ ٦٨
+\AYAH_AR_END
 
-*He is the One Who gives life and causes death. When He decrees a matter, He
-simply tells it, "Be!" And it is!* \[Sūrat Ghāfir, 68\]
+\AYAH_START
+He is the One Who gives life and causes death. When He decrees a matter, He
+simply tells it, "Be!" and it is! (Sūrat Ghāfir, Q40:68)
+\AYAH_END
 
-[وَهُوَ ٱلَّذِى يُحْىِۦ وَيُمِيتُ وَلَهُ ٱخْتِلَـٰفُ ٱلَّيْلِ وَٱلنَّهَارِ ۚ
-أَفَلَا تَعْقِلُونَ]{dir="rtl"}[]{dir="ltr"}
 
-*And He is the One Who gives life and causes death, and to Him belongs the
-alternation of the day and night. Will you not then understand?* \[Sūrat
-al-Muʾminūn, 80\]
+\AYAH_AR_START
+وَهُوَ ٱلَّذِي يُحۡيِۦ وَيُمِيتُ وَلَهُ ٱخۡتِلَٰفُ ٱلَّيۡلِ وَٱلنَّهَارِۚ أَفَلَا تَعۡقِلُونَ ٨٠
+\AYAH_AR_END
 
-[لَهُۥ مُلْكُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۖ يُحْىِۦ وَيُمِيتُ ۖ وَهُوَ عَلَىٰ
-كُلِّ شَىْءٍۢ قَدِيرٌ]{dir="rtl"}[]{dir="ltr"}
+\AYAH_START
+And He is the One Who gives life and causes death, and to Him belongs the
+alternation of the day and night. Will you not then understand? (Sūrat
+al-Muʾminūn, Q23:80)
+\AYAH_END
 
-*To Him belongs the kingdom of the heavens and the earth. He gives life and
-causes death. And He is Most Capable of everything.* \[Sūrat al-Ḥadīd, 2\]
+
+\AYAH_AR_START
+لَهُۥ مُلۡكُ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِۖ يُحۡيِۦ وَيُمِيتُۖ وَهُوَ عَلَىٰ كُلِّ شَيۡءٖ قَدِيرٌ ٢
+\AYAH_AR_END
+
+\AYAH_START
+To Him belongs the kingdom of the heavens and the earth. He gives life and
+causes death. And He is Most Capable of everything. (Sūrat al-Ḥadīd, Q57:2)
+\AYAH_END
+
 
 Allah is the Ultimate Provider. He Says,
 
-[وَمَا مِن دَآبَّةٍۢ فِى ٱلْأَرْضِ إِلَّا عَلَى ٱللَّهِ رِزْقُهَا وَيَعْلَمُ
-مُسْتَقَرَّهَا وَمُسْتَوْدَعَهَا ۚ كُلٌّۭ فِى كِتَـٰبٍۢ
-مُّبِينٍۢ]{dir="rtl"}[]{dir="ltr"}
+\AYAH_AR_START
+وَمَا مِن دَآبَّةٖ فِي ٱلۡأَرۡضِ إِلَّا عَلَى ٱللَّهِ رِزۡقُهَا وَيَعۡلَمُ مُسۡتَقَرَّهَا وَمُسۡتَوۡدَعَهَاۚ كُلّٞ فِي كِتَٰبٖ مُّبِينٖ ٦
+\AYAH_AR_END
 
-*There is no moving creature on earth whose provision is not guaranteed by
-Allah. And He knows where it lives and where it is laid to rest. All is
-(written) in a perfect Record.* \[Sūrat Hūd, 6\]
+\AYAH_START
+There is no moving creature on earth whose provision is not guaranteed by Allah.
+And He knows where it lives and where it is laid to rest. All is (written) in a
+perfect Record. (Sūrat Hūd, Q11:6)
+\AYAH_END
+
 
 Allah is Most Just. He Says,
 
-[إِنَّ ٱللَّهَ لَا يَظْلِمُ مِثْقَالَ ذَرَّةٍۢ ۖ وَإِن تَكُ حَسَنَةًۭ
-يُضَـٰعِفْهَا وَيُؤْتِ مِن لَّدُنْهُ أَجْرًا عَظِيمًۭا]{dir="rtl"}
+\AYAH_AR_START
+إِنَّ ٱللَّهَ لَا يَظۡلِمُ مِثۡقَالَ ذَرَّةٖۖ وَإِن تَكُ حَسَنَةٗ يُضَٰعِفۡهَا وَيُؤۡتِ مِن لَّدُنۡهُ أَجۡرًا عَظِيمٗا ٤٠
+\AYAH_AR_END
 
-*Indeed, Allah never wrongs (anyone)---even by an atom's weight. And if it is a
+\AYAH_START
+Indeed, Allah never wrongs (anyone)---even by an atom's weight. And if it is a
 good deed, He will multiply it many times over and will give a great reward out
-of His grace.* \[Sūrat al-Nisā, 40\]
+of His grace. (Sūrat al-Nisā, Q4:40)
+\AYAH_END
 
-[ٱللَّهُ لَطِيفٌۢ بِعِبَادِهِۦ يَرْزُقُ مَن يَشَآءُ ۖ وَهُوَ ٱلْقَوِىُّ
-ٱلْعَزِيزُ]{dir="rtl"}
 
-*Allah is Ever Kind to His servants. He provides (abundantly) to whoever He
-wills. And He is the All-Powerful, Almighty.* \[Sūrat al-Shūrā, 19\]
+\AYAH_AR_START
+ٱللَّهُ لَطِيفُۢ بِعِبَادِهِۦ يَرۡزُقُ مَن يَشَآءُۖ وَهُوَ ٱلۡقَوِيُّ ٱلۡعَزِيزُ ١٩
+\AYAH_AR_END
 
-[وَٱصْبِرْ فَإِنَّ ٱللَّهَ لَا يُضِيعُ أَجْرَ ٱلْمُحْسِنِينَ]{dir="rtl"}
+\AYAH_START
+Allah is Ever Kind to His servants. He provides (abundantly) to whoever He
+wills. And He is the All-Powerful, Almighty. (Sūrat al-Shūrā, Q42:19)
+\AYAH_END
 
-*And be patient! Certainly, Allah does not discount the reward of the
-good-doers.* \[Sūrat Hūd, 115\]
+
+\AYAH_AR_START
+وَٱصۡبِرۡ فَإِنَّ ٱللَّهَ لَا يُضِيعُ أَجۡرَ ٱلۡمُحۡسِنِينَ ١١٥
+\AYAH_AR_END
+
+\AYAH_START
+And be patient! Certainly, Allah does not discount the reward of the good-doers.
+(Sūrat Hūd, Q11:115)
+\AYAH_END
+
 
 ### If There Were More Than One God
 
@@ -138,12 +177,16 @@ This is the One true God. He is alone, and there is none like Him. He has no
 partner. If there were any other god besides Him, this universe would be
 destroyed. Allah Says,
 
-[لَوْ كَانَ فِيهِمَآ ءَالِهَةٌ إِلَّا ٱللَّهُ لَفَسَدَتَا ۚ فَسُبْحَٰنَ ٱللَّهِ
-رَبِّ ٱلْعَرْشِ عَمَّا يَصِفُونَ]{dir="rtl"}
+\AYAH_AR_START
+لَوۡ كَانَ فِيهِمَآ ءَالِهَةٌ إِلَّا ٱللَّهُ لَفَسَدَتَاۚ فَسُبۡحَٰنَ ٱللَّهِ رَبِّ ٱلۡعَرۡشِ عَمَّا يَصِفُونَ ٢٢
+\AYAH_AR_END
 
-*Had there been within the heavens and the earth gods besides Allah, they both
+\AYAH_START
+Had there been within the heavens and the earth gods besides Allah, they both
 would have been ruined. So exalted is Allah, Lord of the Throne, above what they
-describe.* \[Sūrat al-Anbiyāʾ, 22\]
+describe. (Sūrat al-Anbiyāʾ, Q21:22)
+\AYAH_END
+
 
 Destruction would occur in this manner: one would say that rain should fall,
 another would want sunshine; one would keep someone alive, another would kill.
@@ -159,37 +202,45 @@ our own hands.
 
 Allah Says,
 
-[وَٱتَّخَذُوا۟ مِن دُونِهِۦٓ ءَالِهَةًۭ لَّا يَخْلُقُونَ شَيْـًۭٔا وَهُمْ
-يُخْلَقُونَ وَلَا يَمْلِكُونَ لِأَنفُسِهِمْ ضَرًّۭا وَلَا نَفْعًۭا وَلَا
-يَمْلِكُونَ مَوْتًۭا وَلَا حَيَوٰةًۭ وَلَا نُشُورًۭا]{dir="rtl"}
+\AYAH_AR_START
+وَٱتَّخَذُواْ مِن دُونِهِۦٓ ءَالِهَةٗ لَّا يَخۡلُقُونَ شَيۡـٔٗا وَهُمۡ يُخۡلَقُونَ وَلَا يَمۡلِكُونَ لِأَنفُسِهِمۡ ضَرّٗا وَلَا نَفۡعٗا وَلَا يَمۡلِكُونَ مَوۡتٗا وَلَا حَيَوٰةٗ وَلَا نُشُورٗا ٣
+\AYAH_AR_END
 
-*Yet they have taken besides Him gods who cannot create anything but are
+\AYAH_START
+Yet they have taken besides Him gods who cannot create anything but are
 themselves created. Nor can they protect or benefit themselves. Nor can they
-control life, death, or resurrection.* \[Sūrat al-Furqān, 3\]
+control life, death, or resurrection. (Sūrat al-Furqān, Q25:3)
+\AYAH_END
 
-[يَـٰٓأَيُّهَا ٱلنَّاسُ ضُرِبَ مَثَلٌۭ فَٱسْتَمِعُوا۟ لَهُۥٓ ۚ إِنَّ ٱلَّذِينَ
-تَدْعُونَ مِن دُونِ ٱللَّهِ لَن يَخْلُقُوا۟ ذُبَابًۭا وَلَوِ ٱجْتَمَعُوا۟ لَهُۥ
-ۖ وَإِن يَسْلُبْهُمُ ٱلذُّبَابُ شَيْـًۭٔا لَّا يَسْتَنقِذُوهُ مِنْهُ ۚ ضَعُفَ
-ٱلطَّالِبُ وَٱلْمَطْلُوبُ]{dir="rtl"}
 
-*O humanity! A lesson is set forth, so listen to it (carefully): those (idols)
+\AYAH_AR_START
+يَٰٓأَيُّهَا ٱلنَّاسُ ضُرِبَ مَثَلٞ فَٱسۡتَمِعُواْ لَهُۥٓۚ إِنَّ ٱلَّذِينَ تَدۡعُونَ مِن دُونِ ٱللَّهِ لَن يَخۡلُقُواْ ذُبَابٗا وَلَوِ ٱجۡتَمَعُواْ لَهُۥۖ وَإِن يَسۡلُبۡهُمُ ٱلذُّبَابُ شَيۡـٔٗا لَّا يَسۡتَنقِذُوهُ مِنۡهُۚ ضَعُفَ ٱلطَّالِبُ وَٱلۡمَطۡلُوبُ ٧٣
+\AYAH_AR_END
+
+\AYAH_START
+O humanity! A lesson is set forth, so listen to it (carefully): those (idols)
 you invoke besides Allah can never create (so much as) a fly, even if they (all)
 were to come together for that. And if a fly were to snatch anything away from
 them, they cannot (even) retrieve it from the fly. How powerless are those who
-invoke and those invoked!* \[Sūrat al-Ḥajj, 73\]
+invoke and those invoked! (Sūrat al-Ḥajj, Q22:73)
+\AYAH_END
+
 
 ## Faith in the Messengers
 
 Allah Says,
 
-[إِنَّآ أَرْسَلْنَـٰكَ شَـٰهِدًۭا وَمُبَشِّرًۭا وَنَذِيرًۭا- لِّتُؤْمِنُوا۟
-بِٱللَّهِ وَرَسُولِهِۦ وَتُعَزِّرُوهُ وَتُوَقِّرُوهُ وَتُسَبِّحُوهُ بُكْرَةًۭ
-وَأَصِيلًا]{dir="rtl"}
+\AYAH_AR_START
+إِنَّآ أَرۡسَلۡنَٰكَ شَٰهِدٗا وَمُبَشِّرٗا وَنَذِيرٗا ٨لِّتُؤۡمِنُواْ بِٱللَّهِ وَرَسُولِهِۦ وَتُعَزِّرُوهُ وَتُوَقِّرُوهُۚ وَتُسَبِّحُوهُ بُكۡرَةٗ وَأَصِيلًا ٩
+\AYAH_AR_END
 
-*Indeed, (O Prophet), We have sent you as a witness, a deliverer of good news,
+\AYAH_START
+Indeed, (O Prophet), We have sent you as a witness, a deliverer of good news,
 and a warner, so that you (believers) may have faith in Allah and His Messenger,
-support and honour him, and glorify Allah morning and evening.* \[Sūrat al-Fatḥ,
-8-9\]
+support and honour him, and glorify Allah morning and evening. (Sūrat al-Fatḥ,
+Q48: 8--9)
+\AYAH_END
+
 
 Allah loves His servants greatly. Because of this love, He continued to send
 human beings into the world so that they might convey to the servants the
@@ -202,71 +253,47 @@ does the message of Allah reach the world. Many Messengers of Allah came into
 the world. Believing in all of them and recognizing them as Messengers is
 necessary for a Muslim.
 
-Allah has mentioned 25 Prophets by name in the Qurʾān. They are:
+Allah has mentioned 25 Prophets by name in the Quran. They are:
 
 1.  Ādam [عليه السلام]{dir="rtl"}
-
 2.  Idrīs [عليه السلام]{dir="rtl"}
-
 3.  Nūḥ [عليه السلام]{dir="rtl"}
-
 4.  Hūd [عليه السلام]{dir="rtl"}
-
 5.  Ṣāliḥ [عليه السلام]{dir="rtl"}
-
 6.  Ibrāhīm [عليه السلام]{dir="rtl"}
-
 7.  Lūṭ [عليه السلام]{dir="rtl"}
-
 8.  Ismāʿīl [عليه السلام]{dir="rtl"}
-
 9.  Isḥāq [عليه السلام]{dir="rtl"}
-
 10. Yaʿqūb [عليه السلام]{dir="rtl"}
-
 11. Yūsuf [عليه السلام]{dir="rtl"}
-
 12. Ayyūb [عليه السلام]{dir="rtl"}
-
 13. Shuʿayb [عليه السلام]{dir="rtl"}
-
 14. Mūsā [عليه السلام]{dir="rtl"}
-
 15. Hārūn [عليه السلام]{dir="rtl"}
-
 16. Yūnus [عليه السلام]{dir="rtl"}
-
 17. Dāwūd [عليه السلام]{dir="rtl"}
-
 18. Sulaymān [عليه السلام]{dir="rtl"}
-
 19. Ilyās [عليه السلام]{dir="rtl"}
-
 20. al-Yasaʿ [عليه السلام]{dir="rtl"}
-
 21. Dhū al-Kifl [عليه السلام]{dir="rtl"}
-
 22. Zakariyyā [عليه السلام]{dir="rtl"}
-
 23. Yaḥyā [عليه السلام]{dir="rtl"}
-
 24. ʿĪsā [عليه السلام]{dir="rtl"}
-
 25. Muḥammad [صلى الله عليه وسلم]{dir="rtl"}
 
-Our Messenger, Muḥammad [ﷺ]{dir="rtl"} came after all the Messengers. He is the
-final Prophet. After him, no other Prophet will be sent. As Muslims, we respect
-all the Messengers, and we regard Prophet Muḥammad [ﷺ]{dir="rtl"} as the
-greatest elder and the final Prophet.
+Our Messenger, Muḥammad \hon{\P_HIM}{\BODY} came after all the Messengers. He is
+the final Prophet. After him, no other Prophet will be sent. As Muslims, we
+respect all the Messengers, and we regard Prophet Muḥammad \hon{\P_HIM}{\BODY}
+as the greatest elder and the final Prophet.
 
-The Messenger of Allah [ﷺ]{dir="rtl"} said, "My example and the example of the
-prophets before me is like that of a man who built a house, completed it, and
-beautified it, except for the place of one brick in a corner. People began to
-walk around it, admiring it, and saying, 'If only this brick were placed!' He
+The Messenger of Allah \hon{\P_HIM}{\BODY} said, "My example and the example of
+the prophets before me is like that of a man who built a house, completed it,
+and beautified it, except for the place of one brick in a corner. People began
+to walk around it, admiring it, and saying, 'If only this brick were placed!' He
 said: 'I am that brick, and I am the Seal of the Prophets.'" \[Ṣaḥīḥ
 al-Bukhārī\]
 
-The Messenger of Allah [ﷺ]{dir="rtl"} said, "I am the master of the children of
+The Messenger of Allah \hon{\P_HIM}{\BODY} said, "I am the master of the children of
 Ādam on the Day of Resurrection, and I am not boasting. In my hand will be the
 Banner of Praise, and I am not boasting. There will not be a prophet on that
 day, neither Ādam nor anyone other than him, except that he will be under my
@@ -277,11 +304,15 @@ not boasting." \[Jāmiʿ al-Tirmidhī\]
 
 Allah Says,
 
-[وَمَن يَكْفُرْ بِٱللَّهِ وَمَلَـٰٓئِكَتِهِۦ وَكُتُبِهِۦ وَرُسُلِهِۦ وَٱلْيَوْمِ
-ٱلْـَٔاخِرِ فَقَدْ ضَلَّ ضَلَـٰلًۢا بَعِيدًا]{dir="rtl"}
+\AYAH_AR_START
+وَمَن يَكۡفُرۡ بِٱللَّهِ وَمَلَٰٓئِكَتِهِۦ وَكُتُبِهِۦ وَرُسُلِهِۦ وَٱلۡيَوۡمِ ٱلۡأٓخِرِ فَقَدۡ ضَلَّ ضَلَٰلَۢا بَعِيدًا ١٣٦
+\AYAH_AR_END
 
-*Indeed, whoever denies Allah, His angels, His Books, His messengers, and the
-Last Day has clearly gone far astray.* \[Sūrat al-Nisāʾ, 136\]
+\AYAH_START
+Indeed, whoever denies Allah, His angels, His Books, His messengers, and the
+Last Day has clearly gone far astray. (Sūrat al-Nisāʾ, Q4:136)
+\AYAH_END
+
 
 Those who bring the message of Allah to the Messengers are called angels.
 Believing in these angels and believing in them as the conveyers of Allah's
@@ -300,12 +331,14 @@ Commands them to do, they do it.
 
 Allah Says,
 
-[يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ ءَامِنُوا۟ بِٱللَّهِ وَرَسُولِهِۦ
-وَٱلْكِتَـٰبِ ٱلَّذِى نَزَّلَ عَلَىٰ رَسُولِهِۦ وَٱلْكِتَـٰبِ ٱلَّذِىٓ أَنزَلَ
-مِن قَبْلُ]{dir="rtl"}
+\AYAH_AR_START
+يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓاْ ءَامِنُواْ بِٱللَّهِ وَرَسُولِهِۦ وَٱلۡكِتَٰبِ ٱلَّذِي نَزَّلَ عَلَىٰ رَسُولِهِۦ وَٱلۡكِتَٰبِ ٱلَّذِيٓ أَنزَلَ مِن قَبۡلُۚ
+\AYAH_AR_END
 
-*O believers! Have faith in Allah, His Messenger, the Book He has revealed to
-His Messenger, and the Scriptures He revealed before.* \[Sūrat al-Nisāʾ, 136\]
+\AYAH_START
+O believers! Have faith in Allah, His Messenger, the Book He has revealed to
+His Messenger, and the Scriptures He revealed before. (Sūrat al-Nisāʾ, Q4:136)
+\AYAH_END
 
 Allah gave books to His messengers for the instruction of His servants. In those
 books, Allah Wrote commands and matters of benefit. As Muslims, we firmly
@@ -313,63 +346,73 @@ believe in all the Books of Allah. The names of some of the heavenly books are
 as follows:
 
 - The Ṣuḥuf were given to Prophet Ibrāhīm [عليه السلام]{dir="rtl"}.
-
 - The Tawrāt was given to Prophet Mūsā [عليه السلام]{dir="rtl"}.
-
 - The Injīl was given to Prophet ʿĪsā [عليه السلام]{dir="rtl"}.
-
 - The Zabūr was given to Prophet Dāwūd [عليه السلام]{dir="rtl"}.
+- The Quran was given to Prophet Muḥammad [صلى الله عليه وسلم]{dir="rtl"}.
 
-- The Qurʾān was given to Prophet Muḥammad [صلى الله عليه وسلم]{dir="rtl"}.
-
-The Prophet [ﷺ]{dir="rtl"} said, "The Ṣuḥuf of Ibrāhīm were sent down during the
+The Prophet \hon{\P_HIM}{\BODY} said, "The Ṣuḥuf of Ibrāhīm were sent down during the
 first night of Ramaḍān; the Tawrāt was sent down the sixth night of Ramaḍān; the
-Injīl was sent down the thirteenth night of Ramaḍān; and the Furqān (the Qurʾān)
+Injīl was sent down the thirteenth night of Ramaḍān; and the Furqān (the Quran)
 was sent down the twenty-fourth night of Ramaḍān." \[Musnad Aḥmad\] The Ṣuḥuf of
 Prophet Mūsā [عليه السلام]{dir="rtl"} were revealed before the Tawrāt.
 
-The Qurʾān is the final Book of Allah. After it, no book like the Qurʾān can be
+The Quran is the final Book of Allah. After it, no book like the Quran can be
 produced. Regarding the excellence of this blessed Book, Allah has stated:
 
-[إِنَّ هَـٰذَا ٱلْقُرْءَانَ يَهْدِى لِلَّتِى هِىَ أَقْوَمُ وَيُبَشِّرُ
-ٱلْمُؤْمِنِينَ ٱلَّذِينَ يَعْمَلُونَ ٱلصَّـٰلِحَـٰتِ أَنَّ لَهُمْ أَجْرًۭا
-كَبِيرًۭا]{dir="rtl"}
+\AYAH_AR_START
+إِنَّ هَٰذَا ٱلۡقُرۡءَانَ يَهۡدِي لِلَّتِي هِيَ أَقۡوَمُ وَيُبَشِّرُ ٱلۡمُؤۡمِنِينَ ٱلَّذِينَ يَعۡمَلُونَ ٱلصَّٰلِحَٰتِ أَنَّ لَهُمۡ أَجۡرٗا كَبِيرٗا ٩
+\AYAH_AR_END
 
-*Surely this Qurʾān guides to what is most upright, and gives good news to the
-believers---who do good---that they will have a mighty reward.* \[Sūrat al-Isrā,
-9\]
+\AYAH_START
+Surely this Quran guides to what is most upright, and gives good news to the
+believers---who do good---that they will have a mighty reward. (Sūrat al-Isrā,
+Q17:9)
+\AYAH_END
 
-[يَهْدِىٓ إِلَى ٱلرُّشْدِ]{dir="rtl"}
 
-*It leads to the Right Path.* \[Sūrat al-Jinn, 2\]
+\AYAH_AR_START
+يَهۡدِيٓ إِلَى ٱلرُّشۡدِ
+\AYAH_AR_END
 
-[وَلَوْ جَعَلْنَـٰهُ قُرْءَانًا أَعْجَمِيًّۭا لَّقَالُوا۟ لَوْلَا فُصِّلَتْ
-ءَايَـٰتُهُۥٓ ۖ ءَا۬عْجَمِىٌّۭ وَعَرَبِىٌّۭ ۗ قُلْ هُوَ لِلَّذِينَ ءَامَنُوا۟
-هُدًۭى وَشِفَآءٌۭ ۖ وَٱلَّذِينَ لَا يُؤْمِنُونَ فِىٓ ءَاذَانِهِمْ وَقْرٌۭ
-وَهُوَ عَلَيْهِمْ عَمًى ۚ أُو۟لَـٰٓئِكَ يُنَادَوْنَ مِن مَّكَانٍۭ
-بَعِيدٍۢ]{dir="rtl"}
+\AYAH_START
+It leads to the Right Path. (Sūrat al-Jinn, Q72:2)
+\AYAH_END
 
-*Had We revealed it as a non-Arabic Qurʾān, they would have surely said, "Why
-are its āyahs not explained clearly? A non-Arabic revelation for an Arab
-audience?" Say, "It is guidance and healing for those who believe. As for those
-who disbelieve, there is deafness in their ears and blindness upon them. They
-are as if they are being called from a distant place."* \[Sūrat Fuṣṣilat, 44\]
 
-Prophet Muḥammad [ﷺ]{dir="rtl"} said, "In this world and the Hereafter, I am the
-closest of all people to ʿĪsā ibn Maryam. The prophets are paternal brothers:
-their mothers are different, but their religion is one." \[Ṣaḥīḥ al-Bukhārī\]
-Another way of understanding this ḥadīth is that the core message of faith of
-all the prophets was the same, while the Sharīʿah they brought differed
-according to the needs of their times.
+\AYAH_AR_START
+وَلَوۡ جَعَلۡنَٰهُ قُرۡءَانًا أَعۡجَمِيّٗا لَّقَالُواْ لَوۡلَا فُصِّلَتۡ ءَايَٰتُهُۥٓۖ ءَا۬عۡجَمِيّٞ وَعَرَبِيّٞۗ قُلۡ هُوَ لِلَّذِينَ ءَامَنُواْ هُدٗى وَشِفَآءٞۚ وَٱلَّذِينَ لَا يُؤۡمِنُونَ فِيٓ ءَاذَانِهِمۡ وَقۡرٞ وَهُوَ عَلَيۡهِمۡ عَمًىۚ أُوْلَٰٓئِكَ يُنَادَوۡنَ مِن مَّكَانِۭ بَعِيدٖ ٤٤
+\AYAH_AR_END
 
-[لِكُلٍّۢ جَعَلْنَا مِنكُمْ شِرْعَةًۭ وَمِنْهَاجًۭا]{dir="rtl"} ۚ
+\AYAH_START
+Had We revealed it as a non-Arabic Quran, they would have surely said, "Why are
+its _āyāt_ not explained clearly? A non-Arabic revelation for an Arab audience?"
+Say, "It is guidance and healing for those who believe. As for those who
+disbelieve, there is deafness in their ears and blindness upon them. They are as
+if they are being called from a distant place." (Sūrat Fuṣṣilat, Q41:44)
+\AYAH_END
 
-*To each of you, We have appointed a law and a way of life.* \[Sūrat al-Māʾidah,
-48\]
 
-Imam Qatādah [رحمه الله]{dir="rtl"} explained this āyah and said, "A path and a
+Prophet Muḥammad \hon{\P_HIM}{\BODY} said, "In this world and the Hereafter, I
+am the closest of all people to ʿĪsā ibn Maryam. The prophets are paternal
+brothers: their mothers are different, but their religion is one." \[Ṣaḥīḥ
+al-Bukhārī\] Another way of understanding this ḥadīth is that the core message
+of faith of all the prophets was the same, while the Sharīʿah they brought
+differed according to the needs of their times.
+
+\AYAH_AR_START
+لِكُلّٖ جَعَلۡنَا مِنكُمۡ شِرۡعَةٗ وَمِنۡهَاجٗاۚ
+\AYAH_AR_END
+
+\AYAH_START
+To each of you, We have appointed a law and a way of life. (Sūrat al-Māʾidah,
+Q5:48)
+\AYAH_END
+
+
+Imam Qatādah \hon{\M_HIM}{\BODY} explained this āyah and said, "A path and a
 way. The paths differed: for the Tawrāt there was one legislation, for the Injīl
-another, and for the Qurʾān another. In them Allah Permitted whatever He Willed
+another, and for the Quran another. In them Allah Permitted whatever He Willed
 and Forbade whatever He Willed as a test, so that He might Know who obeys Him
 and who disobeys Him. But the religion which none other is accepted besides is
 al-Tawḥīd and al-Ikhlāṣ for Allah, the religion brought by all the messengers."
@@ -379,16 +422,18 @@ al-Tawḥīd and al-Ikhlāṣ for Allah, the religion brought by all the messeng
 
 Allah Says,
 
-[ذَٰلِكَ ٱلْكِتَـٰبُ لَا رَيْبَ ۛ فِيهِ ۛ هُدًۭى لِّلْمُتَّقِينَ - ٱلَّذِينَ
-يُؤْمِنُونَ بِٱلْغَيْبِ وَيُقِيمُونَ ٱلصَّلَوٰةَ وَمِمَّا رَزَقْنَـٰهُمْ
-يُنفِقُونَ - وَٱلَّذِينَ يُؤْمِنُونَ بِمَآ أُنزِلَ إِلَيْكَ وَمَآ أُنزِلَ مِن
-قَبْلِكَ وَبِٱلْـَٔاخِرَةِ هُمْ يُوقِنُونَ]{dir="rtl"}
+\AYAH_AR_START
+ذَٰلِكَ ٱلۡكِتَٰبُ لَا رَيۡبَۛ فِيهِۛ هُدٗى لِّلۡمُتَّقِينَ ٢ٱلَّذِينَ يُؤۡمِنُونَ بِٱلۡغَيۡبِ وَيُقِيمُونَ ٱلصَّلَوٰةَ وَمِمَّا رَزَقۡنَٰهُمۡ يُنفِقُونَ ٣وَٱلَّذِينَ يُؤۡمِنُونَ بِمَآ أُنزِلَ إِلَيۡكَ وَمَآ أُنزِلَ مِن قَبۡلِكَ وَبِٱلۡأٓخِرَةِ هُمۡ يُوقِنُونَ ٤
+\AYAH_AR_END
 
-*This is the Book! There is no doubt about it, a guide for those mindful (of
+\AYAH_START
+This is the Book! There is no doubt about it, a guide for those mindful (of
 Allah), who believe in the unseen, establish prayer, and donate from what We
 have provided for them, and who believe in what has been revealed to you (O
-Prophet) and what was revealed before you, and have sure faith in the
-Hereafter.* \[Sūrat al-Nisāʾ, 2-4\]
+Prophet) and what was revealed before you, and have sure faith in the Hereafter.
+(Sūrat al-Baqarah, Q2:2--4)
+\AYAH_END
+
 
 As Muslims, we firmly believe this matter, that one day this entire world will
 be destroyed, and we will stand before Allah. Those who did good deeds in this
@@ -400,8 +445,8 @@ believes in all the messengers of Allah, believes in all the books of Allah,
 believes in His angels, and believes that one day this world will come to an end
 and every person will receive recompense from Allah for their good or bad deeds.
 
-A man came to the Prophet [ﷺ]{dir="rtl"} and said, "O Messenger of Allah, inform
-me about īmān (faith)." He [ﷺ]{dir="rtl"} said, "That you believe in Allah, His
+A man came to the Prophet \hon{\P_HIM}{\BODY} and said, "O Messenger of Allah, inform
+me about īmān (faith)." He \hon{\P_HIM}{\BODY} said, "That you believe in Allah, His
 angels, His Books, His Messengers, the Last Day, and that you believe in divine
 decree (al-qadar), its good and its evil." \[Ṣaḥīḥ Muslim\]
 
@@ -409,14 +454,18 @@ decree (al-qadar), its good and its evil." \[Ṣaḥīḥ Muslim\]
 
 Allah Says,
 
-[وَلَا تَدْعُ مَعَ ٱللَّهِ إِلَـٰهًا ءَاخَرَ ۘ لَآ إِلَـٰهَ إِلَّا هُوَ ۚ كُلُّ
-شَىْءٍ هَالِكٌ إِلَّا وَجْهَهُۥ ۚ لَهُ ٱلْحُكْمُ وَإِلَيْهِ
-تُرْجَعُونَ]{dir="rtl"}
 
-*And do not invoke any other god with Allah. There is no deity (worthy of
+\AYAH_AR_START
+وَلَا تَدۡعُ مَعَ ٱللَّهِ إِلَٰهًا ءَاخَرَۘ لَآ إِلَٰهَ إِلَّا هُوَۚ كُلُّ شَيۡءٍ هَالِكٌ إِلَّا وَجۡهَهُۥۚ لَهُ ٱلۡحُكۡمُ وَإِلَيۡهِ تُرۡجَعُونَ ٨٨
+\AYAH_AR_END
+
+\AYAH_START
+And do not invoke any other god with Allah. There is no deity (worthy of
 worship) except Him. Everything is bound to perish except He Himself. All
-authority belongs to Him. And to Him you will (all) be returned.* \[Sūrat
-al-Qaṣaṣ, 51\]
+authority belongs to Him. And to Him you will (all) be returned. (Sūrat
+al-Qaṣaṣ, Q28:88)
+\AYAH_END
+
 
 Allah is One; He is alone; there is none like Him. To kill, to give life, to
 provide sustenance, to remove illness, to grant health, to give children, and to
@@ -424,23 +473,26 @@ fulfill hopes---all of this is in His Hand alone. If someone begins to associate
 anyone else with Allah in these matters, then this is open shirk (associating
 partners with Allah). Allah Says,
 
-[إِنَّ ٱللَّهَ لَا يَغْفِرُ أَن يُشْرَكَ بِهِۦ وَيَغْفِرُ مَا دُونَ ذَٰلِكَ
-لِمَن يَشَآءُ ۚ وَمَن يُشْرِكْ بِٱللَّهِ فَقَدِ ٱفْتَرَىٰٓ إِثْمًا
-عَظِيمًا]{dir="rtl"}
+\AYAH_AR_START
+إِنَّ ٱللَّهَ لَا يَغۡفِرُ أَن يُشۡرَكَ بِهِۦ وَيَغۡفِرُ مَا دُونَ ذَٰلِكَ لِمَن يَشَآءُۚ وَمَن يُشۡرِكۡ بِٱللَّهِ فَقَدِ ٱفۡتَرَىٰٓ إِثۡمًا عَظِيمًا ٤٨
+\AYAH_AR_END
 
-*Indeed, Allah does not Forgive associating others with Him (in worship), but
+\AYAH_START
+Indeed, Allah does not Forgive associating others with Him (in worship), but
 forgives anything else of whoever He wills. And whoever associates others with
-Allah has indeed committed a grave sin.* \[Sūrat al-Nisāʾ, 48\]
+Allah has indeed committed a grave sin. (Sūrat al-Nisāʾ, Q4:48)
+\AYAH_END
 
-Abū al-Dardāʾ [رضي الله عنه]{dir="rtl"} reported: My close friend [ﷺ]{dir="rtl"}
-advised me and said, "Do not associate anything with Allah, even if you are cut
-to pieces or burned. Do not deliberately abandon any obligatory prayer, for
-whoever abandons it deliberately has no protection from Allah. And do not drink
-wine, for it is the key to every evil." \[Sunan Ibn Mājah\]
+Abū al-Dardāʾ \hon{\P_HIM}{\BODY} reported: My close friend
+\hon{\P_HIM}{\BODY} advised me and said, "Do not associate anything with Allah,
+even if you are cut to pieces or burned. Do not deliberately abandon any
+obligatory prayer, for whoever abandons it deliberately has no protection from
+Allah. And do not drink wine, for it is the key to every evil." \[Sunan Ibn
+Mājah\]
 
-ʿAbdullāh ibn Masʿūd [رضي الله عنه]{dir="rtl"} reported: I said, "O Messenger of
-Allah, which sin is the greatest?" He [ﷺ]{dir="rtl"} said, "That you set up a
-rival with Allah, while He alone created you." \[Ṣaḥīḥ al-Bukhārī\]
+ʿAbdullāh ibn Masʿūd \hon{\P_HIM}{\BODY} reported: I said, "O Messenger of
+Allah, which sin is the greatest?" He \hon{\P_HIM}{\BODY} said, "That you set up
+a rival with Allah, while He alone created you." \[Ṣaḥīḥ al-Bukhārī\]
 
 Because of certain things, people fall into shirk, and Islam has prevented this.
 Some necessary points regarding this are highlighted here.
@@ -451,13 +503,13 @@ One major form of shirk is that excessive reverence is shown to a particular
 person. Gradually, this very thing becomes a means of shirk, and people begin to
 attribute to that person the status of God.
 
-The Messenger of Allah [ﷺ]{dir="rtl"} said, "Do not exaggerate in praising me as
+The Messenger of Allah \hon{\P_HIM}{\BODY} said, "Do not exaggerate in praising me as
 the Christians exaggerated in praising the son of Maryam. I am only a servant,
 so say: the servant of Allah and His Messenger." \[Ṣaḥīḥ al-Bukhārī\]
 
-Abū Masʿūd al-Anṣārī [رضي الله عنه]{dir="rtl"} reported: A man came and said, "O
+Abū Masʿūd al-Anṣārī \hon{\P_HIM}{\BODY} reported: A man came and said, "O
 our master, son of our master, the best among us, and son of the best among us."
-The Messenger of Allah [ﷺ]{dir="rtl"} said, "O people, speak according to your
+The Messenger of Allah \hon{\P_HIM}{\BODY} said, "O people, speak according to your
 words, and do not let Satan lead you astray. I am Muḥammad, the servant of Allah
 and His Messenger. I do not like that you raise me above the rank that Allah has
 given me." \[Musnad Aḥmad\]
@@ -468,8 +520,8 @@ present all kinds of needs before them. When they stand or sit, they take their
 names, they direct their gaze toward them, they offer vows and offerings (gifts)
 to them, although before Allah, no one's authority can prevail.
 
-Abū Hurayrah [رضي الله عنه]{dir="rtl"} reported: When Allah revealed the āyah,
-"And warn your nearest relatives," the Messenger of Allah [ﷺ]{dir="rtl"} stood
+Abū Hurayrah \hon{\P_HIM}{\BODY} reported: When Allah revealed the āyah,
+"And warn your nearest relatives," the Messenger of Allah \hon{\P_HIM}{\BODY} stood
 up and said, "O people of Quraysh, save yourselves. I cannot avail you of
 anything against Allah. O Banū ʿAbd Manāf, I cannot avail you of anything
 against Allah. O ʿAbbās ibn ʿAbd al-Muṭṭalib, I cannot avail you of anything
@@ -482,13 +534,13 @@ al-Bukhārī\]
 
 Some people congregate yearly at graves, travel from far away, make vows, gift
 offerings, and believe that their wishes will be fulfilled. Jundub [رضي الله
-عنه]{dir="rtl"} reported: I heard the Prophet [ﷺ]{dir="rtl"} say, "Indeed, those
+عنه]{dir="rtl"} reported: I heard the Prophet \hon{\P_HIM}{\BODY} say, "Indeed, those
 who came before you used to take the graves of their prophets and righteous
 people as places of worship. Be aware! Do not take graves as places of worship.
 Indeed, I forbid you from doing that." \[Ṣaḥīḥ Muslim\]
 
-ʿĀʾishah and Ibn ʿAbbās [رضي الله عنهم]{dir="rtl"} reported: When the Messenger
-of Allah [ﷺ]{dir="rtl"} was in his final illness, he began placing a patterned
+ʿĀʾishah and Ibn ʿAbbās \hon{\P_THM}{\BODY} reported: When the Messenger
+of Allah \hon{\P_HIM}{\BODY} was in his final illness, he began placing a patterned
 cloak over his face. When he felt distressed, he would uncover it from his face
 and say, while in that state, "May Allah curse the Jews and the Christians; they
 took the graves of their prophets as places of worship." He was warning against
@@ -499,15 +551,15 @@ others, then this too is shirk, such as performing sajdah (bowing the head),
 which is only for Allah. Performing sajdah for a tāziyah, or for graves, or for
 any god or goddess, is not correct.
 
-Qays ibn Saʿd [رضي الله عنه]{dir="rtl"} reported: I came to al-Ḥīrah and saw
+Qays ibn Saʿd \hon{\P_HIM}{\BODY} reported: I came to al-Ḥīrah and saw
 that they were prostrating to a marzubān (a governor) of theirs. I said, "The
-Messenger of Allah [ﷺ]{dir="rtl"} has more right that prostration be made to
-him." So I came to the Messenger of Allah [ﷺ]{dir="rtl"} and said, "I went to
+Messenger of Allah \hon{\P_HIM}{\BODY} has more right that prostration be made to
+him." So I came to the Messenger of Allah \hon{\P_HIM}{\BODY} and said, "I went to
 al-Ḥīrah and saw them prostrating to a marzubān of theirs, and you have more
 right to have prostration made to you."
 
-He [ﷺ]{dir="rtl"} said to me, "Tell me, if you were to pass by my grave, would
-you prostrate to it?" I said, "No." He [ﷺ]{dir="rtl"} said, "Then do not do so.
+He \hon{\P_HIM}{\BODY} said to me, "Tell me, if you were to pass by my grave, would
+you prostrate to it?" I said, "No." He \hon{\P_HIM}{\BODY} said, "Then do not do so.
 If I were to command anyone to prostrate to anyone, I would have commanded women
 to prostrate to their husbands, due to the right that Allah has given them over
 them." \[Sunan Abī Dāwūd\]
@@ -524,15 +576,17 @@ he possibly give to others?
 
 Allah Says,
 
-[قُل لَّآ أَقُولُ لَكُمْ عِندِى خَزَآئِنُ ٱللَّهِ وَلَآ أَعْلَمُ ٱلْغَيْبَ
-وَلَآ أَقُولُ لَكُمْ إِنِّى مَلَكٌ ۖ إِنْ أَتَّبِعُ إِلَّا مَا يُوحَىٰٓ إِلَىَّ
-ۚ قُلْ هَلْ يَسْتَوِى ٱلْأَعْمَىٰ وَٱلْبَصِيرُ ۚ أَفَلَا
-تَتَفَكَّرُونَ]{dir="rtl"}
+\AYAH_AR_START
+قُل لَّآ أَقُولُ لَكُمۡ عِندِي خَزَآئِنُ ٱللَّهِ وَلَآ أَعۡلَمُ ٱلۡغَيۡبَ وَلَآ أَقُولُ لَكُمۡ إِنِّي مَلَكٌۖ إِنۡ أَتَّبِعُ إِلَّا مَا يُوحَىٰٓ إِلَيَّۚ قُلۡ هَلۡ يَسۡتَوِي ٱلۡأَعۡمَىٰ وَٱلۡبَصِيرُۚ أَفَلَا تَتَفَكَّرُونَ ٥٠
+\AYAH_AR_END
 
-*Say, (O Prophet), "I do not say to you that I possess Allah's treasuries or
-know the unseen, nor do I claim to be an angel. I only follow what is revealed
-to me." Say, "Are those blind (to the truth) equal to those who can see? Will
-you not then reflect?"* \[Sūrat al-Anʿām, 50\]
+\AYAH_START
+Say, (O Prophet), "I do not say to you that I possess Allah's treasuries or know
+the unseen, nor do I claim to be an angel. I only follow what is revealed to
+me." Say, "Are those blind (to the truth) equal to those who can see? Will you
+not then reflect?" (Sūrat al-Anʿām, Q6:50)
+\AYAH_END
+
 
 ### The Origins of Idolatry
 
@@ -540,14 +594,13 @@ Those things which even raise the suspicion of shirk have also been prohibited,
 such as making images. In the beginning, such things are done for love or as
 keepsakes, but later, ignorant people begin to worship them.
 
-Between Prophet Ādam [عليه السلام]{dir="rtl"} and Prophet Nūḥ [عليه
-السلام]{dir="rtl"}, there were ten generations, and all of them remained upon
+Between Prophet Ādam [عليه السلام]{dir="rtl"} and Prophet Nūḥ [عليه السلام]{dir="rtl"}, there were ten generations, and all of them remained upon
 the teachings of Islām. Shirk first emerged among the people of Prophet Nūḥ
 [عليه السلام]{dir="rtl"} when they exaggerated the status of five righteous men
 from among them. To understand how this began, let us look at the case of the
 first idol that came to be worshipped, named Wadd.
 
-Imam Ibn Kathīr [حفظه الله]{dir="rtl"} narrates that Wadd was a righteous man in
+Imam Ibn Kathīr \hon{\H_HIM}{\BODY} narrates that Wadd was a righteous man in
 Babylon who was deeply loved by his people. When he died, the people gathered
 around his grave in grief. Shayṭān came to them and said, "I see the sorrow you
 feel because of this man's death. Shall I make an image of him that can be
@@ -561,17 +614,16 @@ and you may remember him?" They agreed. Their children grew up seeing this
 practice and learning about their remembrance of him, until eventually they
 began to regard him as a deity and worship him instead of Allah. Thus, the first
 figure to be worshipped besides Allah was Wadd, the idol they named after him.
-\[Tafsīr Ibn Kathīr\]
+(Tafsīr Ibn Kathīr)
 
 Over time, the people came to possess many idols, with these five being the most
-prominent due to the deep love they held for them. Prophet Nūḥ [عليه
-السلام]{dir="rtl"} was therefore the first Messenger sent to mankind to confront
+prominent due to the deep love they held for them. Prophet Nūḥ [عليه السلام]{dir="rtl"} was therefore the first Messenger sent to mankind to confront
 the spread of idolatry and to guide those who were worshipping others besides
 Allah back to pure tawḥīd.
 
 ### How the Worship of Stones Spread in Arabia
 
-Imam Ibn Isḥāq [رحمه الله]{dir="rtl"} mentions that when the descendants of
+Imam Ibn Isḥāq \hon{\M_HIM}{\BODY} mentions that when the descendants of
 Prophet Ismāʿīl [عليه السلام]{dir="rtl"} eventually dispersed from Makkah, each
 group took with them a stone from the sacred precincts as a keepsake of the
 Kaʿbah. They would place these stones at suitable locations in their new
@@ -580,16 +632,16 @@ the Kaʿbah, and show them reverence. Over time, the following generations began
 to worship not only those stones, but also any stone that resembled their
 original stone or appeared distinctive to them.
 
-Abū Rajāʾ al-ʿUṭāridī [رضي الله عنه]{dir="rtl"} narrated, "We used to worship
+Abū Rajāʾ al-ʿUṭāridī \hon{\P_HIM}{\BODY} narrated, "We used to worship
 stones. When we found a better stone than the one we had, we would discard the
 first and take the latter. If we could not find a stone, we would gather some
 earth, then bring a sheep and milk it over the earth, and then perform ṭawāf
-around it." \[Ṣaḥīḥ al-Bukhārī\]
+around it." (Ṣaḥīḥ al-Bukhārī)
 
 As a result, idolatry spread throughout society until every tribe had an idol
 that it worshipped. Not only tribes, but at times even individual families
 possessed a particular idol which they venerated and worshipped. By the time of
-the birth of the Prophet Muḥammad [ﷺ]{dir="rtl"}, around three hundred and sixty
+the birth of the Prophet Muḥammad \hon{\P_HIM}{\BODY}, around three hundred and sixty
 idols were housed inside the Kaʿbah. The most prominent of these was Hubal,
 which had been brought there by ʿAmr ibn Luḥayy.
 
@@ -598,41 +650,45 @@ which had been brought there by ʿAmr ibn Luḥayy.
 Pre-Islamic Arab society commonly used names that reflected servitude to
 entities other than Allah, such as celestial bodies, tribal deities, or revered
 figures. Names such as ʿAbd Shams (servant of the sun) and ʿAbd Manāf were well
-known and widely used among Quraysh. The Messenger of Allah [ﷺ]{dir="rtl"}
+known and widely used among Quraysh. The Messenger of Allah \hon{\P_HIM}{\BODY}
 forbade names in which servitude (ʿubūdiyyah) is attributed to anyone other than
 Allah.
 
 From among the Ahl al-Ṣuffah was a Companion known as ʿAbdullāh Dhū al-Bijādain
-[رضي الله عنه]{dir="rtl"}. At birth, his name was ʿAbd al-ʿUzzā (servant of the
-idol al-ʿUzzā). When he embraced Islām, the Messenger of Allah [ﷺ]{dir="rtl"}
+\hon{\P_HIM}{\BODY}. At birth, his name was ʿAbd al-ʿUzzā (servant of the
+idol al-ʿUzzā). When he embraced Islām, the Messenger of Allah \hon{\P_HIM}{\BODY}
 changed his name and said, "No, you are not ʿAbd al-ʿUzzā; rather, you are
 ʿAbdullāh." \[Usd al-Ghābah\]
 
-The Prophet [ﷺ]{dir="rtl"} also changed names that carried undesirable meanings.
-Zaynab bint Jaḥsh [رضي الله عنها]{dir="rtl"} and Juwayriyyah bint al-Ḥārith [رضي
+The Prophet \hon{\P_HIM}{\BODY} also changed names that carried undesirable meanings.
+Zaynab bint Jaḥsh \hon{\P_HER}{\BODY} and Juwayriyyah bint al-Ḥārith [رضي
 الله عنها]{dir="rtl"} were both originally named Barrah ("one who claims
 righteousness"). This was regarded as a form of self-praise, which the Prophet
-[ﷺ]{dir="rtl"} disliked. He therefore changed their names to Zaynab and
+\hon{\P_HIM}{\BODY} disliked. He therefore changed their names to Zaynab and
 Juwayriyyah, respectively.
 
-ʿAbdullāh ibn ʿUmar [رضي الله عنهما]{dir="rtl"} reported that the Prophet
-[ﷺ]{dir="rtl"} said, "Indeed, the most beloved names to Allah are ʿAbdullāh and
-ʿAbd al-Raḥmān." \[Jāmiʿ al-Tirmidhī\]
+ʿAbdullāh ibn ʿUmar \hon{\P_TWO}{\BODY} reported that the Prophet
+\hon{\P_HIM}{\BODY} said, "Indeed, the most beloved names to Allah are ʿAbdullāh
+and ʿAbd al-Raḥmān." (Jāmiʿ al-Tirmidhī)
 
 ## Fear of Allah
 
 Allah Says,
 
-[فَلَا تَخْشَوُا۟ ٱلنَّاسَ وَٱخْشَوْنِ]{dir="rtl"}
+\AYAH_AR_START
+فَلَا تَخۡشَوُاْ ٱلنَّاسَ وَٱخۡشَوۡنِ
+\AYAH_AR_END
 
-*So do not fear people; rather, fear Me.* \[Sūrat al-Māʾidah, 44\]
+\AYAH_START
+So do not fear people; rather, fear Me. (Sūrat al-Māʾidah, Q5:44)
+\AYAH_END
 
 A person shows regard and caution toward one whom he believes has the power to
 bring benefit or harm. Our firm belief is that without the Command of Allah, no
 power in the world can cause us any harm or grant us any benefit. When this is
 our conviction, then why should we fear anyone other than Allah?
 
-In the above āyah, two Commands are given. The first Command is that we should
+In the above _āyah_, two Commands are given. The first Command is that we should
 not fear anyone besides Allah. That is, in following the Commands of Allah, we
 should not fear any person. The dignity of a Muslim lies in removing the fear of
 everyone besides Allah from the heart and walking with complete courage upon the
@@ -645,28 +701,32 @@ mosque or in the school, alone or among people, Allah is watching us everywhere
 and hearing every word we speak. Therefore, like a true and obedient servant, we
 must always be ready to carry out every command of Allah.
 
-Asmāʾ bint Abī Bakr [رضي الله عنها]{dir="rtl"} said, "The Companions used to
-weep out of fear of Allah."
+Asmāʾ bint Abī Bakr \hon{\P_HER}{\BODY} said, "The Companions used to weep out
+of fear of Allah."
 
-ʿAbdullāh ibn Shaddād said, "I heard the sobbing of ʿUmar ibn al-Khaṭṭāb [رضي
-الله عنه]{dir="rtl"} from the last rows while he was reciting, 'I only complain
-of my grief and sorrow to Allah.'" \[Ṣaḥīḥ al-Bukhārī\]
+ʿAbdullāh ibn Shaddād said, "I heard the sobbing of ʿUmar ibn al-Khaṭṭāb \hon{\P_HIM}{\BODY} from the last rows while he was reciting, 'I only complain
+of my grief and sorrow to Allah.'" (Ṣaḥīḥ al-Bukhārī)
 
-ʿUmar ibn al-Khaṭṭāb [رضي الله عنه]{dir="rtl"} said, "Bring yourselves to
+ʿUmar ibn al-Khaṭṭāb \hon{\P_HIM}{\BODY} said, "Bring yourselves to
 account before you are brought to account, and weigh your deeds before they are
-weighed." \[Jāmiʿ al-Tirmidhī\]
+weighed." (Jāmiʿ al-Tirmidhī)
 
 ## Hope in Allah
 
 Allah Says,
 
-[]{dir="ltr"}[۞ قُلْ يَـٰعِبَادِىَ ٱلَّذِينَ أَسْرَفُوا۟ عَلَىٰٓ أَنفُسِهِمْ لَا
-تَقْنَطُوا۟ مِن رَّحْمَةِ ٱللَّهِ ۚ إِنَّ ٱللَّهَ يَغْفِرُ ٱلذُّنُوبَ جَمِيعًا ۚ
-إِنَّهُۥ هُوَ ٱلْغَفُورُ ٱلرَّحِيمُ]{dir="rtl"}
+<!-- TODO: Check translation quotation marks -->
 
-*Say, "O My servants who have exceeded the limits against their souls! Do not
+\AYAH_AR_START
+قُلۡ يَٰعِبَادِيَ ٱلَّذِينَ أَسۡرَفُواْ عَلَىٰٓ أَنفُسِهِمۡ لَا تَقۡنَطُواْ مِن رَّحۡمَةِ ٱللَّهِۚ إِنَّ ٱللَّهَ يَغۡفِرُ ٱلذُّنُوبَ جَمِيعًاۚ إِنَّهُۥ هُوَ ٱلۡغَفُورُ ٱلرَّحِيمُ ٥٣
+\AYAH_AR_END
+
+\AYAH_START
+Say, "O My servants who have exceeded the limits against their souls! Do not
 lose hope in Allah's Mercy, for Allah certainly Forgives all sins. He is indeed
-the All-Forgiving, Most Merciful.* \[Sūrat al-Zumar, 53\]
+the All-Forgiving, Most Merciful." (Sūrat al-Zumar, Q39:53)
+\AYAH_END
+
 
 Just as we must remain fearful of Allah's Punishment, we must also remain
 hopeful of His Mercy and Grace. If fear of Allah prevents a person from becoming
@@ -677,28 +737,29 @@ A Muslim should always remain hopeful. One's hope in Allah's Favor and Mercy
 should never be severed. Whether one is rich or poor, healthy or ill, successful
 or unsuccessful, everyone's hopes should remain tied to Allah alone.
 
-Jābir ibn ʿAbdullāh [رضي الله عنه]{dir="rtl"} reported that the Messenger of
-Allah [ﷺ]{dir="rtl"} said: A servant will be told, "Enter the Fire." When he
+Jābir ibn ʿAbdullāh \hon{\P_HIM}{\BODY} reported that the Messenger of Allah
+\hon{\P_HIM}{\BODY} said: A servant will be told, "Enter the Fire." When he
 reaches the edge of Hell, he will look around and say, "By Allah, I always held
 good hope and a positive expectation of Allah." It will then be commanded,
-"Bring him back, for I am according to My servant's expectation of Me." \[Musnad
-Aḥmad\]
+"Bring him back, for I am according to My servant's expectation of Me." (Musnad
+Aḥmad)
 
-Abū Hurayrah [رضي الله عنه]{dir="rtl"} reported that the Prophet [ﷺ]{dir="rtl"}
+Abū Hurayrah \hon{\P_HIM}{\BODY} reported that the Prophet \hon{\P_HIM}{\BODY}
 said: Allah, the Exalted, says: "I am according to the expectation My servant
 has of Me, and I am with him when he remembers Me. If he remembers Me within
 himself, I remember him within Myself. If he remembers Me in a gathering, I
 remember him in a gathering better than it. If he draws near to Me by a
 handspan, I draw near to him by an arm's length. If he draws near to Me by an
 arm's length, I draw near to him by a fathom. And if he comes to Me walking, I
-come to him swiftly." \[Ṣaḥīḥ Muslim\]
+come to him swiftly." (Ṣaḥīḥ Muslim)
 
-Anas ibn Mālik [رضي الله عنه]{dir="rtl"} reported: The Messenger of Allah
-[ﷺ]{dir="rtl"} entered upon a young man who was dying and said, "How do you find
-yourself?" He replied, "O Messenger of Allah, I hope in Allah, and I fear my
-sins." The Messenger of Allah [ﷺ]{dir="rtl"} said, "These two do not come
-together in the heart of a servant at such a time except that Allah grants him
-what he hopes for and grants him safety from what he fears." \[Ṣaḥīḥ Muslim\]
+Anas ibn Mālik \hon{\P_HIM}{\BODY} reported: The Messenger of Allah
+\hon{\P_HIM}{\BODY} entered upon a young man who was dying and said, "How do you
+find yourself?" He replied, "O Messenger of Allah, I hope in Allah, and I fear
+my sins." The Messenger of Allah \hon{\P_HIM}{\BODY} said, "These two do not
+come together in the heart of a servant at such a time except that Allah grants
+him what he hopes for and grants him safety from what he fears." (Ṣaḥīḥ
+Muslim)
 
 However, one must not deliberately commit sins while relying upon Allah's Mercy.
 But if a sin occurs due to human weakness, then one should turn to Allah in
@@ -708,9 +769,14 @@ repentance and remain hopeful of His Mercy.
 
 Allah Says,
 
-[يَا أَيُّهَا الَّذِينَ آمَنُوا كُونُوا أَنْصَارَ اللَّهِ]{dir="rtl"}
+\AYAH_AR_START
+يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ كُونُوٓاْ أَنصَارَ ٱللَّهِ
+\AYAH_AR_END
 
-*O you who believe, become helpers of Allah.* \[Sūrat al-Ṣaff, 14\]
+\AYAH_START
+O you who believe, become helpers of Allah. (Sūrat al-Ṣaff, Q61:14)
+\AYAH_END
+
 
 In this āyah, it is said: Become helpers of Allah. Allah is not in need of
 anyone's help, nor is He dependent upon us. Rather, the meaning is that just as
@@ -732,22 +798,25 @@ tongue, intellect, and every ability one possesses.
 
 Allah Says,
 
-[وَيَـٰقَوْمِ ٱسْتَغْفِرُوا۟ رَبَّكُمْ ثُمَّ تُوبُوٓا۟ إِلَيْهِ يُرْسِلِ
-ٱلسَّمَآءَ عَلَيْكُم مِّدْرَارًۭا وَيَزِدْكُمْ قُوَّةً إِلَىٰ قُوَّتِكُمْ وَلَا
-تَتَوَلَّوْا۟ مُجْرِمِينَ]{dir="rtl"}
+\AYAH_AR_START
+وَيَٰقَوۡمِ ٱسۡتَغۡفِرُواْ رَبَّكُمۡ ثُمَّ تُوبُوٓاْ إِلَيۡهِ يُرۡسِلِ ٱلسَّمَآءَ عَلَيۡكُم مِّدۡرَارٗا وَيَزِدۡكُمۡ قُوَّةً إِلَىٰ قُوَّتِكُمۡ وَلَا تَتَوَلَّوۡاْ مُجۡرِمِينَ ٥٢
+\AYAH_AR_END
 
-*And O my people! Seek your Lord's forgiveness and turn to Him in repentance. He
+\AYAH_START
+And O my people! Seek your Lord's forgiveness and turn to Him in repentance. He
 will shower you with rain in abundance and add strength to your strength. So do
-not turn away, persisting in wickedness.* \[Sūrat Hūd, 52\]
+not turn away, persisting in wickedness. (Sūrat Hūd, Q11:52)
+\AYAH_END
+
 
 When a person's clothes become dirty, they are washed with soap. In the same
 way, committing sins soils and stains the heart. This filth can be removed
-through repentance (tawbah).
+through repentance (_tawbah_).
 
-The Messenger of Allah [ﷺ]{dir="rtl"} said, "All of the children of Ādam are
-sinners, and the best of sinners are those who repent." \[Jāmiʿ al-Tirmidhī\]
+The Messenger of Allah \hon{\P_HIM}{\BODY} said, "All of the children of Ādam
+are sinners, and the best of sinners are those who repent." (Jāmiʿ al-Tirmidhī)
 
-Imam al-Khaṭṭābī [رحمه الله]{dir="rtl"} said, "Allah's name al-Tawwāb means: the
+Imam al-Khaṭṭābī \hon{\M_HIM}{\BODY} said, "Allah's name al-Tawwāb means: the
 One who accepts the repentance of His servant every time he repents."
 \[al-Asmāʾ\] The meaning of tawbah is that a person admits his sin before Allah,
 expresses remorse over it, and makes a firm resolve not to commit it again
@@ -757,34 +826,34 @@ person's unlawfully acquired wealth, then that wealth must be returned, and
 forgiveness must be sought from the one who was wronged. Without fulfilling
 these conditions, repentance is not complete.
 
-Despite being the Messenger of Allah [ﷺ]{dir="rtl"}, the Prophet [ﷺ]{dir="rtl"}
+Despite being the Messenger of Allah \hon{\P_HIM}{\BODY}, the Prophet \hon{\P_HIM}{\BODY}
 used to repent and seek forgiveness seventy times a day \[Ṣaḥīḥ al-Bukhārī\].
-ʿĀʾishah [رضي الله عنها]{dir="rtl"} said, The Prophet [ﷺ]{dir="rtl"} would stand
+ʿĀʾishah \hon{\P_HER}{\BODY} said, The Prophet \hon{\P_HIM}{\BODY} would stand
 in prayer at night until his feet became swollen. I said, "O Messenger of Allah,
 why do you do this when Allah has forgiven your past and future sins?" He
-[ﷺ]{dir="rtl"} said, "Shall I not be a grateful servant?" \[Ṣaḥīḥ al-Bukhārī\]
+\hon{\P_HIM}{\BODY} said, "Shall I not be a grateful servant?" \[Ṣaḥīḥ al-Bukhārī\]
 
 It is narrated that once Shayṭān said to Allah Almighty, "O Lord! As long as
 Your servants have breath in them, I will continue to mislead them." Allah
 Almighty replied, "As long as My servants continue to seek forgiveness from Me,
 I will continue to forgive them."
 
-The Messenger of Allah [ﷺ]{dir="rtl"} said, "Allah is more joyful over the
+The Messenger of Allah \hon{\P_HIM}{\BODY} said, "Allah is more joyful over the
 repentance of His servant than one of you who finds his camel after having lost
 it in a barren land." \[Ṣaḥīḥ Muslim\]
 
-The Messenger of Allah [ﷺ]{dir="rtl"} said, "If you were to commit sins until
+The Messenger of Allah \hon{\P_HIM}{\BODY} said, "If you were to commit sins until
 your sins reach the sky, then you repent, Allah would surely accept your
-repentance." \[Musnad Aḥmad\] The Prophet [ﷺ]{dir="rtl"} also said, "Indeed,
+repentance." \[Musnad Aḥmad\] The Prophet \hon{\P_HIM}{\BODY} also said, "Indeed,
 Allah accepts the repentance of the servant as long as his soul has not reached
 the throat." \[Jāmiʿ al-Tirmidhī\]
 
-Shaykh al-Islām Ibn Taymiyyah [رحمه الله]{dir="rtl"} said, "If a servant
+Shaykh al-Islām Ibn Taymiyyah \hon{\M_HIM}{\BODY} said, "If a servant
 repents, Allah loves him, and he rises in rank by virtue of his repentance." He
 also said, "The strength of the heart returns through repentance." \[Majmūʿ
 al-Fatāwā\]
 
-The Messenger of Allah [ﷺ]{dir="rtl"} said, "The one who repents from sin is
+The Messenger of Allah \hon{\P_HIM}{\BODY} said, "The one who repents from sin is
 like one who has no sin." \[Sunan Ibn Mājah\] Imam Ibn al-Qayyim [رحمه
 الله]{dir="rtl"} said, "If a person repents with sincere repentance, his
 previous evil deeds are erased, and the reward for his good deeds is restored to
@@ -797,36 +866,47 @@ forgive our sins.
 
 Allah Says,
 
-[وَٱذْكُر رَّبَّكَ فِى نَفْسِكَ تَضَرُّعًۭا وَخِيفَةًۭ وَدُونَ ٱلْجَهْرِ مِنَ
-ٱلْقَوْلِ بِٱلْغُدُوِّ وَٱلْـَٔاصَالِ وَلَا تَكُن مِّنَ
-ٱلْغَـٰفِلِينَ]{dir="rtl"}
+\AYAH_AR_START
+وَٱذۡكُر رَّبَّكَ فِي نَفۡسِكَ تَضَرُّعٗا وَخِيفَةٗ وَدُونَ ٱلۡجَهۡرِ مِنَ ٱلۡقَوۡلِ بِٱلۡغُدُوِّ وَٱلۡأٓصَالِ وَلَا تَكُن مِّنَ ٱلۡغَٰفِلِينَ ٢٠٥
+\AYAH_AR_END
 
-*Remember your Lord inwardly with humility and reverence and in a moderate tone
-of voice, both morning and evening. And do not be one of the heedless.* \[Sūrat
-al-Aʿrāf, 205\]
+\AYAH_START
+Remember your Lord inwardly with humility and reverence and in a moderate tone
+of voice, both morning and evening. And do not be one of the heedless. (Sūrat
+al-Aʿrāf, Q7:205)
+\AYAH_END
 
-[وَإِذَا سَأَلَكَ عِبَادِي عَنِّي فَإِنِّي قَرِيبٌ ۖ أُجِيبُ دَعْوَةَ الدَّاعِ
-إِذَا دَعَانِ ۖ فَلْيَسْتَجِيبُوا لِي وَلْيُؤْمِنُوا بِي لَعَلَّهُمْ
-يَرْشُدُونَ]{dir="rtl"}
 
-*And when My servants ask you concerning Me---indeed, I am near. I respond to
-the supplication of the supplicant when he calls upon Me. So let them respond to
-Me and believe in Me, so that they may be rightly guided.* \[Sūrat al-Baqarah,
-186\]
+\AYAH_AR_START
+وَإِذَا سَأَلَكَ عِبَادِي عَنِّي فَإِنِّي قَرِيبٌۖ أُجِيبُ دَعۡوَةَ ٱلدَّاعِ إِذَا دَعَانِۖ فَلۡيَسۡتَجِيبُواْ لِي وَلۡيُؤۡمِنُواْ بِي لَعَلَّهُمۡ يَرۡشُدُونَ ١٨٦
+\AYAH_AR_END
 
-[وَقَالَ رَبُّكُمُ ٱدْعُونِي أَسْتَجِبْ لَكُمْ]{dir="rtl"}
+\AYAH_START
+And when My servants ask you concerning Me---indeed, I am near. I respond to the
+supplication of the supplicant when he calls upon Me. So let them respond to Me
+and believe in Me, so that they may be rightly guided. (Sūrat al-Baqarah,
+Q2:186)
+\AYAH_END
 
-*And your Lord has said, "Call upon Me; I will respond to you."* \[Sūrat Ghāfir,
-60\]
+
+\AYAH_AR_START
+وَقَالَ رَبُّكُمُ ٱدۡعُونِيٓ أَسۡتَجِبۡ لَكُمۡۚ
+\AYAH_AR_END
+
+\AYAH_START
+And your Lord has said, "Call upon Me; I will respond to you." (Sūrat Ghāfir,
+Q40:60)
+\AYAH_END
+
 
 Whatever you wish to ask for, ask Allah alone. Besides Him, no one has the power
 to fulfill your desires. Everything in the heavens and the earth is dependent
 upon Allah.
 
-The Messenger of Allah [ﷺ]{dir="rtl"} said that Allah Almighty loves that His
+The Messenger of Allah \hon{\P_HIM}{\BODY} said that Allah Almighty loves that His
 servants ask Him for His favors, and He becomes displeased with the one who does
 not ask Him. A person should raise their hands before Allah for everything,
-great or small. The Messenger of Allah [ﷺ]{dir="rtl"} said that the best habit
+great or small. The Messenger of Allah \hon{\P_HIM}{\BODY} said that the best habit
 is supplication.
 
 One should supplicate for oneself, for one's parents, for one's spouse and
@@ -834,6 +914,7 @@ children, for elders, and for every Muslim. One should not make supplication for
 unlawful things, nor for the destruction of oneself, one's children, or one's
 wealth. One should also not ask only for worldly benefit; rather, one should ask
 for success and well-being in both this world and the Hereafter.
+
 
 #### Times Of Acceptance
 
@@ -843,58 +924,59 @@ quietly, humbly, and with earnest pleading, for Allah does not accept
 supplications that come from a heedless heart. Supplications are more readily
 accepted at certain times, such as:
 
-**Between the Adhān and Iqāmah\** The Messenger of Allah [ﷺ]{dir="rtl"} said,
-"Supplication is not rejected between the adhān and the iqāmah." \[Sunan Abī
+**Between the Adhān and Iqāmah** The Messenger of Allah \hon{\P_HIM}{\BODY} said,
+"Supplication is not rejected between the _adhān_ and the _iqāmah_." \[Sunan Abī
 Dāwūd\]
 
-**During and After Ṣalāh**\
-The Messenger of Allah [ﷺ]{dir="rtl"} said, "The closest a servant is to his
+**During and After Ṣalāh**
+The Messenger of Allah \hon{\P_HIM}{\BODY} said, "The closest a servant is to his
 Lord is when he is in prostration, so increase supplication." \[Ṣaḥīḥ Muslim\]
 
-ʿAbdullāh ibn Masʿūd [رضي الله عنه]{dir="rtl"} said: I was praying while the
-Prophet [ﷺ]{dir="rtl"}, Abū Bakr, and ʿUmar [رضي الله عنهما]{dir="rtl"} were
+ʿAbdullāh ibn Masʿūd \hon{\P_HIM}{\BODY} said: I was praying while the Prophet
+\hon{\P_HIM}{\BODY}, Abū Bakr, and ʿUmar \hon{\P_TWO}{\BODY} were
 present. When I sat for the final tashahhud, I praised Allah and sent blessings
-upon the Prophet [ﷺ]{dir="rtl"}, then supplicated for myself. The Prophet
-[ﷺ]{dir="rtl"} said, "Ask, and you will be given. Ask, and you will be given."
-\[Jāmiʿ al-Tirmidhī\]
+upon the Prophet \hon{\P_HIM}{\BODY}, then supplicated for myself. The Prophet
+\hon{\P_HIM}{\BODY} said, "Ask, and you will be given. Ask, and you will be
+given." \[Jāmiʿ al-Tirmidhī\]
 
-Abū Umāmah [رضي الله عنه]{dir="rtl"} reported: It was said to the Messenger of
-Allah [ﷺ]{dir="rtl"}, "Which supplication is most heard?" He [ﷺ]{dir="rtl"}
+Abū Umāmah \hon{\P_HIM}{\BODY} reported: It was said to the Messenger of
+Allah \hon{\P_HIM}{\BODY}, "Which supplication is most heard?" He \hon{\P_HIM}{\BODY}
 said, "The supplication made in the last part of the night and after the
 prescribed prayers." \[Jāmiʿ al-Tirmidhī\]
 
-**When It's Raining Heavily\** The Prophet [ﷺ]{dir="rtl"} said, "Two
+**When It's Raining Heavily\** The Prophet \hon{\P_HIM}{\BODY} said, "Two
 supplications are not rejected: the supplication made at the time of the call to
 prayer, and the supplication made at the time when rain is falling." \[al-Muʿjam
 al-Kabīr\]
 
-**During The Last Third of the Night\** The Messenger of Allah [ﷺ]{dir="rtl"}
+**During The Last Third of the Night\** The Messenger of Allah \hon{\P_HIM}{\BODY}
 said, "Our Lord, Blessed and Exalted, descends every night to the lowest heaven
 when the last third of the night remains and says: 'Who is calling upon Me so
 that I may answer him? Who is asking Me so that I may give him? Who is seeking
 My forgiveness so that I may forgive him?'" \[Ṣaḥīḥ al-Bukhārī\]
 
 **The Special Hour on Friday**\
-The Messenger of Allah [ﷺ]{dir="rtl"} said, "There is an hour on Friday during
+The Messenger of Allah \hon{\P_HIM}{\BODY} said, "There is an hour on Friday during
 which no Muslim servant stands praying and asks Allah for anything except that
 Allah grants it to him." \[Ṣaḥīḥ al-Bukhārī\] Imam Ibn al-Qayyim [رحمه
 الله]{dir="rtl"} said, "The strongest opinion is that it is the last hour after
 ʿAṣr." \[Zād al-Maʿād\]
 
+
 #### Understanding Duʿāʾ
 
-The Messenger of Allah [ﷺ]{dir="rtl"} said, "Indeed, Allah is Most Modest and
+The Messenger of Allah \hon{\P_HIM}{\BODY} said, "Indeed, Allah is Most Modest and
 Most Generous. He feels shy when a servant raises his hands to Him to return
 them empty and disappointed." \[Jāmiʿ al-Tirmidhī\]
 
-The Prophet [ﷺ]{dir="rtl"} said, "The supplication of a servant will continue to
+The Prophet \hon{\P_HIM}{\BODY} said, "The supplication of a servant will continue to
 be answered so long as he does not supplicate for a sin or the severing of
 family ties, and so long as he is not hasty." It was said, "O Messenger of
 Allah, what does being hasty mean?" He said, "He says: 'I have supplicated and
 supplicated, yet I do not see it being answered,' so he becomes frustrated and
 abandons supplication." (Ṣaḥīḥ Muslim)
 
-The Messenger of Allah [ﷺ]{dir="rtl"} said, "There is no Muslim who supplicates
+The Messenger of Allah \hon{\P_HIM}{\BODY} said, "There is no Muslim who supplicates
 to Allah with a supplication in which there is no sin or severing of family ties
 except that Allah grants him one of three things: either his supplication is
 answered quickly, or it is stored for him in the Hereafter, or an equivalent
@@ -908,58 +990,64 @@ reality, Allah, out of His immense Mercy and Love for His believing servant,
 responds in multiple ways:
 
 - He may grant the supplication immediately.
-
 - He may delay it to replace it with something better at a later time.
-
 - He may avert a calamity that was about to occur.
-
 - He may reserve the reward of that supplication for the Day of Judgment.
 
 ## Saying InshāʾAllāh (If Allah Wills)
 
 Allah Says,
 
-[وَلَا تَقُولَنَّ لِشَا۟ىْءٍ إِنِّى فَاعِلٌۭ ذَٰلِكَ غَدًا - إِلَّآ أَن
-يَشَآءَ ٱللَّهُ ۚ وَٱذْكُر رَّبَّكَ إِذَا نَسِيتَ وَقُلْ عَسَىٰٓ أَن يَهْدِيَنِ
-رَبِّى لِأَقْرَبَ مِنْ هَـٰذَا رَشَدًۭا]{dir="rtl"}
+\AYAH_AR_START
+وَلَا تَقُولَنَّ لِشَاْيۡءٍ إِنِّي فَاعِلٞ ذَٰلِكَ غَدًا ٢٣إِلَّآ أَن يَشَآءَ ٱللَّهُۚ وَٱذۡكُر رَّبَّكَ إِذَا نَسِيتَ وَقُلۡ عَسَىٰٓ أَن يَهۡدِيَنِ رَبِّي لِأَقۡرَبَ مِنۡ هَٰذَا رَشَدٗا ٢٤
+\AYAH_AR_END
 
-*And never say of anything, "I will definitely do this tomorrow," without
-adding, "if Allah so wills!" But if you forget, then remember your Lord, and
-say, "I trust my Lord will guide me to what is more right than this."* \[Sūrat
-al-Kahf, 23-34\]
+\AYAH_START
+And never say of anything, "I will definitely do this tomorrow," without adding,
+"if Allah so wills!" But if you forget, then remember your Lord, and say, "I
+trust my Lord will guide me to what is more right than this." (Sūrat al-Kahf,
+Q18:23--34)
+\AYAH_END
+
 
 Do not say about anything, "I will do it tomorrow," except by saying, "If Allah
 Wills."
 
-Ibn ʿAbbās [رضي الله عنهما]{dir="rtl"} reported: The Jews came to the Prophet
-[ﷺ]{dir="rtl"} and asked him about certain matters. The Messenger of Allah
-[ﷺ]{dir="rtl"} said to them, "I will inform you tomorrow," but he did not say,
-"If Allah wills." Revelation was withheld from him for several days. Then Allah,
-the Exalted, revealed: "And never say of anything, 'Indeed, I will do that
-tomorrow,' except, 'If Allah Wills.'" \[Ṣaḥīḥ al-Bukhārī\]
+Ibn ʿAbbās \hon{\P_TWO}{\BODY} reported: The Jews came to the Prophet
+\hon{\P_HIM}{\BODY} and asked him about certain matters. The Messenger of Allah
+\hon{\P_HIM}{\BODY} said to them, "I will inform you tomorrow," but he did not
+say, "If Allah wills." Revelation was withheld from him for several days. Then
+Allah, the Exalted, revealed: "And never say of anything, 'Indeed, I will do
+that tomorrow,' except, 'If Allah Wills.'" \[Ṣaḥīḥ al-Bukhārī\]
 
-The Messenger of Allah [ﷺ]{dir="rtl"} said, "Sulaymān ibn Dāwūd, peace be upon
-them both, said: 'Tonight I will go around to ninety women, each of whom will
-give birth to a boy who will fight in the path of Allah.' His companion said to
-him, 'Say: If Allah wills.' But he did not say it.
+The Messenger of Allah \hon{\P_HIM}{\BODY} said, "Sulaymān ibn Dāwūd, peace be
+upon them both, said: 'Tonight I will go around to ninety women, each of whom
+will give birth to a boy who will fight in the path of Allah.' His companion
+said to him, 'Say: If Allah wills.' But he did not say it.
 
 He went around to them, and none of them gave birth except one woman, who gave
-birth to half of a human being. The Messenger of Allah [ﷺ]{dir="rtl"} said, 'By
-the One in Whose Hand is my soul, had he said, "If Allah Wills," they would all
-have fought as horsemen in the path of Allah.'" \[Ṣaḥīḥ al-Bukhārī\]
+birth to half of a human being. The Messenger of Allah \hon{\P_HIM}{\BODY} said,
+'By the One in Whose Hand is my soul, had he said, "If Allah Wills," they would
+all have fought as horsemen in the path of Allah.'" \[Ṣaḥīḥ al-Bukhārī\]
 
 Without the Command of Allah, even a single leaf of a tree cannot move. What
 power does a human being have that he can accomplish anything without His help?
-That is why the Qurʾān teaches that when you intend to do something, do not
+That is why the Quran teaches that when you intend to do something, do not
 simply say, "I will do this," but rather say, "If Allah Wills, I will do it."
+
 
 ## Remembering the Blessings of Allah
 
 Allah Says,
 
-[وَأَمَّا بِنِعْمَةِ رَبِّكَ فَحَدِّثْ]{dir="rtl"}
+\AYAH_AR_START
+وَأَمَّا بِنِعۡمَةِ رَبِّكَ فَحَدِّثۡ ١١
+\AYAH_AR_END
 
-*And proclaim the Blessings of your Lord.* \[Sūrat al-Ḍuḥā, 11\]
+\AYAH_START
+And proclaim the Blessings of your Lord. (Sūrat al-Ḍuḥā, Q93:11)
+\AYAH_END
+
 
 It is not appropriate to become arrogant over the blessings that Allah has
 granted us, but it is also not correct to conceal them. One should certainly
@@ -968,39 +1056,43 @@ too, is a form of gratitude. Those who hide the blessings given by Allah are
 guilty of ingratitude. Allah loves to see the effects of His blessings upon His
 servants.
 
-Mālik ibn Naḍlah [رضي الله عنه]{dir="rtl"} said: "I came to the Messenger of
-Allah [ﷺ]{dir="rtl"} while I was in a poor state of appearance. He
-[ﷺ]{dir="rtl"} asked, 'Do you have wealth?' I replied, 'Yes.' He [ﷺ]{dir="rtl"}
-asked, 'What kind of wealth?' I said, 'All kinds---Allah has given me camels,
-sheep, horses, and servants.' The Messenger of Allah [ﷺ]{dir="rtl"} then said,
-'When Allah gives you wealth, let the effect of Allah's blessing be visible upon
-you.'" \[Musnad Aḥmad\]
+Mālik ibn Naḍlah \hon{\P_HIM}{\BODY} said: "I came to the Messenger of Allah
+\hon{\P_HIM}{\BODY} while I was in a poor state of appearance. He
+\hon{\P_HIM}{\BODY} asked, 'Do you have wealth?' I replied, 'Yes.' He
+\hon{\P_HIM}{\BODY} asked, 'What kind of wealth?' I said, 'All kinds---Allah has
+given me camels, sheep, horses, and servants.' The Messenger of Allah
+\hon{\P_HIM}{\BODY} then said, 'When Allah gives you wealth, let the effect of
+Allah's blessing be visible upon you.'" \[Musnad Aḥmad\]
 
-The Messenger of Allah [ﷺ]{dir="rtl"} said, "Whoever Allah has blessed with a
-favor, Allah loves that the effect of His blessing be seen upon His creation."
+The Messenger of Allah \hon{\P_HIM}{\BODY} said, "Whoever Allah has blessed with
+a favor, Allah loves that the effect of His blessing be seen upon His creation."
 \[Musnad Aḥmad\]
 
-The Messenger of Allah [ﷺ]{dir="rtl"} said, "Indeed, when Allah Grants a
+The Messenger of Allah \hon{\P_HIM}{\BODY} said, "Indeed, when Allah Grants a
 blessing to a servant, He loves to see the effect of that blessing upon him. He
 dislikes misery and feigned misery, hates the persistent beggar, and loves the
 modest, chaste, and self-restrained person." \[al-Muʿjam al-Kabīr\]
 
 Gratitude for blessings is a cause of them being increased. Allah Says,
 
-[وَإِذْ تَأَذَّنَ رَبُّكُمْ لَئِن شَكَرْتُمْ لَأَزِيدَنَّكُمْ ۖ وَلَئِن
-كَفَرْتُمْ إِنَّ عَذَابِى لَشَدِيدٌۭ]{dir="rtl"}
+\AYAH_AR_START
+وَإِذۡ تَأَذَّنَ رَبُّكُمۡ لَئِن شَكَرۡتُمۡ لَأَزِيدَنَّكُمۡۖ وَلَئِن كَفَرۡتُمۡ إِنَّ عَذَابِي لَشَدِيدٞ ٧
+\AYAH_AR_END
 
-*And (remember) when your Lord proclaimed, 'If you are grateful, I will
-certainly give you more. But if you are ungrateful, surely My punishment is
-severe.'"* \[Sūrat Ibrāhīm, 11\]
+\AYAH_START
+And (remember) when your Lord proclaimed, 'If you are grateful, I will certainly
+give you more. But if you are ungrateful, surely My punishment is severe.'"
+(Sūrat Ibrāhīm, Q14:7)
+\AYAH_END
 
-Muʿādh ibn Jabal [رضي الله عنه]{dir="rtl"} reported: The Messenger of Allah
-[ﷺ]{dir="rtl"} took my hand and said, "O Muʿādh, by Allah, I love you. By Allah,
-I love you." Then he said, "I advise you, O Muʿādh, never to leave saying after
-every prayer: O Allah, help me to remember You, to thank You, and to worship You
-in the best manner." \[Sunan Abī Dāwūd\]
 
-Imam Ibn al-Qayyim [رحمه الله]{dir="rtl"} said, "Gratitude is built upon three
+Muʿādh ibn Jabal \hon{\P_HIM}{\BODY} reported: The Messenger of Allah
+\hon{\P_HIM}{\BODY} took my hand and said, "O Muʿādh, by Allah, I love you. By
+Allah, I love you." Then he said, "I advise you, O Muʿādh, never to leave saying
+after every prayer: O Allah, help me to remember You, to thank You, and to
+worship You in the best manner." \[Sunan Abī Dāwūd\]
+
+Imam Ibn al-Qayyim \hon{\M_HIM}{\BODY} said, "Gratitude is built upon three
 pillars: acknowledging the blessing inwardly, speaking of it outwardly, and
 using it to seek the pleasure of the One who granted it and bestowed it."
 \[al-Wābil al-Ṣayyib\] In another place, Imam Ibn al-Qayyim [رحمه
@@ -1012,74 +1104,90 @@ limbs by means of obedience and compliance." \[Madārij al-Sālikīn\]
 
 Allah Says,
 
-[يَا أَيُّهَا الَّذِينَ آمَنُوا أَطِيعُوا اللَّهَ وَأَطِيعُوا
-الرَّسُولَ]{dir="rtl"}[]{dir="ltr"}
+\AYAH_AR_START
+يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓاْ أَطِيعُواْ ٱللَّهَ وَأَطِيعُواْ ٱلرَّسُولَ
+\AYAH_AR_END
 
-*O believers! Obey Allah and obey the Messenger.* \[Sūrat al-Nisāʾ, 59\]
+\AYAH_START
+O believers! Obey Allah and obey the Messenger. (Sūrat al-Nisāʾ, Q4:59)
+\AYAH_END
+
 
 Once we have accepted Allah as our Lord and the Messenger of Allah
-[ﷺ]{dir="rtl"} as the true Messenger of God, we should no longer doubt any
+\hon{\P_HIM}{\BODY} as the true Messenger of God, we should no longer doubt any
 command they have given. Rather, we must follow their instructions with complete
 conviction. If a Muslim feels discomfort in his heart toward the commands of
 Allah and His Messenger, then this is a deficiency in faith.
 
-Allah says:
+Allah Says,
 
-[فَلَا وَرَبِّكَ لَا يُؤْمِنُونَ حَتَّىٰ يُحَكِّمُوكَ فِيمَا شَجَرَ بَيْنَهُمْ
-ثُمَّ لَا يَجِدُوا فِي أَنْفُسِهِمْ حَرَجًا مِمَّا قَضَيْتَ وَيُسَلِّمُوا
-تَسْلِيمًا]{dir="rtl"}
+\AYAH_AR_START
+فَلَا وَرَبِّكَ لَا يُؤۡمِنُونَ حَتَّىٰ يُحَكِّمُوكَ فِيمَا شَجَرَ بَيۡنَهُمۡ ثُمَّ لَا يَجِدُواْ فِيٓ أَنفُسِهِمۡ حَرَجٗا مِّمَّا قَضَيۡتَ وَيُسَلِّمُواْ تَسۡلِيمٗا ٦٥
+\AYAH_AR_END
 
-*But no! By your Lord, they will not truly believe until they make you (O
+\AYAH_START
+But no! By your Lord, they will not truly believe until they make you (O
 Prophet) judge in all disputes between them, then find no discomfort in their
-hearts regarding your decision, and submit in full submission.* \[Sūrat
-al-Nisāʾ, 65\]
+hearts regarding your decision, and submit in full submission. (Sūrat al-Nisāʾ,
+Q4:65)
+\AYAH_END
+
 
 The dignity of a Muslim is that once he comes to know that a certain matter
 pleases Allah and His Messenger, he commits himself fully to it and does not
-even allow the thought of opposing it to enter his heart. Allah says:
+even allow the thought of opposing it to enter his heart. Allah Says,
 
-[وَمَا كَانَ لِمُؤْمِنٍ وَلَا مُؤْمِنَةٍ إِذَا قَضَى اللَّهُ وَرَسُولُهُ أَمْرًا
-أَنْ يَكُونَ لَهُمُ الْخِيَرَةُ مِنْ أَمْرِهِمْ ۗ وَمَنْ يَعْصِ اللَّهَ
-وَرَسُولَهُ فَقَدْ ضَلَّ ضَلَالًا مُبِينًا]{dir="rtl"}
+\AYAH_AR_START
+وَمَا كَانَ لِمُؤۡمِنٖ وَلَا مُؤۡمِنَةٍ إِذَا قَضَى ٱللَّهُ وَرَسُولُهُۥٓ أَمۡرًا أَن يَكُونَ لَهُمُ ٱلۡخِيَرَةُ مِنۡ أَمۡرِهِمۡۗ وَمَن يَعۡصِ ٱللَّهَ وَرَسُولَهُۥ فَقَدۡ ضَلَّ ضَلَٰلٗا مُّبِينٗا ٣٦
+\AYAH_AR_END
 
-*It is not for a believing man or a believing woman that when Allah and His
+\AYAH_START
+It is not for a believing man or a believing woman that when Allah and His
 Messenger have decided a matter, they should have any choice in it. And whoever
-disobeys Allah and His Messenger has clearly gone astray.* \[Sūrat al-Aḥzāb,
-36\]
+disobeys Allah and His Messenger has clearly gone astray. (Sūrat al-Aḥzāb,
+Q33:36)
+\AYAH_END
 
-The Prophet [ﷺ]{dir="rtl"} said, "There are three qualities; whoever possesses
-them will find the sweetness of faith: that Allah and His Messenger are more
-beloved to him than anything else; that he loves a person and loves him only for
-the sake of Allah; and that he hates to return to disbelief as much as he hates
-to be thrown into the Fire" \[Ṣaḥīḥ al-Bukhārī\]. Such a person always gives
-precedence to their commands over all others and follows them above all else.
 
-The Messenger of Allah [ﷺ]{dir="rtl"} said, "He has tasted the flavor of faith
-who is pleased with Allah as his Lord, with Islam as his religion, and with
-Muhammad [ﷺ]{dir="rtl"} as his Messenger." \[Ṣaḥīḥ Muslim\]
+The Prophet \hon{\P_HIM}{\BODY} said, "There are three qualities; whoever
+possesses them will find the sweetness of faith: that Allah and His Messenger
+are more beloved to him than anything else; that he loves a person and loves him
+only for the sake of Allah; and that he hates to return to disbelief as much as
+he hates to be thrown into the Fire" \[Ṣaḥīḥ al-Bukhārī\]. Such a person always
+gives precedence to their commands over all others and follows them above all
+else.
 
-ʿAbdullāh ibn Hishām said: We were with the Messenger of Allah [ﷺ]{dir="rtl"}
-while he was holding the hand of ʿUmar ibn al-Khaṭṭāb [رضي الله عنه]{dir="rtl"}.
-ʿUmar said, "O Messenger of Allah, you are more beloved to me than everything
-except myself." The Prophet [ﷺ]{dir="rtl"} said, "No, by the One in Whose Hand
-is my soul, not until I am more beloved to you than yourself." ʿUmar then said,
-"By Allah, now you are more beloved to me than myself." The Prophet
-[ﷺ]{dir="rtl"} replied, "Now, O ʿUmar." \[Ṣaḥīḥ al-Bukhārī\]
+The Messenger of Allah \hon{\P_HIM}{\BODY} said, "He has tasted the flavor of
+faith who is pleased with Allah as his Lord, with Islam as his religion, and
+with Muhammad \hon{\P_HIM}{\BODY} as his Messenger." \[Ṣaḥīḥ Muslim\]
+
+ʿAbdullāh ibn Hishām said: We were with the Messenger of Allah
+\hon{\P_HIM}{\BODY} while he was holding the hand of ʿUmar ibn al-Khaṭṭāb
+\hon{\P_HIM}{\BODY}. ʿUmar said, "O Messenger of Allah, you are more beloved to
+me than everything except myself." The Prophet \hon{\P_HIM}{\BODY} said, "No, by
+the One in Whose Hand is my soul, not until I am more beloved to you than
+yourself." ʿUmar then said, "By Allah, now you are more beloved to me than
+myself." The Prophet \hon{\P_HIM}{\BODY} replied, "Now, O ʿUmar." \[Ṣaḥīḥ
+al-Bukhārī\]
 
 During a gathering in Masjid al-Nabawi, Imam Mālik ibn Anas [رحمه
 الله]{dir="rtl"} said, while pointing to the grave of the Prophet
-[ﷺ]{dir="rtl"}, "Everyone's statement may be accepted or rejected, except the
-companion of this grave." \[Jāmiʿ Bayān al-ʿIlm wa Faḍlihi\]
+\hon{\P_HIM}{\BODY}, "Everyone's statement may be accepted or rejected, except
+the companion of this grave." \[Jāmiʿ Bayān al-ʿIlm wa Faḍlihi\]
 
 ## Obedience to Authority
 
 Allah Says,
 
-[يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ أَطِيعُوا۟ ٱللَّهَ وَأَطِيعُوا۟ ٱلرَّسُولَ
-وَأُو۟لِى ٱلْأَمْرِ مِنكُمْ ۖ]{dir="rtl"}
+\AYAH_AR_START
+يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓاْ أَطِيعُواْ ٱللَّهَ وَأَطِيعُواْ ٱلرَّسُولَ وَأُوْلِي ٱلۡأَمۡرِ مِنكُمۡۖ
+\AYAH_AR_END
 
-*O believers! Obey Allah and obey the Messenger and those in authority among
-you.* \[Sūrat al-Nisāʾ, 59\]
+\AYAH_START
+O believers! Obey Allah and obey the Messenger and those in authority among you.
+(Sūrat al-Nisāʾ, Q4:59)
+\AYAH_END
+
 
 Reflect carefully upon the meaning of this āyah.
 
@@ -1099,10 +1207,10 @@ ruler. Therefore, appointing a ruler over oneself is necessary for Muslims. If
 they do not do so, they will be sinful. This ruler is referred to as the Caliph,
 the Imam, or the Amīr.
 
-The Messenger of Allah [ﷺ]{dir="rtl"} said that whoever among you has the
+The Messenger of Allah \hon{\P_HIM}{\BODY} said that whoever among you has the
 ability such that he should not pass a night or greet a morning without having
-an appointed Imam over him, then he should do so. He [ﷺ]{dir="rtl"} also said,
-"When even three people set out on a journey, it is obligatory for them to
+an appointed Imam over him, then he should do so. He \hon{\P_HIM}{\BODY} also
+said, "When even three people set out on a journey, it is obligatory for them to
 appoint one among themselves as an Amīr." \[Sunan Abī Dāwūd\] Consider this
 carefully: if appointing a leader is required even for a simple journey, then
 how can the entire Muslim population live without a Caliph or an Amīr?
@@ -1112,18 +1220,18 @@ religious commands upon Muslims, to care for their benefits and harms, and to
 manage affairs through consultation. And it is obligatory upon Muslims to obey
 and follow him in everything, as long as he does not command them to commit sin.
 
-The Messenger of Allah [ﷺ]{dir="rtl"} said, "It is obligatory upon a Muslim to
-listen and obey in what he likes and dislikes, except when he is commanded to
+The Messenger of Allah \hon{\P_HIM}{\BODY} said, "It is obligatory upon a Muslim
+to listen and obey in what he likes and dislikes, except when he is commanded to
 commit a sin. If he is commanded to commit a sin, then there is no listening and
 no obedience." \[Ṣaḥīḥ al-Bukhārī\]
 
-The Messenger of Allah [ﷺ]{dir="rtl"} said, "O Muslims! Fear Allah, establish
-the five daily prayers, fast your month (Ramadan), give the zakāh of your
-wealth, and obey those whom you appoint as your leader. The result will be that
-you will enter the Paradise of your Lord." \[Musnad Aḥmad\]
+The Messenger of Allah \hon{\P_HIM}{\BODY} said, "O Muslims! Fear Allah,
+establish the five daily prayers, fast your month (Ramadan), give the zakāh of
+your wealth, and obey those whom you appoint as your leader. The result will be
+that you will enter the Paradise of your Lord." \[Musnad Aḥmad\]
 
-Imam Ibn Hishām [رحمه الله]{dir="rtl"} recorded that when Abū Bakr al-Ṣiddīq
-[رضي الله عنه]{dir="rtl"} was pledged allegiance to on becoming the Khalīfah, he
+Imam Ibn Hishām \hon{\M_HIM}{\BODY} recorded that when Abū Bakr al-Ṣiddīq
+\hon{\P_HIM}{\BODY} was pledged allegiance to on becoming the Khalīfah, he
 stood, praised Allah and glorified Him, then said, "O people, I have been placed
 in authority over you, though I am not the best among you. If I do right, then
 help me; and if I do wrong, then correct me. Truthfulness is a trust, and lying
@@ -1137,10 +1245,10 @@ them with trials. Obey me as long as I obey Allah and His Messenger. If I
 disobey Allah and His Messenger, then you owe me no obedience. Now stand for
 your prayer---may Allah have mercy upon you." \[al-Sīrah al-Nabawiyyah\]
 
-The Messenger of Allah [ﷺ]{dir="rtl"} said, "Each of you is a shepherd, and each
-of you is responsible for his flock. The leader over the people is a shepherd
-and is responsible for them. A man is a shepherd over his household and is
-responsible for them. A woman is a shepherd over the house of her husband and
+The Messenger of Allah \hon{\P_HIM}{\BODY} said, "Each of you is a shepherd, and
+each of you is responsible for his flock. The leader over the people is a
+shepherd and is responsible for them. A man is a shepherd over his household and
+is responsible for them. A woman is a shepherd over the house of her husband and
 his children and is responsible for them. A servant is a shepherd over the
 wealth of his master and is responsible for it. Indeed, each of you is a
 shepherd and each of you is responsible for his flock." \[Ṣaḥīḥ al-Bukhārī\]
@@ -1149,71 +1257,78 @@ shepherd and each of you is responsible for his flock." \[Ṣaḥīḥ al-Bukhā
 
 Allah Says,
 
-[وَمَآ ءَاتَىٰكُمُ ٱلرَّسُولُ فَخُذُوهُ وَمَا نَهَىٰكُمْ عَنْهُ فَٱنتَهُوا۟ ۚ
-وَٱتَّقُوا۟ ٱللَّهَ ۖ إِنَّ ٱللَّهَ شَدِيدُ ٱلْعِقَابِ]{dir="rtl"}
+\AYAH_AR_START
+وَمَآ ءَاتَىٰكُمُ ٱلرَّسُولُ فَخُذُوهُ وَمَا نَهَىٰكُمۡ عَنۡهُ فَٱنتَهُواْۚ وَٱتَّقُواْ ٱللَّهَۖ إِنَّ ٱللَّهَ شَدِيدُ ٱلۡعِقَابِ ٧
+\AYAH_AR_END
 
-*Whatever the Messenger gives you, take it. And whatever he forbids you from,
-leave it. And fear Allah. Surely Allah is severe in punishment.* \[Sūrat
-al-Ḥashr, 7\]
+\AYAH_START
+Whatever the Messenger gives you, take it. And whatever he forbids you from,
+leave it. And fear Allah. Surely Allah is severe in punishment. (Sūrat al-Ḥashr,
+Q59:7)
+\AYAH_END
+
 
 The meaning of this āyah is that in every circumstance and in every matter, you
-must follow the Messenger of Allah [ﷺ]{dir="rtl"}. Whatever he commands you to
-do, do it; and whatever he forbids you from, refrain from it.
+must follow the Messenger of Allah \hon{\P_HIM}{\BODY}. Whatever he commands you
+to do, do it; and whatever he forbids you from, refrain from it.
 
-The Messenger of Allah [ﷺ]{dir="rtl"} said, "The best speech is the Book of
-Allah, the best guidance is the guidance of Muḥammad [ﷺ]{dir="rtl"}, the worst
-of matters are newly invented matters, and every innovation is misguidance."
-\[Ṣaḥīḥ Muslim\]
+The Messenger of Allah \hon{\P_HIM}{\BODY} said, "The best speech is the Book of
+Allah, the best guidance is the guidance of Muḥammad \hon{\P_HIM}{\BODY}, the
+worst of matters are newly invented matters, and every innovation is
+misguidance." \[Ṣaḥīḥ Muslim\]
 
-The Messenger of Allah [ﷺ]{dir="rtl"} said, "Whoever innovates into this matter
-of ours that which does not belong to it, it will be rejected." \[Ṣaḥīḥ
-al-Bukhārī\]
+The Messenger of Allah \hon{\P_HIM}{\BODY} said, "Whoever innovates into this
+matter of ours that which does not belong to it, it will be rejected."
+\[Ṣaḥīḥ al-Bukhārī\]
 
 Linguistically, the root of the word bid'ah in Arabic means initiating something
 without any precedent. Technically, introducing additions or omissions into the
 religion from one's own side that have no general or specific basis to support
-it is called bidʿah (innovation). Ḥassān ibn ʿAṭiyyah [رحمه الله]{dir="rtl"}
-said, "No people introduce an innovation into their religion except that Allah
-removes from them a Sunnah equal to it, and He does not return it to them until
-the Day of Resurrection." \[Sunan al-Dārimī\]
+it is called bidʿah (innovation). Ḥassān ibn ʿAṭiyyah \hon{\M_HIM}{\BODY} said,
+"No people introduce an innovation into their religion except that Allah removes
+from them a Sunnah equal to it, and He does not return it to them until the Day
+of Resurrection." \[Sunan al-Dārimī\]
 
-ʿAbdullāh ibn Masʿūd [رضي الله عنه]{dir="rtl"} reported: The Messenger of Allah
-[ﷺ]{dir="rtl"} drew a line with his hand and said, "This is the path of Allah."
-Then he drew lines to its right and left and said, "These are paths, and on
-every one of them there is a Shayṭān calling to it." \[Musnad Aḥmad\] The
+ʿAbdullāh ibn Masʿūd \hon{\P_HIM}{\BODY} reported: The Messenger of Allah
+\hon{\P_HIM}{\BODY} drew a line with his hand and said, "This is the path of
+Allah." Then he drew lines to its right and left and said, "These are paths, and
+on every one of them there is a Shayṭān calling to it." \[Musnad Aḥmad\] The
 meaning of this is that the path of the Messenger is straight and free from
 confusion; whichever other path one follows after abandoning it, one will fall
 into the traps of Shayṭān.
 
-Allah Says in the Qurʾān:
+Allah Says in the Quran,
 
-[وَأَنَّ هَـٰذَا صِرَٰطِى مُسْتَقِيمًۭا فَٱتَّبِعُوهُ ۖ وَلَا تَتَّبِعُوا۟
-ٱلسُّبُلَ فَتَفَرَّقَ بِكُمْ عَن سَبِيلِهِۦ ۚ ذَٰلِكُمْ وَصَّىٰكُم بِهِۦ
-لَعَلَّكُمْ تَتَّقُونَ]{dir="rtl"}
+\AYAH_AR_START
+وَأَنَّ هَٰذَا صِرَٰطِي مُسۡتَقِيمٗا فَٱتَّبِعُوهُۖ وَلَا تَتَّبِعُواْ ٱلسُّبُلَ فَتَفَرَّقَ بِكُمۡ عَن سَبِيلِهِۦۚ ذَٰلِكُمۡ وَصَّىٰكُم بِهِۦ لَعَلَّكُمۡ تَتَّقُونَ ١٥٣
+\AYAH_AR_END
 
-*Indeed, that is My Path---perfectly straight. So follow it and do not follow
+\AYAH_START
+Indeed, that is My Path---perfectly straight. So follow it and do not follow
 other ways, for they will lead you away from His Way. This is what He has
-commanded you, so perhaps you will be conscious (of Allah).* \[Sūrat al-Anʿām,
-153\]
+commanded you, so perhaps you will be conscious (of Allah). (Sūrat al-Anʿām,
+Q6:153)
+\AYAH_END
 
-The Messenger of Allah [ﷺ]{dir="rtl"} said, "All of my Ummah will enter Paradise
-except the one who refuses." It was said, "And who refuses, O Messenger of
-Allah?" He [ﷺ]{dir="rtl"} said, "Whoever obeys me will enter Paradise, and
-whoever disobeys me has refused." \[Ṣaḥīḥ al-Bukhārī\]
 
-The Messenger of Allah [ﷺ]{dir="rtl"} said, "Whoever introduces a good Sunnah in
-Islam will have its reward and the reward of those who act upon it after him,
-without any reduction in their rewards. And whoever introduces an evil
-innovation in Islam will bear its sin and the sin of those who act upon it after
-him, without any reduction in their sins." \[Ṣaḥīḥ Muslim\]
+The Messenger of Allah \hon{\P_HIM}{\BODY} said, "All of my Ummah will enter
+Paradise except the one who refuses." It was said, "And who refuses, O Messenger
+of Allah?" He \hon{\P_HIM}{\BODY} said, "Whoever obeys me will enter Paradise,
+and whoever disobeys me has refused." \[Ṣaḥīḥ al-Bukhārī\]
 
-Anas ibn Mālik [رضي الله عنه]{dir="rtl"} narrated that the Prophet
-[ﷺ]{dir="rtl"} said, "Some people from my Companions will come to my Ḥawḍ
-(Cistern), and I will recognize them. Then they will be driven away from it, and
-I will say, 'They are my Companions!' It will be said, 'You do not know what
-they innovated after you were gone.'" \[Ṣaḥīḥ al-Bukhārī\]
+The Messenger of Allah \hon{\P_HIM}{\BODY} said, "Whoever introduces a good
+Sunnah in Islam will have its reward and the reward of those who act upon it
+after him, without any reduction in their rewards. And whoever introduces an
+evil innovation in Islam will bear its sin and the sin of those who act upon it
+after him, without any reduction in their sins." \[Ṣaḥīḥ Muslim\]
 
-Imam Ibn Kathīr [رحمه الله]{dir="rtl"} states, "As for the position of Ahl
+Anas ibn Mālik \hon{\P_HIM}{\BODY} narrated that the Prophet \hon{\P_HIM}{\BODY}
+said, "Some people from my Companions will come to my Ḥawḍ (Cistern), and I will
+recognize them. Then they will be driven away from it, and I will say, 'They are
+my Companions!' It will be said, 'You do not know what they innovated after you
+were gone.'" \[Ṣaḥīḥ al-Bukhārī\]
+
+Imam Ibn Kathīr \hon{\M_HIM}{\BODY} states, "As for the position of Ahl
 al-Sunnah wa'l-Jamāʿah, they say regarding every action or statement that is not
 established from the Companions that it is an innovation. For if there had been
 any good in it, they would have preceded us in it, since they did not leave off
@@ -1221,9 +1336,9 @@ any good characteristic except that they hastened to perform it." \[Tafsīr Ibn
 Kathīr\]
 
 The teacher of Imam Abū Dāwūd and Imam al-Nasāʾī, Imam Muḥammad ibn ʿAbd
-al-Raḥmān al-Adramī [رحمه الله]{dir="rtl"}, articulated a profound principle
+al-Raḥmān al-Adramī \hon{\M_HIM}{\BODY}, articulated a profound principle
 during a debate with an innovator. He asked the man, "Did the Messenger of Allah
-[ﷺ]{dir="rtl"}, Abū Bakr, ʿUmar, ʿUthmān, or ʿAlī [رضي الله عنهم]{dir="rtl"}
+\hon{\P_HIM}{\BODY}, Abū Bakr, ʿUmar, ʿUthmān, or ʿAlī \hon{\P_THM}{\BODY}
 have knowledge of this belief you are calling to, or were they ignorant of it?"
 The man replied, "No, they were not ignorant of it."
 
@@ -1234,179 +1349,217 @@ it?" The man replied, "Yes, it was permissible."
 Imam al-Adramī then said, "They were aware of it according to you, yet they did
 not preach it. So how is it that you now propagate it?" The innovator was unable
 to answer. The ruler, who was witnessing the debate, then said, "If what was
-sufficient for the Messenger of Allah [ﷺ]{dir="rtl"} and the Khulafāʾ
-al-Rāshidūn [رضي الله عنهم]{dir="rtl"} is not sufficient for someone, then may
+sufficient for the Messenger of Allah \hon{\P_HIM}{\BODY} and the Khulafāʾ
+al-Rāshidūn \hon{\P_THM}{\BODY} is not sufficient for someone, then may
 Allah never suffice the one who is not content with what sufficed them."
 \[Manāqib al-Imam Aḥmad\]
 
-Allah Says:
+Allah Says,
+
+\AYAH_AR_START
+لِّتُؤۡمِنُواْ بِٱللَّهِ وَرَسُولِهِۦ وَتُعَزِّرُوهُ وَتُوَقِّرُوهُۚ وَتُسَبِّحُوهُ بُكۡرَةٗ وَأَصِيلًا ٩
+\AYAH_AR_END
+
+\AYAH_START
+So that you may believe in Allah and His Messenger, support him, and revere him,
+and glorify Allah morning and evening. (Sūrat al-Fatḥ, Q48:9)
+\AYAH_END
 
 [لِّتُؤْمِنُوا۟ بِٱللَّهِ وَرَسُولِهِۦ وَتُعَزِّرُوهُ وَتُوَقِّرُوهُ
 وَتُسَبِّحُوهُ بُكْرَةًۭ وَأَصِيلًا]{dir="rtl"}
 
-*So that you may believe in Allah and His Messenger, support him, and revere
-him, and glorify Allah morning and evening.* \[Sūrat al-Fatḥ, 9\]
 
-From this āyah, it becomes clear that, along with believing in Allah and His
-Messenger [ﷺ]{dir="rtl"}, it is also necessary to uphold their honor and
+From this _āyah_, it becomes clear that, along with believing in Allah and His
+Messenger \hon{\P_HIM}{\BODY}, it is also necessary to uphold their honor and
 dignity. Respect and reverence mean that neither should the tongue utter
-anything that shows disrespect toward Allah and His Messenger [ﷺ]{dir="rtl"},
-nor should the heart hold any belief that diminishes their status.
+anything that shows disrespect toward Allah and His Messenger
+\hon{\P_HIM}{\BODY}, nor should the heart hold any belief that diminishes their
+status.
 
 The Companions exemplified this respect profoundly. When the Messenger of Allah
-[ﷺ]{dir="rtl"} arrived in Madinah, he stayed in the home of Abū Ayyūb al-Anṣārī
-[رضي الله عنه]{dir="rtl"}. The Prophet [ﷺ]{dir="rtl"} stayed on the lower floor,
-while Abū Ayyūb and his family stayed on the upper floor. One night, Abū Ayyūb
-awoke and said to his wife, "How can we remain above the Messenger of Allah?"
-Out of this concern, they confined themselves to one corner of the upper floor.
-In the morning, Abū Ayyūb said to the Prophet [ﷺ]{dir="rtl"}, "You should stay
-on the upper floor." The Prophet [ﷺ]{dir="rtl"} replied that the lower floor was
-more suitable for him. Abū Ayyūb responded, "We cannot walk on a roof beneath
-which you are." Eventually, the Prophet [ﷺ]{dir="rtl"} moved to the upper floor.
+\hon{\P_HIM}{\BODY} arrived in Madinah, he stayed in the home of Abū Ayyūb
+al-Anṣārī \hon{\P_HIM}{\BODY}. The Prophet \hon{\P_HIM}{\BODY} stayed on the
+lower floor, while Abū Ayyūb and his family stayed on the upper floor. One
+night, Abū Ayyūb awoke and said to his wife, "How can we remain above the
+Messenger of Allah?" Out of this concern, they confined themselves to one corner
+of the upper floor. In the morning, Abū Ayyūb said to the Prophet
+\hon{\P_HIM}{\BODY}, "You should stay on the upper floor." The Prophet
+\hon{\P_HIM}{\BODY} replied that the lower floor was more suitable for him. Abū
+Ayyūb responded, "We cannot walk on a roof beneath which you are." Eventually,
+the Prophet \hon{\P_HIM}{\BODY} moved to the upper floor.
 
 ## Sending Blessings and Salutations (Durūd and Salām)
 
 Allah Says,
 
-[إِنَّ ٱللَّهَ وَمَلَـٰٓئِكَتَهُۥ يُصَلُّونَ عَلَى ٱلنَّبِىِّ ۚ يَـٰٓأَيُّهَا
-ٱلَّذِينَ ءَامَنُوا۟ صَلُّوا۟ عَلَيْهِ وَسَلِّمُوا۟ تَسْلِيمًا]{dir="rtl"}
+\AYAH_AR_START
+إِنَّ ٱللَّهَ وَمَلَٰٓئِكَتَهُۥ يُصَلُّونَ عَلَى ٱلنَّبِيِّۚ يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ صَلُّواْ عَلَيۡهِ وَسَلِّمُواْ تَسۡلِيمًا ٥٦
+\AYAH_AR_END
 
-*Indeed, Allah showers His blessings upon the Prophet, and His angels pray for
+\AYAH_START
+Indeed, Allah showers His blessings upon the Prophet, and His angels pray for
 him. O believers! Invoke Allah's blessings upon him, and salute him with worthy
-greetings of peace.* \[Sūrat al-Aḥzāb, 56\]
+greetings of peace. (Sūrat al-Aḥzāb, Q33:56)
+\AYAH_END
+
 
 In this āyah, Allah Almighty Commands the believers to send blessings and
-salutations upon the Messenger of Allah [ﷺ]{dir="rtl"}. Sending blessings and
-salutations is, in reality, a gift that Muslims present to their Prophet
-[ﷺ]{dir="rtl"}. Allah and His angels also send blessings upon the Messenger of
-Allah [ﷺ]{dir="rtl"}. The Messenger [ﷺ]{dir="rtl"} endured countless hardships
-in order to convey Allah's religion to us---should we not then send blessings
-and salutations upon him?
+salutations upon the Messenger of Allah \hon{\P_HIM}{\BODY}. Sending blessings
+and salutations is, in reality, a gift that Muslims present to their Prophet
+\hon{\P_HIM}{\BODY}. Allah and His angels also send blessings upon the Messenger
+of Allah \hon{\P_HIM}{\BODY}. The Messenger \hon{\P_HIM}{\BODY} endured
+countless hardships in order to convey Allah's religion to us---should we not
+then send blessings and salutations upon him?
 
-Always remember that the Messenger of Allah [ﷺ]{dir="rtl"} does not need your
-blessings and salutations; rather, the benefit returns to you. The Messenger of
-Allah [ﷺ]{dir="rtl"} said, "Whoever sends one prayer upon me, Allah sends ten
-prayers upon him, removes ten sins from him, and raises him by ten levels."
-\[Sunan al-Nasāʾī\]
+Always remember that the Messenger of Allah \hon{\P_HIM}{\BODY} does not need
+your blessings and salutations; rather, the benefit returns to you. The
+Messenger of Allah \hon{\P_HIM}{\BODY} said, "Whoever sends one prayer upon me,
+Allah sends ten prayers upon him, removes ten sins from him, and raises him by
+ten levels." \[Sunan al-Nasāʾī\]
 
-Faḍālah ibn ʿUbayd [رضي الله عنه]{dir="rtl"} said: The Messenger of Allah
-[ﷺ]{dir="rtl"} heard a man supplicating in his prayer without praising Allah or
-sending blessings upon the Prophet [ﷺ]{dir="rtl"}. He [ﷺ]{dir="rtl"} said, "This
-man has been hasty." Then he called him and said, "When one of you supplicates,
-let him begin by praising Allah and glorifying Him, then let him send blessings
-upon the Prophet [ﷺ]{dir="rtl"}, then let him supplicate for whatever he
-wishes." \[Jāmiʿ al-Tirmidhī\]
+Faḍālah ibn ʿUbayd \hon{\P_HIM}{\BODY} said: The Messenger of Allah
+\hon{\P_HIM}{\BODY} heard a man supplicating in his prayer without praising
+Allah or sending blessings upon the Prophet \hon{\P_HIM}{\BODY}. He
+\hon{\P_HIM}{\BODY} said, "This man has been hasty." Then he called him and
+said, "When one of you supplicates, let him begin by praising Allah and
+glorifying Him, then let him send blessings upon the Prophet
+\hon{\P_HIM}{\BODY}, then let him supplicate for whatever he wishes." \[Jāmiʿ
+al-Tirmidhī\]
 
-ʿAbdullāh ibn Masʿūd [رضي الله عنه]{dir="rtl"} said, "When one of you wishes to
-ask Allah, let him begin by praising Allah as He deserves to be praised, then
-let him send blessings upon the Prophet [ﷺ]{dir="rtl"}, then let him supplicate
+ʿAbdullāh ibn Masʿūd \hon{\P_HIM}{\BODY} said, "When one of you wishes to ask
+Allah, let him begin by praising Allah as He deserves to be praised, then let
+him send blessings upon the Prophet \hon{\P_HIM}{\BODY}, then let him supplicate
 thereafter, for that is more likely to be accepted." \[al-Muʿjam al-Kabīr\]
 
-ʿUmar ibn al-Khaṭṭāb [رضي الله عنه]{dir="rtl"} said, "Indeed, supplication
-remains suspended between the heaven and the earth; nothing of it ascends until
-you send prayers upon your Prophet [ﷺ]{dir="rtl"}." \[Shuʿab al-Īmān\]
+ʿUmar ibn al-Khaṭṭāb \hon{\P_HIM}{\BODY} said, "Indeed, supplication remains
+suspended between the heaven and the earth; nothing of it ascends until you send
+prayers upon your Prophet \hon{\P_HIM}{\BODY}." \[Shuʿab al-Īmān\]
 
-The best form of sending blessings is the one recited in al-Taḥiyyāt, namely:
+The best form of sending blessings is the one recited in al-Taḥiyyāt, namely,
 
-[اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ، وَعَلَى آلِ مُحَمَّدٍ، كَمَا صَلَّيْتَ عَلَى
-إِبْرَاهِيمَ وَعَلَى آلِ إِبْرَاهِيمَ، إِنَّكَ حَمِيدٌ مَجِيدٌ]{dir="rtl"}
+\HADITH_AR_START
+اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ، وَعَلَى آلِ مُحَمَّدٍ، كَمَا صَلَّيْتَ عَلَى
+إِبْرَاهِيمَ وَعَلَى آلِ إِبْرَاهِيمَ، إِنَّكَ حَمِيدٌ مَجِيدٌ
+\HADITH_AR_END
 
+\HADITH_START
 "O Allah, send blessings upon Muḥammad and upon the family of Muḥammad, as You
 sent blessings upon Ibrāhīm and upon the family of Ibrāhīm. Indeed, You are Most
 Praiseworthy, Most Glorious." \[Ṣaḥīḥ al-Bukhārī\]
+\HADITH_END
+
 
 ## The Friends of Allah (Awliyāʾ Allāh)
 
 Allah Says,
 
-[]{dir="ltr"}[﴿أَلَا إِنَّ أَوْلِيَاءَ اللَّهِ لَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ
-يَحْزَنُونَ • الَّذِينَ آمَنُوا وَكَانُوا يَتَّقُونَ﴾]{dir="rtl"}
+\AYAH_AR_START
+أَلَآ إِنَّ أَوۡلِيَآءَ ٱللَّهِ لَا خَوۡفٌ عَلَيۡهِمۡ وَلَا هُمۡ يَحۡزَنُونَ ٦٢ٱلَّذِينَ ءَامَنُواْ وَكَانُواْ يَتَّقُونَ ٦٣
+\AYAH_AR_END
 
-*Indeed, the friends of Allah will have no fear upon them, nor will they
-grieve---those who believe and are mindful of Allah.* \[Sūrat Yūnus, 62-63\]
+\AYAH_START
+Indeed, the friends of Allah will have no fear upon them, nor will they
+grieve---those who believe and are mindful of Allah. (Sūrat Yūnus, Q10:62--63)
+\AYAH_END
 
-Those who obey Allah and, through following the Messenger [ﷺ]{dir="rtl"}, become
-beloved to Allah are called His friends (awliyāʾ). The sign of a friend of Allah
-is that he follows the religion and obeys Allah and His Messenger [ﷺ]{dir="rtl"}
-in every matter. Allah says:
 
-[إِنَّ أَوْلِيَاءَهُ إِلَّا الْمُتَّقُونَ]{dir="rtl"}
+Those who obey Allah and, through following the Messenger \hon{\P_HIM}{\BODY},
+become beloved to Allah are called His friends (awliyāʾ). The sign of a friend
+of Allah is that he follows the religion and obeys Allah and His Messenger
+\hon{\P_HIM}{\BODY} in every matter. Allah says:
 
-*Indeed, His friends are only the people of taqwā.* \[Sūrat al-Anfāl, 34\]
+\AYAH_AR_START
+إِنۡ أَوۡلِيَآؤُهُۥٓ إِلَّا ٱلۡمُتَّقُونَ
+\AYAH_AR_END
 
-The Messenger of Allah [ﷺ]{dir="rtl"} said: "My friends are Allah and the
+\AYAH_START
+Indeed, His friends are only the people of _taqwá_. (Sūrat al-Anfāl, Q8:34)
+\AYAH_END
+
+
+The Messenger of Allah \hon{\P_HIM}{\BODY} said: "My friends are Allah and the
 righteous believers."
 
-Imam Ḥasan al-Baṣrī [رحمه الله]{dir="rtl"} said that some people claimed to love
+Imam Ḥasan al-Baṣrī \hon{\M_HIM}{\BODY} said that some people claimed to love
 Allah, so Allah revealed this āyah to test them:
 
-[قُلْ إِن كُنتُمْ تُحِبُّونَ ٱللَّهَ فَٱتَّبِعُونِى يُحْبِبْكُمُ ٱللَّهُ
-وَيَغْفِرْ لَكُمْ ذُنُوبَكُمْ ۗ وَٱللَّهُ غَفُورٌۭ رَّحِيمٌۭ]{dir="rtl"}
+\AYAH_AR_START
+قُلۡ إِن كُنتُمۡ تُحِبُّونَ ٱللَّهَ فَٱتَّبِعُونِي يُحۡبِبۡكُمُ ٱللَّهُ وَيَغۡفِرۡ لَكُمۡ ذُنُوبَكُمۡۚ وَٱللَّهُ غَفُورٞ رَّحِيمٞ ٣١
+\AYAH_AR_END
 
-*Say, (O Prophet), "If you (sincerely) love Allah, then follow me; Allah will
-Love you and Forgive your sins. For Allah is All-Forgiving, Most Merciful."*
-\[Sūrat Āl ʿImrān, 31\]
+\AYAH_START
+Say, (O Prophet), "If you (sincerely) love Allah, then follow me; Allah will
+Love you and Forgive your sins. For Allah is All-Forgiving, Most Merciful."
+(Sūrat Āl ʿImrān, Q3:31)
+\AYAH_END
 
-This means that following the Messenger [ﷺ]{dir="rtl"} is the criterion. Whoever
-fulfills it is a friend of Allah; whoever departs from it should never be
-considered a friend of Allah, nor should his words be trusted or one's heart be
-attached to him.
 
-Imam Junayd al-Baghdādī [رحمه الله]{dir="rtl"} said, "All paths are closed to
+This means that following the Messenger \hon{\P_HIM}{\BODY} is the criterion.
+Whoever fulfills it is a friend of Allah; whoever departs from it should never
+be considered a friend of Allah, nor should his words be trusted or one's heart
+be attached to him.
+
+Imam Junayd al-Baghdādī \hon{\M_HIM}{\BODY} said, "All paths are closed to
 creation except for the one who follows the way of the Messenger of Allah
-[ﷺ]{dir="rtl"}." \[Ḥilyat al-Awliyāʾ\]
+\hon{\P_HIM}{\BODY}." \[Ḥilyat al-Awliyāʾ\]
 
-Shaykh ʿAbd al-Qādir al-Jīlānī [رحمه الله]{dir="rtl"} said, "I advise you to
-fear Allah, to stop at His commands and prohibitions, to adhere to the Sharīʿah,
-and to abandon innovation." \[al-Fatḥ al-Rabbānī\]
+Shaykh ʿAbd al-Qādir al-Jīlānī \hon{\M_HIM}{\BODY} said, "I advise you to fear
+Allah, to stop at His commands and prohibitions, to adhere to the Sharīʿah, and
+to abandon innovation." \[al-Fatḥ al-Rabbānī\]
 
-Khwājah Muḥammad Maʿṣūm [رحمه الله]{dir="rtl"} said, "Anyone whose actions do
-not conform to the Sunnah and who is not bound by the Sharīʿah, staying away
-from him is obligatory. All salvation lies in following Muḥammad
-[ﷺ]{dir="rtl"}." \[Maktūbāt-i-Maʿṣūmiyyah\]
+Khwājah Muḥammad Maʿṣūm \hon{\M_HIM}{\BODY} said, "Anyone whose actions do not
+conform to the Sunnah and who is not bound by the Sharīʿah, staying away from
+him is obligatory. All salvation lies in following Muḥammad
+\hon{\P_HIM}{\BODY}." \[Maktūbāt-i-Maʿṣūmiyyah\]
 
 Thus, the friend of Allah is only the one who practices the religion and follows
-the Messenger of Allah [ﷺ]{dir="rtl"}. Whoever does not do so is not a friend of
-Allah.
+the Messenger of Allah \hon{\P_HIM}{\BODY}. Whoever does not do so is not a
+friend of Allah.
 
 ## Good Company
 
 Allah Says,
 
-[وَاتَّبِعْ سَبِيلَ مَنْ أَنَابَ إِلَيَّ]{dir="rtl"}
+\AYAH_AR_START
+وَٱتَّبِعۡ سَبِيلَ مَنۡ أَنَابَ إِلَيَّۚ
+\AYAH_AR_END
 
-*And follow the path of those who turn to Me (in devotion)* (Sūrat Luqmān, 15)
+\AYAH_START
+And follow the path of those who turn to Me (in devotion). (Sūrat Luqmān,
+Q31:15)
+\AYAH_END
+
 
 The company of righteous people makes a person righteous. That is why Allah
 Commands us to follow those who turn toward Him, worship Him, and obey Him.
 Keeping the company of pious people is itself an act of righteousness and a
 source of reward.
 
-The Messenger of Allah [ﷺ]{dir="rtl"} said, "A man set out to visit a brother of
-his in another town. Allah appointed an angel on his path. When he came to him,
-the angel said, 'Where are you going?' He replied, 'I am going to visit a
-brother of mine in this town.' He said, 'Do you have any favor with him that you
-are seeking to maintain?' He replied, 'No, except that I love him for the sake
-of Allah.' He said, 'I am a messenger from Allah to you, informing you that
-Allah loves you just as you love him for His sake.'" \[Ṣaḥīḥ Muslim\]
+The Messenger of Allah \hon{\P_HIM}{\BODY} said, "A man set out to visit a
+brother of his in another town. Allah appointed an angel on his path. When he
+came to him, the angel said, 'Where are you going?' He replied, 'I am going to
+visit a brother of mine in this town.' He said, 'Do you have any favor with him
+that you are seeking to maintain?' He replied, 'No, except that I love him for
+the sake of Allah.' He said, 'I am a messenger from Allah to you, informing you
+that Allah loves you just as you love him for His sake.'" \[Ṣaḥīḥ Muslim\]
 
-ʿAbdullāh ibn ʿAbbās [رضي الله عنهما]{dir="rtl"} narrated that it was said to
-the Messenger of Allah [ﷺ]{dir="rtl"}: "Who is the best of people?" He
-[ﷺ]{dir="rtl"} replied, "The one who, when he is seen, Allah is remembered."
-\[Ibn Mājah\]
+ʿAbdullāh ibn ʿAbbās \hon{\P_TWO}{\BODY} narrated that it was said to the
+Messenger of Allah \hon{\P_HIM}{\BODY}: "Who is the best of people?" He
+\hon{\P_HIM}{\BODY} replied, "The one who, when he is seen, Allah is
+remembered." \[Ibn Mājah\]
 
-ʿUmar [رضي الله عنه]{dir="rtl"} lived at some distance from Madinah and could
-not attend the Prophet [ﷺ]{dir="rtl"} daily. So he would go one day himself and
+ʿUmar \hon{\P_HIM}{\BODY} lived at some distance from Madinah and could not
+attend the Prophet \hon{\P_HIM}{\BODY} daily. So he would go one day himself and
 send his brother in Islam the next day so that he could learn the words of the
-Messenger [ﷺ]{dir="rtl"} through him. ʿUmar ibn al-Khaṭṭāb [رضي الله
-عنه]{dir="rtl"} narrated, "A neighbor of mine from the Anṣār and I lived among
-Banū Umayyah ibn Zayd, who lived on the outskirts of Madinah. We used to take
-turns going to the Messenger of Allah [ﷺ]{dir="rtl"}. He would go one day, and I
-would go the next. When I went, I would bring him the news of that day regarding
-revelation and other matters, and when he went, he would do the same." \[Ṣaḥīḥ
-al-Bukhārī\]
+Messenger \hon{\P_HIM}{\BODY} through him. ʿUmar ibn al-Khaṭṭāb
+\hon{\P_HIM}{\BODY} narrated, "A neighbor of mine from the Anṣār and I lived
+among Banū Umayyah ibn Zayd, who lived on the outskirts of Madinah. We used to
+take turns going to the Messenger of Allah \hon{\P_HIM}{\BODY}. He would go one
+day, and I would go the next. When I went, I would bring him the news of that
+day regarding revelation and other matters, and when he went, he would do the
+same." \[Ṣaḥīḥ al-Bukhārī\]
 
-The Messenger of Allah [ﷺ]{dir="rtl"} said, "The example of a righteous
+The Messenger of Allah \hon{\P_HIM}{\BODY} said, "The example of a righteous
 companion and an evil companion is like that of a perfume seller and a
 blacksmith. The perfume seller may give you some perfume, or you may buy some
 from him, or at least you will find a pleasant fragrance from him. As for the
@@ -1417,76 +1570,86 @@ smell." \[Ṣaḥīḥ al-Bukhārī\]
 
 Allah Says,
 
-[وَلَا تُطِيعُوا أَمْرَ الْمُسْرِفِينَ]{dir="rtl"}
+\AYAH_AR_START
+وَلَا تُطِيعُوٓاْ أَمۡرَ ٱلۡمُسۡرِفِينَ ١٥١
+\AYAH_AR_END
 
-*And do not follow the command of the transgressors.* \[Sūrat al-Shuʿarāʾ, 151\]
+\AYAH_START
+And do not follow the command of the transgressors. (Sūrat al-Shuʿarāʾ, Q26:151)
+\AYAH_END
+
 
 Allah Commands us not to obey reckless people who have no fear of Him, nor to
 form close ties with them. Bad company corrupts a person, and one must protect
 oneself from it.
 
-The Prophet [ﷺ]{dir="rtl"} said that those who sit with oppressive rulers and
-assist them will have a terrible end. The Messenger of Allah [ﷺ]{dir="rtl"}
-said, "There will be rulers. Whoever enters upon them, believes their lies, and
-assists them in their oppression---he is not from me, and I am not from him, and
-he will not come to me at the Cistern." \[Musnad Aḥmad\]
+The Prophet \hon{\P_HIM}{\BODY} said that those who sit with oppressive rulers
+and assist them will have a terrible end. The Messenger of Allah
+\hon{\P_HIM}{\BODY} said, "There will be rulers. Whoever enters upon them,
+believes their lies, and assists them in their oppression---he is not from me,
+and I am not from him, and he will not come to me at the Cistern." \[Musnad
+Aḥmad\]
 
-The Messenger of Allah [ﷺ]{dir="rtl"} said, "A person follows the religion of
-his close friend, so let each of you carefully consider whom he befriends."
-\[Jāmiʿ al-Tirmidhī\] He [ﷺ]{dir="rtl"} further warned against sitting with
+The Messenger of Allah \hon{\P_HIM}{\BODY} said, "A person follows the religion
+of his close friend, so let each of you carefully consider whom he befriends."
+\[Jāmiʿ al-Tirmidhī\] He \hon{\P_HIM}{\BODY} further warned against sitting with
 innovators in religion and those enslaved by their desires.
 
 The meaning is that deep association with such people inevitably harms one's
 religion, so extreme caution is required.
 
-ʿAbdullāh ibn ʿAbbās [رضي الله عنهما]{dir="rtl"} said, "Do not sit with the
-people of desires, for sitting with them causes sickness of the heart." \[Sharḥ
-Uṣūl Iʿtiqād Ahl al-Sunnah\]
+ʿAbdullāh ibn ʿAbbās \hon{\P_TWO}{\BODY} said, "Do not sit with the people of
+desires, for sitting with them causes sickness of the heart." \[Sharḥ Uṣūl
+Iʿtiqād Ahl al-Sunnah\]
 
-## The Noble Qurʾān
+## The Noble Quran
 
 Allah Says,
 
-[وَٱعْتَصِمُوا۟ بِحَبْلِ ٱللَّهِ جَمِيعًۭا وَلَا تَفَرَّقُوا۟ ۚ]{dir="rtl"}
+\AYAH_AR_START
+وَٱعۡتَصِمُواْ بِحَبۡلِ ٱللَّهِ جَمِيعٗا وَلَا تَفَرَّقُواْۚ
+\AYAH_AR_END
 
-*"And hold firmly to the Rope of Allah, and do not be divided.* \[Sūrat Āl
-ʿImrān, 103\]
+\AYAH_START
+And hold firmly to the Rope of Allah, and do not be divided. (Sūrat Āl ʿImrān,
+Q3:103)
+\AYAH_END
 
-The Rope of Allah refers to the Noble Qur'an. One must cling firmly to its
-commands. The Messenger of Allah [ﷺ]{dir="rtl"} said, "I have left among you two
-matters; you will never go astray so long as you hold firmly to them: the Book
-of Allah and the Sunnah of His Messenger." \[al-Muwaṭṭaʾ\]
+The Rope of Allah refers to the Noble Quran. One must cling firmly to its
+commands. The Messenger of Allah \hon{\P_HIM}{\BODY} said, "I have left among
+you two matters; you will never go astray so long as you hold firmly to them:
+the Book of Allah and the Sunnah of His Messenger." \[al-Muwaṭṭaʾ\]
 
-The Messenger of Allah [ﷺ]{dir="rtl"} said, "Indeed, Allah is Pleased for you
-with three matters and Displeased for you with three matters. He is Pleased for
-you that you worship Him and do not associate anything with Him, that you hold
-fast altogether to the Rope of Allah and do not become divided, and that you
-sincerely advise those whom Allah has placed in authority over you. And He is
-Displeased for you with idle talk (he said, 'so-and-so said'), wasting wealth,
-and excessive questioning." \[Ṣaḥīḥ Muslim\]
+The Messenger of Allah \hon{\P_HIM}{\BODY} said, "Indeed, Allah is Pleased for
+you with three matters and Displeased for you with three matters. He is Pleased
+for you that you worship Him and do not associate anything with Him, that you
+hold fast altogether to the Rope of Allah and do not become divided, and that
+you sincerely advise those whom Allah has placed in authority over you. And He
+is Displeased for you with idle talk (he said, 'so-and-so said'), wasting
+wealth, and excessive questioning." \[Ṣaḥīḥ Muslim\]
 
-Shaykh al-Islam Ibn Taymiyyah [رحمه الله]{dir="rtl"} said, "Holding fast
-altogether to the Rope of Allah and not becoming divided is among the greatest
-foundations of Islam." \[Majmūʿ al-Fatāwá\]
+Shaykh al-Islam Ibn Taymiyyah \hon{\M_HIM}{\BODY} said, "Holding fast altogether
+to the Rope of Allah and not becoming divided is among the greatest foundations
+of Islam." \[Majmūʿ al-Fatāwá\]
 
-Abū Shurayḥ al-Khuzaʿī [رضي الله عنه]{dir="rtl"} reported: The Messenger of
-Allah [ﷺ]{dir="rtl"} came out to us and said, "Rejoice, and rejoice! Do you not
+Abū Shurayḥ al-Khuzaʿī \hon{\P_HIM}{\BODY} reported: The Messenger of Allah
+\hon{\P_HIM}{\BODY} came out to us and said, "Rejoice, and rejoice! Do you not
 testify that there is no deity worthy of worship except Allah and that I am the
-Messenger of Allah?" They replied, "Yes." He [ﷺ]{dir="rtl"} said, "Indeed, this
-Qur'an is a rope---one end of it is in the Hand of Allah, and the other end is
-in your hands. So hold fast to it, for you will never go astray nor be destroyed
-after it, ever." \[Musnad Aḥmad\]
+Messenger of Allah?" They replied, "Yes." He \hon{\P_HIM}{\BODY} said, "Indeed,
+this Quran is a rope---one end of it is in the Hand of Allah, and the other end
+is in your hands. So hold fast to it, for you will never go astray nor be
+destroyed after it, ever." \[Musnad Aḥmad\]
 
 This Rope of Allah cannot be broken, but it can be let go. Whoever lets go of it
 will fall into the pit of misguidance, and whoever holds fast to it will be
-saved. The Qur'an is Allah's final book, containing guidance for all benefit and
+saved. The Quran is Allah's final book, containing guidance for all benefit and
 harm. With it present, we should not turn elsewhere.
 
-Imam Ibn al-Qayyim [رحمه الله]{dir="rtl"} said, "Well-being and happiness in
-this world and the Hereafter are built upon holding fast to Allah and holding
-fast to His Rope, and there is no salvation except for the one who adheres to
-these two foundations. Holding fast to His Rope protects one from misguidance,
-and holding fast to Him protects one from destruction.
+Imam Ibn al-Qayyim \hon{\M_HIM}{\BODY} said, "Well-being and happiness in this
+world and the Hereafter are built upon holding fast to Allah and holding fast to
+His Rope, and there is no salvation except for the one who adheres to these two
+foundations. Holding fast to His Rope protects one from misguidance, and holding
+fast to Him protects one from destruction.
 
 The one journeying to Allah is like a traveler on a road toward his destination:
 he needs guidance to show him the path, and he needs strength and equipment to
@@ -1494,17 +1657,21 @@ protect him from bandits and dangers. Holding fast to the Rope of Allah leads
 him to guidance, and holding fast to Allah grants him strength, provision, and
 protection. \[Madarij al-Sālikīn\]
 
-## Etiquette with the Qurʾān
+## Etiquette with the Quran
 
 Allah Says,
 
-[وَإِذَا قُرِئَ ٱلْقُرْءَانُ فَٱسْتَمِعُوا۟ لَهُۥ وَأَنصِتُوا۟ لَعَلَّكُمْ
-تُرْحَمُونَ]{dir="rtl"}
+\AYAH_AR_START
+وَإِذَا قُرِئَ ٱلۡقُرۡءَانُ فَٱسۡتَمِعُواْ لَهُۥ وَأَنصِتُواْ لَعَلَّكُمۡ تُرۡحَمُونَ ٢٠٤
+\AYAH_AR_END
 
-*"When the Qurʾān is recited, listen to it attentively and remain silent, so you
-may be shown Mercy."* \[Sūrat al-Aʿrāf, 204\]
+\AYAH_START
+"When the Quran is recited, listen to it attentively and remain silent, so you
+may be shown Mercy." (Sūrat al-Aʿrāf, Q7:204)
+\AYAH_END
 
-When the Qurʾān is recited, two things are required: to remain silent and to
+
+When the Quran is recited, two things are required: to remain silent and to
 listen attentively so that the meaning may be understood. Even if one does not
 understand the meaning, listening with reverence still earns reward.
 
@@ -1515,9 +1682,14 @@ attentively---so how much greater is the Command of Allah?
 
 Allah Says,
 
-[وَٱفْعَلُوا۟ ٱلْخَيْرَ لَعَلَّكُمْ تُفْلِحُونَ]{dir="rtl"}
+\AYAH_AR_START
+وَٱفۡعَلُواْ ٱلۡخَيۡرَ لَعَلَّكُمۡ تُفۡلِحُونَ ٧٧
+\AYAH_AR_END
 
-*And do good so that you may be successful.* \[Sūrat al-Ḥajj, 77\]
+\AYAH_START
+And do good so that you may be successful. (Sūrat al-Ḥajj, Q22:77)
+\AYAH_END
+
 
 Two things form the foundation of a Muslim's religion: sound belief and
 righteous deeds. Righteous deeds are of two types: those related directly to
@@ -1528,31 +1700,38 @@ effects reach others (social dealings).
 Without sound belief and righteous deeds, a person cannot succeed before Allah.
 Allah Says,
 
-[وَٱلْعَصْرِ - إِنَّ ٱلْإِنسَـٰنَ لَفِى خُسْرٍ - إِلَّا ٱلَّذِينَ ءَامَنُوا۟
-وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ وَتَوَاصَوْا۟ بِٱلْحَقِّ وَتَوَاصَوْا۟
-بِٱلصَّبْرِ]{dir="rtl"}
+\AYAH_AR_START
+وَٱلۡعَصۡرِ ١إِنَّ ٱلۡإِنسَٰنَ لَفِي خُسۡرٍ ٢إِلَّا ٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّٰلِحَٰتِ وَتَوَاصَوۡاْ بِٱلۡحَقِّ وَتَوَاصَوۡاْ بِٱلصَّبۡرِ ٣
+\AYAH_AR_END
 
-*(I Swear) by the (passage of) time! Surely humanity is in (grave) loss, except
+\AYAH_START
+(I Swear) by the (passage of) time! Surely humanity is in (grave) loss, except
 those who have faith, do good, and urge each other to the truth, and urge each
-other to perseverance.* \[Sūrat al-ʿAṣr, 1-3\]
+other to perseverance. (Sūrat al-ʿAṣr, Q103:1--3)
+\AYAH_END
 
-Throughout the Qur'an, faith is always linked with action. Allah Says,
+Throughout the Quran, faith is always linked with action. Allah Says,
 
-[فَمَن كَانَ يَرْجُوا۟ لِقَآءَ رَبِّهِۦ فَلْيَعْمَلْ عَمَلًۭا صَـٰلِحًۭا وَلَا
-يُشْرِكْ بِعِبَادَةِ رَبِّهِۦٓ أَحَدًۢا]{dir="rtl"}
+\AYAH_AR_START
+فَمَن كَانَ يَرۡجُواْ لِقَآءَ رَبِّهِۦ فَلۡيَعۡمَلۡ عَمَلٗا صَٰلِحٗا وَلَا يُشۡرِكۡ بِعِبَادَةِ رَبِّهِۦٓ أَحَدَۢا ١١٠
+\AYAH_AR_END
 
-*So whoever hopes for the meeting with their Lord, let them do good deeds and
-associate none in the worship of their Lord.* \[Sūrat al-Kahf, 110\]
+\AYAH_START
+So whoever hopes for the meeting with their Lord, let them do good deeds and
+associate none in the worship of their Lord. (Sūrat al-Kahf, Q18:110)
+\AYAH_END
 
-The Messenger of Allah [ﷺ]{dir="rtl"} said, "Three things follow the deceased:
-his family, his wealth, and his deeds. Two return and one remains. His family
-and wealth return, and his deeds remain." \[Ṣaḥīḥ al-Bukhārī\]
 
-The Messenger of Allah [ﷺ]{dir="rtl"} said, "Do not belittle any good deed, even
+The Messenger of Allah \hon{\P_HIM}{\BODY} said, "Three things follow the
+deceased: his family, his wealth, and his deeds. Two return and one remains. His
+family and wealth return, and his deeds remain." \[Ṣaḥīḥ al-Bukhārī\]
+
+The Messenger of Allah \hon{\P_HIM}{\BODY} said, "Do not belittle any good deed, even
 if it is meeting your brother with a cheerful face." \[Ṣaḥīḥ Muslim\]
 
-ʿĀʾishah [رضي الله عنها]{dir="rtl"} said that the Messenger of Allah
-[ﷺ]{dir="rtl"} said, "O people, you should do whatever good deeds you are able
-to do, for Allah does not become weary until you become weary. And the most
+ʿĀʾishah \hon{\P_HER}{\BODY} said that the Messenger of Allah
+\hon{\P_HIM}{\BODY} said, "O people, you should do whatever good deeds you are
+able to do, for Allah does not become weary until you become weary. And the most
 beloved of good deeds to Allah is that which is done consistently, even if it is
 little." \[Ṣaḥīḥ al-Bukhārī\]
+
