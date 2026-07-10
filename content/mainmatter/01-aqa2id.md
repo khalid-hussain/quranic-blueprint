@@ -255,30 +255,30 @@ necessary for a Muslim.
 
 Allah has mentioned 25 Prophets by name in the Quran. They are:
 
-1.  Ādam [عليه السلام]{dir="rtl"}
-2.  Idrīs [عليه السلام]{dir="rtl"}
-3.  Nūḥ [عليه السلام]{dir="rtl"}
-4.  Hūd [عليه السلام]{dir="rtl"}
-5.  Ṣāliḥ [عليه السلام]{dir="rtl"}
-6.  Ibrāhīm [عليه السلام]{dir="rtl"}
-7.  Lūṭ [عليه السلام]{dir="rtl"}
-8.  Ismāʿīl [عليه السلام]{dir="rtl"}
-9.  Isḥāq [عليه السلام]{dir="rtl"}
-10. Yaʿqūb [عليه السلام]{dir="rtl"}
-11. Yūsuf [عليه السلام]{dir="rtl"}
-12. Ayyūb [عليه السلام]{dir="rtl"}
-13. Shuʿayb [عليه السلام]{dir="rtl"}
-14. Mūsā [عليه السلام]{dir="rtl"}
-15. Hārūn [عليه السلام]{dir="rtl"}
-16. Yūnus [عليه السلام]{dir="rtl"}
-17. Dāwūd [عليه السلام]{dir="rtl"}
-18. Sulaymān [عليه السلام]{dir="rtl"}
-19. Ilyās [عليه السلام]{dir="rtl"}
-20. al-Yasaʿ [عليه السلام]{dir="rtl"}
-21. Dhū al-Kifl [عليه السلام]{dir="rtl"}
-22. Zakariyyā [عليه السلام]{dir="rtl"}
-23. Yaḥyā [عليه السلام]{dir="rtl"}
-24. ʿĪsā [عليه السلام]{dir="rtl"}
+1.  Ādam \hon{\S_HIM}{\BODY}
+2.  Idrīs \hon{\S_HIM}{\BODY}
+3.  Nūḥ \hon{\S_HIM}{\BODY}
+4.  Hūd \hon{\S_HIM}{\BODY}
+5.  Ṣāliḥ \hon{\S_HIM}{\BODY}
+6.  Ibrāhīm \hon{\S_HIM}{\BODY}
+7.  Lūṭ \hon{\S_HIM}{\BODY}
+8.  Ismāʿīl \hon{\S_HIM}{\BODY}
+9.  Isḥāq \hon{\S_HIM}{\BODY}
+10. Yaʿqūb \hon{\S_HIM}{\BODY}
+11. Yūsuf \hon{\S_HIM}{\BODY}
+12. Ayyūb \hon{\S_HIM}{\BODY}
+13. Shuʿayb \hon{\S_HIM}{\BODY}
+14. Mūsā \hon{\S_HIM}{\BODY}
+15. Hārūn \hon{\S_HIM}{\BODY}
+16. Yūnus \hon{\S_HIM}{\BODY}
+17. Dāwūd \hon{\S_HIM}{\BODY}
+18. Sulaymān \hon{\S_HIM}{\BODY}
+19. Ilyās \hon{\S_HIM}{\BODY}
+20. al-Yasaʿ \hon{\S_HIM}{\BODY}
+21. Dhū al-Kifl \hon{\S_HIM}{\BODY}
+22. Zakariyyā \hon{\S_HIM}{\BODY}
+23. Yaḥyā \hon{\S_HIM}{\BODY}
+24. ʿĪsā \hon{\S_HIM}{\BODY}
 25. Muḥammad [صلى الله عليه وسلم]{dir="rtl"}
 
 Our Messenger, Muḥammad \hon{\P_HIM}{\BODY} came after all the Messengers. He is
@@ -345,17 +345,17 @@ books, Allah Wrote commands and matters of benefit. As Muslims, we firmly
 believe in all the Books of Allah. The names of some of the heavenly books are
 as follows:
 
-- The Ṣuḥuf were given to Prophet Ibrāhīm [عليه السلام]{dir="rtl"}.
-- The Tawrāt was given to Prophet Mūsā [عليه السلام]{dir="rtl"}.
-- The Injīl was given to Prophet ʿĪsā [عليه السلام]{dir="rtl"}.
-- The Zabūr was given to Prophet Dāwūd [عليه السلام]{dir="rtl"}.
+- The Ṣuḥuf were given to Prophet Ibrāhīm \hon{\S_HIM}{\BODY}.
+- The Tawrāt was given to Prophet Mūsā \hon{\S_HIM}{\BODY}.
+- The Injīl was given to Prophet ʿĪsā \hon{\S_HIM}{\BODY}.
+- The Zabūr was given to Prophet Dāwūd \hon{\S_HIM}{\BODY}.
 - The Quran was given to Prophet Muḥammad [صلى الله عليه وسلم]{dir="rtl"}.
 
 The Prophet \hon{\P_HIM}{\BODY} said, "The Ṣuḥuf of Ibrāhīm were sent down during the
 first night of Ramaḍān; the Tawrāt was sent down the sixth night of Ramaḍān; the
 Injīl was sent down the thirteenth night of Ramaḍān; and the Furqān (the Quran)
 was sent down the twenty-fourth night of Ramaḍān." \[Musnad Aḥmad\] The Ṣuḥuf of
-Prophet Mūsā [عليه السلام]{dir="rtl"} were revealed before the Tawrāt.
+Prophet Mūsā \hon{\S_HIM}{\BODY} were revealed before the Tawrāt.
 
 The Quran is the final Book of Allah. After it, no book like the Quran can be
 produced. Regarding the excellence of this blessed Book, Allah has stated:
@@ -594,9 +594,9 @@ Those things which even raise the suspicion of shirk have also been prohibited,
 such as making images. In the beginning, such things are done for love or as
 keepsakes, but later, ignorant people begin to worship them.
 
-Between Prophet Ādam [عليه السلام]{dir="rtl"} and Prophet Nūḥ [عليه السلام]{dir="rtl"}, there were ten generations, and all of them remained upon
+Between Prophet Ādam \hon{\S_HIM}{\BODY} and Prophet Nūḥ \hon{\S_HIM}{\BODY}, there were ten generations, and all of them remained upon
 the teachings of Islām. Shirk first emerged among the people of Prophet Nūḥ
-[عليه السلام]{dir="rtl"} when they exaggerated the status of five righteous men
+\hon{\S_HIM}{\BODY} when they exaggerated the status of five righteous men
 from among them. To understand how this began, let us look at the case of the
 first idol that came to be worshipped, named Wadd.
 
@@ -617,14 +617,14 @@ figure to be worshipped besides Allah was Wadd, the idol they named after him.
 (Tafsīr Ibn Kathīr)
 
 Over time, the people came to possess many idols, with these five being the most
-prominent due to the deep love they held for them. Prophet Nūḥ [عليه السلام]{dir="rtl"} was therefore the first Messenger sent to mankind to confront
+prominent due to the deep love they held for them. Prophet Nūḥ \hon{\S_HIM}{\BODY} was therefore the first Messenger sent to mankind to confront
 the spread of idolatry and to guide those who were worshipping others besides
 Allah back to pure tawḥīd.
 
 ### How the Worship of Stones Spread in Arabia
 
 Imam Ibn Isḥāq \hon{\M_HIM}{\BODY} mentions that when the descendants of
-Prophet Ismāʿīl [عليه السلام]{dir="rtl"} eventually dispersed from Makkah, each
+Prophet Ismāʿīl \hon{\S_HIM}{\BODY} eventually dispersed from Makkah, each
 group took with them a stone from the sacred precincts as a keepsake of the
 Kaʿbah. They would place these stones at suitable locations in their new
 settlements, perform ṭawāf around them just as they had performed ṭawāf around

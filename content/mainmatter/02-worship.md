@@ -112,7 +112,7 @@ al-Baqarah, Q2:43)
 Ṣalāh linguistically means dua (supplication). Technically, it means to worship
 Allah with statements and actions that are known to start with a takbeer and end
 with a tasleem. The 5 daily prayers were legislated on the Night of Isra wal
-Mi'raj 1.5 years before Hijrah. Angel Jibreel [عليه السلام]{dir="rtl"} was sent
+Mi'raj 1.5 years before Hijrah. Angel Jibreel \hon{\S_HIM}{\BODY} was sent
 the next morning, when the sun passed its zenith, to teach the Prophet
 \hon{\P_HIM}{\BODY} the respective times of the prayers.
 
@@ -539,7 +539,7 @@ victory. (Sūrat al-Ḥajj, Q22:39)
 \AYAH_END
 
 
-Imam Aḥmad \hon{\M_HIM}{\BODY} recorded from Ibn ʿAbbās [رضي الله عنه]{dir="rtl"} that he said, "This was the first āyah revealed concerning
+Imam Aḥmad \hon{\M_HIM}{\BODY} recorded from Ibn ʿAbbās \hon{\P_TWO}{\BODY} that he said, "This was the first āyah revealed concerning
 fighting."
 
 This stage established permission, not obligation, as a response to oppression.
