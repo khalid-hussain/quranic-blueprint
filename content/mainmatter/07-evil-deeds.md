@@ -687,7 +687,7 @@ Allah Says,
 \AYAH_AR_END
 
 \AYAH_START
-And when they become angry, they forgive. (Sūrat al-Shūrā, Q42:37)
+And when they become angry, they forgive. (Sūrat al-Shūrá, Q42:37)
 \AYAH_END
 
 

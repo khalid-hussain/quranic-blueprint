@@ -284,7 +284,7 @@ Allah Says,
 
 \AYAH_START
 And put your trust in Allah, for Allah is sufficient as a Trustee of Affairs.
-(Sūrat al-Nisā, Q4:81)
+(Sūrat al-Nisāʾ, Q4:81)
 \AYAH_END
 
 

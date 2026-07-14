@@ -706,7 +706,7 @@ Allah Says,
 \AYAH_AR_END
 
 \AYAH_START
-So remain steadfast as you have been commanded. (Sūrat al-Shūrā, Q42:15)
+So remain steadfast as you have been commanded. (Sūrat al-Shūrá, Q42:15)
 \AYAH_END
 
 
@@ -824,7 +824,7 @@ Allah Says,
 \AYAH_AR_END
 
 \AYAH_START
-And their affairs are conducted by mutual consultation. (Sūrat al-Shūrā, Q42:38)
+And their affairs are conducted by mutual consultation. (Sūrat al-Shūrá, Q42:38)
 \AYAH_END
 
 
