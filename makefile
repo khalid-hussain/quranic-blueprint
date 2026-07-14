@@ -34,7 +34,7 @@ docx:
 	--citeproc --csl $(CSL) \
 	--reference-doc=$(TEMPLATE) \
 	--file-scope \
-	-o dist/$(TODAY).docx
+	-o dist/blueprint-$(TODAY).docx
 
 epub:
 	for file in $(CONTENT); do \
