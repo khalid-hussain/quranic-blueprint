@@ -1,7 +1,7 @@
 
 # Worship (ʿIbādāt)
 
-Allah Says,
+Allāh Says,
 
 \AYAH_AR_START
 يَٰٓأَيُّهَا ٱلنَّاسُ ٱعۡبُدُواْ رَبَّكُمُ ٱلَّذِي خَلَقَكُمۡ وَٱلَّذِينَ مِن قَبۡلِكُمۡ لَعَلَّكُمۡ تَتَّقُونَ ٢١
@@ -13,32 +13,32 @@ may become mindful (of Him). (Sūrat al-Baqarah, Q2:21)
 \AYAH_END
 
 
-Expressing one's humility before Allah and carrying out His Commands is worship.
+Expressing one's humility before Allāh and carrying out His Commands is worship.
 A person may perform deeds that appear very good, but if his intention is not to
-manifest servitude to Allah and to seek His Pleasure, then that deed is not
+manifest servitude to Allāh and to seek His Pleasure, then that deed is not
 worship.
 
 From this, it becomes clear that in order for a good deed to be counted as
 worship, it is necessary that it be accompanied by a pure and sincere intention.
 If you give someone millions of rupees in order to gain fame for yourself, that
 is not worship. But if you give even a few coins to someone seeking the pleasure
-of Allah, then that is a great act of worship.
+of Allāh, then that is a great act of worship.
 
-<!-- TODO: ref al-Bukhārī -->
+<!-- TODO ref al-Bukhārī -->
 
-The Messenger of Allah \hon{\PBUH}{\BODY} said, "Indeed, actions are only judged
+The Messenger of Allāh \hon{\PBUH}{\BODY} said, "Indeed, actions are only judged
 by intentions." \[Ṣaḥīḥ al-Bukhārī\]
 
 Just as having a good intention is necessary for worship, it is also necessary
-that the act be performed according to the method taught by Allah and His
-Messenger. Allah Says in the Quran,
+that the act be performed according to the method taught by Allāh and His
+Messenger. Allāh Says in the Quran,
 
 \AYAH_AR_START
 فَٱذۡكُرُواْ ٱللَّهَ كَمَا عَلَّمَكُم
 \AYAH_AR_END
 
 \AYAH_START
-So remember Allah as He has taught you. (Sūrat al-Baqarah, Q2:239)
+So remember Allāh as He has taught you. (Sūrat al-Baqarah, Q2:239)
 \AYAH_END
 
 
@@ -47,8 +47,8 @@ So remember Allah as He has taught you. (Sūrat al-Baqarah, Q2:239)
 \AYAH_AR_END
 
 \AYAH_START
-Say, (O Prophet), "If you (sincerely) love Allah, then follow me; Allah will
-Love you and Forgive your sins. For Allah is All-Forgiving, Most Merciful."
+Say, (O Prophet), "If you (sincerely) love Allāh, then follow me; Allāh will
+Love you and Forgive your sins. For Allāh is All-Forgiving, Most Merciful."
 (Sūrat Āl ʿImrān, Q3:31)
 \AYAH_END
 
@@ -58,7 +58,7 @@ Love you and Forgive your sins. For Allah is All-Forgiving, Most Merciful."
 \AYAH_AR_END
 
 \AYAH_START
-Say, "Obey Allah and obey the Messenger. But if you turn away, then he is only
+Say, "Obey Allāh and obey the Messenger. But if you turn away, then he is only
 responsible for his duty, and you are responsible for yours. And if you obey
 him, you will be (rightly) guided. The Messenger's duty is only to deliver (the
 Message) clearly." (Sūrat al-Nūr, Q24:54)
@@ -66,15 +66,15 @@ Message) clearly." (Sūrat al-Nūr, Q24:54)
 
 
 If a person performs even the best of deeds, with the best of intentions, but it
-is done in a manner different from that taught by Allah and His Messenger, then
+is done in a manner different from that taught by Allāh and His Messenger, then
 it is not worship.
 
 Among the Companions \hon{\P_THM}{\BODY}, some people wished to perform very
-strict and severe forms of worship. The Messenger of Allah \hon{\P_HIM}{\BODY}
+strict and severe forms of worship. The Messenger of Allāh \hon{\P_HIM}{\BODY}
 stopped them and said that he had not been sent with such a form of _sharīʿah_.
 
-<!-- TODO: ref al-Bukhārī -->
-<!-- TODO: Where are we compared to the Prophet → Who are we compared to the Prophet... -->
+<!-- TODO ref al-Bukhārī -->
+<!-- TODO Where are we compared to the Prophet → Who are we compared to the Prophet... -->
 
 Anas ibn Mālik \hon{\P_HIM}{\BODY} reported,
 
@@ -88,14 +88,14 @@ Anas ibn Mālik \hon{\P_HIM}{\BODY} reported,
 > will fast continuously and never break my fast." Another said, "I will keep
 > away from women and never marry."
 
-> The Messenger of Allah \hon{\PBUH}{\BODY} came and said, "Are you the ones who
-> said such and such? By Allah, I am the one who fears Allah the most among you
+> The Messenger of Allāh \hon{\PBUH}{\BODY} came and said, "Are you the ones who
+> said such and such? By Allāh, I am the one who fears Allāh the most among you
 > and am the most mindful of Him. Yet I fast and I break my fast, I pray, and I
 > sleep, and I marry women. Whoever turns away from my Sunnah is not from me."
 > \[Ṣaḥīḥ al-Bukhārī\]
 
-<!-- TODO: ref Majmu3 fatawa -->
-<!-- TODO: check translation -->
+<!-- TODO ref Majmu3 fatawa -->
+<!-- TODO check translation -->
 
 Shaykh al-Islām Ibn Taymīyah \hon{\M_HIM}{\BODY} said,
 
@@ -109,9 +109,9 @@ Shaykh al-Islām Ibn Taymīyah \hon{\M_HIM}{\BODY} said,
 
 ## Prayer (Ṣalāh)
 
-<!-- TODO: Check if we should use Ṣalāh or prayer throughout or decide on some consistency -->
+<!-- TODO Check if we should use Ṣalāh or prayer throughout or decide on some consistency -->
 
-Allah Says,
+Allāh Says,
 
 \AYAH_AR_START
 وَأَقِيمُواْ ٱلصَّلَوٰةَ وَءَاتُواْ ٱلزَّكَوٰةَ وَٱرۡكَعُواْ مَعَ ٱلرَّٰكِعِينَ ٤٣
@@ -122,29 +122,29 @@ Establish the prayer, pay _zakāh_, and bow down with those who bow down. (Sūra
 al-Baqarah, Q2:43)
 \AYAH_END
 
-<!-- TODO: end with a tasleem → end with the tasleem -->
+<!-- TODO end with a tasleem → end with the tasleem -->
 
 _Ṣalāh_ linguistically means _duʿāʾ_ (supplication). Technically, it means to
-worship Allah with statements and actions that are known to start with a
+worship Allāh with statements and actions that are known to start with a
 _takbīr_ and end with the _taslīm_. The five daily prayers were legislated on
 the Night of Isrāʾ wa al-Miʿrāj one and a half years before the Hijrah. Angel
 Jibrīl \hon{\S_HIM}{\BODY} was sent the next morning, when the sun passed its
 zenith, to teach the Prophet \hon{\PBUH}{\BODY} the respective times of the
 prayers.
 
-<!-- TODO: Add Quran reference to last sentence in ff para -->
+<!-- TODO Add Quran reference to last sentence in ff para -->
 
 Among the acts of worship in Islam, _ṣalāh_ holds the highest rank. As long as a
 Muslim's senses and awareness are intact, he cannot abandon _ṣalāh_. The Quran
 has placed strong emphasis on it. Laziness in _ṣalāh_ has been described as a
 sign of hypocrisy, and abandoning it has been described by the Messenger of
-Allah \hon{\PBUH}{\BODY} as a sign of disbelief. The Quran warns those who are
+Allāh \hon{\PBUH}{\BODY} as a sign of disbelief. The Quran warns those who are
 heedless in their _ṣalāh_. When the disbelievers will be asked why they are in
 Hell, they will reply that they were among those who did not pray.
 
-_Ṣalāh_ deters a person from shamelessness and immorality. Allah Says,
+_Ṣalāh_ deters a person from shamelessness and immorality. Allāh Says,
 
-<!-- TODO: consider different translation for ff āyah -->
+<!-- TODO consider different translation for ff āyah -->
 
 \AYAH_AR_START
 ٱتۡلُ مَآ أُوحِيَ إِلَيۡكَ مِنَ ٱلۡكِتَٰبِ وَأَقِمِ ٱلصَّلَوٰةَۖ إِنَّ ٱلصَّلَوٰةَ تَنۡهَىٰ عَنِ ٱلۡفَحۡشَآءِ وَٱلۡمُنكَرِۗ وَلَذِكۡرُ ٱللَّهِ أَكۡبَرُۗ وَٱللَّهُ يَعۡلَمُ مَا تَصۡنَعُونَ ٤٥
@@ -153,21 +153,21 @@ _Ṣalāh_ deters a person from shamelessness and immorality. Allah Says,
 \AYAH_START
 Recite (O Prophet) what is revealed to you of the Book, and establish _Salāh_.
 Surely (genuine) _Salāh_ deters one from indecency and evil acts. Indeed,
-remembrance of Allah is (an) even greater (deterrant). And Allah (fully) knows
+remembrance of Allāh is (an) even greater (deterrant). And Allāh (fully) knows
 what you (all) do. (Sūrat al-ʿAnkabūt, Q29:45)
 \AYAH_END
 
 
-<!-- TODO: ref Aḥmad -->
-<!-- TODO: ref Shu3ab al-Iman -->
+<!-- TODO ref Aḥmad -->
+<!-- TODO ref Shu3ab al-Iman -->
 
-The Messenger of Allah \hon{\PBUH}{\BODY} said, "The coolness of my eyes has
+The Messenger of Allāh \hon{\PBUH}{\BODY} said, "The coolness of my eyes has
 been placed in _ṣalāh_." \[Musnad Aḥmad\] He \hon{\PBUH}{\BODY} also said,
 "_Ṣalāh_ is the pillar of the religion. Whoever establishes it has established
 the religion, and whoever abandons it has demolished the religion." \[Shuʿab
 al-Īmān\]
 
-<!-- TODO: ref al-Muwaṭṭāʾ -->
+<!-- TODO ref al-Muwaṭṭāʾ -->
 
 When ʿUmar ibn al-Khaṭṭāb \hon{\P_HIM}{\BODY} was attacked with a dagger and lay
 wounded, he was awakened for the Fajr prayer that morning. He said, "There is no
@@ -179,15 +179,15 @@ bodies of Companions and loved ones lay before him, and enemies surrounded him
 from all sides. When the time for Ẓuhr prayer arrived, he asked the enemy to
 grant him time so that he could perform the prayer.
 
-<!-- TODO: ref Sunan Kubra -->
-<!-- TODO: ...heavy with fruit? -->
+<!-- TODO ref Sunan Kubra -->
+<!-- TODO ...heavy with fruit? -->
 
 Abū Ṭalḥah al-Anṣārī \hon{\P_HIM}{\BODY} was praying in his orchard, which was
 heavy with fruit. His gaze fell upon it, and his heart became momentarily
 distracted by its beauty. As soon as he realized this during prayer, he felt
 ashamed that worldly wealth had diverted his attention. He went to ʿUthmān ibn
 ʿAffān \hon{\P_HIM}{\BODY}, who was the Khalīfah at the time, and said that the
-orchard which distracted him would be given away in the path of Allah.
+orchard which distracted him would be given away in the path of Allāh.
 \[al-Sunan al-Kubrā\]
 
 Muslims are commanded to perform the prayer themselves and to instruct their
@@ -195,22 +195,22 @@ wives and children to pray. Five daily prayers are obligatory during the day and
 night: Fajr (dawn), Ẓuhr (midday), ʿAṣr (afternoon), Maghrib (sunset), and
 ʿIshāʾ (night).
 
-<!-- TODO: ref al-Bukhārī -->
+<!-- TODO ref al-Bukhārī -->
 
 Rather than praying alone or at home, men should perform prayer in the mosque
 with the _jamāʿah_ (congregation). Abū Hurayrah \hon{\P_HIM}{\BODY} reported
-that the Messenger of Allah \hon{\PBUH}{\BODY} said, "By the One in Whose Hand
+that the Messenger of Allāh \hon{\PBUH}{\BODY} said, "By the One in Whose Hand
 is my soul, I considered ordering firewood to be gathered, then ordering the
 _ṣalāh_ and the call to _ṣalāh_ to be made, then appointing a man to lead the
 people in _ṣalāh_, and then going to men and burning their houses over them."
 \[Ṣaḥīḥ al-Bukhārī\]
 
-<!-- TODO: ref Aḥmad -->
-<!-- TODO: ref check Companion name -->
+<!-- TODO ref Aḥmad -->
+<!-- TODO ref check Companion name -->
 
 For women, praying at home is better. Umm Ḥumayd, the wife of Abū Ḥumayd
 al-Sāʿidī \hon{\P_TWO}{\BODY}, reported that she came to the Prophet
-\hon{\PBUH}{\BODY} and said, "O Messenger of Allah, I love to pray with you."
+\hon{\PBUH}{\BODY} and said, "O Messenger of Allāh, I love to pray with you."
 
 He \hon{\PBUH}{\BODY} said, "I know that you love to pray with me. But your
 prayer in your house is better for you than your prayer in your room, and your
@@ -219,47 +219,47 @@ your prayer in your courtyard is better for you than your prayer in the mosque
 of your people, and your prayer in the mosque of your people is better for you
 than your prayer in my mosque (Masjid al-Nabawi)."
 
-<!-- TODO: check translation of ff para -->
+<!-- TODO check translation of ff para -->
 
 <!-- ORI: She said: So she ordered that a place of prayer be prepared for her in the
 furthest and darkest part of her house, and she continued to pray there until
-she met Allah. \[Musnad Aḥmad\] -->
+she met Allāh. \[Musnad Aḥmad\] -->
 
 So she ordered that a place of prayer be prepared for her in the furthest and
-darkest part of her house, and she continued to pray there until she met Allah.
+darkest part of her house, and she continued to pray there until she met Allāh.
 \[Musnad Aḥmad\]
 
-<!-- TODO: ref Abū Dāwūd -->
-<!-- TODO: check translation of ff para -->
-<!-- TODO: ...so this greatest habit of righteousness? -->
+<!-- TODO ref Abū Dāwūd -->
+<!-- TODO check translation of ff para -->
+<!-- TODO ...so this greatest habit of righteousness? -->
 
-The Messenger of Allah \hon{\PBUH}{\BODY} instructed that children should be
+The Messenger of Allāh \hon{\PBUH}{\BODY} instructed that children should be
 commanded to pray from the age of seven, and if they do not, then they must be
 instructed firmly by the age of ten. \[Sunan Abī Dāwūd\] Good and bad habits
 begin forming in this period, so this greatest habit of righteousness should
 also be instilled at that time so that it becomes firmly established in
 adulthood.
 
-<!-- TODO: ref Aḥmad -->
+<!-- TODO ref Aḥmad -->
 
 Care must be taken to pray with calmness and tranquility, without haste. The
-Messenger of Allah \hon{\PBUH}{\BODY} once said that the greatest thief is the
-one who steals from his prayer. The Companions asked, "O Messenger of Allah, how
+Messenger of Allāh \hon{\PBUH}{\BODY} once said that the greatest thief is the
+one who steals from his prayer. The Companions asked, "O Messenger of Allāh, how
 does one steal from prayer?" He \hon{\PBUH}{\BODY} replied, "By not performing
 the bowing and prostration properly and by lacking _khushūʿ_ (humble
 attentiveness)." \[Musnad Aḥmad\]
 
-<!-- TODO: ref Abū Dāwūd -->
+<!-- TODO ref Abū Dāwūd -->
 
 One should also not look around during the prayer. Abū Dharr \hon{\P_HIM}{\BODY}
-reported that the Messenger of Allah \hon{\PBUH}{\BODY} said, "Allah continues
+reported that the Messenger of Allāh \hon{\PBUH}{\BODY} said, "Allāh continues
 to face the servant during his prayer as long as he does not turn away. But when
-he turns away, Allah turns away from him." \[Sunan Abī Dāwūd\]
+he turns away, Allāh turns away from him." \[Sunan Abī Dāwūd\]
 
 
 ## Obligatory Charity (Zakāh)
 
-Allah Says,
+Allāh Says,
 
 \AYAH_AR_START
 وَأَقِيمُواْ ٱلصَّلَوٰةَ وَءَاتُواْ ٱلزَّكَوٰةَ وَٱرۡكَعُواْ مَعَ ٱلرَّٰكِعِينَ ٤٣
@@ -276,10 +276,10 @@ after the arrival of the Prophet \hon{\PBUH}{\BODY} in Madīnah.
 
 _Zakāh_ refers to spending a fixed, prescribed portion, once every lunar year,
 from wealth that exceeds one's basic needs, on eligible recipients as determined
-by Allah. Allah has specified _Zakāh_ recipients or beneficiaries to
+by Allāh. Allāh has specified _Zakāh_ recipients or beneficiaries to
 [eight]{.smallcaps} specific categories. These are:
 
-<!-- TODO: check translation of ff -->
+<!-- TODO check translation of ff -->
 
 1.  The Poor
 2.  The Needy
@@ -287,10 +287,10 @@ by Allah. Allah has specified _Zakāh_ recipients or beneficiaries to
 4.  Softening the Hearts
 5.  Slaves
 6.  Those in Debt
-7.  In The Path of Allah
+7.  In The Path of Allāh
 8.  The Stranded Traveller
 
-<!-- TODO: ref al-Tirmidhī -->
+<!-- TODO ref al-Tirmidhī -->
 
 _Zakāh_ becomes obligatory only when a person's wealth reaches a minimum
 threshold known as _niṣāb_, and a full lunar year (_ḥawl_) has passed over that
@@ -298,7 +298,7 @@ wealth. ʿAbdullāh ibn ʿUmar \hon{\P_TWO}{\BODY} narrated, "Whoever acquires
 wealth is not liable to pay Zakāh on it until a year has passed while he remains
 in possession of it." \[Jāmiʿ al-Tirmidhī\]
 
-This threshold of _niṣāb_ was stipulated by the Messenger of Allah
+This threshold of _niṣāb_ was stipulated by the Messenger of Allāh
 \hon{\PBUH}{\BODY}. The _niṣāb_ is calculated based on twenty _mithqāl_ of gold,
 which is approximately 85--87 grams of gold, or two hundred dirhams of silver,
 equivalent to approximately 595 grams of silver.
@@ -308,17 +308,17 @@ of approximately 85 grams of gold. Muslims whose wealth or net assets reach this
 threshold and remain in their possession for a full lunar year are obligated to
 pay _zakāh_, which is 2.5% of that qualifying wealth.
 
-<!-- TODO: ref Muslim -->
+<!-- TODO ref Muslim -->
 
 _Zakāh_ should not be viewed as a tax, fine, or penalty. Giving _Zakāh_ does not
 diminish wealth; rather, it purifies it and brings blessing. The Messenger of
-Allah \hon{\PBUH}{\BODY} said that charity purifies wealth, cleansing it of
+Allāh \hon{\PBUH}{\BODY} said that charity purifies wealth, cleansing it of
 impurity and increasing its goodness. \[Ṣaḥīḥ Muslim\]
 
-<!-- TODO: ref Muslim -->
-<!-- TODO: ref Muslim -->
+<!-- TODO ref Muslim -->
+<!-- TODO ref Muslim -->
 
-The Messenger of Allah \hon{\PBUH}{\BODY} also warned that a person who does not
+The Messenger of Allāh \hon{\PBUH}{\BODY} also warned that a person who does not
 give _Zakāh_ on gold and silver will, on the Day of Resurrection, have plates
 fashioned from that wealth, which will be heated and used to brand his forehead
 and sides. His wealth will be transformed into a snake that will continue to
@@ -334,7 +334,7 @@ essence, all _Zakāh_ is _ṣadaqah_, but not all _ṣadaqah_ is _Zakāh_.
 
 Abū Masʿūd al-Anṣārī \hon{\P_HIM}{\BODY} used to perform manual labor in
 the marketplace, and whatever he earned, he would give in charity for the sake
-of Allah. Salmān al-Fārsī \hon{\P_HIM}{\BODY} was the governor of
+of Allāh. Salmān al-Fārsī \hon{\P_HIM}{\BODY} was the governor of
 al-Madāʾin. He received a stipend of five thousand dinars; whenever he received
 it, he would give it away in charity, and he would weave mats with his own hands
 to provide for his food and drink.
@@ -342,7 +342,7 @@ to provide for his food and drink.
 
 ## Fasting (Ṣiyām)
 
-Allah Says,
+Allāh Says,
 
 \AYAH_AR_START
 يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ كُتِبَ عَلَيۡكُمُ ٱلصِّيَامُ
@@ -354,114 +354,114 @@ O believers, fasting has been prescribed for you. (Sūrat al-Baqarah, Q2:183)
 
 
 It is reported that fasting was legislated in 2 AH in the month of Sha'ban. The
-Messenger of Allah \hon{\P_HIM}{\BODY} fasted [nine]{.smallcaps} complete
+Messenger of Allāh \hon{\P_HIM}{\BODY} fasted [nine]{.smallcaps} complete
 Ramaḍāns in his lifetime as per the consensus of the scholars.
 
-In the course of the year, the month of Ramaḍān arrives once. Allah has
+In the course of the year, the month of Ramaḍān arrives once. Allāh has
 Commanded Muslims to observe fasting during this month. Linguistically, _ṣiyām_
 means to abstain from something, such as abstaining from speaking. Technically,
-it means worshipping Allah by abstaining from food, drink, and other actions
+it means worshipping Allāh by abstaining from food, drink, and other actions
 which invalidate a person's fast, from true dawn to sunset.
 
-<!-- TODO: ref al-Bukhārī -->
+<!-- TODO ref al-Bukhārī -->
 
-Allah has stated that fasting produces purity. The Messenger of Allah
+Allāh has stated that fasting produces purity. The Messenger of Allāh
 \hon{\PBUH}{\BODY} said, "Fasting is a shield against the Fire." \[Ṣaḥīḥ
 al-Bukhārī\] The Companions \hon{\P_THM}{\BODY} were so eager to fast that when
 they came to know there was little food in the house, they would say, "I am
 fasting today."
 
-<!-- TODO: ref Muslim -->
+<!-- TODO ref Muslim -->
 
 ʿĀʾishah \hon{\P_HER}{\BODY} reported,
 
-> The Messenger of Allah \hon{\P_HIM}{\BODY} came to me one day and said, "Do
+> The Messenger of Allāh \hon{\P_HIM}{\BODY} came to me one day and said, "Do
 > you have anything (to eat)?" We said, "No." He said, "Then I am fasting." Then
-> he came to us another day, and we said, "O Messenger of Allah, some _ḥays_ (a
+> he came to us another day, and we said, "O Messenger of Allāh, some _ḥays_ (a
 > dish of dates, ghee, and cheese) was gifted to us." He said, "Show it to me,
 > for I began the day fasting," and then he ate. \[Ṣaḥīḥ Muslim\]
 
-<!-- TODO: ref al-Bukhārī -->
+<!-- TODO ref al-Bukhārī -->
 
 The female Companions were also so devoted to fasting that it caused difficulty
-for their husbands. Eventually, the Messenger of Allah \hon{\PBUH}{\BODY}
+for their husbands. Eventually, the Messenger of Allāh \hon{\PBUH}{\BODY}
 instructed, "A woman should not fast while her husband is present except with
 his permission." \[Ṣaḥīḥ al-Bukhārī\]
 
-<!-- TODO: ref al-Bukhārī -->
+<!-- TODO ref al-Bukhārī -->
 
-The Messenger of Allah \hon{\PBUH}{\BODY} said, "When any one of you is fasting,
+The Messenger of Allāh \hon{\PBUH}{\BODY} said, "When any one of you is fasting,
 he should not engage in obscene speech or ignorant behavior. If someone fights
 him or abuses him, let him say, 'I am fasting.'" \[Ṣaḥīḥ al-Bukhārī\]
 
-<!-- TODO: ref al-Bukhārī -->
+<!-- TODO ref al-Bukhārī -->
 
-The Messenger of Allah \hon{\PBUH}{\BODY} said, "The odor from the mouth of a
-fasting person is more pleasing to Allah than the fragrance of musk." \[Ṣaḥīḥ
+The Messenger of Allāh \hon{\PBUH}{\BODY} said, "The odor from the mouth of a
+fasting person is more pleasing to Allāh than the fragrance of musk." \[Ṣaḥīḥ
 al-Bukhārī\]
 
 
 ## Pilgrimage (Ḥajj)
 
-Allah Says,
+Allāh Says,
 
 \AYAH_AR_START
 وَلِلَّهِ عَلَى ٱلنَّاسِ حِجُّ ٱلۡبَيۡتِ مَنِ ٱسۡتَطَاعَ إِلَيۡهِ سَبِيلٗاۚ
 \AYAH_AR_END
 
 \AYAH_START
-And Ḥajj (pilgrimage) to this House is an obligation by Allah upon whoever is
+And Ḥajj (pilgrimage) to this House is an obligation by Allāh upon whoever is
 able among the people. (Sūrat Āl ʿImrān, Q3:97)
 \AYAH_END
 
 
 In the land of Arabia, there is a city called Makkah. This is the very city in
 which our Messenger, Muḥammad \hon{\PBUH}{\BODY}, was born. In this city stands
-the Kaʿbah, which is called the House of Allah. There are many other blessed
+the Kaʿbah, which is called the House of Allāh. There are many other blessed
 places in Makkah as well. Muslims travel there during a designated time and
-fulfill certain Commands of Allah---this act is called Ḥajj.
+fulfill certain Commands of Allāh---this act is called Ḥajj.
 
-<!-- TODO: one Hajj? -->
+<!-- TODO one Hajj? -->
 
 It is reported that Ḥajj was legislated in 9 AH or 10 AH after the Conquest of
 Makkah, when idolatry was wiped out, and Islam flourished. The Prophet
 \hon{\PBUH}{\BODY} performed one Hajj in 10 AH.
 
-<!-- TODO: ref al-Tirmidhī -->
+<!-- TODO ref al-Tirmidhī -->
 
-ʿAlī ibn Abī Ṭālib \hon{\P_HIM}{\BODY} reported that the Messenger of Allah
+ʿAlī ibn Abī Ṭālib \hon{\P_HIM}{\BODY} reported that the Messenger of Allāh
 \hon{\PBUH}{\BODY} said, "Whoever possesses provisions and a mount that can
-convey him to the House of Allah, yet does not perform Ḥajj, then it makes no
+convey him to the House of Allāh, yet does not perform Ḥajj, then it makes no
 difference whether he dies as a Jew or a Christian." \[Jāmiʿ al-Tirmidhī\]
 
-<!-- TODO: ref al-Tirmidhī -->
+<!-- TODO ref al-Tirmidhī -->
 
-The Messenger of Allah \hon{\PBUH}{\BODY} said, "Perform Ḥajj and ʿUmrah
+The Messenger of Allāh \hon{\PBUH}{\BODY} said, "Perform Ḥajj and ʿUmrah
 consecutively, for they remove poverty and sins just as the furnace removes
 impurities from iron, gold, and silver." \[Jāmiʿ al-Tirmidhī\]
 
-<!-- TODO: ref al-Bukhārī -->
+<!-- TODO ref al-Bukhārī -->
 
-Abū Hurayrah \hon{\P_HIM}{\BODY} reported that the Messenger of Allah
+Abū Hurayrah \hon{\P_HIM}{\BODY} reported that the Messenger of Allāh
 \hon{\PBUH}{\BODY} was asked, "Which deed is best?" He \hon{\PBUH}{\BODY} said,
-"Belief in Allah and His Messenger." He was asked, "Then what?" He
-\hon{\PBUH}{\BODY} said, "Jihād in the path of Allah." He was asked, "Then
+"Belief in Allāh and His Messenger." He was asked, "Then what?" He
+\hon{\PBUH}{\BODY} said, "Jihād in the path of Allāh." He was asked, "Then
 what?" He \hon{\PBUH}{\BODY} said, "An accepted Ḥajj." \[Ṣaḥīḥ al-Bukhārī\]
 
-<!-- TODO: ref al-Bukhārī -->
+<!-- TODO ref al-Bukhārī -->
 
-ʿĀʾishah \hon{\P_HER}{\BODY} said, "I said, 'O Messenger of Allah, we see Jihād
+ʿĀʾishah \hon{\P_HER}{\BODY} said, "I said, 'O Messenger of Allāh, we see Jihād
 as the best of deeds. Should we not take part in it?' He \hon{\PBUH}{\BODY}
 replied, 'The best Jihād for you (women) is an accepted Ḥajj.'" \[Ṣaḥīḥ
 al-Bukhārī\]
 
-<!-- TODO: ref al-Bukhārī -->
+<!-- TODO ref al-Bukhārī -->
 
-The Messenger of Allah \hon{\PBUH}{\BODY} said, "Whoever performs Ḥajj and does
+The Messenger of Allāh \hon{\PBUH}{\BODY} said, "Whoever performs Ḥajj and does
 not engage in obscenity or commit sin will return (free of sins) as on the day
 his mother gave birth to him." \[Ṣaḥīḥ al-Bukhārī\]
 
-<!-- TODO: whose route is safe? -->
+<!-- TODO whose route is safe? -->
 
 A person upon whom Ḥajj becomes obligatory is one who possesses sufficient
 wealth to cover the travel expenses to and from Makkah, along with the necessary
@@ -489,41 +489,41 @@ household expenses until his return, and whose route is safe.
 
 ## Jihād
 
-Allah Says,
+Allāh Says,
 
 \AYAH_AR_START
 وَجَٰهِدُواْ فِي ٱللَّهِ حَقَّ جِهَادِهِۦۚ
 \AYAH_AR_END
 
 \AYAH_START
-Strive for (the cause of) Allah in the way He deserves. (Sūrat al-Ḥajj, Q22:78)
+Strive for (the cause of) Allāh in the way He deserves. (Sūrat al-Ḥajj, Q22:78)
 \AYAH_END
 
 
 The word _jihād_ means striving, exertion, and effort. Any struggle or effort made
-in the path of Allah is called _jihād_. Every person can perform _jihād_ according
+in the path of Allāh is called _jihād_. Every person can perform _jihād_ according
 to their capacity. This can be understood through the following examples:
 
-- When we restrain our hearts and fulfill Allah's Commands such as establishing
-  prayer, fasting, striving to learn the religion of Allah, traveling for
+- When we restrain our hearts and fulfill Allāh's Commands such as establishing
+  prayer, fasting, striving to learn the religion of Allāh, traveling for
   knowledge, and staying awake at night. This is the _jihād_ of the body.
 
-- When we spend wealth to seek the Pleasure of Allah---caring for orphans,
+- When we spend wealth to seek the Pleasure of Allāh---caring for orphans,
   widows, the poor, and the needy, and contributing to communal and religious
   causes. This is the _jihād_ of wealth.
 
-- When we act upon Allah's Commands ourselves and also encourage others to do
+- When we act upon Allāh's Commands ourselves and also encourage others to do
   so, give sincere advice, command good, and forbid evil through speech and
   writing. This is the _jihād_ of knowledge.
 
 - When the situation demands it, and a person sacrifices his life to raise the
-  word of Allah and to defend the religion. This is the _jihād_ of life, also
+  word of Allāh and to defend the religion. This is the _jihād_ of life, also
   known as _qitāl_ (armed combat).
 
 All of these are forms of _jihād_, and every Muslim should participate in them
 to the best of his ability and capacity.
 
-<!-- TODO: ref al-Bukhārī -->
+<!-- TODO ref al-Bukhārī -->
 
 ʿAbdullāh ibn Masʿūd \hon{\P_HIM}{\BODY} reported,
 
@@ -532,37 +532,37 @@ to the best of his ability and capacity.
 > asked, "Are your parents alive?" He replied, "Yes." The Prophet
 > \hon{\PBUH}{\BODY} said, "Then strive in their service." \[Ṣaḥīḥ al-Bukhārī\]
 
-<!-- TODO: ref al-Bukhārī -->
+<!-- TODO ref al-Bukhārī -->
 
 The Prophet \hon{\PBUH}{\BODY} said, "The one who strives to support a widow and
-a poor person is like one who performs _jihād_ in the path of Allah---or like
+a poor person is like one who performs _jihād_ in the path of Allāh---or like
 one who stands in prayer at night and fasts during the day." \[Ṣaḥīḥ
 al-Bukhārī\]
 
-<!-- TODO: ref Abū Dāwūd -->
+<!-- TODO ref Abū Dāwūd -->
 
-The Messenger of Allah \hon{\PBUH}{\BODY} said, "The best form of _jihād_ is a
+The Messenger of Allāh \hon{\PBUH}{\BODY} said, "The best form of _jihād_ is a
 word of truth spoken before an oppressive ruler." \[Sunan Abī Dāwūd\]
 
-<!-- TODO: ref al-Tirmidhī -->
+<!-- TODO ref al-Tirmidhī -->
 
-The Messenger of Allah \hon{\PBUH}{\BODY} said, "The true _mujāhid_ is the one
-who strives against his own soul in obedience to Allah." \[Jāmiʿ al-Tirmidhī\]
+The Messenger of Allāh \hon{\PBUH}{\BODY} said, "The true _mujāhid_ is the one
+who strives against his own soul in obedience to Allāh." \[Jāmiʿ al-Tirmidhī\]
 
-<!-- TODO: ref majmu3 fatawa -->
+<!-- TODO ref majmu3 fatawa -->
 
 Shaykh al-Islām Ibn Taymīyah \hon{\M_HIM}{\BODY} said, "Striving against one's
 own soul is the foundation of striving against the disbelievers, for whoever
 does not strive against his own soul first will not be able to strive against
 his external enemy." \[Majmūʿ al-Fatāwā\]
 
-<!-- TODO: ref Hilyat awliya -->
+<!-- TODO ref Hilyat awliya -->
 
 Al-Junayd \hon{\M_HIM}{\BODY} said, "Whoever does not strive against his own
-soul in obedience to Allah will never succeed in striving against his enemy."
+soul in obedience to Allāh will never succeed in striving against his enemy."
 \[Ḥilyat al-Awliyāʾ\]
 
-<!-- TODO: ref Zaad Ma3aad -->
+<!-- TODO ref Zaad Ma3aad -->
 
 Imam Ibn al-Qayyim \hon{\M_HIM}{\BODY} said, "Striving against the soul has four
 stages:
@@ -570,13 +570,13 @@ stages:
 1. Striving to learn guidance,
 2. Striving to act upon it after knowing it,
 3. Striving to call others to it and teach those who are ignorant of it,
-4. Striving to remain patient upon the hardships of calling to Allah and the
-   harm caused by people, enduring that for Allah's sake." \[Zād al-Maʿād\]
+4. Striving to remain patient upon the hardships of calling to Allāh and the
+   harm caused by people, enduring that for Allāh's sake." \[Zād al-Maʿād\]
 
 
 ## Jihād of Combat
 
-Allah Says,
+Allāh Says,
 
 \AYAH_AR_START
 يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ قَٰتِلُواْ ٱلَّذِينَ يَلُونَكُم مِّنَ ٱلۡكُفَّارِ وَلۡيَجِدُواْ فِيكُمۡ غِلۡظَةٗۚ وَٱعۡلَمُوٓاْ أَنَّ ٱللَّهَ مَعَ ٱلۡمُتَّقِينَ ١٢٣
@@ -584,7 +584,7 @@ Allah Says,
 
 \AYAH_START
 O believers! Fight the disbelievers around you and let them find firmness in
-you. And know that Allah is with those mindful (of Him). (Sūrat al-Tawbah,
+you. And know that Allāh is with those mindful (of Him). (Sūrat al-Tawbah,
 Q9:123)
 \AYAH_END
 
@@ -598,39 +598,39 @@ _jihād_ of combat.
 Muslims should possess sufficient strength so that they are not overawed by
 others, nor appear weak before them.
 
-<!-- TODO: ref al-Bukhārī -->
+<!-- TODO ref al-Bukhārī -->
 
-One who fights in support of Allah's religion and places his life in danger for
-its sake holds a very high rank with Allah. Once, a Companion wished to abandon
-the world and seclude himself in worship. When the Messenger of Allah
+One who fights in support of Allāh's religion and places his life in danger for
+its sake holds a very high rank with Allāh. Once, a Companion wished to abandon
+the world and seclude himself in worship. When the Messenger of Allāh
 \hon{\PBUH}{\BODY} learned of this, he said, "A morning journey in the path of
-Allah, or an evening journey, is better than the world and everything in it."
+Allāh, or an evening journey, is better than the world and everything in it."
 \[Ṣaḥīḥ al-Bukhārī\]
 
-<!-- TODO: def al-Bukhārī -->
+<!-- TODO def al-Bukhārī -->
 
-The Messenger of Allah \hon{\PBUH}{\BODY} said, "No servant whose feet become
-dusty in the path of Allah will be touched by the Fire." \[Ṣaḥīḥ al-Bukhārī\]
+The Messenger of Allāh \hon{\PBUH}{\BODY} said, "No servant whose feet become
+dusty in the path of Allāh will be touched by the Fire." \[Ṣaḥīḥ al-Bukhārī\]
 
-<!-- TODO: def Muslim -->
+<!-- TODO def Muslim -->
 
-The Messenger of Allah \hon{\PBUH}{\BODY} said, "Standing guard for a day and a
-night in the path of Allah is better than fasting a month and standing in prayer
+The Messenger of Allāh \hon{\PBUH}{\BODY} said, "Standing guard for a day and a
+night in the path of Allāh is better than fasting a month and standing in prayer
 during it. And if he dies, his deeds continue to be recorded for him, his
 provision continues, and he is protected from the trial of the grave." (Ṣaḥīḥ
 Muslim)
 
-<!-- TODO: def al-Bukhārī -->
+<!-- TODO def al-Bukhārī -->
 
-The Messenger of Allah \hon{\PBUH}{\BODY} said, "In Jannah there are one hundred
-levels which Allah has prepared for those who strive in His path. The distance
+The Messenger of Allāh \hon{\PBUH}{\BODY} said, "In Jannah there are one hundred
+levels which Allāh has prepared for those who strive in His path. The distance
 between every two levels is like the distance between the heaven and the earth."
 \[Ṣaḥīḥ al-Bukhārī\]
 
 ### The Quranic Stages of Legislation Regarding Fighting
 
 After the Hijrah of the Prophet \hon{\PBUH}{\BODY} to Madīnah, the legislation
-concerning fighting in the path of Allah was revealed gradually, in distinct
+concerning fighting in the path of Allāh was revealed gradually, in distinct
 stages.
 
 #### First Stage: Permission to Fight {.unnumbered}
@@ -644,11 +644,11 @@ regarding fighting after the Hijrah was:
 
 \AYAH_START
 Permission (to fight back) is granted to those who are being fought, because
-they have been wronged. And indeed, Allah is Most Capable of granting them
+they have been wronged. And indeed, Allāh is Most Capable of granting them
 victory. (Sūrat al-Ḥajj, Q22:39)
 \AYAH_END
 
-<!-- TODO: ref Aḥmad -->
+<!-- TODO ref Aḥmad -->
 
 Imam Aḥmad \hon{\M_HIM}{\BODY} recorded from Ibn ʿAbbās \hon{\P_TWO}{\BODY} that
 he said, "This was the first _āyah_ revealed concerning fighting."
@@ -658,19 +658,19 @@ This stage established permission, not obligation, as a response to oppression.
 #### Second Stage: Command to Fight Those Who Initiate Hostility {.unnumbered}
 
 This was followed by a command restricting fighting only to aggressors, with a
-strict prohibition against transgression. Allah Says,
+strict prohibition against transgression. Allāh Says,
 
 \AYAH_AR_START
 وَقَٰتِلُواْ فِي سَبِيلِ ٱللَّهِ ٱلَّذِينَ يُقَٰتِلُونَكُمۡ وَلَا تَعۡتَدُوٓاْۚ إِنَّ ٱللَّهَ لَا يُحِبُّ ٱلۡمُعۡتَدِينَ ١٩٠
 \AYAH_AR_END
 
 \AYAH_START
-Fight in the cause of Allah those who fight you, but do not transgress. Indeed,
-Allah does not love the transgressors. (Sūrat al-Baqarah, Q2:190)
+Fight in the cause of Allāh those who fight you, but do not transgress. Indeed,
+Allāh does not love the transgressors. (Sūrat al-Baqarah, Q2:190)
 \AYAH_END
 
 
-This _āyah_ established ethical limits and moral restraint in warfare. Allah's
+This _āyah_ established ethical limits and moral restraint in warfare. Allāh's
 Messenger \hon{\PBUH}{\BODY} used to fight only those who fought him and avoid
 non-combatants.
 
@@ -685,32 +685,32 @@ against the Muslim community:
 
 \AYAH_START
 Fight the polytheists collectively as they fight you collectively, and know that
-Allah is with those who are mindful of Him. (Sūrat al-Tawbah, Q9:36)
+Allāh is with those who are mindful of Him. (Sūrat al-Tawbah, Q9:36)
 \AYAH_END
 
 
 This _āyah_ clarified the collective nature of defense when the Muslim community
 is confronted as a whole.
 
-<!-- TODO: ref al-Bukhārī -->
-<!-- TODO: Ḥajj or Hajj -->
+<!-- TODO ref al-Bukhārī -->
+<!-- TODO Ḥajj or Hajj -->
 
-All military expeditions of the Messenger of Allah \hon{\PBUH}{\BODY} occurred
+All military expeditions of the Messenger of Allāh \hon{\PBUH}{\BODY} occurred
 after the Hijrah, within a span of ten years. Zayd ibn Arqam \hon{\P_HIM}{\BODY}
 narrated, "The Prophet \hon{\PBUH}{\BODY} fought nineteen battles and performed
 only one Hajj after migrating to Madinah, which was Ḥajj al-Wadāʿ (Farewell
 Hajj)." \[Ṣaḥīḥ al-Bukhārī\]
 
-<!-- TODO: ref Muslim -->
+<!-- TODO ref Muslim -->
 
-Buraydah \hon{\P_HIM}{\BODY} narrated, "The Messenger of Allah
+Buraydah \hon{\P_HIM}{\BODY} narrated, "The Messenger of Allāh
 \hon{\PBUH}{\BODY} conducted nineteen military expeditions, and he personally
 fought in eight of them." \[Ṣaḥīḥ Muslim\]
 
-<!-- TODO: ref Muslim -->
+<!-- TODO ref Muslim -->
 
-The Prophet \hon{\PBUH}{\BODY} said, "Whoever sincerely asks Allah for
-martyrdom, Allah will cause him to reach the ranks of the martyrs, even if he
+The Prophet \hon{\PBUH}{\BODY} said, "Whoever sincerely asks Allāh for
+martyrdom, Allāh will cause him to reach the ranks of the martyrs, even if he
 dies on his bed." \[Ṣaḥīḥ Muslim\]
 
 #### Dispelling A Misconception {.unnumbered}
@@ -733,14 +733,14 @@ context, prophetic practice, and scholarly consensus.
 2. Restricted by the very next _āyat_: The same passages in both instances
    immediately state:
 
-   "Fight in the way of Allah those who fight you, but do not transgress" (Sūrat
+   "Fight in the way of Allāh those who fight you, but do not transgress" (Sūrat
    al-Baqarah, Q2:190) and "If they cease, then there is no aggression except
    against the oppressors." (Sūrat al-Baqarah, Q2:193) This clearly limits
    fighting to combatants, prohibits transgression, and mandates cessation when
    hostility ends.
 
    And likewise, "And if any one of the polytheists seeks your protection, then
-   grant him protection so that he may hear the words of Allah. Then escort him
+   grant him protection so that he may hear the words of Allāh. Then escort him
    to a place of safety..." (Sūrat al-Tawbah, Q9:6) This establishes that even
    enemy combatants were not to be harmed if they sought protection.
 

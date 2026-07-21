@@ -16,7 +16,7 @@ too, with the setting of one great sun of learning, another quietly rose upon
 the land of Nagrām.
 
 Shaykh Abū al-ḤasanʿAlī Nadwī \hon{\M_HIM}{\BODY} wrote, "In the thirteenth
-century Hijrī, through Allah's special Mercy, a new wave of guidance and reform
+century Hijrī, through Allāh's special Mercy, a new wave of guidance and reform
 appeared in this region. Among the many scholarly families of Awadh, there were
 two noble lineages that remained firm upon Tawḥīd, adherence to the Sunnah, and
 the revival of pure Islamic teachings. One was the family of Ḥaḍrat Sayyid Aḥmad
@@ -37,8 +37,8 @@ al-Nagrāmī. He also received authorization (ijāzah) from Shaykh Bināʾ ʿA�
 al-Salūnī and Khwāja Aḥmad ibn Yāsīn al-Naṣīrābādī.
 
 Shaykh ʿAbd al-ʿAlī was a man of piety, righteousness, chastity, and trust in
-Allah. The people around him benefited from his good character even before they
-benefited from his knowledge. Allah guided many people to accept Islam at his
+Allāh. The people around him benefited from his good character even before they
+benefited from his knowledge. Allāh guided many people to accept Islam at his
 hands. He authored numerous works, among the most famous of which is Tafsīr Āyāt
 al-Aḥkām.
 
@@ -60,7 +60,7 @@ letter was published in the Maʿārif magazine.
 
 Shaykh ʿAbd al-ʿAlī passed away on the night of Wednesday, the 6th of Shawwāl,
 in the year 1296 AH (1782 CE). His son, Idrees ibn ʿAbd al-ʿAlī, performed his
-funeral rites. May Allah have mercy on him.
+funeral rites. May Allāh have mercy on him.
 
 The Shaykh's grandfather, Shaykh Muḥammad Idrīs Nagrāmī, was born on Monday,
 11th of Shawwal 1275 AH (1859 CE), in Nagram, Lucknow. He was highly
@@ -116,7 +116,7 @@ within the family of Shaykh Owais was that a son would first study the
 foundational sciences and manners (ādāb) at the feet of his father before
 proceeding to other teachers. Thus, we see Shaykh Owais learning from Shaykh
 Anīs, Shaykh Anīs learning from Shaykh Idrīs, and likewise Shaykh Idrīs learning
-from Shaykh Ḥāfiẓ Sayyid ʿAbd al-ʿAlī. May Allah have Mercy upon them all.
+from Shaykh Ḥāfiẓ Sayyid ʿAbd al-ʿAlī. May Allāh have Mercy upon them all.
 
 He later enrolled at Dār al-ʿUlūm Nadwat al-ʿUlamāʾ in 1927, where he studied
 until 1932 under some of the most distinguished scholars of the age. After
@@ -184,8 +184,8 @@ to Study the Quran*, "Shaykh Owais is not merely a teacher of Tafsīr at Dār
 al-ʿUlūm Nadwat al-ʿUlamāʾ with many years of experience in teaching the Quran;
 rather, in terms of taste and intuition, he is truly--- in the real sense--- a
 scholar and student of Quranic studies. His reading in this field is extensive,
-and his insight, by the grace of Allah, is remarkably deep. In every respect, he
-has devoted himself to the service of the Quran. That is the bounty of Allah; He
+and his insight, by the grace of Allāh, is remarkably deep. In every respect, he
+has devoted himself to the service of the Quran. That is the bounty of Allāh; He
 grants it to whom He wills."
 
 His writings, spanning Arabic, Urdu, and Persian, can be found in some of the

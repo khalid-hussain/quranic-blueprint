@@ -30,7 +30,7 @@ This reminds me of the words of Shaykh Muḥammad ʿAlī Ādam al-Ityūbī
 :::
 
 ::: {custom-style="Arabic Poetry Translation"}
-| Forever does Allah keep alive their remembrance,
+| Forever does Allāh keep alive their remembrance,
 |    A glorious feat among the people of diligence.
 :::
 
@@ -73,7 +73,7 @@ the original sources. Through this approach, the book aims to:
 
 - Build a strong moral foundation rooted in revelation.
 - Develop character alongside knowledge.
-- Instill a sense of accountability before Allah.
+- Instill a sense of accountability before Allāh.
 - Encourage practical application of Islamic teachings in everyday life.
 
 In essence, this is not merely a collection of lessons but a blueprint for
@@ -89,7 +89,7 @@ In preparing this edition, we have undertaken a careful and methodical
 refinement of the translation to enhance both clarity and scholarly integrity.
 Relevant āthār have been incorporated to strengthen the discussions and present
 a more comprehensive treatment of the issues addressed. In recognition of the
-author's deep admiration for Shaykh al-Islam Ibn Taymiyyah \hon{\M_HIM}{\BODY}
+author's deep admiration for Shaykh al-Islām Ibn Taymīyah \hon{\M_HIM}{\BODY}
 and his student Imam Ibn al-Qayyim \hon{\M_HIM}{\BODY}, we have included
 selected explanatory statements from these two Imams where appropriate, thereby
 enriching the reader's understanding and engagement with the text.
@@ -130,9 +130,9 @@ wife for their unending encouragement and steadfast presence throughout all my
 projects and endeavours. Their unwavering support has been my pillar of
 strength.
 
-We ask Allah to accept this meagre effort for His sake alone. We ask Allah to
+We ask Allāh to accept this meagre effort for His sake alone. We ask Allāh to
 grant us reunion with our Prophet \hon{\P_HIM}{\BODY} at al-Kawthar and to protect us
-from being among those about whom the Prophet \hon{\P_HIM}{\BODY} said, 'Allah may
+from being among those about whom the Prophet \hon{\P_HIM}{\BODY} said, 'Allāh may
 support this religion through a wicked man.'
 
 ::: {custom-style="left-ragged"}

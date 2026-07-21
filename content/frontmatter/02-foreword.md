@@ -29,12 +29,12 @@ and clarity. It is hoped that this book will prove beneficial not only
 for children but for all those who seek to derive guidance from it.
 
 This modest effort was completed under the supervision of Maulānā
-Muḥammad Idrīs al-Kāndhlawī, may Allah elevate his rank. It was
+Muḥammad Idrīs al-Kāndhlawī, may Allāh elevate his rank. It was
 subsequently reviewed at Nadwat al-ʿUlamāʾ, and thereafter examined by
-Mawlānā Ghāzī Rashīd Aḥmad, may Allah have mercy upon him.
+Mawlānā Ghāzī Rashīd Aḥmad, may Allāh have mercy upon him.
 
 It is our hope that this work will help draw the attention of Muslims
-toward the proper religious upbringing of their children, and that Allah
+toward the proper religious upbringing of their children, and that Allāh
 will make it a means of lasting benefit.
 
 ::: {custom-style="left-ragged"}

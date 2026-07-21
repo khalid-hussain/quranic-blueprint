@@ -62,7 +62,7 @@ comprehensive work into English with sincerity and care, and for
 preserving the works of a family with a rich scholarly heritage. His
 efforts represent a meaningful service to the Ummah, particularly to
 those who earnestly wish to understand Islam through sound scholarship.
-We pray that Allah \hon{\SWT}{\BODY} accepts this noble endeavour, places
+We pray that Allāh \hon{\SWT}{\BODY} accepts this noble endeavour, places
 barakah in it, and grants success in both this world and the Hereafter
 to all who contributed to its completion in any capacity. Āmīn.
 
