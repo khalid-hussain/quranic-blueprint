@@ -134,8 +134,8 @@ potential, took him under his special supervision, and brought him to Dār
 al-Muṣannifīn.
 
 In 1939, Shaykh Owais proceeded to Dār al-Muṣannifīn. During this period, he was
-profoundly influenced by the works of Shaykh al-Islām Ibn Taymiyyah [رحمه
-الله]{dir="rtl"}, Imam Ibn al-Qayyim \hon{\M_HIM}{\BODY}, and Shāh Walīullāh
+profoundly influenced by the works of Shaykh al-Islām Ibn Taymiyyah
+\hon{\M_HIM}{\BODY}, Imam Ibn al-Qayyim \hon{\M_HIM}{\BODY}, and Shāh Walīullāh
 al-Dehlawī \hon{\M_HIM}{\BODY}, an influence that would later become evident in
 both his teaching and his writings. He assisted ʿAllāmah Sayyid Sulaymān Nadwī
 \hon{\M_HIM}{\BODY} in completing Sīrah al-Nabī, the monumental work initiated
