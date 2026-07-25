@@ -26,6 +26,9 @@ leads to righteousness, and righteousness leads to Paradise. A man continues to
 speak the truth until he is recorded with Allāh as a _ṣiddīq_." \[Ṣaḥīḥ
 al-Bukhārī\]
 
+[-@@bukhari, vol. X, p. Y, #Z]
+
+
 <!-- TODO ref Abū Dāwūd -->
 
 Speaking the truth before a tyrannical ruler is the greatest form of Jihād. The
@@ -99,6 +102,9 @@ considers the wealth of his heirs more beloved than his own."
 He \hon{\PBUH}{\BODY} said, "Your wealth is what you send ahead, and what you
 leave behind belongs to your heirs." \[Ṣaḥīḥ al-Bukhārī\]
 
+[-@@bukhari, vol. X, p. Y, #Z]
+
+
 <!-- TODO ref al-Bukhārī -->
 
 The Prophet \hon{\PBUH}{\BODY} said, "Envy (_ghibṭah_) is not permissible except
@@ -108,6 +114,9 @@ in two cases:
 2.  A person whom Allāh has given knowledge, and he acts upon it and teaches
     it." \[Ṣaḥīḥ al-Bukhārī\]
 
+[-@@bukhari, vol. X, p. Y, #Z]
+
+
 <!-- TODO ref al-Bukhārī -->
 
 A man asked which charity is the greatest. The Prophet \hon{\PBUH}{\BODY}
@@ -115,6 +124,8 @@ replied, "That you give charity while you are healthy, desirous of wealth, and
 hopeful of living, and not delay it until the soul reaches the throat, then you
 say, 'Give such-and-such to so-and-so,' while it has already become the property
 of your heirs." \[Ṣaḥīḥ al-Bukhārī\]
+
+[-@@bukhari, vol. X, p. Y, #Z]
 
 
 ## A Goodly Loan (Qard Ḥasan)
@@ -181,12 +192,18 @@ to repay their debt as soon as possible. The Prophet \hon{\PBUH}{\BODY} said,
 "The best among you are those who are best in repaying debts." \[Ṣaḥīḥ
 al-Bukhārī\]
 
+[-@@bukhari, vol. X, p. Y, #Z]
+
+
 <!-- TODO ref al-Bukhārī -->
 
 When al-Zubayr \hon{\P_HIM}{\BODY} went out for the Battle of the Camel, he
 called his son and said, "I believe I may be wronged and killed today. What
 worries me most is my debt. Sell our property and repay my debts first; and if
 anything remains, seek Allāh's help." \[Ṣaḥīḥ al-Bukhārī\]
+
+[-@@bukhari, vol. X, p. Y, #Z]
+
 
 <!-- TODO ref Muslim -->
 
@@ -210,6 +227,8 @@ Messenger of Allāh \hon{\PBUH}{\BODY} refused to lead the funeral prayer. Abū
 Qatādah al-Anṣārī said, "O Messenger of Allāh, I will take responsibility for
 his debt." Then the Prophet \hon{\PBUH}{\BODY} led the funeral prayer. \[Ṣaḥīḥ
 al-Bukhārī\]
+
+[-@@bukhari, vol. X, p. Y, #Z]
 
 
 ## Trustworthiness (Amānah)
@@ -273,6 +292,8 @@ religion for the one who does not fulfill his covenant." \[Musnad Aḥmad\]
 The Prophet \hon{\PBUH}{\BODY} would repay debts with better than what he
 borrowed and emphasized justice in all dealings. \[Ṣaḥīḥ al-Bukhārī\]
 
+[-@@bukhari, vol. X, p. Y, #Z]
+
 
 ## Modesty (Ḥayāʾ)
 
@@ -296,10 +317,16 @@ feels no hesitation in committing evil is shameless and immodest. The Prophet
 \hon{\PBUH}{\BODY} said, "If you have no modesty, then do whatever you wish."
 \[Ṣaḥīḥ al-Bukhārī\]
 
+[-@@bukhari, vol. X, p. Y, #Z]
+
+
 <!-- TODO ref al-Bukhārī -->
 
 He \hon{\PBUH}{\BODY} said that faith has over sixty branches, and modesty is
 one branch of faith. \[Ṣaḥīḥ al-Bukhārī\]
+
+[-@@bukhari, vol. X, p. Y, #Z]
+
 
 <!-- TODO ref al-Bukhārī -->
 
@@ -308,6 +335,9 @@ there was a man who was excessively shy, to the extent that it caused him loss.
 His brother was becoming upset with him. When the Prophet \hon{\PBUH}{\BODY} saw
 this, he said not to be angry with him, because modesty is part of faith.
 \[Ṣaḥīḥ al-Bukhārī\]
+
+[-@@bukhari, vol. X, p. Y, #Z]
+
 
 However, one should not be shy in understanding religion, speaking the truth,
 enjoining good, or forbidding evil. The Quran states that Allāh does not shy
@@ -343,6 +373,9 @@ mercy.
 The Messenger of Allāh \hon{\PBUH}{\BODY} said, "The one who does not show mercy
 will not be shown mercy." \[Ṣaḥīḥ al-Bukhārī\]
 
+[-@@bukhari, vol. X, p. Y, #Z]
+
+
 This means that whoever does not show mercy to others, Allāh will not show mercy
 to him. It may also mean that those who do not show mercy to others will not
 receive mercy from others.
@@ -359,6 +392,9 @@ A Bedouin once said to the Prophet \hon{\PBUH}{\BODY}, "You people kiss your
 children, but we do not." The Prophet \hon{\PBUH}{\BODY} replied, "What can I do
 if Allāh has removed mercy from your heart?" \[Ṣaḥīḥ al-Bukhārī\]
 
+[-@@bukhari, vol. X, p. Y, #Z]
+
+
 <!-- TODO ref Aḥmad -->
 
 Special mercy should be shown to the young. The Prophet \hon{\PBUH}{\BODY} said,
@@ -369,6 +405,9 @@ Special mercy should be shown to the young. The Prophet \hon{\PBUH}{\BODY} said,
 Mercy is not limited to Muslims alone, but applies to all of humanity. The
 Messenger of Allāh \hon{\PBUH}{\BODY} said that whoever does not show mercy to
 people, Allāh will not show mercy to him. \[Ṣaḥīḥ al-Bukhārī\]
+
+[-@@bukhari, vol. X, p. Y, #Z]
+
 
 <!-- TODO ref missing -->
 
@@ -412,6 +451,9 @@ upon him."
 
 Then he \hon{\PBUH}{\BODY} said, "By Allāh, if Fāṭimah bint Muḥammad were to
 steal, I would cut off her hand." \[Ṣaḥīḥ al-Bukhārī\]
+
+[-@@bukhari, vol. X, p. Y, #Z]
+
 
 From this, it becomes clear that in matters of justice, no one should be
 favored, nor should justice be compromised for anyone.
@@ -462,6 +504,8 @@ least; rather, Allāh has given us drink." She returned to her people and said,
 "I have met either the greatest magician or the Prophet of Allāh." Later, her
 people accepted Islam. \[Ṣaḥīḥ al-Bukhārī\]
 
+[-@@bukhari, vol. X, p. Y, #Z]
+
 
 ## Fulfilling Covenants and Promises (ʿAhd)
 
@@ -483,6 +527,9 @@ Fulfilling promises is extremely important. The Messenger of Allāh
 \hon{\PBUH}{\BODY} said, "The signs of a hypocrite are three: when he speaks, he
 lies; when he makes a promise, he breaks it; and when he is entrusted, he
 betrays." \[Ṣaḥīḥ al-Bukhārī\]
+
+[-@@bukhari, vol. X, p. Y, #Z]
+
 
 <!-- TODO ref missing? -->
 
@@ -593,6 +640,9 @@ with ease.
 The Prophet Muḥammad \hon{\PBUH}{\BODY} said, "Allāh is gentle and loves
 gentleness in all matters." \[Ṣaḥīḥ al-Bukhārī; Ṣaḥīḥ Muslim\]
 
+[-@@bukhari, vol. X, p. Y, #Z]
+
+
 <!-- TODO ref Muslim -->
 
 He \hon{\PBUH}{\BODY} said, "Whoever is deprived of gentleness is deprived of
@@ -621,6 +671,9 @@ child, and honors the elderly, is among us." \[Sunan al-Tirmidhī\]
 > Indeed, Allāh loves gentleness in all matters." I said, "O Messenger of Allāh,
 > did you not hear what they said?" He \hon{\PBUH}{\BODY} said, "I said, 'Wa
 > ʿalaykum (and upon you).'" \[Ṣaḥīḥ al-Bukhārī\]
+
+[-@@bukhari, vol. X, p. Y, #Z]
+
 
 Thus, the Prophet \hon{\PBUH}{\BODY} responded appropriately without excess or
 harshness.
@@ -711,13 +764,13 @@ food for the children." He said, "Keep the children busy, and when our guest
 enters, put out the lamp and show him that we are eating." So they sat, and the
 guest ate while they remained hungry.
 
-<!-- TODO ref al-Bukhārī -->
-<!-- TODO ref Muslim -->
 <!-- TODO review translation: (and greatly pleased) -->
 
 In the morning, he went to the Prophet \hon{\PBUH}{\BODY}, who said, "Allāh was
 amazed (and greatly pleased) with what you both did for your guest last night."
 \[Ṣaḥīḥ al-Bukhārī; Ṣaḥīḥ Muslim\]
+
+[-@@bukhari, vol. X, p. Y, #Z]
 
 
 ## Moderation (Iʿtidāl)
@@ -745,11 +798,17 @@ The Prophet Muḥammad \hon{\PBUH}{\BODY} said, "Do from deeds what you are able
 for Allāh does not become tired until you become tired." \[Ṣaḥīḥ al-Bukhārī;
 Ṣaḥīḥ Muslim\]
 
+[-@@bukhari, vol. X, p. Y, #Z]
+
+
 <!-- TODO ref al-Bukhārī -->
 <!-- TODO ref Muslim -->
 
 The Prophet \hon{\PBUH}{\BODY} said, "The most beloved deeds to Allāh are those
 that are consistent, even if they are small." \[Ṣaḥīḥ al-Bukhārī; Ṣaḥīḥ Muslim\]
+
+[-@@bukhari, vol. X, p. Y, #Z]
+
 
 <!-- TODO ref al-Nasāʾī -->
 
@@ -819,6 +878,9 @@ having already gone ahead of them. He was on a horse belonging to Abū Ṭalḥa
 with a sword around his neck, and he was saying, 'Do not be afraid, do not be
 afraid.'" \[Ṣaḥīḥ al-Bukhārī\]
 
+[-@@bukhari, vol. X, p. Y, #Z]
+
+
 <!-- TODO ref Abū Dāwūd -->
 
 The Prophet Muḥammad \hon{\PBUH}{\BODY} said, "The best _jihād_ is a word of
@@ -834,6 +896,8 @@ truth spoken before a tyrannical ruler." \[Sunan Abī Dāwūd\]
 The Prophet Muḥammad \hon{\PBUH}{\BODY} used to supplicate, saying, "O Allāh, I
 seek refuge in You from cowardice, I seek refuge in You from miserliness..."
 \[Ṣaḥīḥ al-Bukhārī\]
+
+[-@@bukhari, vol. X, p. Y, #Z]
 
 <!-- TODO ref Abū Dāwūd -->
 
@@ -878,6 +942,9 @@ turn him away from his religion. His flesh would be combed with iron combs,
 separating it from his bones and sinews, yet that would not turn him away from
 his religion...'" \[Ṣaḥīḥ al-Bukhārī\]
 
+[-@@bukhari, vol. X, p. Y, #Z]
+
+
 <!-- TODO ref Aḥmad -->
 
 Bilāl \hon{\P_HIM}{\BODY} was laid on scorching sand, heavy stones were placed
@@ -896,6 +963,8 @@ other times.
 The Prophet Muḥammad \hon{\PBUH}{\BODY} said, "The most beloved deeds to Allāh
 are those that are consistent, even if they are small." \[Ṣaḥīḥ al-Bukhārī;
 Ṣaḥīḥ Muslim\]
+
+[-@@bukhari, vol. X, p. Y, #Z]
 
 
 ## Proclaiming the Truth (Iẓhār al-Ḥaqq)
@@ -938,6 +1007,8 @@ in Whose Hand is my soul, I will proclaim it among them.' So I went to the
 mosque and announced my Islam. The people of Quraysh stood up and beat me until
 I fell unconscious..." Then he returned the next day and did the same. \[Ṣaḥīḥ
 al-Bukhārī\]
+
+[-@@bukhari, vol. X, p. Y, #Z]
 
 
 ## Consultation (Shūrá)
@@ -1038,6 +1109,9 @@ without embarrassment.
 women of the Anṣār; shyness did not prevent them from gaining understanding of
 the religion." \[Ṣaḥīḥ al-Bukhārī; Ṣaḥīḥ Muslim\]
 
+[-@@bukhari, vol. X, p. Y, #Z]
+
+
 This _āyah_ also shows that a person should not fall short in acquiring
 knowledge, but should make every effort to learn what he does not know.
 
@@ -1093,6 +1167,9 @@ Messenger of Allāh \hon{\PBUH}{\BODY} was informed about it. He
 \hon{\PBUH}{\BODY} went out with some of his Companions to reconcile between
 them." \[Ṣaḥīḥ al-Bukhārī\]
 
+[-@@bukhari, vol. X, p. Y, #Z]
+
+
 <!-- TODO ref Abū Dāwūd -->
 <!-- TODO add footnote for the shaver -->
 
@@ -1107,3 +1184,6 @@ shaves away the religion." \[Sunan Abī Dāwūd\]
 
 He \hon{\PBUH}{\BODY} said, "He is not a liar who reconciles between people,
 conveying good or saying what is good." \[Ṣaḥīḥ al-Bukhārī; Ṣaḥīḥ Muslim\]
+
+[-@@bukhari, vol. X, p. Y, #Z]
+

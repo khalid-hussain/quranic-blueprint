@@ -62,6 +62,9 @@ example:
 > us." If they are left to do what they intend, all will perish. But if they are
 > restrained, all will be saved. \[Ṣaḥīḥ al-Bukhārī\]
 
+[-@@bukhari, vol. X, p. Y, #Z]
+
+
 <!-- TODO ref Aḥmad -->
 
 The Prophet \hon{\PBUH}{\BODY} warned that those who refrain from forbidding
@@ -162,6 +165,8 @@ Mūsá al-Ashʿarī \hon{\P_TWO}{\BODY} to Yemen to call people to Islam, he adv
 them at the time of departure, "Make things easy; do not make them difficult.
 Give glad tidings; do not drive people away." \[Ṣaḥīḥ al-Bukhārī\]
 
+[-@@bukhari, vol. X, p. Y, #Z]
+
 
 ## Practice What You Preach
 
@@ -260,6 +265,9 @@ deserving of my good companionship?" He replied, "Your mother." The man asked,
 "Then who?" He replied, "Your mother." He asked again, "Then who?" He replied,
 "Your mother." When he asked the fourth time, he replied, "Your father." \[Ṣaḥīḥ
 al-Bukhārī\]
+
+[-@@bukhari, vol. X, p. Y, #Z]
+
 
 Allāh says in the Quran that you must treat your parents with goodness. If one
 or both of them reach old age in your presence, do not even say 'uff' to them,
@@ -369,6 +377,9 @@ upon her, and safeguards herself and his wealth in his absence. \[Musnad Aḥmad
 The Prophet \hon{\PBUH}{\BODY} said, "A woman is a guardian over her husband's
 house and she will be questioned about her responsibility." \[Ṣaḥīḥ al-Bukhārī\]
 
+[-@@bukhari, vol. X, p. Y, #Z]
+
+
 <!-- TODO ref Abū Dāwūd -->
 
 He \hon{\PBUH}{\BODY} also said, "If I were to command anyone to prostrate to
@@ -381,6 +392,9 @@ The female Companions took great care in serving their husbands, honoring them,
 and safeguarding their property. ʿĀʾishah \hon{\P_HER}{\BODY} used to wash the
 Prophet's \hon{\PBUH}{\BODY} clothes with her own hands, prepare his
 tooth-stick, and apply fragrance on him. \[Ṣaḥīḥ al-Bukhārī\]
+
+[-@@bukhari, vol. X, p. Y, #Z]
+
 
 <!-- TODO adab mufrad -->
 
@@ -432,6 +446,9 @@ who are best to their wives." \[Sunan Ibn Mājah\]
 He \hon{\PBUH}{\BODY} said, "A man is a guardian over his household, and he will
 be questioned about it." \[Ṣaḥīḥ al-Bukhārī\]
 
+[-@@bukhari, vol. X, p. Y, #Z]
+
+
 <!-- TODO ref Muslim -->
 
 He \hon{\PBUH}{\BODY} also said, "Do not hate your wife if you notice a fault in
@@ -452,6 +469,9 @@ Women are generally tender-hearted, and for this reason, the Messenger of Allāh
 of the Prophet \hon{\PBUH}{\BODY} were riding camels that were moving quickly.
 The Prophet \hon{\PBUH}{\BODY} said to Anjashah, the Abyssinian servant, "Be
 gentle---do not break the glass vessels (i.e. the women)." \[Ṣaḥīḥ al-Bukhārī\]
+
+[-@@bukhari, vol. X, p. Y, #Z]
+
 
 <!-- TODO ref Isabah -->
 
@@ -487,16 +507,25 @@ that would lead him to Paradise. He \hon{\PBUH}{\BODY} said, "Worship Allāh
 without associating partners with Him, establish prayer, give _zakāh_, and
 uphold ties of kinship." \[Ṣaḥīḥ al-Bukhārī\]
 
+[-@@bukhari, vol. X, p. Y, #Z]
+
+
 <!-- TODO ref al-Bukhārī -->
 
 He \hon{\PBUH}{\BODY} said, "Whoever wishes for expansion in provision and
 increase in lifespan should maintain family ties." \[Ṣaḥīḥ al-Bukhārī\]
+
+[-@@bukhari, vol. X, p. Y, #Z]
+
 
 <!-- TODO ref al-Bukhārī -->
 
 He \hon{\PBUH}{\BODY} also said, "The one who truly upholds kinship is not the
 one who reciprocates kindness, but the one who maintains ties even when
 relatives cut them off." \[Ṣaḥīḥ al-Bukhārī\]
+
+[-@@bukhari, vol. X, p. Y, #Z]
+
 
 The Companions were exemplary in their conduct toward relatives.
 
@@ -545,6 +574,9 @@ He \hon{\PBUH}{\BODY} also said, "I and the one who sponsors an orphan will be
 in Paradise like this," and he joined his index and middle fingers. \[Ṣaḥīḥ
 al-Bukhārī\]
 
+[-@@bukhari, vol. X, p. Y, #Z]
+
+
 <!-- TODO ref Adab Mufrad -->
 
 ʿAbdullāh ibn ʿUmar \hon{\P_TWO}{\BODY} would never eat unless an orphan was
@@ -587,6 +619,9 @@ in need, assuming that one will never require help.
 The Messenger of Allāh \hon{\PBUH}{\BODY} said, "Whoever fulfills the need of
 his brother, Allāh will fulfill his need." \[Ṣaḥīḥ al-Bukhārī\]
 
+[-@@bukhari, vol. X, p. Y, #Z]
+
+
 <!-- TODO ref Muslim -->
 
 "Whoever relieves a Muslim of a hardship, Allāh will relieve him of a hardship
@@ -598,6 +633,9 @@ on the Day of Resurrection." \[Ṣaḥīḥ Muslim\]
 The Companions actively sought out the needy. When al-Zubayr \hon{\P_HIM}{\BODY}
 passed away, he left behind a massive debt. His son ʿAbdullāh worried about
 repayment. Ḥakīm ibn Ḥizām offered help if needed. \[Ṣaḥīḥ al-Bukhārī\]
+
+[-@@bukhari, vol. X, p. Y, #Z]
+
 
 <!-- TODO ref Adab Mufrad -->
 
@@ -636,6 +674,8 @@ When someone came to the Prophet \hon{\PBUH}{\BODY} seeking help, he would say
 to the Companions, "Intercede, and you will be rewarded; and Allāh decrees upon
 the tongue of His Prophet whatever He wills." \[Ṣaḥīḥ al-Bukhārī\]
 
+[-@@bukhari, vol. X, p. Y, #Z]
+
 
 ## Conduct with Neighbors
 
@@ -659,12 +699,18 @@ nearby. Islam places strong emphasis on good treatment of neighbors.
 The Messenger of Allāh \hon{\PBUH}{\BODY} said, "Whoever believes in Allāh and
 the Last Day should honor his neighbor." \[Ṣaḥīḥ al-Bukhārī\]
 
+[-@@bukhari, vol. X, p. Y, #Z]
+
+
 <!-- TODO ref al-Bukhārī -->
 
 The Prophet \hon{\PBUH}{\BODY} said,"By Allāh, he is not a believer! By Allāh,
 he is not a believer! By Allāh, he is not a believer!" It was said, "Who, O
 Messenger of Allāh?" He \hon{\PBUH}{\BODY} said, "The one whose neighbor is not
 safe from his harm." \[Ṣaḥīḥ al-Bukhārī\]
+
+[-@@bukhari, vol. X, p. Y, #Z]
+
 
 <!-- TODO ref adab mufrad -->
 
@@ -684,6 +730,9 @@ ibn ʿUmar \hon{\P_TWO}{\BODY} slaughtered a goat and asked his household whethe
 they had sent some to his Jewish neighbor. He said that he heard the Prophet
 \hon{\PBUH}{\BODY} say, "Jibrīl kept advising me regarding the neighbor until I
 thought he would make him an heir." \[Ṣaḥīḥ al-Bukhārī\]
+
+[-@@bukhari, vol. X, p. Y, #Z]
+
 
 In addition to these, there is another category that is not commonly called a
 neighbor but is treated as such due to constant association. The Quran refers to
@@ -720,6 +769,9 @@ would stay at her home.
 The Prophet \hon{\PBUH}{\BODY} said, "Whoever believes in Allāh and the Last Day
 should honor his guest." \[Ṣaḥīḥ al-Bukhārī\]
 
+[-@@bukhari, vol. X, p. Y, #Z]
+
+
 <!-- TODO ref al-Bukhārī -->
 <!-- TODO review translation of ff para -->
 
@@ -731,11 +783,16 @@ your fast. Your body has a right over you, your eyes have a right over you, your
 guest has a right over you, and your wife has a right over you." \[Ṣaḥīḥ
 al-Bukhārī\]
 
+[-@@bukhari, vol. X, p. Y, #Z]
+
+
 <!-- TODO ref al-Bukhārī -->
 
 He \hon{\PBUH}{\BODY} also said, "Hospitality is for one day and one night, and
 hosting a guest is for three days. Anything beyond that is charity." \[Ṣaḥīḥ
 al-Bukhārī\]
+
+[-@@bukhari, vol. X, p. Y, #Z]
 
 
 ## Conduct with Widows (Ādāb al-Arāmil)
@@ -766,6 +823,9 @@ al-Bukhārī\]
 
 He \hon{\PBUH}{\BODY} said, "He is like one who fasts by day and stands in
 prayer by night." \[Ṣaḥīḥ al-Bukhārī\]
+
+[-@@bukhari, vol. X, p. Y, #Z]
+
 
 Some ignorant people consider widows unlucky---this is contrary to Islamic
 teachings.
@@ -820,6 +880,9 @@ came before it."
 The Prophet \hon{\PBUH}{\BODY} said, "Allāh has forbidden disobedience to
 mothers and the burying of daughters alive." \[Ṣaḥīḥ al-Bukhārī\]
 
+[-@@bukhari, vol. X, p. Y, #Z]
+
+
 He \hon{\PBUH}{\BODY} did not merely forbid killing daughters, he elevated their
 status.
 
@@ -839,6 +902,9 @@ her guardianship.
 
 The Prophet \hon{\PBUH}{\BODY} ruled, "The maternal aunt is like the mother,"
 and placed the child in her care. \[Ṣaḥīḥ al-Bukhārī\]
+
+[-@@bukhari, vol. X, p. Y, #Z]
+
 
 
 ## Conduct with the Sick
@@ -867,6 +933,10 @@ servants to show kindness to them.
 The Messenger of Allāh \hon{\PBUH}{\BODY} said, "A Muslim has five rights over
 another Muslim---one of them is that he visits him when he is sick." \[Ṣaḥīḥ
 al-Bukhārī\]
+
+[-@@bukhari, vol. X, p. Y, #Z]
+
+
 
 <!-- TODO ref Abū Dāwūd -->
 
@@ -935,6 +1005,9 @@ The Messenger of Allāh \hon{\PBUH}{\BODY} said, "The believers, in their mutual
 love, mercy, and compassion, are like a single body: if one part suffers, the
 whole body responds with sleeplessness and fever." \[Ṣaḥīḥ al-Bukhārī\]
 
+[-@@bukhari, vol. X, p. Y, #Z]
+
+
 <!-- TODO ref Muslim -->
 
 He \hon{\PBUH}{\BODY} said, "A Muslim is the brother of another Muslim. He does
@@ -950,12 +1023,18 @@ brother for more than three days. When they meet, one turns away and the other
 turns away. The better of the two is the one who initiates the greeting of peace
 (_salām_)." \[Ṣaḥīḥ al-Bukhārī\]
 
+[-@@bukhari, vol. X, p. Y, #Z]
+
+
 <!-- TODO ref al-Bukhārī -->
 
 He \hon{\PBUH}{\BODY} said, "Every Muslim has five rights over another Muslim:
 responding to the greeting, visiting the sick, accepting invitations, saying,
 'may Allāh have mercy on you,' when he sneezes, and accompanying the funeral."
 \[Ṣaḥīḥ al-Bukhārī\]
+
+[-@@bukhari, vol. X, p. Y, #Z]
+
 
 <!-- TODO ref Muslim -->
 
@@ -1000,6 +1079,9 @@ made water troughs for my animals. If stray camels drink from them, will I
 receive reward?" He replied, "There is reward in showing kindness to every
 living being." \[Ṣaḥīḥ al-Bukhārī\]
 
+[-@@bukhari, vol. X, p. Y, #Z]
+
+
 <!-- TODO ref Abū Dāwūd -->
 
 Once during a journey, the Prophet \hon{\PBUH}{\BODY} saw that someone had lit a
@@ -1014,6 +1096,9 @@ not be harmed.
 The Prophet \hon{\PBUH}{\BODY} said regarding a woman, "She was punished because
 she imprisoned a cat---neither feeding it nor allowing it to eat from the earth,
 until it died." \[Ṣaḥīḥ al-Bukhārī\]
+
+[-@@bukhari, vol. X, p. Y, #Z]
+
 
 <!-- TODO ref al-Nasāʾī -->
 
@@ -1109,6 +1194,9 @@ Christian monks.
 
 ʿUmar \hon{\P_HIM}{\BODY} sent a gift to his polytheist brother during the
 Prophet's \hon{\PBUH}{\BODY} lifetime. \[Ṣaḥīḥ al-Bukhārī\]
+
+[-@@bukhari, vol. X, p. Y, #Z]
+
 
 <!-- TODO ref missing -->
 

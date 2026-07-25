@@ -29,6 +29,8 @@ of Allāh, then that is a great act of worship.
 The Messenger of Allāh \hon{\PBUH}{\BODY} said, "Indeed, actions are only judged
 by intentions." \[Ṣaḥīḥ al-Bukhārī\]
 
+[-@@bukhari, vol. X, p. Y, #Z]
+
 Just as having a good intention is necessary for worship, it is also necessary
 that the act be performed according to the method taught by Allāh and His
 Messenger. Allāh Says in the Quran,
@@ -93,6 +95,9 @@ Anas ibn Mālik \hon{\P_HIM}{\BODY} reported,
 > and am the most mindful of Him. Yet I fast and I break my fast, I pray, and I
 > sleep, and I marry women. Whoever turns away from my Sunnah is not from me."
 > \[Ṣaḥīḥ al-Bukhārī\]
+
+[-@@bukhari, vol. X, p. Y, #Z]
+
 
 <!-- TODO ref Majmu3 fatawa -->
 <!-- TODO check translation -->
@@ -204,6 +209,10 @@ is my soul, I considered ordering firewood to be gathered, then ordering the
 _ṣalāh_ and the call to _ṣalāh_ to be made, then appointing a man to lead the
 people in _ṣalāh_, and then going to men and burning their houses over them."
 \[Ṣaḥīḥ al-Bukhārī\]
+
+[-@@bukhari, vol. X, p. Y, #Z]
+
+
 
 <!-- TODO ref Aḥmad -->
 <!-- TODO ref check Companion name -->
@@ -371,6 +380,9 @@ al-Bukhārī\] The Companions \hon{\P_THM}{\BODY} were so eager to fast that whe
 they came to know there was little food in the house, they would say, "I am
 fasting today."
 
+[-@@bukhari, vol. X, p. Y, #Z]
+
+
 <!-- TODO ref Muslim -->
 
 ʿĀʾishah \hon{\P_HER}{\BODY} reported,
@@ -388,17 +400,25 @@ for their husbands. Eventually, the Messenger of Allāh \hon{\PBUH}{\BODY}
 instructed, "A woman should not fast while her husband is present except with
 his permission." \[Ṣaḥīḥ al-Bukhārī\]
 
+[-@@bukhari, vol. X, p. Y, #Z]
+
+
 <!-- TODO ref al-Bukhārī -->
 
 The Messenger of Allāh \hon{\PBUH}{\BODY} said, "When any one of you is fasting,
 he should not engage in obscene speech or ignorant behavior. If someone fights
 him or abuses him, let him say, 'I am fasting.'" \[Ṣaḥīḥ al-Bukhārī\]
 
+[-@@bukhari, vol. X, p. Y, #Z]
+
+
 <!-- TODO ref al-Bukhārī -->
 
 The Messenger of Allāh \hon{\PBUH}{\BODY} said, "The odor from the mouth of a
 fasting person is more pleasing to Allāh than the fragrance of musk." \[Ṣaḥīḥ
 al-Bukhārī\]
+
+[-@@bukhari, vol. X, p. Y, #Z]
 
 
 ## Pilgrimage (Ḥajj)
@@ -448,6 +468,9 @@ Abū Hurayrah \hon{\P_HIM}{\BODY} reported that the Messenger of Allāh
 \hon{\PBUH}{\BODY} said, "Jihād in the path of Allāh." He was asked, "Then
 what?" He \hon{\PBUH}{\BODY} said, "An accepted Ḥajj." \[Ṣaḥīḥ al-Bukhārī\]
 
+[-@@bukhari, vol. X, p. Y, #Z]
+
+
 <!-- TODO ref al-Bukhārī -->
 
 ʿĀʾishah \hon{\P_HER}{\BODY} said, "I said, 'O Messenger of Allāh, we see Jihād
@@ -455,11 +478,17 @@ as the best of deeds. Should we not take part in it?' He \hon{\PBUH}{\BODY}
 replied, 'The best Jihād for you (women) is an accepted Ḥajj.'" \[Ṣaḥīḥ
 al-Bukhārī\]
 
+[-@@bukhari, vol. X, p. Y, #Z]
+
+
 <!-- TODO ref al-Bukhārī -->
 
 The Messenger of Allāh \hon{\PBUH}{\BODY} said, "Whoever performs Ḥajj and does
 not engage in obscenity or commit sin will return (free of sins) as on the day
 his mother gave birth to him." \[Ṣaḥīḥ al-Bukhārī\]
+
+[-@@bukhari, vol. X, p. Y, #Z]
+
 
 <!-- TODO whose route is safe? -->
 
@@ -532,12 +561,18 @@ to the best of his ability and capacity.
 > asked, "Are your parents alive?" He replied, "Yes." The Prophet
 > \hon{\PBUH}{\BODY} said, "Then strive in their service." \[Ṣaḥīḥ al-Bukhārī\]
 
+[-@@bukhari, vol. X, p. Y, #Z]
+
+
 <!-- TODO ref al-Bukhārī -->
 
 The Prophet \hon{\PBUH}{\BODY} said, "The one who strives to support a widow and
 a poor person is like one who performs _jihād_ in the path of Allāh---or like
 one who stands in prayer at night and fasts during the day." \[Ṣaḥīḥ
 al-Bukhārī\]
+
+[-@@bukhari, vol. X, p. Y, #Z]
+
 
 <!-- TODO ref Abū Dāwūd -->
 
@@ -606,6 +641,9 @@ the world and seclude himself in worship. When the Messenger of Allāh
 \hon{\PBUH}{\BODY} learned of this, he said, "A morning journey in the path of
 Allāh, or an evening journey, is better than the world and everything in it."
 \[Ṣaḥīḥ al-Bukhārī\]
+
+[-@@bukhari, vol. X, p. Y, #Z]
+
 
 <!-- TODO def al-Bukhārī -->
 
@@ -700,6 +738,9 @@ after the Hijrah, within a span of ten years. Zayd ibn Arqam \hon{\P_HIM}{\BODY}
 narrated, "The Prophet \hon{\PBUH}{\BODY} fought nineteen battles and performed
 only one Hajj after migrating to Madinah, which was Ḥajj al-Wadāʿ (Farewell
 Hajj)." \[Ṣaḥīḥ al-Bukhārī\]
+
+[-@@bukhari, vol. X, p. Y, #Z]
+
 
 <!-- TODO ref Muslim -->
 

@@ -42,6 +42,9 @@ earns with his own hands." In another place he \hon{\PBUH}{\BODY} said, "It is
 better for one of you to carry a bundle of firewood on his back than to ask
 people..." \[Ṣaḥīḥ al-Bukhārī\]
 
+[-@@bukhari, vol. X, p. Y, #Z]
+
+
 <!-- TODO ref missing -->
 
 Some female Companions earned by weaving cloth.
@@ -81,6 +84,9 @@ accepting Islam, he would generally perform _ghusl_ (ritual bathing) once daily.
 The Messenger of Allāh \hon{\PBUH}{\BODY} said, "When one of you awakens from
 sleep, he should not put his hand into a vessel until he washes it three times,
 for he does not know where his hand spent the night." \[Ṣaḥīḥ al-Bukhārī\]
+
+[-@@bukhari, vol. X, p. Y, #Z]
+
 
 ### 2. Cleaning the Teeth (Siwāk) {.unnumbered}
 
@@ -129,6 +135,9 @@ multiple narrations describing the practice of the Prophet \hon{\PBUH}{\BODY}.
 
 The Prophet \hon{\PBUH}{\BODY} said, "It is a duty upon every Muslim to perform
 _ghusl_ once every seven days, washing his head and body." \[Ṣaḥīḥ al-Bukhārī\]
+
+[-@@bukhari, vol. X, p. Y, #Z]
+
 
 Additionally: Wearing clean clothes and applying fragrance are from the
 recommended etiquettes of a believer. Some scholars have even considered this
@@ -248,10 +257,16 @@ al-Ḥujurāt, Q49:11)
 The Messenger of Allāh \hon{\PBUH}{\BODY} said, "A believer does not insult,
 curse, speak obscenely, or use foul language." \[Ṣaḥīḥ al-Bukhārī\]
 
+[-@@bukhari, vol. X, p. Y, #Z]
+
+
 <!-- TODO ref al-Bukhārī -->
 
 He \hon{\PBUH}{\BODY} also said, "Whoever believes in Allāh and the Last Day
 should speak good or remain silent." \[Ṣaḥīḥ al-Bukhārī\]
+
+[-@@bukhari, vol. X, p. Y, #Z]
+
 
 <!-- TODO ref al-Bukhārī -->
 
@@ -259,9 +274,15 @@ should speak good or remain silent." \[Ṣaḥīḥ al-Bukhārī\]
 advice to hold firmly to. The Prophet \hon{\PBUH}{\BODY} pointed to his tongue
 and said, "Restrain this." \[Ṣaḥīḥ al-Bukhārī\]
 
+[-@@bukhari, vol. X, p. Y, #Z]
+
+
 <!-- TODO ref al-Bukhārī -->
 
 He \hon{\PBUH}{\BODY} said, "A good word is charity." \[Ṣaḥīḥ al-Bukhārī\]
+
+[-@@bukhari, vol. X, p. Y, #Z]
+
 
 Indecent speech should be avoided. Speech should be truthful, just, and calm.
 One should not rush when speaking.
@@ -272,6 +293,9 @@ The Messenger of Allāh \hon{\PBUH}{\BODY} would speak slowly and distinctly---s
 clearly that if someone wished to count his words, he could do so. \[Ṣaḥīḥ
 al-Bukhārī\]
 
+[-@@bukhari, vol. X, p. Y, #Z]
+
+
 <!-- TODO ref al-Tirmidhī -->
 
 When addressing a group, one should direct attention to everyone, turning toward
@@ -281,6 +305,9 @@ them gradually so that no one feels neglected. \[Jāmiʿ al-Tirmidhī\]
 
 Speech should be concise. The Prophet \hon{\PBUH}{\BODY} said, "I have been
 commanded to be concise in speech, for brevity is better." \[Ṣaḥīḥ al-Bukhārī\]
+
+[-@@bukhari, vol. X, p. Y, #Z]
+
 
 When women speak to non-_maḥram_ men, their tone should not be soft or alluring.
 (Sūrat al-Aḥzāb, Q33:32)
@@ -370,6 +397,9 @@ One should not make another person stand up to take their place. The Prophet
 \hon{\PBUH}{\BODY} said, "A man should not make another man stand from his place
 and then sit in it." \[Ṣaḥīḥ al-Bukhārī\]
 
+[-@@bukhari, vol. X, p. Y, #Z]
+
+
 <!-- TODO ref Muslim -->
 
 If someone temporarily leaves their seat and then returns, they are more
@@ -441,6 +471,9 @@ return. \[Ṣaḥīḥ al-Bukhārī\] However, if a person has already been invi
 permission is not required. The Prophet \hon{\PBUH}{\BODY} said, "The messenger
 sent to invite a man is his permission." \[Sunan Abī Dāwūd\]
 
+[-@@bukhari, vol. X, p. Y, #Z]
+
+
 <!-- TODO review translation of ff para -->
 
 There is no need to seek permission when entering shops or similar public
@@ -485,6 +518,9 @@ The Messenger of Allāh \hon{\PBUH}{\BODY} said, "Whoever slaps his cheeks, tear
 his clothes, and cries in the manner of the Days of Ignorance is not from my
 Ummah." \[Ṣaḥīḥ al-Bukhārī\]
 
+[-@@bukhari, vol. X, p. Y, #Z]
+
+
 <!-- TODO ref Aḥmad -->
 
 The Prophet \hon{\PBUH}{\BODY} loved Jaʿfar \hon{\P_HIM}{\BODY} deeply. When
@@ -500,6 +536,9 @@ The Prophet \hon{\PBUH}{\BODY} himself wept at the death of his son Ibrāhīm an
 said, "The eyes shed tears, and the heart grieves, but we do not say except what
 pleases our Lord..." \[Ṣaḥīḥ al-Bukhārī\] This establishes the balance where
 natural grief is permitted, and excessive lamentation is prohibited.
+
+[-@@bukhari, vol. X, p. Y, #Z]
+
 
 <!-- TODO ref Abū Dāwūd -->
 

@@ -112,12 +112,18 @@ Allāh as truthful. And lying leads to wickedness, and wickedness leads to
 Hellfire. A man continues to lie until he is recorded with Allāh as a liar."
 \[Ṣaḥīḥ al-Bukhārī\]
 
+[-@@bukhari, vol. X, p. Y, #Z]
+
+
 <!-- TODO ref al-Bukhārī -->
 
 The Prophet \hon{\PBUH}{\BODY} identified lying as a sign of hypocrisy. He
 \hon{\PBUH}{\BODY} said, "The signs of a hypocrite are three: when he speaks, he
 lies; when he promises, he breaks it; and when he is entrusted, he betrays."
 \[Ṣaḥīḥ al-Bukhārī\]
+
+[-@@bukhari, vol. X, p. Y, #Z]
+
 
 The Companions did not lie. If they committed a mistake, they would admit it
 immediately. During the expedition of Tabūk, some people did not participate.
@@ -134,6 +140,9 @@ Allāh, if I were sitting before anyone else of the people of the world, I would
 have avoided his anger with an excuse... but by Allāh, I know that if I were to
 tell you a lie to please you, Allāh would soon make you angry with me. But if I
 tell you the truth, I hope for Allāh's forgiveness...'" \[Ṣaḥīḥ al-Bukhārī\]
+
+[-@@bukhari, vol. X, p. Y, #Z]
+
 
 <!-- TODO ref Abū Dāwūd -->
 
@@ -218,6 +227,9 @@ He \hon{\PBUH}{\BODY} said, "The major sins are: associating partners with
 Allāh, disobedience to parents, killing a soul, and false oaths (_al-yamīn
 al-ghamūs_)." \[Ṣaḥīḥ al-Bukhārī\]
 
+[-@@bukhari, vol. X, p. Y, #Z]
+
+
 <!-- TODO ref majmu3 fatawa -->
 
 Shaykh al-Islām Ibn Taymīyah \hon{\M_HIM}{\BODY} said, "Oaths are of the nature
@@ -272,6 +284,9 @@ forms of betrayal and must be avoided.
 The Prophet Muḥammad \hon{\PBUH}{\BODY} said, "The signs of a hypocrite are
 three: when he speaks, he lies; when he makes a promise, he breaks it; and when
 he is entrusted, he betrays." \[Ṣaḥīḥ al-Bukhārī\]
+
+[-@@bukhari, vol. X, p. Y, #Z]
+
 
 <!-- TODO ref Abū Dāwūd -->
 
@@ -380,6 +395,9 @@ The Prophet Muḥammad \hon{\PBUH}{\BODY} said, "For every traitor there will be
 a banner on the Day of Resurrection, and it will be said, 'This is the betrayal
 of so-and-so.'" \[Ṣaḥīḥ al-Bukhārī\]
 
+[-@@bukhari, vol. X, p. Y, #Z]
+
+
 <!-- TODO ref Muslim -->
 
 The Messenger of Allāh \hon{\PBUH}{\BODY} would advise his military commanders
@@ -456,6 +474,9 @@ He \hon{\PBUH}{\BODY} also said, "Whoever accuses his slave of _zinā_ while he 
 innocent will be lashed on the Day of Resurrection, unless he is as he said."
 \[Ṣaḥīḥ al-Bukhārī\]
 
+[-@@bukhari, vol. X, p. Y, #Z]
+
+
 The one who fabricates false accusations is sinful in the sight of Allāh, and
 his testimony is not considered valid.
 
@@ -485,6 +506,9 @@ said, "Associating partners with Allāh, sorcery, killing a soul which Allāh ha
 forbidden except by right, consuming usury, consuming the wealth of an orphan,
 fleeing from the battlefield, and accusing chaste, believing, unsuspecting
 women." \[Ṣaḥīḥ al-Bukhārī\]
+
+[-@@bukhari, vol. X, p. Y, #Z]
+
 
 <!-- TODO ref majmu3 fatawa -->
 
@@ -534,6 +558,9 @@ that is difficult to avoid. As for one of them, he used not to protect himself
 from urine. As for the other, he used to go about spreading tale-bearing
 (namīmah)." \[Ṣaḥīḥ al-Bukhārī\]
 
+[-@@bukhari, vol. X, p. Y, #Z]
+
+
 <!-- TODO ref Abū Dāwūd -->
 
 The Prophet \hon{\PBUH}{\BODY} instructed, "Let none of you convey to me
@@ -546,6 +573,9 @@ free from ill feeling." \[Sunan Abī Dāwūd\]
 
 The Prophet \hon{\PBUH}{\BODY} said, "A tale-bearer (_qattāt_) will not enter
 Paradise." \[Ṣaḥīḥ al-Bukhārī\]
+
+[-@@bukhari, vol. X, p. Y, #Z]
+
 
 <!-- TODO ref Majmu3 fatawa -->
 <!-- TODO review translation -->
@@ -649,6 +679,9 @@ oppressed." They said, "O Messenger of Allāh, we help him if he is oppressed,
 but how do we help him if he is an oppressor?" He \hon{\PBUH}{\BODY} said, "By
 preventing him from oppression." \[Ṣaḥīḥ al-Bukhārī\]
 
+[-@@bukhari, vol. X, p. Y, #Z]
+
+
 <!-- TODO ref majmu3 fatawa -->
 
 Shaykh al-Islām Ibn Taymīyah \hon{\M_HIM}{\BODY} said, "Backbiting is
@@ -695,6 +728,9 @@ The Prophet \hon{\PBUH}{\BODY} also said, "Whoever listens to the conversation
 of a people while they dislike that or flee from him, molten lead will be poured
 into his ears on the Day of Resurrection." \[Ṣaḥīḥ al-Bukhārī\]
 
+[-@@bukhari, vol. X, p. Y, #Z]
+
+
 It is worth reflecting why one should unnecessarily pry into the conversations
 and private matters of others. Are one's own affairs not sufficient that one
 interferes in the affairs of others? After the commands of Allāh and His
@@ -740,6 +776,9 @@ suspicion is the most false of speech. Do not spy, do not compete with one
 another, do not envy one another, do not hate one another, and do not turn away
 from one another. Be, O servants of Allāh, brothers." \[Ṣaḥīḥ al-Bukhārī\]
 
+[-@@bukhari, vol. X, p. Y, #Z]
+
+
 It is also appropriate that if a person does something that may give others an
 opportunity for suspicion, he should remove that suspicion.
 
@@ -758,6 +797,9 @@ opportunity for suspicion, he should remove that suspicion.
 > They said, "Subḥān Allāh, O Messenger of Allāh!" He \hon{\PBUH}{\BODY} said,
 > "Indeed, Shayṭān flows through the son of Ādam like blood, and I feared that
 > he might cast something into your hearts." \[Ṣaḥīḥ al-Bukhārī\]
+
+[-@@bukhari, vol. X, p. Y, #Z]
+
 
 <!-- TODO review translation of ff para -->
 
@@ -810,12 +852,18 @@ The Messenger of Allāh \hon{\PBUH}{\BODY} said, "Richness is not having many
 possessions. Rather, true richness is the richness of the soul." \[Ṣaḥīḥ
 al-Bukhārī\]
 
+[-@@bukhari, vol. X, p. Y, #Z]
+
+
 <!-- TODO ref al-Bukhārī -->
 
 The Prophet Muḥammad \hon{\PBUH}{\BODY} said, "Whoever seeks self-sufficiency,
 Allāh will make him self-sufficient; whoever seeks chastity, Allāh will grant
 him chastity; and whoever seeks patience, Allāh will grant him patience. No one
 is given a gift better and more expansive than patience." \[Ṣaḥīḥ al-Bukhārī\]
+
+[-@@bukhari, vol. X, p. Y, #Z]
+
 
 <!-- TODO ref al-Bukhārī -->
 <!-- TODO check translit of name -->
@@ -840,6 +888,9 @@ is given a gift better and more expansive than patience." \[Ṣaḥīḥ al-Bukh
 
 > So Ḥakīm did not take anything from anyone after the Messenger of Allāh
 > \hon{\PBUH}{\BODY} until he died." \[Ṣaḥīḥ al-Bukhārī\]
+
+[-@@bukhari, vol. X, p. Y, #Z]
+
 
 This affected Ḥakīm so deeply that thereafter he never accepted a gift from
 anyone.
@@ -877,12 +928,18 @@ The Messenger of Allāh \hon{\PBUH}{\BODY} said, "A strong man is not the one wh
 overpowers others, but the one who controls himself when angry." \[Ṣaḥīḥ
 al-Bukhārī\]
 
+[-@@bukhari, vol. X, p. Y, #Z]
+
+
 <!-- TODO ref al-Bukhārī -->
 
 A man said to the Prophet Muḥammad \hon{\PBUH}{\BODY}, "Advise me." He
 \hon{\PBUH}{\BODY} said, "Do not become angry." The man repeated his request
 several times, and he \hon{\PBUH}{\BODY} said each time, "Do not become angry."
-\[Ṣaḥīḥ al-Bukhārī \]
+\[Ṣaḥīḥ al-Bukhārī\]
+
+[-@@bukhari, vol. X, p. Y, #Z]
+
 
 <!-- TODO ref Abū Dāwūd -->
 
@@ -913,6 +970,9 @@ to say,
 \HADITH_START
 "I seek refuge with Allāh from Shayṭān, the accursed." \[Ṣaḥīḥ al-Bukhārī\]
 \HADITH_END
+
+[-@@bukhari, vol. X, p. Y, #Z]
+
 
 <!-- TODO ref Madarij Salikin -->
 
@@ -958,6 +1018,9 @@ The Prophet \hon{\PBUH}{\BODY} said, "It is not permissible for a Muslim to
 abandon his brother for more than three nights. They meet, and this one turns
 away, and that one turns away. The better of the two is the one who initiates
 the greeting of peace." \[Ṣaḥīḥ al-Bukhārī\]
+
+[-@@bukhari, vol. X, p. Y, #Z]
+
 
 <!-- TODO ref Muslim -->
 
@@ -1028,6 +1091,9 @@ or tyrannical one." \[Musnad Aḥmad\]
 On another occasion, he \hon{\PBUH}{\BODY} said, "Shall I inform you who the
 people of Hell are? They said, "Yes." He \hon{\PBUH}{\BODY} said, "Every harsh,
 violent, and arrogant person." \[Ṣaḥīḥ al-Bukhārī\]
+
+[-@@bukhari, vol. X, p. Y, #Z]
+
 
 <!-- TODO ref majmu3 fatawa -->
 
@@ -1178,6 +1244,9 @@ The Prophet \hon{\PBUH}{\BODY} said, "There is no envy except in two cases: a
 man whom Allāh has given wealth and he spends it in truth, and a man whom Allāh
 has given wisdom and he judges by it and teaches it." \[Ṣaḥīḥ al-Bukhārī\]
 
+[-@@bukhari, vol. X, p. Y, #Z]
+
+
 <!-- TODO: ref ibn al-qayyim -->
 
 Imam Ibn al-Qayyim \hon{\M_HIM}{\BODY} said, "Envy is to wish for the removal of
@@ -1239,6 +1308,9 @@ strong fortress, the Muslim community is like a fortress whose strength lies in
 each brick supporting the other. As long as the bricks remain connected, the
 wall stands; once a brick slips from its place, the entire wall collapses.
 
+[-@@bukhari, vol. X, p. Y, #Z]
+
+
 <!-- TODO: ref al-Bukhārī -->
 <!-- TODO review trans: if even one suffers -->
 
@@ -1246,6 +1318,8 @@ The Prophet \hon{\PBUH}{\BODY} said, "The example of the believers in their
 mutual love, mercy, and compassion is like a body: when one limb suffers, the
 whole body responds to it with sleeplessness and fever." \[Ṣaḥīḥ al-Bukhārī\]
 This is how Muslims should be---if even one suffers, all should feel the pain.
+
+[-@@bukhari, vol. X, p. Y, #Z]
 
 
 <!-- TODO ref al-Bukhārī -->
@@ -1258,6 +1332,9 @@ need of his brother, Allāh will fulfill his need. Whoever relieves a Muslim of 
 hardship, Allāh will relieve him of a hardship on the Day of Resurrection.
 Whoever conceals a Muslim, Allāh will conceal him on the Day of Resurrection."
 \[Ṣaḥīḥ al-Bukhārī\]
+
+[-@@bukhari, vol. X, p. Y, #Z]
+
 
 <!-- TODO ref Abū Dāwūd -->
 <!-- TODO review translation: mirror of another believer -->
@@ -1295,12 +1372,18 @@ before you who was wounded. He became impatient and took a knife and cut his
 hand, and the blood did not stop until he died. Allāh said, 'My servant hastened
 his death; I have forbidden Paradise for him.'" \[Ṣaḥīḥ al-Bukhārī\]
 
+[-@@bukhari, vol. X, p. Y, #Z]
+
+
 <!-- TODO ref al-Bukhārī -->
 <!-- TODO review translation -->
 
 The Messenger of Allāh \hon{\PBUH}{\BODY} said, "Whoever kills himself with
 something will be punished with it on the Day of Resurrection." \[Ṣaḥīḥ
 al-Bukhārī\]
+
+[-@@bukhari, vol. X, p. Y, #Z]
+
 
 <!-- TODO ref al-Bukhārī -->
 <!-- TODO review translation -->
@@ -1311,6 +1394,9 @@ Whoever drinks poison and kills himself will be sipping it in the Fire of Hell
 forever. Whoever kills himself with an iron weapon will have that weapon in his
 hand, stabbing himself in his abdomen in the Fire of Hell forever." \[Ṣaḥīḥ
 al-Bukhārī\]
+
+[-@@bukhari, vol. X, p. Y, #Z]
+
 
 <!-- TODO ref al-Tirmidhī -->
 
@@ -1325,6 +1411,9 @@ Killing unjustly is sinful not only with respect to Muslims, but also to others.
 The Prophet \hon{\PBUH}{\BODY} said, "Whoever kills a person under covenant
 will not smell the fragrance of Paradise, though its fragrance can be perceived
 from a distance of forty years." \[Ṣaḥīḥ al-Bukhārī\]
+
+[-@@bukhari, vol. X, p. Y, #Z]
+
 
 <!-- TODO ref majmu3 fatawa -->
 
@@ -1439,6 +1528,9 @@ You from anxiety and grief, from incapacity and laziness, from cowardice and
 miserliness, and from the burden of debt and the oppression of men." \[Ṣaḥīḥ
 al-Bukhārī\]
 
+[-@@bukhari, vol. X, p. Y, #Z]
+
+
 <!-- TODO ref Muslim -->
 <!-- TODO review translation: do not be helpless -->
 
@@ -1551,6 +1643,9 @@ The Prophet Muḥammad \hon{\PBUH}{\BODY} said, "A Muslim is the one from whose
 tongue and hands the Muslims are safe, and a _muhājir_ is the one who abandons
 what Allāh has forbidden." \[Ṣaḥīḥ al-Bukhārī\]
 
+[-@@bukhari, vol. X, p. Y, #Z]
+
+
 <!-- TODO ref al-Bukhārī -->
 <!-- TODO review translation: grammatical tense -->
 
@@ -1559,6 +1654,9 @@ The Prophet Muḥammad \hon{\PBUH}{\BODY} said, "There will be tribulations
 standing is better than the one walking, and the one walking is better than the
 one running. Whoever exposes himself to them will be drawn into them, so whoever
 finds a refuge or shelter should seek it." \[Ṣaḥīḥ al-Bukhārī\]
+
+[-@@bukhari, vol. X, p. Y, #Z]
+
 
 <!-- TODO ref majmu3 fatawa -->
 
@@ -1635,6 +1733,9 @@ said, "If one of you must praise his brother, let him say, 'I think so-and-so is
 such-and-such, and Allāh knows best about him, and I do not purify anyone before
 Allāh,' if he truly knows that of him." \[Ṣaḥīḥ al-Bukhārī\]
 
+[-@@bukhari, vol. X, p. Y, #Z]
+
+
 <!-- TODO ref Tabarani -->
 
 The Prophet \hon{\PBUH}{\BODY} discouraged excessive praise because it causes
@@ -1705,6 +1806,8 @@ Allāh'; a man who gives charity and conceals it so that his left hand does not
 know what his right hand has spent; and a man who remembers Allāh in solitude
 and his eyes overflow with tears." \[Ṣaḥīḥ al-Bukhārī\]
 
+[-@@bukhari, vol. X, p. Y, #Z]
+
 
 <!-- TODO ref majmu3 fatawa -->
 
@@ -1751,6 +1854,9 @@ The Prophet \hon{\PBUH}{\BODY} used to supplicate, "O Allāh, I seek refuge in
 You from miserliness, from cowardice, from being returned to the most decrepit
 old age, from the trial of this world, and from the punishment of the grave."
 \[Ṣaḥīḥ al-Bukhārī\]
+
+[-@@bukhari, vol. X, p. Y, #Z]
+
 
 <!-- TODO ref Muslim -->
 
@@ -1842,6 +1948,9 @@ The Prophet Muḥammad \hon{\PBUH}{\BODY} said, "Allāh has disliked for you thr
 things: idle talk, excessive questioning, and wasting wealth." \[Ṣaḥīḥ
 al-Bukhārī\]
 
+[-@@bukhari, vol. X, p. Y, #Z]
+
+
 <!-- TODO ref Ibn Mājah -->
 
 The Prophet Muḥammad \hon{\PBUH}{\BODY} said, "Eat, give charity, and clothe
@@ -1916,6 +2025,9 @@ Abū Hurayrah \hon{\P_HIM}{\BODY} narrated,
 > these unlawfully." The Messenger of Allāh \hon{\PBUH}{\BODY} said, "A strap of
 > fire, or two straps of fire." \[Ṣaḥīḥ al-Bukhārī\]
 
+[-@@bukhari, vol. X, p. Y, #Z]
+
+
 <!-- TODO ref majmu3 fatawa -->
 
 Shaykh al-Islām Ibn Taymīyah \hon{\M_HIM}{\BODY} said, "_Ghulūl_ is among the
@@ -1977,6 +2089,9 @@ earnings. Abū Bakr ate from it, then the servant informed him that it was earne
 in pre-Islamic times through unlawful means. Upon hearing this, Abū Bakr
 inserted his fingers into his mouth and vomited everything he had consumed.
 \[Ṣaḥīḥ al-Bukhārī\]
+
+[-@@bukhari, vol. X, p. Y, #Z]
+
 
 <!-- TODO ref al-Daa wa al-dawaa -->
 <!-- TODO review translation: sins upon the heart → sins in the heart  -->
@@ -2047,6 +2162,9 @@ stood on the pulpit and said,
 > camel, it will be groaning; if a cow, it will be lowing; and if a sheep, it
 > will be bleating. \[Ṣaḥīḥ al-Bukhārī\]
 
+[-@@bukhari, vol. X, p. Y, #Z]
+
+
 <!-- TODO ref majmu3 fatawa -->
 
 Shaykh al-Islām Ibn Taymīyah \hon{\M_HIM}{\BODY} said, "Bribery given to obtain
@@ -2082,6 +2200,9 @@ they would not commit theft or immorality. He \hon{\PBUH}{\BODY} said, "May
 Allāh curse the thief who steals an egg and his hand is cut off, and who steals
 a rope and his hand is cut off." \[Ṣaḥīḥ al-Bukhārī\]
 
+[-@@bukhari, vol. X, p. Y, #Z]
+
+
 <!-- TODO ref al-Bukhārī -->
 <!-- TODO translation "bring a slander you fabricate between your hands and feet"? -->
 
@@ -2094,6 +2215,9 @@ reward is with Allāh; and whoever commits any of that and is punished for it in
 this world, it will be an expiation for him; and whoever commits any of that and
 Allāh conceals him, then his affair is with Allāh---if He wills, He will punish
 him, and if He wills, He will forgive him." \[Ṣaḥīḥ al-Bukhārī\]
+
+[-@@bukhari, vol. X, p. Y, #Z]
+
 
 <!-- TODO ref Muslim -->
 
@@ -2217,6 +2341,10 @@ a Muslim.
     knowledge will be taken away, ignorance will prevail, alcohol will be drunk,
     and fornication will become widespread." \[Ṣaḥīḥ al-Bukhārī\]
 
+    [-@@bukhari, vol. X, p. Y, #Z]
+
+    [-@@bukhari, vol. X, p. Y, #Z]
+
     The Prophet Muḥammad \hon{\PBUH}{\BODY} said, "Allāh has cursed alcohol, the
     one who drinks it, the one who pours it, the one who sells it, the one who
     buys it, the one who squeezes it, the one for whom it is squeezed, the one
@@ -2231,6 +2359,8 @@ a Muslim.
     The Prophet Muḥammad \hon{\PBUH}{\BODY} said, "Whoever says to his
     companion, 'Come, let me gamble with you,' must give charity." \[Ṣaḥīḥ
     al-Bukhārī\]
+
+    [-@@bukhari, vol. X, p. Y, #Z]
 
 3.  Divining Arrows: This is also a form of gambling. Among the Arabs, camels
     were the greatest wealth, so they gambled with them. They would slaughter
@@ -2277,6 +2407,9 @@ adultery while he is a believer, the thief does not steal while he is a
 believer, and the one who drinks alcohol does not drink it while he is a
 believer." \[Ṣaḥīḥ al-Bukhārī\]
 
+[-@@bukhari, vol. X, p. Y, #Z]
+
+
 The gaze greatly influences the unlawful relationship between men and women.
 Therefore, Allāh clearly Says,
 
@@ -2322,6 +2455,9 @@ subsided, they returned inside it. In it were naked men and women. I said, 'Who
 are these?' They said, 'These are the adulterers and adulteresses.'" \[Ṣaḥīḥ
 al-Bukhārī\]
 
+[-@@bukhari, vol. X, p. Y, #Z]
+
+
 <!-- TODO ref Ibn Mājah -->
 
 The Prophet Muḥammad \hon{\PBUH}{\BODY} said, "Whenever adultery becomes
@@ -2362,12 +2498,18 @@ Begging is considered extremely reprehensible in Islam. The Messenger of Allāh
 \hon{\PBUH}{\BODY} said, "Whoever persists in begging will come on the Day of
 Judgment with not a single piece of flesh on his face." \[Ṣaḥīḥ al-Bukhārī\]
 
+[-@@bukhari, vol. X, p. Y, #Z]
+
+
 <!-- TODO ref al-Bukhārī -->
 
 The Prophet \hon{\PBUH}{\BODY} said, "Whoever seeks to be self-sufficient, Allāh
 will make him self-sufficient; and whoever seeks independence, Allāh will grant
 him independence; and whoever is patient, Allāh will grant him patience. No one
 is given a gift better and more expansive than patience." \[Ṣaḥīḥ al-Bukhārī\]
+
+[-@@bukhari, vol. X, p. Y, #Z]
+
 
 Such was the state of the Companions that even if a whip fell from their hands
 to the ground, they would not ask anyone to pick it up for them.
@@ -2386,6 +2528,9 @@ He \hon{\PBUH}{\BODY} further said, "By the One in whose hand is my soul, it is
 better for one of you to take his rope, gather firewood, carry it on his back,
 and sell it, than to ask a man who may give him or withhold from him." \[Ṣaḥīḥ
 al-Bukhāri\]
+
+[-@@bukhari, vol. X, p. Y, #Z]
+
 
 <!-- TODO def Abū Dāwūd -->
 

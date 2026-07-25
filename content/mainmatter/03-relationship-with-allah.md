@@ -226,11 +226,17 @@ realities:
 The Messenger of Allāh \hon{\PBUH}{\BODY} said, "No one has been given a gift
 better and more expansive than patience." \[Ṣaḥīḥ al-Bukhārī\]
 
+[-@@bukhari, vol. X, p. Y, #Z]
+
+
 <!-- TODO ref al-Bukhārī -->
 
 The Prophet \hon{\PBUH}{\BODY} said, "Allāh the Exalted says, 'If I test My
 servant by taking away his two beloved ones (his eyes) and he remains patient, I
 will compensate him with Paradise.'" \[Ṣaḥīḥ al-Bukhārī\]
+
+[-@@bukhari, vol. X, p. Y, #Z]
+
 
 <!-- TODO ref Aḥmad -->
 
@@ -318,6 +324,9 @@ which Allāh created it.
 in prayer at night until his feet became swollen. I said, 'Why do you do this
 when Allāh has forgiven your past and future sins?' He \hon{\PBUH}{\BODY}
 replied, 'Should I not be a grateful servant?'" \[Ṣaḥīḥ al-Bukhārī\]
+
+[-@@bukhari, vol. X, p. Y, #Z]
+
 
 <!-- TODO ref Kitab al-Shukr -->
 
