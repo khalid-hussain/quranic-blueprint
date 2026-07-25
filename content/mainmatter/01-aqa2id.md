@@ -295,14 +295,13 @@ the final Prophet. After him, no other Prophet will be sent. As Muslims, we
 respect all the Messengers, and we regard Prophet Muḥammad \hon{\PBUH}{\BODY}
 as the greatest elder and the final Prophet.
 
-<!-- TODO ref al-Bukhārī -->
-
 The Messenger of Allāh \hon{\PBUH}{\BODY} said, "My example and the example of
 the prophets before me is like that of a man who built a house, completed it,
 and beautified it, except for the place of one brick in a corner. People began
 to walk around it, admiring it, and saying, 'If only this brick were placed!'"
-He then said "I am that brick, and I am the Seal of the Prophets." \[Ṣaḥīḥ
-al-Bukhārī\]
+He then said "I am that brick, and I am the Seal of the Prophets."[-@@bukhari,
+vol.~3, p.~329, #3535]
+
 
 <!-- TODO ref al-Tirmidhī -->
 
@@ -411,15 +410,12 @@ disbelieve, there is deafness in their ears and blindness upon them. They are as
 if they are being called from a distant place." (Sūrat Fuṣṣilat, Q41:44)
 \AYAH_END
 
-
-<!-- TODO ref al-Bukhārī -->
-
-Prophet Muḥammad \hon{\PBUH}{\BODY} said, "In this world and the Hereafter, I
-am the closest of all people to ʿĪsá ibn Maryam. The prophets are paternal
-brothers: their mothers are different, but their religion is one." \[Ṣaḥīḥ
-al-Bukhārī\] Another way of understanding this _ḥadīth_ is that the core message
-of faith of all the prophets was the same, while the _sharīʿah_ they brought
-differed according to the needs of their times.
+Prophet Muḥammad \hon{\PBUH}{\BODY} said, "I'm the closest of all people to ʿĪsá
+ibn Maryam in this life and the Hereafter. The Prophets are paternal brothers:
+their mothers are different, but their religion is one."[-@@bukhari, vol.~3,
+p.~294, #3443] Another way of understanding this _ḥadīth_ is that the core
+message of faith of all the prophets was the same, while the _sharīʿah_ they
+brought differed according to the needs of their times.
 
 \AYAH_AR_START
 لِكُلّٖ جَعَلۡنَا مِنكُمۡ شِرۡعَةٗ وَمِنۡهَاجٗاۚ
@@ -545,11 +541,12 @@ One major form of _shirk_ is that excessive reverence is shown to a particular
 person. Gradually, this very thing becomes a means of _shirk_, and people begin to
 attribute to that person the status of God.
 
-<!-- TODO ref al-Bukhārī -->
+<!-- TODO zahid review -->
 
 The Messenger of Allāh \hon{\PBUH}{\BODY} said, "Do not exaggerate in praising
-me as the Christians exaggerated in praising the son of Maryam. I am only a
-servant, so say, 'the servant of Allāh and His Messenger.'" \[Ṣaḥīḥ al-Bukhārī\]
+me as the Christians exaggerated in praising the son of Maryam. I am only His
+servant, so say, 'the servant of Allāh and His Messenger.'"[-@@bukhari, vol.~3,
+p.~295, #3445]
 
 <!-- TODO ref Aḥmad -->
 
@@ -570,19 +567,19 @@ they present all kinds of needs before them. When they stand or sit, they take
 their names, they direct their gaze toward them, they offer vows and offerings
 (gifts) to them, although before Allāh, no one's authority can prevail.
 
-<!-- TODO ref al-Bukhārī -->
-<!-- TODO add āyah reference -->
+<!-- TODO zahid review -->
 
 Abū Hurayrah \hon{\P_HIM}{\BODY} reported,
 
-> When Allāh revealed the _āyah_, "And warn your nearest relatives," the
-> Messenger of Allāh \hon{\PBUH}{\BODY} stood up and said, "O people of
-> Quraysh, save yourselves. I cannot avail you of anything against Allāh. O Banū
-> ʿAbd Manāf, I cannot avail you of anything against Allāh. O ʿAbbās ibn ʿAbd
-> al-Muṭṭalib, I cannot avail you of anything against Allāh. O Ṣafīyah (paternal
-> aunt of the Messenger of Allāh), I cannot avail you of anything against Allāh.
-> O Fāṭimah bint Muḥammad, ask me whatever you wish from my wealth, but I cannot
-> avail you of anything against Allāh." \[Ṣaḥīḥ al-Bukhārī\]
+> When Allāh revealed the _āyah_, "And warn your nearest relatives," (Shuʿarāʾ,
+> Q26:214) the Messenger of Allāh \hon{\PBUH}{\BODY} stood up and said, "O
+> people of Quraysh, save yourselves. I cannot avail you of anything against
+> Allāh. O Banū ʿAbd Manāf, I cannot avail you of anything against Allāh. O
+> ʿAbbās ibn ʿAbd al-Muṭṭalib, I cannot avail you of anything against Allāh. O
+> Ṣafīyah (paternal aunt of the Messenger of Allāh), I cannot avail you of
+> anything against Allāh. O Fāṭimah bint Muḥammad, ask me whatever you wish from
+> my wealth, but I cannot avail you of anything against Allāh."[-@@bukhari,
+> vol.~2, pp.~595--6, #2753]
 
 
 ### Shirk at Graves
@@ -599,7 +596,7 @@ offerings, and believe that their wishes will be fulfilled. Jundub
 > of worship. Be aware! Do not take graves as places of worship. Indeed, I
 > forbid you from doing that." \[Ṣaḥīḥ Muslim\]
 
-<!-- TODO ref al-Bukhārī -->
+<!-- TODO review translation -->
 
 ʿĀʾishah and Ibn ʿAbbās \hon{\P_THM}{\BODY} reported,
 
@@ -607,7 +604,9 @@ offerings, and believe that their wishes will be fulfilled. Jundub
 > began placing a patterned cloak over his face. When he felt distressed, he
 > would uncover it from his face and say, while in that state, "May Allāh curse
 > the Jews and the Christians; they took the graves of their prophets as places
-> of worship." He was warning against what they had done. \[Ṣaḥīḥ al-Bukhārī\]
+> of worship." He was warning against what they had done.[-@@bukhari, vol.~1,
+> p.~256, #435—6]
+
 
 <!-- TODO check translation -->
 <!-- TODO bowing the head → prostrating the head? OR JUST prostrating? -->
@@ -721,13 +720,13 @@ show them reverence. Over time, the following generations began to worship not
 only those stones, but also any stone that resembled their original stones or
 appeared distinctive to them.
 
-<!-- TODO ref al-Bukhārī -->
+<!-- TODO review translation -->
 
 Abū Rajāʾ al-ʿUṭāridī \hon{\P_HIM}{\BODY} narrated, "We used to worship stones.
 When we found a better stone than the one we had, we would discard the first and
 take the latter. If we could not find a stone, we would gather some earth, then
-bring a sheep and milk it over the earth, and then perform _ṭawāf_ around it."
-(Ṣaḥīḥ al-Bukhārī)
+bring a sheep and milk it over the earth, and then perform _ṭawāf_ around
+it."[-@@bukhari, vol.~3, p.~684, #4376-7]
 
 As a result, idolatry spread throughout society until every tribe had an idol
 that it worshipped. Not only tribes, but at times even individual families
@@ -807,11 +806,10 @@ must always be ready to carry out every command of Allāh.
 Asmāʾ bint Abī Bakr \hon{\P_HER}{\BODY} said, "The Companions used to weep out
 of fear of Allāh."
 
-<!-- TODO ref al-Bukhārī ; add Quran reference -->
-
 ʿAbdullāh ibn Shaddād said, "I heard the sobbing of ʿUmar ibn al-Khaṭṭāb
 \hon{\P_HIM}{\BODY} from the last rows while he was reciting, 'I only complain
-of my grief and sorrow to Allāh.'" (Ṣaḥīḥ al-Bukhārī)
+of my grief and sorrow to Allāh.' (Sūrat Yūsuf, Q12:86)"[-@@bukhari, vol.~1,
+p.~388]
 
 <!-- TODO ref al-Tirmidhī -->
 
@@ -957,16 +955,13 @@ another person's unlawfully acquired wealth, then that wealth must be returned,
 and forgiveness must be sought from the one who was wronged. Without fulfilling
 these conditions, repentance is not complete.
 
-<!-- TODO ref al-Bukhārī -->
-<!-- TODO ref al-Bukhārī -->
-
 Despite being the Messenger of Allāh, the Prophet \hon{\PBUH}{\BODY} used to
-repent and seek forgiveness seventy times a day \[Ṣaḥīḥ al-Bukhārī\]. ʿĀʾishah
-\hon{\P_HER}{\BODY} said, "The Prophet \hon{\PBUH}{\BODY} would stand in prayer
-at night until his feet became swollen. I said, 'O Messenger of Allāh, why do
-you do this when Allāh has forgiven your past and future sins?' He
-\hon{\PBUH}{\BODY} said, 'Shall I not be a grateful servant?'" \[Ṣaḥīḥ
-al-Bukhārī\]
+repent and seek forgiveness seventy times a day.[-@@bukhari, vol.~5, p.~370,
+#6307] ʿĀʾishah \hon{\P_HER}{\BODY} said, "The Prophet \hon{\PBUH}{\BODY} would
+stand in prayer at night until his feet became swollen. I said, 'O Messenger of
+Allāh, why do you do this when Allāh has forgiven your past and future sins?' He
+\hon{\PBUH}{\BODY} said, 'Shall I not be a grateful servant?'"[-@@bukhari,
+vol.~4, p.~259, #4837]
 
 <!-- TODO ref missing -->
 
@@ -1114,23 +1109,21 @@ prescribed prayers.' \[Jāmiʿ al-Tirmidhī\]
 call to prayer, and the supplication made at the time when rain is falling."
 \[al-Muʿjam al-Kabīr\]
 
-<!-- TODO ref al-Bukhārī -->
-
 [During The Last Third of the Night]{.smallcaps}: The Messenger of Allāh
 \hon{\PBUH}{\BODY} said, "Our Lord, Blessed and Exalted, descends every night to
 the lowest heaven when the last third of the night remains and says, 'Who is
 calling upon Me so that I may answer him? Who is asking Me so that I may give
-him? Who is seeking My forgiveness so that I may forgive him?'" \[Ṣaḥīḥ
-al-Bukhārī\]
+him? Who is seeking My forgiveness so that I may forgive him?'"[-@@bukhari,
+vol.~1, p.~582, #1145]
 
-<!-- TODO ref al-Bukhārī -->
 <!-- TODO ref ibn al-qayyim -->
 
 [The Special Hour on Friday]{.smallcaps}: The Messenger of Allāh
 \hon{\PBUH}{\BODY} said, "There is an hour on Friday during which no Muslim
 servant stands praying and asks Allāh for anything except that Allāh grants it
-to him." \[Ṣaḥīḥ al-Bukhārī\] Imam Ibn al-Qayyim \hon{\M_HIM}{\BODY} said, "The
+to him."[-@@bukhari,  vol.~1, p.~486, #935] Imam Ibn al-Qayyim \hon{\M_HIM}{\BODY} said, "The
 strongest opinion is that it is the last hour after ʿAṣr." \[Zād al-Maʿād\]
+
 
 
 ### Understanding Duʿāʾ
@@ -1194,6 +1187,7 @@ Do not say about anything, "I will do it tomorrow," except by saying, _In-shāʾ
 Allāh_ ("If Allāh Wills").
 
 <!-- TODO ref al-Bukhārī -->
+<!-- TODO I have trouble finding this in al-Bukhārī -->
 
 Ibn ʿAbbās \hon{\P_TWO}{\BODY} reported,
 
@@ -1202,22 +1196,37 @@ Ibn ʿAbbās \hon{\P_TWO}{\BODY} reported,
 > inform you tomorrow," but he did not say, _In-shāʾ Allāh_ ("If Allāh wills").
 > Revelation was withheld from him for several days. Then Allāh, the Exalted,
 > revealed, "And never say of anything, 'Indeed, I will do that tomorrow,'
-> except, 'If Allāh Wills.'" \[Ṣaḥīḥ al-Bukhārī\]
+> except, 'If Allāh Wills.'" \[Ṣaḥīḥ al-Bukhārī?\]
 
-<!-- TODO ref al-Bukhārī -->
-<!-- TODO Check quotation marks and find out where they end and start -->
+<!-- [-@@bukhari, vol. X, p. Y, #Z] -->
 
-The Messenger of Allāh \hon{\PBUH}{\BODY} said, "Sulaymān ibn Dāwūd---peace be
-upon them both---said, 'Tonight I will go around to ninety women, each of whom
-will give birth to a boy who will fight in the path of Allāh.' His companion
-said to him, 'Say, "If Allāh wills,"' but he did not say it."
 
-<!-- TODO Check translation ...birth to half of a human being. -->
+
+<!-- TODO Zahid review -->
+
+Abū Hurayrah \hon{\P_HIM}{\BODY} said,
+
+> Sulaymān ibn Dāwūd \hon{\S_TWO}{\BODY} said, "Tonight I will go around to
+> hundred women, each of whom will give birth to a boy who will fight in the
+> path of Allāh." An Angel said to him, "Say, 'If Allāh wills,'" but he did not
+> say it and [later] forgot.
+
+> He went around to them, and none of them became pregnant except one woman, who
+> gave birth to half a human. The Messenger of Allāh \hon{\PBUH}{\BODY} said,
+> "Had he said, 'If Allāh Wills,' he would have fulfilled his vow and would have
+> been more hopeful of his want [being fulfilled]."[-@@bukhari, vol.~4, p.~458,
+> #5242]
+
+<!-- 
+The Messenger of Allāh \hon{\PBUH}{\BODY} said, "Sulaymān ibn Dāwūd
+\hon{\S_TWO}{\BODY} said, 'Tonight I will go around to ninety women, each of
+whom will give birth to a boy who will fight in the path of Allāh.' His
+companion said to him, 'Say, "If Allāh wills,"' but he did not say it."
 
 He went around to them, and none of them gave birth except one woman, who gave
 birth to half of a human being. The Messenger of Allāh \hon{\PBUH}{\BODY} said,
 "By the One in Whose Hand is my soul, had he said, 'If Allāh Wills,' they would
-all have fought as horsemen in the path of Allāh." \[Ṣaḥīḥ al-Bukhārī\]
+all have fought as horsemen in the path of Allāh." \[Ṣaḥīḥ al-Bukhārī\] -->
 
 <!-- TODO Check translation of ff para -->
 
@@ -1371,9 +1380,6 @@ The Messenger of Allāh \hon{\PBUH}{\BODY} said, "He has tasted the flavor of
 faith who is pleased with Allāh as his Lord, with Islam as his religion, and
 with Muhammad \hon{\PBUH}{\BODY} as his Messenger." \[Ṣaḥīḥ Muslim\]
 
-<!-- TODO ref al-Bukhārī -->
-<!-- TODO "more beloved  to me than everything"? → everyone -->
-
 ʿAbdullāh ibn Hishām \hon{\P_HIM}{\BODY} said,
 
 > We were with the Messenger of Allāh \hon{\PBUH}{\BODY} while he was holding
@@ -1382,7 +1388,7 @@ with Muhammad \hon{\PBUH}{\BODY} as his Messenger." \[Ṣaḥīḥ Muslim\]
 > Prophet \hon{\PBUH}{\BODY} said, "No, by the One in Whose Hand is my soul, not
 > until I am more beloved to you than yourself." ʿUmar then said, "By Allāh, now
 > you are more beloved to me than myself." The Prophet \hon{\PBUH}{\BODY}
-> replied, "Now, O ʿUmar." \[Ṣaḥīḥ al-Bukhārī\]
+> replied, "Now, O ʿUmar."[-@@bukhari, vol.~6, p.~20, #6632]
 
 <!-- TODO ref Jami3 Bayan al-Ilm wa Fadlihi -->
 
@@ -1440,12 +1446,10 @@ religious commands upon Muslims, to care for their benefits and harms, and to
 manage affairs through consultation. And it is obligatory upon Muslims to obey
 and follow him in everything, as long as he does not command them to commit sin.
 
-<!-- TODO ref al-Bukhārī -->
-
 The Messenger of Allāh \hon{\PBUH}{\BODY} said, "It is obligatory upon a Muslim
 to listen and obey in what he likes and dislikes, except when he is commanded to
 commit a sin. If he is commanded to commit a sin, then there is no listening and
-no obedience." \[Ṣaḥīḥ al-Bukhārī\]
+no obedience."[-@@bukhari, vol.~6, p.~241, #7144]
 
 <!-- TODO ref Aḥmad -->
 
@@ -1481,8 +1485,8 @@ shepherd and is responsible for them. A man is a shepherd over his household and
 is responsible for them. A woman is a shepherd over the house of her husband and
 his children and is responsible for them. A servant is a shepherd over the
 wealth of his master and is responsible for it. Indeed, each of you is a
-shepherd and each of you is responsible for his flock." \[Ṣaḥīḥ al-Bukhārī\]
-
+shepherd and each of you is responsible for his flock."[-@@bukhari, vol.~2,
+p.~416, #2409.]
 
 ## Sunnah and Bidʿah (Innovation)
 
@@ -1510,11 +1514,9 @@ Allāh, the best guidance is the guidance of Muḥammad \hon{\PBUH}{\BODY}, the
 worst of matters are newly invented matters, and every innovation is
 misguidance." \[Ṣaḥīḥ Muslim\]
 
-<!-- TODO ref al-Bukhārī -->
-
 The Messenger of Allāh \hon{\PBUH}{\BODY} said, "Whoever innovates into this
-matter of ours that which does not belong to it, it will be rejected."
-\[Ṣaḥīḥ al-Bukhārī\]
+matter of ours that which does not belong to it, will be rejected."[-@@bukhari,
+vol.~2, p.~557, #2697]
 
 <!-- TODO ref Darimi -->
 
@@ -1554,13 +1556,11 @@ commanded you, so perhaps you will be conscious (of Allāh). (Sūrat al-Anʿām,
 Q6:153)
 \AYAH_END
 
-
-<!-- TODO ref al-Bukhārī -->
-
 The Messenger of Allāh \hon{\PBUH}{\BODY} said, "All of my Ummah will enter
-Paradise except the one who refuses." It was said, "And who refuses, O Messenger
-of Allāh?" He \hon{\PBUH}{\BODY} said, "Whoever obeys me will enter Paradise,
-and whoever disobeys me has refused." \[Ṣaḥīḥ al-Bukhārī\]
+Paradise except the one who refuses." They (his companions) said, "And who
+refuses, O Messenger of Allāh?" He \hon{\PBUH}{\BODY} said, "Whoever obeys me
+will enter Paradise, and whoever disobeys me has refused."[-@@bukhari, vol.~6,
+p.~298, #7280]
 
 <!-- TODO ref Muslim -->
 
@@ -1570,14 +1570,11 @@ after him, without any reduction in their rewards. And whoever introduces an
 evil innovation in Islam will bear its sin and the sin of those who act upon it
 after him, without any reduction in their sins." \[Ṣaḥīḥ Muslim\]
 
-<!-- TODO ref al-Bukhārī -->
-<!-- TODO double check translation of Companions -->
-
 Anas ibn Mālik \hon{\P_HIM}{\BODY} narrated that the Prophet \hon{\PBUH}{\BODY}
 said, "Some people from my Companions will come to my Ḥawḍ (Cistern), and I will
-recognize them. Then they will be driven away from it, and I will say, 'They are
+recognize them. Then they will be driven away from me, and I will say, 'They are
 my Companions!' It will be said, 'You do not know what they innovated after you
-were gone.'" \[Ṣaḥīḥ al-Bukhārī\]
+were gone.'"[-@@bukhari, vol.~5, p.~478, #6582]
 
 <!-- TODO ref Tafsir Ibn Kathīr -->
 
@@ -1712,6 +1709,8 @@ sent blessings upon Ibrāhīm and upon the family of Ibrāhīm. Indeed, You are 
 Praiseworthy, Most Glorious." \[Ṣaḥīḥ al-Bukhārī\]
 \HADITH_END
 
+[-@@bukhari, vol. X, p. Y, #Z]
+
 
 ## The Friends of Allāh (Awliyāʾ Allāh)
 
@@ -1844,6 +1843,8 @@ day, and I would go the next. When I went, I would bring him the news of that
 day regarding revelation and other matters, and when he went, he would do the
 same." \[Ṣaḥīḥ al-Bukhārī\]
 
+[-@@bukhari, vol. X, p. Y, #Z]
+
 <!-- TODO ref al-Bukhārī -->
 
 The Messenger of Allāh \hon{\PBUH}{\BODY} said, "The example of a righteous
@@ -1852,6 +1853,8 @@ blacksmith. The perfume seller may give you some perfume, or you may buy some
 from him, or at least you will find a pleasant fragrance from him. As for the
 blacksmith, he may burn your clothes, or you will find from him an offensive
 smell." \[Ṣaḥīḥ al-Bukhārī\]
+
+[-@@bukhari, vol. X, p. Y, #Z]
 
 
 ## Bad Company
@@ -2039,6 +2042,8 @@ The Messenger of Allāh \hon{\PBUH}{\BODY} said, "Three things follow the
 deceased: his family, his wealth, and his deeds. Two return and one remains. His
 family and wealth return, and his deeds remain." \[Ṣaḥīḥ al-Bukhārī\]
 
+[-@@bukhari, vol. X, p. Y, #Z]
+
 <!-- TODO ref Muslim -->
 
 The Messenger of Allāh \hon{\PBUH}{\BODY} said, "Do not belittle any good deed, even
@@ -2051,3 +2056,6 @@ said, "O people, you should do whatever good deeds you are able to do, for Allā
 does not become weary until you become weary. And the most beloved of good deeds
 to Allāh is that which is done consistently, even if it is little." \[Ṣaḥīḥ
 al-Bukhārī\]
+
+[-@@bukhari, vol. X, p. Y, #Z]
+
