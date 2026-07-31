@@ -1478,6 +1478,8 @@ stood, praised Allāh and glorified Him, then said,
 > for your prayer---may Allāh have mercy upon you. \[al-Sīrah al-Nabawiyyah\]
 
 <!-- TODO ref al-Bukhārī -->
+<!-- TODO review translation -->
+<!-- TODO There are multiple versions of this hadith; translate all of them for the record and select one for here -->
 
 The Messenger of Allāh \hon{\PBUH}{\BODY} said, "Each of you is a shepherd, and
 each of you is responsible for his flock. The leader over the people is a
@@ -1696,7 +1698,7 @@ prayers upon your Prophet \hon{\PBUH}{\BODY}." \[Shuʿab al-Īmān\]
 
 The best form of sending blessings is the one recited in _al-Taḥīyāt_, namely,
 
-<!-- TODO ref al-Bukhārī -->
+<!-- TODO review translation -->
 
 \HADITH_AR_START
 اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ، وَعَلَى آلِ مُحَمَّدٍ، كَمَا صَلَّيْتَ عَلَى
@@ -1706,11 +1708,8 @@ The best form of sending blessings is the one recited in _al-Taḥīyāt_, namel
 \HADITH_START
 "O Allāh, send blessings upon Muḥammad and upon the family of Muḥammad, as You
 sent blessings upon Ibrāhīm and upon the family of Ibrāhīm. Indeed, You are Most
-Praiseworthy, Most Glorious." \[Ṣaḥīḥ al-Bukhārī\]
+Praiseworthy, Most Glorious."[-@@bukhari, vol.~3, p.~254, #3370]
 \HADITH_END
-
-[-@@bukhari, vol. X, p. Y, #Z]
-
 
 ## The Friends of Allāh (Awliyāʾ Allāh)
 
@@ -1828,33 +1827,34 @@ Messenger of Allāh \hon{\PBUH}{\BODY}, "Who is the best of people?" He
 \hon{\PBUH}{\BODY} replied, "The one who, when he is seen, Allāh is remembered."
 \[Ibn Mājah\]
 
-<!-- TODO ref al-Bukhārī -->
 <!-- TODO "brother in Islam" → "brother in faith"? -->
-<!-- TODO check translation -->
 
 ʿUmar \hon{\P_HIM}{\BODY} lived at some distance from Madinah and could not
 attend the Prophet \hon{\PBUH}{\BODY} daily. So he would go one day himself and
-send his brother in Islam the next day so that he could learn the words of the
+send his brother in faith the next day so that he could learn the words of the
 Messenger \hon{\PBUH}{\BODY} through him. ʿUmar ibn al-Khaṭṭāb
 \hon{\P_HIM}{\BODY} narrated, "A neighbor of mine from the Anṣār and I lived
 among Banū Umayyah ibn Zayd, who lived on the outskirts of Madinah. We used to
 take turns going to the Messenger of Allāh \hon{\PBUH}{\BODY}. He would go one
 day, and I would go the next. When I went, I would bring him the news of that
 day regarding revelation and other matters, and when he went, he would do the
-same." \[Ṣaḥīḥ al-Bukhārī\]
+same..."[-@@bukhari, vol.~1, p.~73, #89]
 
-[-@@bukhari, vol. X, p. Y, #Z]
+<!-- TODO Zahid review -->
 
-<!-- TODO ref al-Bukhārī -->
-
-The Messenger of Allāh \hon{\PBUH}{\BODY} said, "The example of a righteous
+<!-- The Messenger of Allāh (صلى الله عليه وسلم) said, "The example of a righteous
 companion and an evil companion is like that of a perfume seller and a
 blacksmith. The perfume seller may give you some perfume, or you may buy some
 from him, or at least you will find a pleasant fragrance from him. As for the
 blacksmith, he may burn your clothes, or you will find from him an offensive
-smell." \[Ṣaḥīḥ al-Bukhārī\]
+smell." -->
 
-[-@@bukhari, vol. X, p. Y, #Z]
+The Messenger of Allāh \hon{\PBUH}{\BODY} said, "The example of a righteous
+companion and an evil one is like that of a perfume seller and a bellows
+operator. The perfume seller may give you some perfume, or you may buy some from
+him, or you will smell fragrance from him. As for the bellows operator, he may
+burn your clothes, or you will smell offensive odor."[-@@bukhari, vol.~5,
+pp.~69--70, #5534.]
 
 
 ## Bad Company
@@ -2036,26 +2036,34 @@ associate none in the worship of their Lord. (Sūrat al-Kahf, Q18:110)
 \AYAH_END
 
 
-<!-- TODO ref al-Bukhārī -->
+<!-- TODO review translation -->
+
+<!-- The Messenger of Allāh \hon{\PBUH}{\BODY} said, "Three things follow the
+deceased: his family, his wealth, and his deeds. Two return and one remains. His
+family and wealth return, and his deeds remain." \[Ṣaḥīḥ al-Bukhārī\] -->
 
 The Messenger of Allāh \hon{\PBUH}{\BODY} said, "Three things follow the
-deceased: his family, his wealth, and his deeds. Two return and one remains. His
-family and wealth return, and his deeds remain." \[Ṣaḥīḥ al-Bukhārī\]
-
-[-@@bukhari, vol. X, p. Y, #Z]
+deceased. Two of these return and one remains: his family, his wealth, and his
+deeds follow him; his family and wealth return while his deeds
+remain."[-@@bukhari, vol.~5, p.~454, #6514]
 
 <!-- TODO ref Muslim -->
 
 The Messenger of Allāh \hon{\PBUH}{\BODY} said, "Do not belittle any good deed, even
 if it is meeting your brother with a cheerful face." \[Ṣaḥīḥ Muslim\]
 
-<!-- TODO ref al-Bukhārī -->
+<!-- TODO review translation -->
 
 ʿĀʾishah \hon{\P_HER}{\BODY} said that the Messenger of Allāh \hon{\PBUH}{\BODY}
 said, "O people, you should do whatever good deeds you are able to do, for Allāh
 does not become weary until you become weary. And the most beloved of good deeds
-to Allāh is that which is done consistently, even if it is little." \[Ṣaḥīḥ
-al-Bukhārī\]
+to Allāh is that which is done consistently, even if it is little."[-@@bukhari,
+vol.~5, p.~203, #5861]
 
-[-@@bukhari, vol. X, p. Y, #Z]
 
+ʿĀʾishah \hon{\P_HER}{\BODY} said that the Messenger of Allāh \hon{\PBUH}{\BODY}
+said, "O people, you should do ~~whatever~~ good deeds **that are within your
+ability** ~~you are able to do~~, for (Allāh does not become weary until you
+become weary.) And the most beloved of good deeds to Allāh ~~is that~~ **are
+those that** ~~which is~~ are done consistently, even if **small** ~~it is
+little.~~"

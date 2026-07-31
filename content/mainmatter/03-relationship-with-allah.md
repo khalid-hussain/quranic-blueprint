@@ -221,21 +221,12 @@ realities:
 7.  Fulfill religious obligations consistently throughout life with
     steadfastness.
 
-<!-- TODO ref al-Bukhārī -->
-
-The Messenger of Allāh \hon{\PBUH}{\BODY} said, "No one has been given a gift
-better and more expansive than patience." \[Ṣaḥīḥ al-Bukhārī\]
-
-[-@@bukhari, vol. X, p. Y, #Z]
-
-
-<!-- TODO ref al-Bukhārī -->
+The Messenger of Allāh \hon{\PBUH}{\BODY} said, "...no one has been given a gift
+better and more expansive than patience."[-@@bukhari, vol.~2, p.~37, #1469]
 
 The Prophet \hon{\PBUH}{\BODY} said, "Allāh the Exalted says, 'If I test My
 servant by taking away his two beloved ones (his eyes) and he remains patient, I
-will compensate him with Paradise.'" \[Ṣaḥīḥ al-Bukhārī\]
-
-[-@@bukhari, vol. X, p. Y, #Z]
+will compensate him with Jannah.'"[-@@bukhari,  vol.~5, p.~115, #5653]
 
 
 <!-- TODO ref Aḥmad -->
@@ -318,14 +309,13 @@ blessings:
 In essence, gratitude for every blessing lies in using it for the purpose for
 which Allāh created it.
 
-<!-- TODO ref al-Bukhārī -->
+<!-- TODO A version of this occurs in Chapter 1. Double check translation. -->
 
 ʿĀʾishah \hon{\P_HER}{\BODY} said, "The Prophet \hon{\PBUH}{\BODY} would stand
 in prayer at night until his feet became swollen. I said, 'Why do you do this
 when Allāh has forgiven your past and future sins?' He \hon{\PBUH}{\BODY}
-replied, 'Should I not be a grateful servant?'" \[Ṣaḥīḥ al-Bukhārī\]
-
-[-@@bukhari, vol. X, p. Y, #Z]
+replied, 'Should I not be a grateful servant?'"[-@@bukhari, vol.~4, p.~259,
+#4837]
 
 
 <!-- TODO ref Kitab al-Shukr -->

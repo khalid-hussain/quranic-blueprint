@@ -24,12 +24,8 @@ If you give someone millions of rupees in order to gain fame for yourself, that
 is not worship. But if you give even a few coins to someone seeking the pleasure
 of Allāh, then that is a great act of worship.
 
-<!-- TODO ref al-Bukhārī -->
-
 The Messenger of Allāh \hon{\PBUH}{\BODY} said, "Indeed, actions are only judged
-by intentions." \[Ṣaḥīḥ al-Bukhārī\]
-
-[-@@bukhari, vol. X, p. Y, #Z]
+by intentions."[-@@bukhari, vol.~1, p.~7, #1]
 
 Just as having a good intention is necessary for worship, it is also necessary
 that the act be performed according to the method taught by Allāh and His
@@ -75,7 +71,6 @@ Among the Companions \hon{\P_THM}{\BODY}, some people wished to perform very
 strict and severe forms of worship. The Messenger of Allāh \hon{\P_HIM}{\BODY}
 stopped them and said that he had not been sent with such a form of _sharīʿah_.
 
-<!-- TODO ref al-Bukhārī -->
 <!-- TODO Where are we compared to the Prophet → Who are we compared to the Prophet... -->
 
 Anas ibn Mālik \hon{\P_HIM}{\BODY} reported,
@@ -92,11 +87,9 @@ Anas ibn Mālik \hon{\P_HIM}{\BODY} reported,
 
 > The Messenger of Allāh \hon{\PBUH}{\BODY} came and said, "Are you the ones who
 > said such and such? By Allāh, I am the one who fears Allāh the most among you
-> and am the most mindful of Him. Yet I fast and I break my fast, I pray, and I
-> sleep, and I marry women. Whoever turns away from my Sunnah is not from me."
-> \[Ṣaḥīḥ al-Bukhārī\]
-
-[-@@bukhari, vol. X, p. Y, #Z]
+> and am the most mindful of Him. Yet I fast and I break my fast, I pray and I
+> sleep, and I marry women. Whoever turns away from my Sunnah is not from
+> me."[-@@bukhari, vol.~4, p.~387, #5063]
 
 
 <!-- TODO ref Majmu3 fatawa -->
@@ -200,18 +193,21 @@ wives and children to pray. Five daily prayers are obligatory during the day and
 night: Fajr (dawn), Ẓuhr (midday), ʿAṣr (afternoon), Maghrib (sunset), and
 ʿIshāʾ (night).
 
-<!-- TODO ref al-Bukhārī -->
+<!-- OLD TRANSLATION
+Abū Hurayrah \hon{\P_HIM}{\BODY} reported that the Messenger of Allāh
+\hon{\PBUH}{\BODY} said, "By the One in Whose Hand is my soul, I considered
+ordering firewood to be gathered, then ordering the _ṣalāh_ and the call to
+_ṣalāh_ to be made, then appointing a man to lead the people in _ṣalāh_, and
+then going to men and burning their houses over them."
+-->
 
 Rather than praying alone or at home, men should perform prayer in the mosque
 with the _jamāʿah_ (congregation). Abū Hurayrah \hon{\P_HIM}{\BODY} reported
 that the Messenger of Allāh \hon{\PBUH}{\BODY} said, "By the One in Whose Hand
 is my soul, I considered ordering firewood to be gathered, then ordering the
-_ṣalāh_ and the call to _ṣalāh_ to be made, then appointing a man to lead the
-people in _ṣalāh_, and then going to men and burning their houses over them."
-\[Ṣaḥīḥ al-Bukhārī\]
-
-[-@@bukhari, vol. X, p. Y, #Z]
-
+_ṣalāh_ and the _adhān_ for it, then appointing a man to lead the people in
+_ṣalāh_, and then going back to men and burning their houses with them
+inside..."[-@@bukhari, vol.~1, pp.~351--352, #644]
 
 
 <!-- TODO ref Aḥmad -->
@@ -373,6 +369,7 @@ it means worshipping Allāh by abstaining from food, drink, and other actions
 which invalidate a person's fast, from true dawn to sunset.
 
 <!-- TODO ref al-Bukhārī -->
+<!-- TODO This is probably from Ibn Mājah or al-Nasāʾī -->
 
 Allāh has stated that fasting produces purity. The Messenger of Allāh
 \hon{\PBUH}{\BODY} said, "Fasting is a shield against the Fire." \[Ṣaḥīḥ
@@ -380,7 +377,7 @@ al-Bukhārī\] The Companions \hon{\P_THM}{\BODY} were so eager to fast that whe
 they came to know there was little food in the house, they would say, "I am
 fasting today."
 
-[-@@bukhari, vol. X, p. Y, #Z]
+<!-- [-@@bukhari, vol. X, p. Y, #Z] -->
 
 
 <!-- TODO ref Muslim -->
@@ -393,32 +390,24 @@ fasting today."
 > dish of dates, ghee, and cheese) was gifted to us." He said, "Show it to me,
 > for I began the day fasting," and then he ate. \[Ṣaḥīḥ Muslim\]
 
-<!-- TODO ref al-Bukhārī -->
-
 The female Companions were also so devoted to fasting that it caused difficulty
 for their husbands. Eventually, the Messenger of Allāh \hon{\PBUH}{\BODY}
 instructed, "A woman should not fast while her husband is present except with
-his permission." \[Ṣaḥīḥ al-Bukhārī\]
-
-[-@@bukhari, vol. X, p. Y, #Z]
+his permission."[-@@bukhari, vol.~4, pp.~441--442, #5192]
 
 
 <!-- TODO ref al-Bukhārī -->
 
 The Messenger of Allāh \hon{\PBUH}{\BODY} said, "When any one of you is fasting,
 he should not engage in obscene speech or ignorant behavior. If someone fights
-him or abuses him, let him say, 'I am fasting.'" \[Ṣaḥīḥ al-Bukhārī\]
+him or abuses him, let him say, 'I am fasting.'..." \[Ṣaḥīḥ al-Bukhārī\]
 
-[-@@bukhari, vol. X, p. Y, #Z]
+<!-- [-@@bukhari, vol. X, p. Y, #Z] -->
 
-
-<!-- TODO ref al-Bukhārī -->
 
 The Messenger of Allāh \hon{\PBUH}{\BODY} said, "The odor from the mouth of a
-fasting person is more pleasing to Allāh than the fragrance of musk." \[Ṣaḥīḥ
-al-Bukhārī\]
-
-[-@@bukhari, vol. X, p. Y, #Z]
+fasting person is more pleasing to Allāh than the fragrance of
+musk."[-@@bukhari, vol.~2, p.~200, #1894]
 
 
 ## Pilgrimage (Ḥajj)
@@ -460,34 +449,21 @@ The Messenger of Allāh \hon{\PBUH}{\BODY} said, "Perform Ḥajj and ʿUmrah
 consecutively, for they remove poverty and sins just as the furnace removes
 impurities from iron, gold, and silver." \[Jāmiʿ al-Tirmidhī\]
 
-<!-- TODO ref al-Bukhārī -->
-
 Abū Hurayrah \hon{\P_HIM}{\BODY} reported that the Messenger of Allāh
 \hon{\PBUH}{\BODY} was asked, "Which deed is best?" He \hon{\PBUH}{\BODY} said,
 "Belief in Allāh and His Messenger." He was asked, "Then what?" He
 \hon{\PBUH}{\BODY} said, "Jihād in the path of Allāh." He was asked, "Then
-what?" He \hon{\PBUH}{\BODY} said, "An accepted Ḥajj." \[Ṣaḥīḥ al-Bukhārī\]
-
-[-@@bukhari, vol. X, p. Y, #Z]
-
-
-<!-- TODO ref al-Bukhārī -->
+what?" He \hon{\PBUH}{\BODY} said, "An accepted Ḥajj."[-@@bukhari, vol.~1,
+pp.~29--30, #26.]
 
 ʿĀʾishah \hon{\P_HER}{\BODY} said, "I said, 'O Messenger of Allāh, we see Jihād
 as the best of deeds. Should we not take part in it?' He \hon{\PBUH}{\BODY}
-replied, 'The best Jihād for you (women) is an accepted Ḥajj.'" \[Ṣaḥīḥ
-al-Bukhārī\]
-
-[-@@bukhari, vol. X, p. Y, #Z]
-
-
-<!-- TODO ref al-Bukhārī -->
+replied, 'The best Jihād for you (women) is an accepted Ḥajj.'"[-@@bukhari,
+vol.~3, p.~6, #2784]
 
 The Messenger of Allāh \hon{\PBUH}{\BODY} said, "Whoever performs Ḥajj and does
 not engage in obscenity or commit sin will return (free of sins) as on the day
-his mother gave birth to him." \[Ṣaḥīḥ al-Bukhārī\]
-
-[-@@bukhari, vol. X, p. Y, #Z]
+his mother gave birth to him."[-@@bukhari, vol.~2, p.~60, #1521]
 
 
 <!-- TODO whose route is safe? -->
@@ -552,26 +528,20 @@ to their capacity. This can be understood through the following examples:
 All of these are forms of _jihād_, and every Muslim should participate in them
 to the best of his ability and capacity.
 
-<!-- TODO ref al-Bukhārī -->
+<!-- TODO ORIGINAL: ʿAbdullāh ibn Masʿūd \hon{\P_HIM}{\BODY} reported, -->
 
-ʿAbdullāh ibn Masʿūd \hon{\P_HIM}{\BODY} reported,
+ʿAbdullāh ibn ʿAmr \hon{\P_HIM}{\BODY} reported,
 
 > A man came to the Prophet \hon{\P_HIM}{\BODY} (all the way from Yemen) and
 > sought permission to participate in Jihād. The Prophet \hon{\PBUH}{\BODY}
 > asked, "Are your parents alive?" He replied, "Yes." The Prophet
-> \hon{\PBUH}{\BODY} said, "Then strive in their service." \[Ṣaḥīḥ al-Bukhārī\]
-
-[-@@bukhari, vol. X, p. Y, #Z]
-
-
-<!-- TODO ref al-Bukhārī -->
+> \hon{\PBUH}{\BODY} said, "Then strive in their service."[-@@bukhari, vol.~3,
+> pp.~87--88, #3004.]
 
 The Prophet \hon{\PBUH}{\BODY} said, "The one who strives to support a widow and
 a poor person is like one who performs _jihād_ in the path of Allāh---or like
-one who stands in prayer at night and fasts during the day." \[Ṣaḥīḥ
-al-Bukhārī\]
-
-[-@@bukhari, vol. X, p. Y, #Z]
+one who stands in prayer at night and fasts during the day."[-@@bukhari, vol.~4,
+p.~507, #5353]
 
 
 <!-- TODO ref Abū Dāwūd -->
@@ -633,22 +603,18 @@ _jihād_ of combat.
 Muslims should possess sufficient strength so that they are not overawed by
 others, nor appear weak before them.
 
-<!-- TODO ref al-Bukhārī -->
+<!-- TODO review translation -->
 
 One who fights in support of Allāh's religion and places his life in danger for
 its sake holds a very high rank with Allāh. Once, a Companion wished to abandon
 the world and seclude himself in worship. When the Messenger of Allāh
-\hon{\PBUH}{\BODY} learned of this, he said, "A morning journey in the path of
-Allāh, or an evening journey, is better than the world and everything in it."
-\[Ṣaḥīḥ al-Bukhārī\]
-
-[-@@bukhari, vol. X, p. Y, #Z]
-
-
-<!-- TODO def al-Bukhārī -->
+\hon{\PBUH}{\BODY} learned of this, he said, "...a morning journey in the path of
+Allāh, or an evening journey, is better than the world and everything in
+it."[-@@bukhari, vol.~5, p.~413, #6415]
 
 The Messenger of Allāh \hon{\PBUH}{\BODY} said, "No servant whose feet become
-dusty in the path of Allāh will be touched by the Fire." \[Ṣaḥīḥ al-Bukhārī\]
+dusty in the path of Allāh will be touched by the Fire."[-@@bukhari, vol.~3,
+p.~16--17, #2811]
 
 <!-- TODO def Muslim -->
 
@@ -658,12 +624,13 @@ during it. And if he dies, his deeds continue to be recorded for him, his
 provision continues, and he is protected from the trial of the grave." (Ṣaḥīḥ
 Muslim)
 
-<!-- TODO def al-Bukhārī -->
+<!-- TODO review Zahid -->
 
 The Messenger of Allāh \hon{\PBUH}{\BODY} said, "In Jannah there are one hundred
-levels which Allāh has prepared for those who strive in His path. The distance
-between every two levels is like the distance between the heaven and the earth."
-\[Ṣaḥīḥ al-Bukhārī\]
+levels which Allāh has prepared for those who strive in His path. [The distance]
+between every two levels is like [the distance] between the heaven and the
+earth."[-@@bukhari, vol.~3, p.~8, #2790]
+
 
 ### The Quranic Stages of Legislation Regarding Fighting
 
@@ -730,7 +697,7 @@ Allāh is with those who are mindful of Him. (Sūrat al-Tawbah, Q9:36)
 This _āyah_ clarified the collective nature of defense when the Muslim community
 is confronted as a whole.
 
-<!-- TODO ref al-Bukhārī -->
+<!-- TODO various narrations -->
 <!-- TODO Ḥajj or Hajj -->
 
 All military expeditions of the Messenger of Allāh \hon{\PBUH}{\BODY} occurred
@@ -739,7 +706,9 @@ narrated, "The Prophet \hon{\PBUH}{\BODY} fought nineteen battles and performed
 only one Hajj after migrating to Madinah, which was Ḥajj al-Wadāʿ (Farewell
 Hajj)." \[Ṣaḥīḥ al-Bukhārī\]
 
-[-@@bukhari, vol. X, p. Y, #Z]
+<!-- [-@@bukhari, vol. X, p. Y, #3949]
+[-@@bukhari, vol. X, p. Y, #4404]
+[-@@bukhari, vol. X, p. Y, #4471] -->
 
 
 <!-- TODO ref Muslim -->
