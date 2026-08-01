@@ -659,7 +659,7 @@ The rights of neighbors are immense in Islam. A neighbor is anyone who lives
 nearby. Islam places strong emphasis on good treatment of neighbors.
 
 The Messenger of Allāh \hon{\PBUH}{\BODY} said, "Whoever believes in Allāh and
-the Last Day should honor his neighbor."[-@@bukhari, vol.~5, p.~256, #6019.]
+the Last Day should honor his neighbor..."[-@@bukhari, vol.~5, p.~256, #6019]
 
 <!-- TODO check last part of translation -->
 The Prophet \hon{\PBUH}{\BODY} said,"By Allāh, he is not a believer! By Allāh,
