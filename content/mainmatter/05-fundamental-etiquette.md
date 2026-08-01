@@ -34,15 +34,11 @@ hands became blackened. When the Prophet \hon{\PBUH}{\BODY} saw his hands, he
 asked about them. The Companion replied that he labored to provide for his
 family. The Prophet \hon{\PBUH}{\BODY} kissed his hands. \[al-Iṣābah\]
 
-<!-- TODO ref al-Bukhārī -->
-
 Begging is not permissible for a wealthy or able-bodied person. The Prophet
 \hon{\PBUH}{\BODY} said, "No one has ever eaten better food than that which he
-earns with his own hands." In another place he \hon{\PBUH}{\BODY} said, "It is
-better for one of you to carry a bundle of firewood on his back than to ask
-people..." \[Ṣaḥīḥ al-Bukhārī\]
-
-[-@@bukhari, vol. X, p. Y, #Z]
+earns with his own hands..."[-@@bukhari, vol.~2, p.~274, #2072] In another place
+he \hon{\PBUH}{\BODY} said, "It is better for one of you to carry a bundle of
+firewood on his back than to ask people..."[-@@bukhari, vol.~2, p.~275, #2074.]
 
 
 <!-- TODO ref missing -->
@@ -79,23 +75,20 @@ accepting Islam, he would generally perform _ghusl_ (ritual bathing) once daily.
 
 ### 1. Washing Hands After Sleep {.unnumbered}
 
-<!-- TODO ref al-Bukhārī -->
-
-The Messenger of Allāh \hon{\PBUH}{\BODY} said, "When one of you awakens from
+The Messenger of Allāh \hon{\PBUH}{\BODY} said, "...when one of you awakens from
 sleep, he should not put his hand into a vessel until he washes it three times,
-for he does not know where his hand spent the night." \[Ṣaḥīḥ al-Bukhārī\]
-
-[-@@bukhari, vol. X, p. Y, #Z]
+for he does not know where his hand spent the night."[-@@bukhari, vol.~1,
+p.~114, #162.]
 
 
 ### 2. Cleaning the Teeth (Siwāk) {.unnumbered}
 
-<!-- TODO al-Bukhārī -->
 <!-- TODO previously used tooth-stick -->
 
 The Messenger of Allāh \hon{\PBUH}{\BODY} said, "If it were not that I would
-cause hardship for my Ummah, I would have commanded them to use the siwāk at
-every prayer." \[Ṣaḥīḥ al-Bukhārī\]
+cause hardship for my Ummah, I would have commanded them to use the _siwāk_ at
+every prayer."[-@@bukhari, vol.~1, p.~465, #887]
+
 
 ### 3. Avoiding Public Harm {.unnumbered}
 
@@ -110,6 +103,7 @@ The Messenger of Allāh \hon{\PBUH}{\BODY} said, "Beware of the two matters that
 cause curses: relieving oneself on pathways or in places of shade." \[Ṣaḥīḥ
 Muslim\]
 
+
 ### 4. Avoid Urinating in Bathing Areas {.unnumbered}
 
 It is prohibited to urinate in the place where one bathes, as it leads to
@@ -120,6 +114,7 @@ impurity and harm.
 The Messenger of Allāh \hon{\PBUH}{\BODY} said, "None of you should urinate in
 the place where he bathes..." \[Sunan Abī Dāwūd\]
 
+
 ### 5. Istinjā' (Cleaning After Relieving Oneself) {.unnumbered}
 
 <!-- TODO ref Muslim -->
@@ -129,17 +124,14 @@ water and (traditionally) earth or similar material. This is established from
 multiple narrations describing the practice of the Prophet \hon{\PBUH}{\BODY}.
 \[Ṣaḥīḥ Muslim\]
 
+
 ### 6. Weekly Ghusl and Personal Care {.unnumbered}
 
-<!-- TODO ref al-Bukhārī -->
-
 The Prophet \hon{\PBUH}{\BODY} said, "It is a duty upon every Muslim to perform
-_ghusl_ once every seven days, washing his head and body." \[Ṣaḥīḥ al-Bukhārī\]
+_ghusl_ once every seven days, washing his head and body."[-@@bukhari, vol.~1,
+p.~469, #897.]
 
-[-@@bukhari, vol. X, p. Y, #Z]
-
-
-Additionally: Wearing clean clothes and applying fragrance are from the
+Additionally, wearing clean clothes and applying fragrance are from the
 recommended etiquettes of a believer. Some scholars have even considered this
 obligatory for Jumuʿah.
 
@@ -251,49 +243,36 @@ Do not defame one another, nor call each other by offensive nicknames. (Sūrat
 al-Ḥujurāt, Q49:11)
 \AYAH_END
 
-
-<!-- TODO ref al-Bukhārī -->
-
+<!-- TODO I'm unsure if this is in al-Bukhārī -->
 The Messenger of Allāh \hon{\PBUH}{\BODY} said, "A believer does not insult,
 curse, speak obscenely, or use foul language." \[Ṣaḥīḥ al-Bukhārī\]
 
-[-@@bukhari, vol. X, p. Y, #Z]
+<!-- [-@@bukhari, vol. X, p. Y, #Z] -->
 
+He \hon{\PBUH}{\BODY} also said, "...whoever believes in Allāh and the Last Day
+should speak good or remain silent."[-@@bukhari, vol.~5, p.~256, #6019]
 
-<!-- TODO ref al-Bukhārī -->
-
-He \hon{\PBUH}{\BODY} also said, "Whoever believes in Allāh and the Last Day
-should speak good or remain silent." \[Ṣaḥīḥ al-Bukhārī\]
-
-[-@@bukhari, vol. X, p. Y, #Z]
-
-
-<!-- TODO ref al-Bukhārī -->
+<!-- بِلِسَانِ نَفْسِهِ -->
+<!-- TODO I'm unsure if this is actually in al-Bukhārī -->
 
 Ḥārith ibn Hishām asked the Prophet \hon{\PBUH}{\BODY} to give him one piece of
 advice to hold firmly to. The Prophet \hon{\PBUH}{\BODY} pointed to his tongue
 and said, "Restrain this." \[Ṣaḥīḥ al-Bukhārī\]
 
-[-@@bukhari, vol. X, p. Y, #Z]
+<!-- [-@@bukhari, vol. X, p. Y, #Z] -->
 
-
-<!-- TODO ref al-Bukhārī -->
-
-He \hon{\PBUH}{\BODY} said, "A good word is charity." \[Ṣaḥīḥ al-Bukhārī\]
-
-[-@@bukhari, vol. X, p. Y, #Z]
-
+He \hon{\PBUH}{\BODY} said, "...a good word is charity..."[-@@bukhari, vol.~3,
+p.~83, #2989]
 
 Indecent speech should be avoided. Speech should be truthful, just, and calm.
 One should not rush when speaking.
 
-<!-- TODO ref al-Bukhārī -->
-
+<!-- TODO I'm unsure if this is in al-Bukhārī -->
 The Messenger of Allāh \hon{\PBUH}{\BODY} would speak slowly and distinctly---so
 clearly that if someone wished to count his words, he could do so. \[Ṣaḥīḥ
 al-Bukhārī\]
 
-[-@@bukhari, vol. X, p. Y, #Z]
+<!-- [-@@bukhari, vol. X, p. Y, #Z] -->
 
 
 <!-- TODO ref al-Tirmidhī -->
@@ -301,12 +280,12 @@ al-Bukhārī\]
 When addressing a group, one should direct attention to everyone, turning toward
 them gradually so that no one feels neglected. \[Jāmiʿ al-Tirmidhī\]
 
-<!-- TODO ref al-Bukhārī -->
-
+<!-- TODO I'm unsure if this is in al-Bukhārī -->
+<!-- Check Abū Dāwūd -->
 Speech should be concise. The Prophet \hon{\PBUH}{\BODY} said, "I have been
 commanded to be concise in speech, for brevity is better." \[Ṣaḥīḥ al-Bukhārī\]
 
-[-@@bukhari, vol. X, p. Y, #Z]
+<!-- [-@@bukhari, vol. X, p. Y, #Z] -->
 
 
 When women speak to non-_maḥram_ men, their tone should not be soft or alluring.
@@ -463,16 +442,11 @@ The correct method of seeking permission is to offer _salām_ and then ask, "May
 I enter?" A man asked, "Should I seek permission from my mother?" He
 \hon{\PBUH}{\BODY} replied, "Yes." \[Al-Adab al-Mufrad\]
 
-<!-- TODO ref al-Bukhārī -->
 <!-- TODO ref Abū Dāwūd -->
-
 If permission is not granted after offering _salām_ three times, one should
-return. \[Ṣaḥīḥ al-Bukhārī\] However, if a person has already been invited, then
-permission is not required. The Prophet \hon{\PBUH}{\BODY} said, "The messenger
-sent to invite a man is his permission." \[Sunan Abī Dāwūd\]
-
-[-@@bukhari, vol. X, p. Y, #Z]
-
+return.[-@@bukhari, vol.~5, p.~344, #6245] However, if a person has already been
+invited, then permission is not required. The Prophet \hon{\PBUH}{\BODY} said,
+"The messenger sent to invite a man is his permission." \[Sunan Abī Dāwūd\]
 
 <!-- TODO review translation of ff para -->
 
@@ -512,17 +486,12 @@ exercise patience and supplicate to Allāh. If tears flow due to grief, there is
 no harm in it. However, wailing loudly, tearing clothes, and similar actions are
 against the teachings of Islam.
 
-<!-- TODO ref al-Bukhārī -->
-
+<!-- TODO double check translation -->
 The Messenger of Allāh \hon{\PBUH}{\BODY} said, "Whoever slaps his cheeks, tears
 his clothes, and cries in the manner of the Days of Ignorance is not from my
-Ummah." \[Ṣaḥīḥ al-Bukhārī\]
-
-[-@@bukhari, vol. X, p. Y, #Z]
-
+Ummah."[-@@bukhari, vol.~1, p.~647, #1297]
 
 <!-- TODO ref Aḥmad -->
-
 The Prophet \hon{\PBUH}{\BODY} loved Jaʿfar \hon{\P_HIM}{\BODY} deeply. When
 news of his martyrdom reached him, the women of his household began wailing. The
 Prophet \hon{\PBUH}{\BODY} sent word forbidding them, but they did not stop. He
@@ -530,15 +499,11 @@ warned them again, and when they persisted, he said, "Throw dust into their
 mouths." \[Musnad Aḥmad\] This expression indicates a strong prohibition of
 wailing and lamentation.
 
-<!-- TODO ref al-Bukhārī -->
-
 The Prophet \hon{\PBUH}{\BODY} himself wept at the death of his son Ibrāhīm and
 said, "The eyes shed tears, and the heart grieves, but we do not say except what
-pleases our Lord..." \[Ṣaḥīḥ al-Bukhārī\] This establishes the balance where
-natural grief is permitted, and excessive lamentation is prohibited.
-
-[-@@bukhari, vol. X, p. Y, #Z]
-
+pleases our Lord..."[-@@bukhari, vol.~1, pp.~649--650, #1303] This establishes
+the balance where natural grief is permitted, and excessive lamentation is
+prohibited.
 
 <!-- TODO ref Abū Dāwūd -->
 
