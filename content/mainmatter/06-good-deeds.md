@@ -18,12 +18,12 @@ Truthfulness brings peace to the heart. A believer should speak the truth in all
 circumstances, whether in hardship or ease, and should act truthfully.
 
 <!-- TODO add footnote for Siddiq? -->
-
+<!-- TODO chapter 7 uses "truthful" -->
 The Prophet Muḥammad \hon{\PBUH}{\BODY} was asked about the distinguishing
-quality of the people of Paradise. He \hon{\PBUH}{\BODY} said, "Truthfulness
-leads to righteousness, and righteousness leads to Paradise. A man continues to
-speak the truth until he is recorded with Allāh as a _ṣiddīq_..."[-@@bukhari,
-vol.~5, p.~284, #6094]
+quality of the people of Paradise. He \hon{\PBUH}{\BODY} said,
+
+"Truthfulness leads to righteousness, and righteousness leads to Paradise.
+A man continues to speak the truth until he is recorded with Allāh as a _ṣiddīq_..."[-@@bukhari, vol.~5, p.~284, #6094]
 
 <!-- TODO ref Abū Dāwūd -->
 
