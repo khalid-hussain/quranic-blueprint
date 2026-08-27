@@ -11,8 +11,7 @@ The book in hand, *The Quranic Blueprint*, is a faithful English
 translation of the renowned work *Taʿlīm al-Quran*, authored several
 decades ago by the eminent Islamic scholar of his era, the late
 Professor Shaykh Owais al-Nagrāmī al-Nadwī \hon{\M_HIM}{\BODY} of Dār
-al-ʿUlūm Nadwat al-ʿUlamāʾ, Lucknow. Shaykh Owais al-Nadwī [رحمه
-الله]{dir="rtl"} was a towering intellectual figure whose contributions
+al-ʿUlūm Nadwat al-ʿUlamāʾ, Lucknow. Shaykh Owais al-Nadwī \hon{\M_HIM}{\BODY} was a towering intellectual figure whose contributions
 to Quranic studies, tafsīr, and Islamic thought were widely recognised
 and deeply respected in scholarly circles across the subcontinent and
 beyond.
