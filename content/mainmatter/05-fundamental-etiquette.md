@@ -370,17 +370,11 @@ The practice of the Companions was that they would sit wherever they found space
 without formality. They would not push through people to sit in front or occupy
 prominent positions.
 
-<!-- TODO ref al-Bukhārī -->
-
 One should not make another person stand up to take their place. The Prophet
 \hon{\PBUH}{\BODY} said, "A man should not make another man stand from his place
-and then sit in it." \[Ṣaḥīḥ al-Bukhārī\]
-
-[-@@bukhari, vol. X, p. Y, #Z]
-
+and then sit in it."[-@@bukhari, vol. 5, p. 355, #6269]
 
 <!-- TODO ref Muslim -->
-
 If someone temporarily leaves their seat and then returns, they are more
 entitled to it. The Prophet \hon{\PBUH}{\BODY} said, "If one of you gets up from
 his place and then returns to it, then he has more right to it." \[Ṣaḥīḥ

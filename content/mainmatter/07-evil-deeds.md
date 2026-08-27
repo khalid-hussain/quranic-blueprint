@@ -731,11 +731,20 @@ pp.~272--273, #6064]
 It is also appropriate that if a person does something that may give others an
 opportunity for suspicion, he should remove that suspicion.
 
-<!-- TODO ref al-Bukhārī -->
-<!-- TODO Check translit of name -->
-<!-- TODO Either 3281 or 6219; 3281 is active speech while 6219 is passive. translation needs to be edited accordingly. -->
 
-Ṣafīyah bint Ḥuyayy \hon{\P_HER}{\BODY} reported,
+<!-- TODO Either 3281 or 6219; 3281 is active speech while 6219 is passive. translation needs to be edited accordingly. -->
+Ṣafīyah bint Ḥuyayy \hon{\P_HER}{\BODY} reported, “The Prophet
+\hon{\PBUH}{\BODY} was in _iʿtikāf_, and I came to visit him at night. I spoke
+with him, then I stood to return, and he stood with me to accompany me.” She was
+staying at the house of Usāmah ibn Zayd then. Two men from the Anṣār passed by.
+When they saw the Prophet \hon{\PBUH}{\BODY}, they hastened. The Prophet
+\hon{\PBUH}{\BODY} said, "Take it easy, she is Ṣafiyyah bint Ḥuyayy." They said,
+"_Subḥān Allāh_, O Messenger of Allāh!" He \hon{\PBUH}{\BODY} said, "Indeed,
+Shayṭān flows through the son of Ādam like blood, and I feared that he might
+cast ill into your hearts."[-@@bukhari, vol. 3, p. 211, #3281]
+
+
+<!-- Ṣafīyah bint Ḥuyayy \hon{\P_HER}{\BODY} reported,
 
 > The Prophet \hon{\PBUH}{\BODY} was in _iʿtikāf_, and I came to visit him at
 > night. I spoke with him, then I stood to return, and he stood with me to
@@ -746,9 +755,7 @@ opportunity for suspicion, he should remove that suspicion.
 
 > They said, "Subḥān Allāh, O Messenger of Allāh!" He \hon{\PBUH}{\BODY} said,
 > "Indeed, Shayṭān flows through the son of Ādam like blood, and I feared that
-> he might cast something into your hearts." \[Ṣaḥīḥ al-Bukhārī\]
-
-<!-- [-@@bukhari, vol. X, p. Y, #Z] -->
+> he might cast something into your hearts." \[Ṣaḥīḥ al-Bukhārī\] -->
 
 
 <!-- TODO review translation of ff para -->
@@ -799,14 +806,11 @@ The Messenger of Allāh \hon{\PBUH}{\BODY} said, "Richness is not having many
 possessions. Rather, true richness is the richness of the soul."[-@@bukhari,
 vol.~5, p.~428, #6446]
 
-<!-- TODO ref al-Bukhārī -->
-<!-- TODO either 1469 or 6470; edit translation accordingly -->
-The Prophet Muḥammad \hon{\PBUH}{\BODY} said, "Whoever seeks self-sufficiency,
-Allāh will make him self-sufficient; whoever seeks chastity, Allāh will grant
-him chastity; and whoever seeks patience, Allāh will grant him patience. No one
-is given a gift better and more expansive than patience." \[Ṣaḥīḥ al-Bukhārī\]
-
-<!-- [-@@bukhari, vol. X, p. Y, #Z] -->
+The Prophet Muḥammad \hon{\PBUH}{\BODY} said, "...whoever seeks chastity, Allāh
+will grant him chastity; whoever seeks self-sufficiency, Allāh will make him
+self-sufficient; and whoever seeks patience, Allāh will grant him patience. No
+one is given a gift better and more expansive than patience."[-@@bukhari, vol. 2,
+p. 37, #1469]
 
 Ḥakīm ibn Ḥizām \hon{\P_HIM}{\BODY} reported,
 
@@ -1865,27 +1869,23 @@ and will bring it on the Day of Judgment." \[Ṣaḥīḥ Muslim\]
 
 Abū Hurayrah \hon{\P_HIM}{\BODY} narrated,
 
-<!-- TODO ref al-Bukhārī -->
-<!-- TODO review translation: Congratulations to him... -->
 <!-- TODO review translation: ...distributed is burning him with fire... -->
 
 > When we conquered Khaybar, we did not gain gold or silver as booty, but we
-> gained livestock, goods, and gardens. Then we departed with the Messenger of
-> Allāh \hon{\PBUH}{\BODY} to the valley of al-Qurā. The Messenger of Allāh
-> \hon{\PBUH}{\BODY} had a slave named Midʿam who had been given to him by one
-> of Banū al-Ḍibbāb.
+> gained cows and camels, goods, and gardens. Then we departed with the
+> Messenger of Allāh \hon{\PBUH}{\BODY} to the valley of al-Qurá. The Messenger
+> of Allāh \hon{\PBUH}{\BODY} had a slave named Midʿam who had been given to him
+> by a person from Banū al-Ḍibāb.
 
 > While he was unloading the saddle of the Messenger of Allāh
 > \hon{\PBUH}{\BODY}, an arrow whose source was unknown struck him. The people
 > said, "Congratulations to him for martyrdom." The Messenger of Allāh
 > \hon{\PBUH}{\BODY} said, "No, by the One in Whose Hand is my soul, the cloak
 > which he took unlawfully from the spoils of Khaybar before they were
-> distributed is burning him with fire." When the people heard this, a man came
-> with one or two straps of sandals and said, "O Messenger of Allāh, I took
-> these unlawfully." The Messenger of Allāh \hon{\PBUH}{\BODY} said, "A strap of
-> fire, or two straps of fire." \[Ṣaḥīḥ al-Bukhārī\]
-
-[-@@bukhari, vol. X, p. Y, #Z]
+> distributed is burning him with fire." Upon hearding this, a man came with one
+> or two straps of sandals and said, "O Messenger of Allāh, I took these
+> unlawfully." The Messenger of Allāh \hon{\PBUH}{\BODY} said, "A strap of fire,
+> or two straps of fire."[-@@bukhari, vol. 3, pp. 625--626, #4234]
 
 
 <!-- TODO ref majmu3 fatawa -->
@@ -2277,10 +2277,10 @@ may live lives of honor and purity. The Prophet Muḥammad \hon{\PBUH}{\BODY}
 said, "No man is alone with a woman except that Shayṭān is the third of them."
 \[Sunan al-Tirmidhī\]
 
-<!-- TODO ref al-Bukhārī -->
-<!-- TODO review overall translation of ff para -->
-<!-- TODO trans: Night of Mi3raaj -->
-
+<!-- TODO ref al-Bukhārī tannur hadith-->
+<!-- TODO review overall translation of ff para and confirm -->
+<!-- TODO This is probably not a narration of Mi'raj -->
+<!-- TODO Probably #7047 -->
 The Messenger of Allāh \hon{\PBUH}{\BODY} narrated about the Night of Miʿrāj,
 "We proceeded until we came to something like a _tannūr_ (oven), narrow at the
 top and wide at the bottom, beneath which a fire was kindled. When the fire
@@ -2289,7 +2289,7 @@ subsided, they returned inside it. In it were naked men and women. I said, 'Who
 are these?' They said, 'These are the adulterers and adulteresses.'" \[Ṣaḥīḥ
 al-Bukhārī\]
 
-[-@@bukhari, vol. X, p. Y, #Z]
+<!-- [-@@bukhari, vol. X, p. Y, #Z] -->
 
 
 <!-- TODO ref Ibn Mājah -->

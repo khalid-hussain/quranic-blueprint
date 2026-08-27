@@ -368,16 +368,16 @@ means to abstain from something, such as abstaining from speaking. Technically,
 it means worshipping Allāh by abstaining from food, drink, and other actions
 which invalidate a person's fast, from true dawn to sunset.
 
-<!-- TODO ref al-Bukhārī -->
-<!-- TODO This is probably from Ibn Mājah or al-Nasāʾī -->
+<!-- TODO TODO The extension "...against the Fire" is probably from Ibn Mājah or al-Nasāʾī -->
+<!-- Allāh has stated that fasting produces purity. The Messenger of Allāh
+\hon{\PBUH}{\BODY} said, "Fasting is a shield against the Fire." \[Ṣaḥīḥ
+al-Bukhārī\] -->
 
 Allāh has stated that fasting produces purity. The Messenger of Allāh
-\hon{\PBUH}{\BODY} said, "Fasting is a shield against the Fire." \[Ṣaḥīḥ
-al-Bukhārī\] The Companions \hon{\P_THM}{\BODY} were so eager to fast that when
-they came to know there was little food in the house, they would say, "I am
-fasting today."
-
-<!-- [-@@bukhari, vol. X, p. Y, #Z] -->
+\hon{\PBUH}{\BODY} said, "Fasting is a shield..."[-@@bukhari, vol. 2, p. 200,
+#1894] The Companions \hon{\P_THM}{\BODY} were so eager to fast that when they
+came to know there was little food in the house, they would say, "I am fasting
+today."
 
 
 <!-- TODO ref Muslim -->
@@ -395,15 +395,10 @@ for their husbands. Eventually, the Messenger of Allāh \hon{\PBUH}{\BODY}
 instructed, "A woman should not fast while her husband is present except with
 his permission."[-@@bukhari, vol.~4, pp.~441--442, #5192]
 
-
-<!-- TODO ref al-Bukhārī -->
-
-The Messenger of Allāh \hon{\PBUH}{\BODY} said, "When any one of you is fasting,
-he should not engage in obscene speech or ignorant behavior. If someone fights
-him or abuses him, let him say, 'I am fasting.'..." \[Ṣaḥīḥ al-Bukhārī\]
-
-<!-- [-@@bukhari, vol. X, p. Y, #Z] -->
-
+The Messenger of Allāh \hon{\PBUH}{\BODY} said, "...when any one of you is
+fasting, he should neither have intercourse with his spouse nor engage in
+obscene speech. If someone abuses or fights him, let him say, 'I am a fasting
+person.'..."[-@@bukhari, vol. 2, pp. 203--4, #1904]
 
 The Messenger of Allāh \hon{\PBUH}{\BODY} said, "The odor from the mouth of a
 fasting person is more pleasing to Allāh than the fragrance of

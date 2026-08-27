@@ -260,12 +260,9 @@ a trust is a sign of deficiency in faith and hypocrisy. He \hon{\PBUH}{\BODY}
 said, "There is no faith for the one who has no trustworthiness, and there is no
 religion for the one who does not fulfill his covenant." \[Musnad Aḥmad\]
 
-<!-- TODO ref al-Bukhārī -->
-
 The Prophet \hon{\PBUH}{\BODY} would repay debts with better than what he
-borrowed and emphasized justice in all dealings. \[Ṣaḥīḥ al-Bukhārī\]
-
-<!-- [-@@bukhari, vol. X, p. Y, #Z] -->
+borrowed and emphasized justice in all dealings.[-@@bukhari, vol. 2, pp.
+409-410, #2393; -@@muslim, vol. 5, p. 146. #1874]
 
 
 ## Modesty (Ḥayāʾ)
@@ -674,15 +671,27 @@ wholeheartedly. They gave them their homes, gardens, and fields, and endured all
 kinds of hardship themselves so that their Muhājir brothers could live in
 comfort.
 
-<!-- TODO ref al-Bukhārī -->
-<!-- TODO ref Muslim -->
-
-<!-- BUKHARI WORDING
+<!-- BUKHARI WORDING #3798
 عَنْ أَبِي هُرَيْرَةَ رضي الله عنه:
 
 جَاءَ رَجُلٌ إِلَى النَّبِيِّ ﷺ، فَبَعَثَ إِلَى نِسَائِهِ، فَقُلْنَ: مَا مَعَنَا إِلَّا الْمَاءُ. فَقَالَ رَسُولُ اللَّهِ ﷺ: «مَنْ يَضُمُّ – أَوْ يُضِيفُ – هَذَا؟» فَقَالَ رَجُلٌ مِنَ الْأَنْصَارِ: أَنَا. فَانْطَلَقَ بِهِ إِلَى امْرَأَتِهِ، فَقَالَ: أَكْرِمِي ضَيْفَ رَسُولِ اللَّهِ ﷺ. قَالَتْ: مَا عِنْدَنَا إِلَّا قُوتُ صِبْيَانِي. قَالَ: هَيِّئِي طَعَامَكِ، وَأَصْبِحِي سِرَاجَكِ، وَنَوِّمِي صِبْيَانَكِ إِذَا أَرَادُوا عَشَاءً... فَقَامَتْ إِلَى السِّرَاجِ فَأَطْفَأَتْهُ، فَجَعَلَا يُرِيَانِهِ أَنَّهُمَا يَأْكُلَانِ، فَبَاتَا طَاوِيَيْنِ... فَلَمَّا أَصْبَحَ غَدَا إِلَى النَّبِيِّ ﷺ، فَقَالَ: «ضَحِكَ اللَّهُ اللَّيْلَةَ – أَوْ عَجِبَ – مِنْ فِعَالِكُمَا»
 -->
 
+Once, a man came to the Messenger of Allāh \hon{\PBUH}{\BODY}. At that time,
+there was nothing in the Prophet's house except water. The Prophet Muḥammad
+\hon{\PBUH}{\BODY} said, "Who will host this man?" A man from the Anṣār said, "I
+will." He took the guest to his home and said to his wife, "Honor the guest of
+the Messenger of Allāh." She said, "We have nothing except food for the
+children." He said, "Prepare the food, light the lamp, and put the children to
+bed when they ask for supper." So she prepared the food, lit the lamp, and put
+her children to bed. Then she got up as though she were tending to the lamp and
+extinguished it. The two of them then pretended to eat so that their guest would
+think they were eating with him, while they themselves went to bed hungry. The
+next morning, the man went to the Messenger of Allāh \hon{\PBUH}{\BODY} who
+said, "Allāh laughed---or marveled---at what you two did last night."
+[-@@bukhari, vol. 3, pp. 429--30, #3798]
+
+<!-- OLD TRANSLATION
 Once, a hungry man came to the Messenger of Allāh \hon{\PBUH}{\BODY}. At that
 time, there was nothing in the Prophet's house except water. The Prophet
 Muḥammad \hon{\PBUH}{\BODY} said, "Who will host this man tonight so that Allāh
@@ -694,13 +703,9 @@ food for the children." He said, "Keep the children busy, and when our guest
 enters, put out the lamp and show him that we are eating." So they sat, and the
 guest ate while they remained hungry.
 
-<!-- TODO review translation: (and greatly pleased) -->
-
 In the morning, he went to the Prophet \hon{\PBUH}{\BODY}, who said, "Allāh was
 amazed (and greatly pleased) with what you both did for your guest last night."
-\[Ṣaḥīḥ al-Bukhārī; Ṣaḥīḥ Muslim\]
-
-<!-- [-@@bukhari, vol. X, p. Y, #Z] -->
+-->
 
 
 ## Moderation (Iʿtidāl)
@@ -720,33 +725,13 @@ Islam teaches moderation in all matters---no excess, no neglect. Islam teaches
 that one should neither go to extremes nor fall into negligence in any matter,
 but should follow a balanced path.
 
-<!-- TODO ref al-Bukhārī -->
-<!-- TODO ref Muslim -->
-<!-- TODO review translation -->
-<!-- TODO The following splits a hadith into two parts for no apparent reason. -->
-
-<!-- OLD TEXT
-The Prophet Muḥammad \hon{\PBUH}{\BODY} said, "Do from deeds what you are able,
-for Allāh does not become tired until you become tired." \[Ṣaḥīḥ al-Bukhārī;
-Ṣaḥīḥ Muslim\] -->
-
-<!-- Following is taken from chapter 1 -->
+<!-- TODO The following splits a hadith into two parts -->
 The Prophet Muḥammad \hon{\PBUH}{\BODY} said, "O people, you should do whatever
 good deeds you are able to do, for Allāh does not become weary until you become
 weary..."[-@@bukhari, vol.~5, p.~203, #5861]
 
-<!-- TODO ref al-Bukhārī -->
-<!-- TODO ref Muslim -->
-
 The Prophet \hon{\PBUH}{\BODY} said, "The most beloved deeds to Allāh are those
-that are consistent, even if they are small." \[Ṣaḥīḥ al-Bukhārī; Ṣaḥīḥ Muslim\]
-
-<!-- Following is taken from chapter 1
-And the most beloved of good deeds to Allāh is that which is done consistently, even if it is little."[-@@bukhari, vol.~5, p.~203, #5861]
--->
-
-<!-- [-@@bukhari, vol. X, p. Y, #Z] -->
-
+that are consistent, even if they are small."[-@@bukhari, vol.~5, p.~203, #5861]
 
 <!-- TODO ref al-Nasāʾī -->
 

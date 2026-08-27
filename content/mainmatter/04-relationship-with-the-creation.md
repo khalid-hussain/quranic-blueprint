@@ -362,30 +362,19 @@ blessing greater for a man than a righteous wife---one who obeys him when he
 commands, pleases him when he looks at her, fulfills an oath when he places one
 upon her, and safeguards herself and his wealth in his absence. \[Musnad Aḥmad\]
 
-<!-- TODO ref al-Bukhārī -->
-<!-- TODO there are multiple narrations of this -->
-
-The Prophet \hon{\PBUH}{\BODY} said, "A woman is a guardian over her husband's
-house and she will be questioned about her responsibility." \[Ṣaḥīḥ al-Bukhārī\]
-
-[-@@bukhari, vol. X, p. Y, #Z]
-
+The Prophet \hon{\PBUH}{\BODY} said, "...a woman is a shepherdess over her
+husband's house and is responsible..."[-@@bukhari, vol. 4. pp. 436--7, #5188]
 
 <!-- TODO ref Abū Dāwūd -->
-
 He \hon{\PBUH}{\BODY} also said, "If I were to command anyone to prostrate to
 someone other than Allāh, I would have commanded a wife to prostrate to her
 husband." \[Sunan Abī Dāwūd\]
 
-<!-- TODO ref al-Bukhārī -->
-
 The female Companions took great care in serving their husbands, honoring them,
 and safeguarding their property. ʿĀʾishah \hon{\P_HER}{\BODY} used to wash the
-Prophet's \hon{\PBUH}{\BODY} clothes with her own hands, prepare his
-tooth-stick, and apply fragrance on him. \[Ṣaḥīḥ al-Bukhārī\]
-
-[-@@bukhari, vol. X, p. Y, #Z]
-
+Prophet's \hon{\PBUH}{\BODY} clothes with her own hands,[-@@bukhari, vol. 1, p.
+145, #229] prepare his tooth-stick,[-@@bukhari, vol. 3, p. 710, #4438] and apply
+fragrance on him.[-@@bukhari, vol. 1, p. 166, #267]
 
 <!-- TODO adab mufrad -->
 
@@ -432,17 +421,10 @@ daily life---none of these rights may be reduced or denied.
 The Messenger of Allāh \hon{\PBUH}{\BODY} said, "The best among you are those
 who are best to their wives." \[Sunan Ibn Mājah\]
 
-<!-- TODO ref al-Bukhārī -->
-<!-- TODO there are multiple narrations of this -->
-
-He \hon{\PBUH}{\BODY} said, "A man is a guardian over his household, and he will
-be questioned about it." \[Ṣaḥīḥ al-Bukhārī\]
-
-[-@@bukhari, vol. X, p. Y, #Z]
-
+He \hon{\PBUH}{\BODY} said, "...a man is a shepherd over his family and is
+responsible..."[-@@bukhari, vol. 4. pp. 436--7, no. 5188]
 
 <!-- TODO ref Muslim -->
-
 He \hon{\PBUH}{\BODY} also said, "Do not hate your wife if you notice a fault in
 her---perhaps you will find another quality in her that pleases you." \[Ṣaḥīḥ
 Muslim\]
@@ -998,7 +980,6 @@ Just as we do not wish harm for one another and care for each other's comfort,
 we must also treat animals with gentleness.
 
 <!-- TODO ref is missing -->
-
 Once some people came to ʿUbaydullāh and ʿAbdullāh \hon{\P_TWO}{\BODY} and asked
 whether they had heard anything from the Messenger of Allāh \hon{\PBUH}{\BODY}
 regarding a man who rides a horse and beats it excessively. They replied that
@@ -1006,15 +987,16 @@ they had not. Their elder sister then said from inside the house, "Allāh Himsel
 Says, 'There is no creature on the earth nor bird that flies with its wings
 except that they are communities like you.' (Sūrat al-Anʿām, Q6:38)"
 
-<!-- TODO ref al-Bukhārī -->
-<!-- Is this really in al-Bukhārī? -->
-
-A Companion asked the Prophet \hon{\PBUH}{\BODY}, "O Messenger of Allāh, I have
+A Companion narrated, "I asked the Messenger of Allāh \hon{\PBUH}{\BODY} about
+stray camels that come to my watering troughs, which I had prepared and filled
+for my own camels---is there any reward for me if I water them?" He replied,
+"Yes, there is a reward in [watering] every creature with a moist liver (i.e. a
+living creature)."[@@majah14, vol. 3, p. 443, #3711]
+ 
+<!-- A Companion asked the Prophet \hon{\PBUH}{\BODY}, "O Messenger of Allāh, I have
 made water troughs for my animals. If stray camels drink from them, will I
 receive reward?" He replied, "There is reward in showing kindness to every
-living being." \[Ṣaḥīḥ al-Bukhārī\]
-
-[-@@bukhari, vol. X, p. Y, #Z]
+living being." \[Ṣaḥīḥ al-Bukhārī\] -->
 
 <!-- إِنَّهُ لَا يَنْبَغِي أَنْ يُعَذِّبَ بِالنَّارِ إِلَّا رَبُّ النَّارِ -->
 <!-- TODO ref Abū Dāwūd -->
