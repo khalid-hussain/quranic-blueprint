@@ -757,7 +757,7 @@ al-ʿUzzá). When he embraced Islam, the Messenger of Allāh \hon{\PBUH}{\BODY}
 changed his name and said, "No, you are not ʿAbd al-ʿUzzá; rather, you are
 ʿAbdullāh." \[Usd al-Ghābah\]
 
-The Prophet \hon{PBUH}{\BODY} also changed names that carried undesirable
+The Prophet \hon{\PBUH}{\BODY} also changed names that carried undesirable
 meanings. Zaynab bint Jaḥsh and Juwayriyah bint al-Ḥārith \hon{\P_TWO}{\BODY}
 were both originally named Barrah (one who claims righteousness). This was
 regarded as a form of self-praise, which the Prophet \hon{\PBUH}{\BODY}
@@ -1477,18 +1477,22 @@ stood, praised Allāh and glorified Him, then said,
 > If I disobey Allāh and His Messenger, then you owe me no obedience. Now stand
 > for your prayer---may Allāh have mercy upon you. \[al-Sīrah al-Nabawiyyah\]
 
-<!-- TODO ref al-Bukhārī -->
-<!-- TODO review translation -->
-<!-- TODO There are multiple versions of this hadith; translate all of them for the record and select one for here -->
+The Messenger of Allāh \hon{\PBUH}{\BODY} said, “All of you are shepherds and
+thus responsible for your flocks. Hence, a leader over a people is a shepherd
+and responsible for them; a man is a shepherd over his household and responsible
+for them; a woman is a shepherdess over her husband's house and children and is
+responsible for them; and a slave is a shepherd over his master's wealth and
+responsible for it. Lo! All of you are shepherds and all of you are responsible
+for their flocks.”[-@@bukhari, vol. 2, p. 482, #2554.]
 
-The Messenger of Allāh \hon{\PBUH}{\BODY} said, "Each of you is a shepherd, and
+<!-- The Messenger of Allāh \hon{\PBUH}{\BODY} said, "Each of you is a shepherd, and
 each of you is responsible for his flock. The leader over the people is a
 shepherd and is responsible for them. A man is a shepherd over his household and
 is responsible for them. A woman is a shepherd over the house of her husband and
 his children and is responsible for them. A servant is a shepherd over the
 wealth of his master and is responsible for it. Indeed, each of you is a
-shepherd and each of you is responsible for his flock."[-@@bukhari, vol.~2,
-p.~416, #2409.]
+shepherd and each of you is responsible for his flock." -->
+
 
 ## Sunnah and Bidʿah (Innovation)
 
