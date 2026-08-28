@@ -155,15 +155,12 @@ remembrance of Allāh is (an) even greater (deterrant). And Allāh (fully) knows
 what you (all) do. (Sūrat al-ʿAnkabūt, Q29:45)
 \AYAH_END
 
-
-<!-- TODO ref Aḥmad -->
 <!-- TODO ref Shu3ab al-Iman -->
-
-The Messenger of Allāh \hon{\PBUH}{\BODY} said, "The coolness of my eyes has
-been placed in _ṣalāh_." \[Musnad Aḥmad\] He \hon{\PBUH}{\BODY} also said,
-"_Ṣalāh_ is the pillar of the religion. Whoever establishes it has established
-the religion, and whoever abandons it has demolished the religion." \[Shuʿab
-al-Īmān\]
+The Messenger of Allāh \hon{\PBUH}{\BODY} said, "...the coolness of my eyes has
+been placed in _ṣalāh_."[-@@ahmad, vol. 19, p. 305, #12293] He
+\hon{\PBUH}{\BODY} also said, "_Ṣalāh_ is the pillar of the religion. Whoever
+establishes it has established the religion, and whoever abandons it has
+demolished the religion." \[Shuʿab al-Īmān\]
 
 <!-- TODO ref al-Muwaṭṭāʾ -->
 
@@ -209,30 +206,20 @@ _ṣalāh_ and the _adhān_ for it, then appointing a man to lead the people in
 _ṣalāh_, and then going back to men and burning their houses with them
 inside..."[-@@bukhari, vol.~1, pp.~351--352, #644]
 
-
-<!-- TODO ref Aḥmad -->
-<!-- TODO ref check Companion name -->
-
 For women, praying at home is better. Umm Ḥumayd, the wife of Abū Ḥumayd
 al-Sāʿidī \hon{\P_TWO}{\BODY}, reported that she came to the Prophet
 \hon{\PBUH}{\BODY} and said, "O Messenger of Allāh, I love to pray with you."
 
-He \hon{\PBUH}{\BODY} said, "I know that you love to pray with me. But your
+He \hon{\PBUH}{\BODY} said, "I know that you love to pray with me. [But] your
 prayer in your house is better for you than your prayer in your room, and your
 prayer in your room is better for you than your prayer in your courtyard, and
 your prayer in your courtyard is better for you than your prayer in the mosque
 of your people, and your prayer in the mosque of your people is better for you
-than your prayer in my mosque (Masjid al-Nabawi)."
-
-<!-- TODO check translation of ff para -->
-
-<!-- ORI: She said: So she ordered that a place of prayer be prepared for her in the
-furthest and darkest part of her house, and she continued to pray there until
-she met Allāh. \[Musnad Aḥmad\] -->
+than your prayer in my mosque (Masjid Nabawī)."
 
 So she ordered that a place of prayer be prepared for her in the furthest and
-darkest part of her house, and she continued to pray there until she met Allāh.
-\[Musnad Aḥmad\]
+darkest part of her house, and she continued to pray there until she met
+Allāh.[-@@ahmad, vol. 45, p. 37, #27090]
 
 <!-- TODO ref Abū Dāwūd -->
 <!-- TODO check translation of ff para -->
@@ -245,14 +232,11 @@ begin forming in this period, so this greatest habit of righteousness should
 also be instilled at that time so that it becomes firmly established in
 adulthood.
 
-<!-- TODO ref Aḥmad -->
-
 Care must be taken to pray with calmness and tranquility, without haste. The
 Messenger of Allāh \hon{\PBUH}{\BODY} once said that the greatest thief is the
 one who steals from his prayer. The Companions asked, "O Messenger of Allāh, how
 does one steal from prayer?" He \hon{\PBUH}{\BODY} replied, "By not performing
-the bowing and prostration properly and by lacking _khushūʿ_ (humble
-attentiveness)." \[Musnad Aḥmad\]
+the bowing and prostration properly."[-@@ahmad, vol. 37, p. 319, #22641]
 
 <!-- TODO ref Abū Dāwūd -->
 
@@ -648,10 +632,9 @@ they have been wronged. And indeed, Allāh is Most Capable of granting them
 victory. (Sūrat al-Ḥajj, Q22:39)
 \AYAH_END
 
-<!-- TODO ref Aḥmad -->
-
 Imam Aḥmad \hon{\M_HIM}{\BODY} recorded from Ibn ʿAbbās \hon{\P_TWO}{\BODY} that
-he said, "This was the first _āyah_ revealed concerning fighting."
+he said, "This was the first _āyah_ revealed concerning fighting."[-@@ahmad,
+vol. 3, pp. 358--9, #1865]
 
 This stage established permission, not obligation, as a response to oppression.
 

@@ -68,13 +68,11 @@ himself and Allāh's punishment, anger, and displeasure---by carrying out what H
 has commanded and abstaining from what He has forbidden." \[Jāmiʿ al-ʿUlūm wa
 al-Ḥikam\]
 
-<!-- TODO ref Aḥmad -->
-
 The Messenger of Allāh \hon{\PBUH}{\BODY} said during the Farewell Pilgrimage,
 "O people, indeed your Lord is One, and your father is one. There is no
 superiority of an Arab over a non-Arab, nor of a non-Arab over an Arab; nor of a
 white person over a black person, nor of a black person over a white
-person---except by _taqwá_." \[Musnad Aḥmad\]
+person---except by _taqwá_..."[-@@ahmad, vol. 38, p. 474, #23489]
 
 <!-- TODO ref Ibn al-Qayyim -->
 
@@ -228,12 +226,9 @@ The Prophet \hon{\PBUH}{\BODY} said, "Allāh the Exalted says, 'If I test My
 servant by taking away his two beloved ones (his eyes) and he remains patient, I
 will compensate him with Jannah.'"[-@@bukhari,  vol.~5, p.~115, #5653]
 
-
-<!-- TODO ref Aḥmad -->
-
-The Messenger of Allāh \hon{\PBUH}{\BODY} said, "Know that victory comes with
-patience, relief comes with distress, and ease comes with hardship." \[Musnad
-Aḥmad\]
+The Messenger of Allāh \hon{\PBUH}{\BODY} said, "...know that victory comes with
+patience, relief comes with distress, and ease comes with hardship."[-@@ahmad,
+vol. 5, pp. 18--9, #2803]
 
 <!-- TODO ref Muslim -->
 
@@ -282,7 +277,7 @@ Muʿādh ibn Jabal \hon{\P_HIM}{\BODY} reported that the Messenger of Allāh
 do not leave saying at the end of every prayer, 'O Allāh, help me to remember
 You, to thank You, and to worship You in the best manner.'" \[Sunan Abī Dāwūd\]
 
-<!-- TODO ref Aḥmad -->
+<!-- TODO ref Aḥmad UNSURE | SEEMS LIKE A PARAPHRASE -->
 
 The Messenger of Allāh \hon{\PBUH}{\BODY} said, "Whoever is granted a heart that
 is grateful has been given the best of this world and the Hereafter." \[Musnad
@@ -357,12 +352,15 @@ which is itself dependent cannot be relied upon absolutely. Therefore, those who
 truly believe in Allāh place their trust in Him alone, and their hearts do not
 settle on anyone besides Him.
 
-<!-- TODO ref Aḥmad; check if this is in the Sahihayn? -->
+The Messenger of Allāh \hon{\PBUH}{\BODY} said, "If you were to place your trust
+in Allah as you truly should, He would provide for you just as He provides for
+the birds: they set out in the morning with empty stomachs and return in the
+evening with them full."[-@@ahmad, vol. 1, p. 332, #205]
 
-The Messenger of Allāh \hon{\PBUH}{\BODY} said, "If you were to rely upon Allāh
+<!-- The Messenger of Allāh \hon{\PBUH}{\BODY} said, "If you were to rely upon Allāh
 with true reliance, He would provide for you just as He provides for the birds:
 they go out in the morning with empty stomachs and return in the evening with
-full stomachs." \[Musnad Aḥmad\]
+full stomachs." \[Musnad Aḥmad\] -->
 
 <!-- TODO ref Tabaqat Hanabilah -->
 

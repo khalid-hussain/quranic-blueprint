@@ -235,12 +235,13 @@ _amānah_ and must not be disclosed. The Prophet \hon{\PBUH}{\BODY} said, "When 
 man speaks to another and then turns away, it is a trust." \[Sunan Abī Dāwūd\]
 To expose such a trust is a sign of shamelessness and betrayal.
 
-<!-- TODO ref Aḥmad -->
+<!-- TODO ref Aḥmad WhatsApp Abu Hasan-->
 
 [Give Sincere Advice]{.smallcaps}: If someone seeks advice, sincere advice
 should be given. The Messenger of Allāh \hon{\PBUH}{\BODY} said, "Allow people
 to barter amongst themselves, but if one of your brothers seeks advice, then let
 him offer advice." \[Musnad Aḥmad\]
+<!-- [-@@ahmad, vol. 24, p. 193, #15455] -->
 
 <!-- TODO ref Muslim -->
 
@@ -251,14 +252,13 @@ trust. On the Day of Resurrection, it will be a cause of humiliation and regret,
 except for one who takes it with its right and fulfills what is due upon him."
 \[Ṣaḥīḥ Muslim\]
 
-<!-- TODO ref Aḥmad -->
-
 Such people are called trustworthy. The Messenger of Allāh \hon{\PBUH}{\BODY}
 was extremely trustworthy. People generally referred to him as “al-Amīn,” and
 even his enemies trusted him. The Prophet \hon{\PBUH}{\BODY} said that betraying
 a trust is a sign of deficiency in faith and hypocrisy. He \hon{\PBUH}{\BODY}
 said, "There is no faith for the one who has no trustworthiness, and there is no
-religion for the one who does not fulfill his covenant." \[Musnad Aḥmad\]
+religion for the one who does not fulfill his covenant."[-@@ahmad, vol. 19, pp.
+375--6, #12383]
 
 The Prophet \hon{\PBUH}{\BODY} would repay debts with better than what he
 borrowed and emphasized justice in all dealings.[-@@bukhari, vol. 2, pp.

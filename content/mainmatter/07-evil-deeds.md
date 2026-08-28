@@ -509,13 +509,17 @@ disgraceful in the sight of Allāh. The Quran has prescribed an excellent remedy
 to protect oneself from the mischief of tale-bearers, namely, not accepting
 their words.
 
-<!-- TODO ref Aḥmad -->
-<!-- TODO review translation "corruption FOR the innocent" --> "corruption of the innocent" -->
-
 Once, the Messenger of Allāh \hon{\PBUH}{\BODY} said, "Shall I not inform you of
 the worst of people?" They said, "Yes, O Messenger of Allāh." He
-\hon{\PBUH}{\BODY} said, "Those who go about spreading tales, causing separation
-between loved ones, and seeking corruption for the innocent." \[Musnad Aḥmad\]
+\hon{\PBUH}{\BODY} said, "Those who go about spreading malicious gossip, sowing
+discord among loved ones, and seeking to cause hardship for innocent
+people."[-@@ahmad, vol. 45, p. 575, #27598]
+
+<!-- "Those who go about spreading tales, causing separation
+between loved ones, and seeking corruption for the innocent." -->
+
+Those who go about spreading malicious gossip, sowing discord among loved ones,
+and seeking to cause hardship for innocent people.
 
 <!-- TODO review translation: ...he used not to... & go about spreading tale-bearing → go about tale-bearing -->
 Once, the Messenger of Allāh \hon{\PBUH}{\BODY} passed by two graves and said,
@@ -523,7 +527,6 @@ Once, the Messenger of Allāh \hon{\PBUH}{\BODY} passed by two graves and said,
 that is difficult to avoid. As for one of them, he used not to protect himself
 from urine. As for the other, he used to go about spreading tale-bearing
 (_namīmah_)."[-@@bukhari, vol.~1, pp.~139--140, #216]
-
 
 <!-- TODO ref Abū Dāwūd -->
 
@@ -1928,12 +1931,9 @@ The Prophet Muḥammad \hon{\PBUH}{\BODY} said,
 > unlawful, his drink is unlawful, his clothing is unlawful, and he is nourished
 > with unlawful wealth, so how can he be answered? \[Ṣaḥīḥ Muslim\]
 
-<!-- TODO ref Aḥmad -->
-<!-- TODO review translation: the Fire is more deserving of it. -->
-
 The Prophet Muḥammad \hon{\PBUH}{\BODY} said, "No flesh nourished by unlawful
-earnings will enter Paradise; the Fire is more deserving of it." \[Musnad
-Aḥmad\]
+earnings will enter Paradise; the Fire is more deserving of it."[-@@ahmad, vol.
+22, p. 332, #14441]
 
 <!-- TODO ref Shu3ab al-Iman -->
 

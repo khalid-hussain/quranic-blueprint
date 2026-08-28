@@ -367,13 +367,12 @@ as follows:
 - The Zabūr that was given to Prophet Dāwūd \hon{\S_HIM}{\BODY}; and
 - The Quran that was given to Prophet Muḥammad \hon{\PBUH}{\BODY}.
 
-<!-- TODO ref Aḥmad -->
-
-The Prophet \hon{\PBUH}{\BODY} said, "The Ṣuḥuf of Ibrāhīm were sent down during the
-first night of Ramaḍān; the Tawrāh was sent down the sixth night of Ramaḍān; the
-Injīl was sent down the thirteenth night of Ramaḍān; and the Furqān (the Quran)
-was sent down the twenty-fourth night of Ramaḍān." \[Musnad Aḥmad\] The Ṣuḥuf of
-Prophet Mūsá \hon{\S_HIM}{\BODY} were revealed before the Tawrāh.
+The Prophet \hon{\PBUH}{\BODY} said, "The Ṣuḥuf of Ibrāhīm were sent down during
+the first night of Ramaḍān; the Tawrāh was sent down the sixth night of Ramaḍān;
+the Injīl was sent down the thirteenth night of Ramaḍān; and the Furqān (the
+Quran) was sent down the twenty-fourth night of Ramaḍān."[-@@ahmad, vol. 28, p.
+191, #16984] The Ṣuḥuf of Prophet Mūsá \hon{\S_HIM}{\BODY} were revealed before
+the Tawrāh.
 
 The Quran is the final Book of Allāh. After it, no book like the Quran can be
 produced. Regarding the excellence of this Blessed Book, Allāh has stated,
@@ -548,15 +547,14 @@ me as the Christians exaggerated in praising the son of Maryam. I am only His
 servant, so say, 'the servant of Allāh and His Messenger.'"[-@@bukhari, vol.~3,
 p.~295, #3445]
 
-<!-- TODO ref Aḥmad -->
+Anas ibn Mālik \hon{\P_HIM}{\BODY} reported,
 
-Abū Masʿūd al-Anṣārī \hon{\P_HIM}{\BODY} reported,
-
-> A man came and said, "O our master, son of our master, the best among us, and
-> son of the best among us." The Messenger of Allāh \hon{\PBUH}{\BODY} said, "O
-> people, speak according to your words, and do not let Satan lead you astray. I
-> am Muḥammad, the servant of Allāh and His Messenger. I do not like that you
-> raise me above the rank that Allāh has given me." \[Musnad Aḥmad\]
+> A man came and said, "O Muḥammad, O the best among us, O son of the best among
+> us, O our master, O son of our master." The Messenger of Allāh
+> \hon{\PBUH}{\BODY} said, "Speak according to your words, and do not let
+> Shayṭān lead you astray. I am Muḥammad, the servant of Allāh and His
+> Messenger. I do not like that you raise me above the rank that Allāh has given
+> me."[-@@ahmad, vol. 21, p. 216--7, #13596]
 
 <!-- TODO footnote for _pīrs_ (saints) and _faqīrs_ ? -->
 <!-- TODO they offer vows and offerings (gifts): seems repetitive -->
@@ -846,18 +844,17 @@ A Muslim should always remain hopeful. One's hope in Allāh's Favor and Mercy
 should never be severed. Whether one is rich or poor, healthy or ill, successful
 or unsuccessful, everyone's hopes should remain tied to Allāh alone.
 
-<!-- TODO ref Aḥmad -->
-
-Jābir ibn ʿAbdullāh \hon{\P_HIM}{\BODY} reported that the Messenger of Allāh
+<!-- TODO ref Aḥmad REPLACED with Shu3ab Iman -->
+Abū Hurayrah \hon{\P_HIM}{\BODY} reported that the Messenger of Allāh
 \hon{\PBUH}{\BODY} said,
 
 > A servant will be told, "Enter the Fire." When he reaches the edge of Hell, he
 > will look around and say, "By Allāh, I always held good hope and a positive
 > expectation of Allāh." It will then be commanded, "Bring him back, for I am
-> according to My servant's expectation of Me." (Musnad Aḥmad)
+> according to My servant's expectation of Me."[-@@shu3abeman, vol. 2, p. 323,
+> #984]
 
 <!-- TODO ref Muslim -->
-
 Abū Hurayrah \hon{\P_HIM}{\BODY} reported that the Prophet \hon{\PBUH}{\BODY}
 said,
 
@@ -976,7 +973,7 @@ The Messenger of Allāh \hon{\PBUH}{\BODY} said, "Allāh is more joyful over the
 repentance of His servant than one of you who finds his camel after having lost
 it in a barren land." \[Ṣaḥīḥ Muslim\]
 
-<!-- TODO ref Aḥmad -->
+<!-- TODO ref Aḥmad: 21472 OR 13493 -->
 <!-- TODO ref al-Tirmidhī -->
 <!-- TODO check tense of translation -->
 
@@ -1144,14 +1141,19 @@ Messenger of Allāh, what does being hasty mean?" He said, "He says, 'I have
 supplicated and supplicated, yet I do not see it being answered,' so he becomes
 frustrated and abandons supplication." (Ṣaḥīḥ Muslim)
 
-<!-- TODO ref Aḥmad -->
+The Messenger of Allāh \hon{\PBUH}{\BODY} said, “No Muslim makes a supplication
+that involves neither sin nor severing family ties, except that Allāh grants him
+one of three things in return: He either answers his prayer in this world,
+stores its reward for him in the Hereafter, or averts from him an equivalent
+amount of harm.” They said, “Then we should make plenty of supplication!” He
+said, “Allāh has even more to give.”[-@@ahmad, vol. 17, pp. 213--4, #11133]
 
-The Messenger of Allāh \hon{\PBUH}{\BODY} said, "There is no Muslim who
+<!-- The Messenger of Allāh \hon{\PBUH}{\BODY} said, "There is no Muslim who
 supplicates to Allāh with a supplication in which there is no sin or severing of
 family ties except that Allāh grants him one of three things: either his
 supplication is answered quickly, or it is stored for him in the Hereafter, or
 an equivalent harm is averted from him." They said, "Then we will supplicate
-much." He said, "Allāh is more generous." \[Musnad Aḥmad\]
+much." He said, "Allāh is more generous." \[Musnad Aḥmad\] -->
 
 This is an area where many people fail to truly grasp the vast mercy of Allāh.
 When their supplications are not answered in the way or at the time they expect,
@@ -1257,22 +1259,16 @@ too, is a form of gratitude. Those who hide the blessings given by Allāh are
 guilty of ingratitude. Allāh loves to see the effects of His blessings upon His
 servants.
 
-<!-- TODO ref Aḥmad -->
-<!-- TODO "poor state of appearance" -->
+Mālik ibn Naḍlah \hon{\P_HIM}{\BODY} said, "The Messenger of Allāh
+\hon{\PBUH}{\BODY} saw me wearing shabby clothes and asked, 'Do you have any
+wealth?' I replied, 'Yes.' He asked, 'What kind of wealth?' I said, 'All kinds.
+Allah, Mighty and Majestic, has blessed me with sheep and camels.' He said,
+'Then let the blessings and favor that Allah has bestowed upon you be
+seen.'"[-@@ahmad, vol. 25, p. 222, #15887]
 
-Mālik ibn Naḍlah \hon{\P_HIM}{\BODY} said, "I came to the Messenger of Allāh
-\hon{\PBUH}{\BODY} while I was in a poor state of appearance. He
-\hon{\PBUH}{\BODY} asked, 'Do you have wealth?' I replied, 'Yes.' He
-\hon{\PBUH}{\BODY} asked, 'What kind of wealth?' I said, 'All kinds---Allāh has
-given me camels, sheep, horses, and servants.' The Messenger of Allāh
-\hon{\PBUH}{\BODY} then said, 'When Allāh gives you wealth, let the effect of
-Allāh's blessing be visible upon you.'" \[Musnad Aḥmad\]
-
-<!-- TODO ref Aḥmad -->
-
-The Messenger of Allāh \hon{\PBUH}{\BODY} said, "Whoever Allāh has blessed with
-a favor, Allāh loves that the effect of His blessing be seen upon His creation."
-\[Musnad Aḥmad\]
+The Messenger of Allāh \hon{\PBUH}{\BODY} said, "When Allah, Mighty and
+Majestic, bestows a blessing upon His servant, He loves to see its effects upon
+him."[-@@ahmad, vol. 25, p. 227, #15892]
 
 <!-- TODO ref Mu3jam Kabir -->
 
@@ -1451,12 +1447,10 @@ to listen and obey in what he likes and dislikes, except when he is commanded to
 commit a sin. If he is commanded to commit a sin, then there is no listening and
 no obedience."[-@@bukhari, vol.~6, p.~241, #7144]
 
-<!-- TODO ref Aḥmad -->
-
-The Messenger of Allāh \hon{\PBUH}{\BODY} said, "O Muslims! Fear Allāh,
-establish the five daily prayers, fast your month (Ramadan), give the _zakāh_ of
-your wealth, and obey those whom you appoint as your leader. The result will be
-that you will enter the Paradise of your Lord." \[Musnad Aḥmad\]
+The Messenger of Allāh \hon{\PBUH}{\BODY} said, "Worship your Lord, pray your
+five [daily prayers], fast your month (Ramadan), give the _zakāh_ of your wealth,
+and obey the leader of your affairs, so that you will enter the Paradise of your
+Lord."[-@@ahmad, vol. 36, p. 486, #22161]
 
 <!-- TODO ref Ibn Hisham -->
 
@@ -1534,14 +1528,12 @@ it is called _bidʿah_ (innovation). Ḥassān ibn ʿAṭīyah \hon{\M_HIM}{\BOD
 from them a Sunnah equal to it, and He does not return it to them until the Day
 of Resurrection." \[Sunan al-Dārimī\]
 
-<!-- TODO ref Aḥmad -->
-
 ʿAbdullāh ibn Masʿūd \hon{\P_HIM}{\BODY} reported,
 
 > The Messenger of Allāh \hon{\PBUH}{\BODY} drew a line with his hand and said,
 > "This is the path of Allāh." Then he drew lines to its right and left and
 > said, "These are paths, and on every one of them there is a Shayṭān calling to
-> it." \[Musnad Aḥmad\]
+> it."[-@@ahmad, vol. 7, pp. 207--8, #4142]
 
 <!-- TODO Satan or Shayṭān -->
 
@@ -1878,14 +1870,12 @@ Allāh Commands us not to obey reckless people who have no fear of Him, nor to
 form close ties with them. Bad company corrupts a person, and one must protect
 oneself from it.
 
-<!-- TODO ref Aḥmad -->
-<!-- TODO translation: add Ḥawḍ -->
-
 The Prophet \hon{\PBUH}{\BODY} said that those who sit with oppressive rulers
 and assist them will have a terrible end. The Messenger of Allāh
 \hon{\PBUH}{\BODY} said, "There will be rulers. Whoever visits them, believes
 their lies, and assists them in their oppression---he is not from me, and I am
-not from him, and he will not come to me at the Cistern." \[Musnad Aḥmad\]
+not from him, and he will not come to me at the Ḥawḍ (Cistern)..."[-@@ahmad,
+vol. 38, pp. 295--6, #23260]
 
 <!-- TODO ref al-Tirmidhī -->
 
@@ -1942,8 +1932,18 @@ Shaykh al-Islām Ibn Taymīyah \hon{\M_HIM}{\BODY} said, "Holding fast altogethe
 to the Rope of Allāh and not becoming divided is among the greatest foundations
 of Islam." \[Majmūʿ al-Fatāwá\]
 
-<!-- TODO ref Aḥmad -->
+<!-- TODO ref Aḥmad FAILED TO FIND THIS-->
 <!-- TODO check translation -->
+
+<!--
+أَبْشِرُوا وَأَبْشِرُوا، أَلَيْسَ تَشْهَدُونَ أَنْ لَا إِلَهَ إِلَّا اللَّهُ، وَأَنِّي رَسُولُ اللَّهِ؟ قَالُوا: نَعَمْ، قَالَ: فَإِنَّ هَذَا الْقُرْآنَ سَبَبٌ، طَرَفُهُ بِيَدِ اللَّهِ، وَطَرَفُهُ بِأَيْدِيكُمْ، فَتَمَسَّكُوا بِهِ، فَإِنَّكُمْ لَنْ تَضِلُّوا وَلَنْ تَهْلِكُوا بَعْدَهُ أَبَدًا.
+
+“Rejoice, and rejoice! Do you not testify that there is no deity worthy of
+worship except Allāh and that I am the Messenger of Allāh?” They replied, “Yes.”
+He said, “Indeed, this Qurʾān is a cord: one end is in the Hand of Allāh and the
+other is in your hands. So hold fast to it, for you will never go astray or be
+destroyed after it.”
+-->
 
 Abū Shurayḥ al-Khuzaʿī \hon{\P_HIM}{\BODY} reported,
 

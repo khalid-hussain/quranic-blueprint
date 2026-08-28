@@ -60,14 +60,12 @@ example:
 > us." If they are left to do what they intend, all will perish. But if they are
 > restrained, all will be saved.[-@@bukhari, vol.~2, p.~458, #2493]
 
-
-<!-- TODO ref Aḥmad -->
-
 The Prophet \hon{\PBUH}{\BODY} warned that those who refrain from forbidding
 evil out of fear of powerful or wealthy people will be questioned by Allāh, for
 true fear should be directed toward Him alone. The Messenger of Allāh
-\hon{\PBUH}{\BODY} said, "Let not the fear of people prevent any one of you from
-speaking the truth when he knows it." \[Musnad Aḥmad\]
+\hon{\PBUH}{\BODY} said, "Let not fear of people prevent any of you from
+speaking the truth when you have witnessed it or know it to be true."[-@@ahmad,
+vol. 18, p. 317--8, #11793]
 
 <!-- TODO ref al-Tirmidhī -->
 
@@ -355,12 +353,20 @@ protect their honor, dignity, and property in their absence.
 
 Just as women have rights over men, men also have rights over women.
 
-<!-- TODO ref Aḥmad -->
-
+<!-- TODO ref Aḥmad CHANGED TO IBN MAJAH -->
 The Messenger of Allāh \hon{\PBUH}{\BODY} said that after _taqwá_, there is no
 blessing greater for a man than a righteous wife---one who obeys him when he
 commands, pleases him when he looks at her, fulfills an oath when he places one
-upon her, and safeguards herself and his wealth in his absence. \[Musnad Aḥmad\]
+upon her, and safeguards herself and his wealth in his absence.[-@@majah14, vol.
+2, p. 281, #1844]
+
+<!-- ChatGPT'd translation
+The Messenger of Allāh (صلى الله عليه وسلم) said, “After taqwá, there is no
+greater blessing for a believer than a righteous wife: when he tells her to do
+something, she obeys him; when he looks at her, she delights him; when he asks
+her to fulfill an oath, she does so; and when he is away, she safeguards herself
+and his wealth.”
+-->
 
 The Prophet \hon{\PBUH}{\BODY} said, "...a woman is a shepherdess over her
 husband's house and is responsible..."[-@@bukhari, vol. 4. pp. 436--7, #5188]
