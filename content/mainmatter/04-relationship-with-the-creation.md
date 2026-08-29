@@ -770,12 +770,11 @@ night and fasts during the day."[-@@bukhari, vol.~4, p.~507, #5353]
 Some ignorant people consider widows unlucky---this is contrary to Islamic
 teachings.
 
-<!-- TODO ref Aḥmad -->
-
+<!-- TODO ref Aḥmad CHANGED to Makarim al-Akhlaq -->
 The Prophet \hon{\PBUH}{\BODY} said, "On the Day of Resurrection, I will be the
 first to open the gate of Paradise, and I will see a woman rushing ahead of me."
 When asked who she was, he said, "She is a widow who endured patiently while
-caring for her orphaned children." \[Musnad Aḥmad\]
+caring for her orphaned children."[-@@makarimkharaiti, pp. 396--7, #810]
 
 Proper conduct toward widows includes arranging suitable marriages for them
 after their waiting period (_ʿiddah_).

@@ -235,13 +235,10 @@ _amānah_ and must not be disclosed. The Prophet \hon{\PBUH}{\BODY} said, "When 
 man speaks to another and then turns away, it is a trust." \[Sunan Abī Dāwūd\]
 To expose such a trust is a sign of shamelessness and betrayal.
 
-<!-- TODO ref Aḥmad WhatsApp Abu Hasan-->
-
 [Give Sincere Advice]{.smallcaps}: If someone seeks advice, sincere advice
 should be given. The Messenger of Allāh \hon{\PBUH}{\BODY} said, "Allow people
 to barter amongst themselves, but if one of your brothers seeks advice, then let
-him offer advice." \[Musnad Aḥmad\]
-<!-- [-@@ahmad, vol. 24, p. 193, #15455] -->
+him offer advice."[-@@ahmad, vol. 24, p. 193, #15455]
 
 <!-- TODO ref Muslim -->
 
@@ -341,10 +338,16 @@ A Bedouin once said to the Prophet \hon{\PBUH}{\BODY}, "You people kiss your
 children, but we do not." The Prophet \hon{\PBUH}{\BODY} replied, "What can I do
 if Allāh has removed mercy from your heart?"[-@@bukhari, vol.~5, p.~249, #5998]
 
-<!-- TODO ref Aḥmad -->
-
+<!-- TODO ref Aḥmad review translation -->
 Special mercy should be shown to the young. The Prophet \hon{\PBUH}{\BODY} said,
-"Whoever does not show mercy to our young is not from us." \[Musnad Aḥmad\]
+"Whoever does not show mercy to our young is not from us."[-@@ahmad, vol. 11, p. 345,
+#6733]
+
+<!--
+"Whoever does not show mercy to our young... is not from us."
+OR
+"Whoever does not show mercy to our young is not from us..."
+-->
 
 Mercy is not limited to Muslims alone, but applies to all of humanity. The
 Messenger of Allāh \hon{\PBUH}{\BODY} said that whoever does not show mercy to
@@ -752,19 +755,17 @@ required so that it does not become excessive to the point that a person becomes
 incapable of fulfilling other duties, nor so little that he forgets Allāh.
 
 <!-- TODO ref Aḥmad -->
-
 When ʿUthmān ibn Maẓʿūn \hon{\P_HIM}{\BODY} devoted nights to prayer and days to
 fasting, the Prophet \hon{\PBUH}{\BODY} stopped him and said, "O ʿUthmān ibn
 Maẓʿūn, Allāh has not prescribed monasticism for us. Do you not have an example
 in me? By Allāh, I am the most fearful of Allāh among you and the most mindful
 of Him. I fast, and I break my fast, I pray, and I sleep, and I marry women.
-Whoever turns away from my Sunnah is not from me." \[Musnad Aḥmad\]
+Whoever turns away from my Sunnah is not from me."\[Musnad Aḥmad\]
 
 <!-- TODO check if father is companion too. ʿAbdullāh ibn ʿAmr ibn al-ʿĀṣ -->
-
 The Prophet \hon{\PBUH}{\BODY} said to ʿAbdullāh ibn ʿAmr ibn al-ʿĀṣ
 \hon{\P_HIM}{\BODY}. "Your body has a right over you, your eyes have a right
-over you, your wife has a right over you..." \[Ṣaḥīḥ al-Bukhārī; Ṣaḥīḥ Muslim\]
+over you, your wife has a right over you..."\[Ṣaḥīḥ al-Bukhārī; Ṣaḥīḥ Muslim\]
 
 
 ## Courage
@@ -784,12 +785,10 @@ This commands steadfast courage in the face of the enemy. True courage is
 firmness upon truth, not recklessness. Courage includes standing up for justice,
 speaking truth before tyrants, and remaining steadfast during trials.
 
-<!-- TODO ref Aḥmad -->
-
 ʿAlī \hon{\P_HIM}{\BODY} said, "Whenever the fighting intensified, and the two
 sides met, we would seek protection behind the Prophet Muḥammad
-\hon{\PBUH}{\BODY}, and none of us would be closer to the enemy than him."
-\[Musnad Aḥmad\]
+\hon{\PBUH}{\BODY}, and none of us would be closer to the enemy than
+him."[-@@ahmad, vol. 2, pp. 453--4, #1347]
 
 Anas ibn Mālik \hon{\P_HIM}{\BODY} reported, "The Prophet \hon{\PBUH}{\BODY} was
 the best of people, the most generous of people, and the bravest of people. One
@@ -855,13 +854,11 @@ turn him away from his religion. His flesh would be combed with iron combs,
 separating it from his bones and sinews, yet that would not turn him away from
 his religion...'"[-@@bukhari, vol.~6, p.~156, #6943]
 
-
 <!-- TODO ref Aḥmad -->
-
 Bilāl \hon{\P_HIM}{\BODY} was laid on scorching sand, heavy stones were placed
 on his chest, and he was dragged along the ground with a rope around his neck,
 being told to abandon Islam. Even then, the only words on his tongue were,
-"Aḥad, Aḥad (One God, One God)." \[Musnad Aḥmad\]
+"Aḥad, Aḥad (One God, One God)." [Musnad Aḥmad]
 
 Just as a person must be firm in faith and belief, he must also be firm in
 action. Steadfastness means that whatever good deed one adopts should be
@@ -870,7 +867,6 @@ other times.
 
 <!-- TODO review translation; check with other instances in the book -->
 <!-- TODO double check reference -->
-
 The Prophet Muḥammad \hon{\PBUH}{\BODY} said, "The most beloved deeds to Allāh
 are those that are consistent, even if they are small."[-@@bukhari,
 vol.~5, p.~203, #5861]
@@ -944,28 +940,21 @@ this command out of mercy for the Ummah. Whoever consults will not lose the
 truth, and whoever abandons consultation will not be safe from error---meaning
 that the risk of mistake is greater.
 
-<!-- TODO ref Sirah Ibn Hisham -->
-<!-- TODO ref Aḥmad instead? -->
 <!-- TODO Hadrat? -->
-
 The Messenger of Allāh \hon{\PBUH}{\BODY} would consult the Companions in
 general matters. During the Battle of the Trench, he acted upon the opinion of
-Ḥaḍrat Salmān al-Fārsī \hon{\P_HIM}{\BODY} regarding the digging of the trench.
-\[Sīrah Ibn Hishām\]
-
-<!-- TODO ref Sirah Ibn Hisham -->
-<!-- TODO ref hadith instead? -->
-<!-- TODO transliteration of name in ff para -->
+Ḥaḍrat Salmān al-Fārsī \hon{\P_HIM}{\BODY} regarding the digging of the
+trench.[-@@sirahibnhisham, vol. 2, p. 224]
 
 At the Battle of Badr, the Prophet \hon{\PBUH}{\BODY} chose a location for
-encampment. Hubab ibn al-Mundhir \hon{\P_HIM}{\BODY} said, "O Messenger of
+encampment. Al-Ḥubāb ibn al-Mundhir \hon{\P_HIM}{\BODY} said, "O Messenger of
 Allāh, is this a place that Allāh has shown you, so we cannot advance or retreat
 from it, or is it opinion and strategy?" The Prophet \hon{\PBUH}{\BODY} replied,
 "Rather, it is opinion and strategy."
 
 He said, "This is not a suitable place. Move forward to the nearest water
 source..." The Prophet \hon{\PBUH}{\BODY} accepted his opinion and acted upon
-it. \[Sīrah Ibn Hishām\]
+it.[-@@sirahibnhisham, vol. 1, p. 620]
 
 
 <!-- TODO Repetition? Quran says; Allāh says... -->

@@ -485,13 +485,12 @@ The Messenger of Allāh \hon{\PBUH}{\BODY} said, "Whoever slaps his cheeks, tear
 his clothes, and cries in the manner of the Days of Ignorance is not from my
 Ummah."[-@@bukhari, vol.~1, p.~647, #1297]
 
-<!-- TODO ref Aḥmad -->
 The Prophet \hon{\PBUH}{\BODY} loved Jaʿfar \hon{\P_HIM}{\BODY} deeply. When
 news of his martyrdom reached him, the women of his household began wailing. The
 Prophet \hon{\PBUH}{\BODY} sent word forbidding them, but they did not stop. He
 warned them again, and when they persisted, he said, "Throw dust into their
-mouths." \[Musnad Aḥmad\] This expression indicates a strong prohibition of
-wailing and lamentation.
+mouths."[-@@bukhari, vol. 1, pp. 650--1, #1305] This expression indicates a
+strong prohibition of wailing and lamentation.
 
 The Prophet \hon{\PBUH}{\BODY} himself wept at the death of his son Ibrāhīm and
 said, "The eyes shed tears, and the heart grieves, but we do not say except what

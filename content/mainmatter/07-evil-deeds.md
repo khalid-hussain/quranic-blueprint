@@ -1008,12 +1008,11 @@ rejecting the truth and looking down upon people." \[Ṣaḥīḥ Muslim\]
 He \hon{\PBUH}{\BODY} also said, "Whoever loves that people stand up for him,
 let him take his seat in the Fire." \[Sunan Abī Dāwūd\]
 
-<!-- TODO ref Aḥmad -->
-
+<!-- TODO ref Aḥmad CHANGED to Shu'ab al-Iman -->
 Once, the Messenger of Allāh \hon{\PBUH}{\BODY} was eating while seated on the
 ground. A Bedouin present said, "What kind of sitting is this?" The Prophet
 \hon{\PBUH}{\BODY} replied, "Allāh has made me a noble servant, not an arrogant
-or tyrannical one." \[Musnad Aḥmad\]
+or tyrannical one."[-@@shu3abeman, vol. 8, p. 36, #5411]
 
 On another occasion, he \hon{\PBUH}{\BODY} said, "...Shall I inform you who the
 people of Hell are? They said, "Yes." He \hon{\PBUH}{\BODY} said, "Every harsh,
