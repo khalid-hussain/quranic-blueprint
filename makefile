@@ -3,6 +3,7 @@ PLATFORM := $(shell uname)
 TODAY = $(shell date +'%Y%m%d-%H%M')
 MACROS = utils/gpp/macros.md
 TEMPLATE = utils/template.docx
+ODT_TEMPLATE = utils/template.odt
 CSL = utils/chicago-fullnote-bibliography-short-title-subsequent.csl
 
 ifeq ($(PLATFORM),Linux)
@@ -35,6 +36,20 @@ docx:
 	--reference-doc=$(TEMPLATE) \
 	--file-scope \
 	-o dist/blueprint-$(TODAY).docx
+
+odt:
+	for file in $(CONTENT); do \
+		fifo=$$(mktemp -u); \
+		FIFOS+=("$$fifo"); \
+		cat $(MACROS) "$$file" | \
+		$(GPP) -DWORD -DNOW="$(shell date '+%a %d %b %Y %I:%M%p')" -x -o "$$fifo" & \
+	done; \
+	pandoc "$${FIFOS[@]}" -f markdown -t odt \
+	--bibliography=utils/master.bib \
+	--citeproc --csl $(CSL) \
+	--reference-doc=$(ODT_TEMPLATE) \
+	--file-scope \
+	-o dist/blueprint-$(TODAY).odt
 
 epub:
 	for file in $(CONTENT); do \
