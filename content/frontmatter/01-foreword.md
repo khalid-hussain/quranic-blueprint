@@ -1,19 +1,19 @@
 
 # Foreword {.unnumbered}
 
-::: {custom-style="basmalah"}
+::: {custom-style="Basmalah"}
 بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيم
 :::
 
 In the Name of Allāh, the Most Compassionate, the Most Merciful
 
-The book in hand, *The Quranic Blueprint*, is a faithful English
-translation of the renowned work *Taʿlīm al-Quran*, authored several
-decades ago by the eminent Islamic scholar of his era, the late
-Professor Shaykh Owais al-Nagrāmī al-Nadwī \hon{\M_HIM}{\BODY} of Dār
-al-ʿUlūm Nadwat al-ʿUlamāʾ, Lucknow. Shaykh Owais al-Nadwī \hon{\M_HIM}{\BODY} was a towering intellectual figure whose contributions
-to Quranic studies, tafsīr, and Islamic thought were widely recognised
-and deeply respected in scholarly circles across the subcontinent and
+The book in hand, *The Quranic Blueprint*, is a faithful English translation of
+the renowned work *Taʿlīm al-Quran*, authored several decades ago by the eminent
+Islamic scholar of his era, the late Professor Shaykh Owais al-Nagrāmī al-Nadwī
+\hon{\M_HIM}{\BODY} of Dār al-ʿUlūm Nadwat al-ʿUlamāʾ, Lucknow. Shaykh Owais
+al-Nadwī \hon{\M_HIM}{\BODY} was a towering intellectual figure whose
+contributions to Quranic studies, tafsīr, and Islamic thought were widely
+recognised and deeply respected in scholarly circles across the subcontinent and
 beyond.
 
 Upon its original publication, *Taʿlīm al-Quran* was received with
@@ -65,7 +65,7 @@ We pray that Allāh \hon{\SWT}{\BODY} accepts this noble endeavour, places
 barakah in it, and grants success in both this world and the Hereafter
 to all who contributed to its completion in any capacity. Āmīn.
 
-::: {custom-style="left-ragged"}
+::: {custom-style="Ragged Right"}
 Shaykh Bilāl ʿAbd al-Ḥayy al-Ḥasanī al-Nadwī \hon{\H_HIM}{\BODY}\
 Chancellor, Dār al-ʿUlūm Nadwat al-ʿUlamāʾ, Lucknow\
 19th Shaʿbān 1447 AH \| 7th February 2026

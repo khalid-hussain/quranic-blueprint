@@ -1,7 +1,7 @@
 
 # Translator's Preface {.unnumbered}
 
-::: {custom-style="basmalah"}
+::: {custom-style="Basmalah"}
 بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيم
 :::
 
@@ -135,7 +135,7 @@ grant us reunion with our Prophet \hon{\P_HIM}{\BODY} at al-Kawthar and to prote
 from being among those about whom the Prophet \hon{\P_HIM}{\BODY} said, 'Allāh may
 support this religion through a wicked man.'
 
-::: {custom-style="left-ragged"}
+::: {custom-style="Ragged Right"}
 Moḥammad Zāhid Ibn Ṭāriq al-Nagrāmī al-Najdī\
 Selangor Dār al-Iḥsān, Malaysia\
 1st Ramaḍān 1446 AH \| 1 March 2025
