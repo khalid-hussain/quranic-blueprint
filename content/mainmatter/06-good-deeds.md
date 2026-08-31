@@ -583,7 +583,7 @@ He \hon{\PBUH}{\BODY} said that whoever possesses three qualities, Allāh will
 shade him under His shade and admit him into Paradise: showing gentleness to the
 weak, kindness to parents, and goodness toward servants.
 
-<!-- TODO ref al-Tirmidhī -->
+<!-- TODO ref al-Tirmidhī I'M UNSURE IF THIS IS THERE IN THIS PHRASING -->
 
 The Prophet \hon{\PBUH}{\BODY} said, "Whoever shows mercy, even to a small
 child, and honors the elderly, is among us." \[Sunan al-Tirmidhī\]
@@ -1013,13 +1013,11 @@ knowledge, but should make every effort to learn what he does not know.
 The Prophet Muḥammad \hon{\PBUH}{\BODY} said, "Seeking knowledge is obligatory upon
 every Muslim." \[Sunan Ibn Mājah\]
 
-<!-- TODO ref al-Tirmidhī -->
-
 He \hon{\PBUH}{\BODY} said, "The superiority of the scholar over the worshipper
 is like my superiority over the least of you." Then he said, "Indeed, Allāh, His
 Angels, the inhabitants of the heavens and the earth, even the ant in its hole
-and the fish, send blessings upon those who teach people goodness." \[Sunan
-al-Tirmidhī\]
+and the fish, send blessings upon those who teach people goodness."[-@@abuesa16,
+vol. 3, p. 550, #2893]
 
 <!-- TODO ref Sunan al-Darimi -->
 

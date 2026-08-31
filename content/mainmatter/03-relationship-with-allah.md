@@ -367,12 +367,10 @@ full stomachs." \[Musnad Aḥmad\] -->
 Imam Aḥmad \hon{\M_HIM}{\BODY} said, "_Tawakkul_ is to sever hope from the
 creation." \[Ṭabaqāt al-Ḥanābilah\]
 
-<!-- TODO ref al-Tirmidhī -->
-
 _Tawakkul_ does not mean abandoning effort. Anas ibn Mālik \hon{\P_HIM}{\BODY}
 narrated that a man said, "O Messenger of Allāh, should I tie my camel and rely
 upon Allāh, or leave it untied and rely upon Allāh?" He \hon{\PBUH}{\BODY}
-replied, "Tie it and then rely upon Allāh." \[Jāmiʿ al-Tirmidhī\]
+replied, "Tie it and then rely upon Allāh."[-@@abuesa16, vol. 3, p. 459, #2699]
 
 <!-- TODO ref Zaad Ma3aad -->
 

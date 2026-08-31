@@ -302,15 +302,12 @@ to walk around it, admiring it, and saying, 'If only this brick were placed!'"
 He then said "I am that brick, and I am the Seal of the Prophets."[-@@bukhari,
 vol.~3, p.~329, #3535]
 
-
-<!-- TODO ref al-Tirmidhī -->
-
-The Messenger of Allāh \hon{\PBUH}{\BODY} said, "I am the master of the
-children of Ādam on the Day of Resurrection, and I am not boasting. In my hand
-will be the Banner of Praise, and I am not boasting. There will not be a prophet
-on that day, neither Ādam nor anyone other than him, except that he will be
-under my banner. And I will be the first for whom the earth will be split open,
-and I am not boasting." \[Jāmiʿ al-Tirmidhī\]
+The Messenger of Allāh \hon{\PBUH}{\BODY} said, "I am the master of the children
+of Ādam on the Day of Resurrection, and I am not boasting. In my hand will be
+the Banner of Praise, and I am not boasting. There will not be a prophet on that
+day, neither Ādam nor anyone other than him, except that he will be under my
+banner. And I will be the first for whom the earth will be split open, and I am
+not boasting."[-@@abuesa16,  vol. 4, pp. 171--2, #3435]
 
 ## Faith in the Angels
 
@@ -762,11 +759,9 @@ regarded as a form of self-praise, which the Prophet \hon{\PBUH}{\BODY}
 disliked. He therefore changed their names to Zaynab and Juwayriyah,
 respectively.
 
-<!-- TODO ref al-Tirmidhī -->
-
 ʿAbdullāh ibn ʿUmar \hon{\P_TWO}{\BODY} reported that the Prophet
 \hon{\PBUH}{\BODY} said, "Indeed, the most beloved names to Allāh are ʿAbdullāh
-and ʿAbd al-Raḥmān." (Jāmiʿ al-Tirmidhī)
+and ʿAbd al-Raḥmān."[-@@abuesa16, vol. 3, p. 619, #3062]
 
 
 ## Fear of Allāh
@@ -809,11 +804,19 @@ of fear of Allāh."
 of my grief and sorrow to Allāh.' (Sūrat Yūsuf, Q12:86)"[-@@bukhari, vol.~1,
 p.~388]
 
-<!-- TODO ref al-Tirmidhī -->
+<!-- TODO ref al-Tirmidhī TRANSLATION UPDATED -->
 
+ʿUmar ibn al-Khaṭṭāb \hon{\P_HIM}{\BODY} said, "Take yourselves to account
+before you are called to account, and prepare yourselves for the Great
+Presentation. The reckoning on the Day of Resurrection will be easier for those
+who held themselves to account in this world."[-@@abuesa16, vol. 3, pp. 430--1,
+#2641]
+
+<!-- OLD TRANSLATION
 ʿUmar ibn al-Khaṭṭāb \hon{\P_HIM}{\BODY} said, "Bring yourselves to account
 before you are brought to account, and weigh your deeds before they are
-weighed." (Jāmiʿ al-Tirmidhī)
+weighed..." (Jāmiʿ al-Tirmidhī)
+-->
 
 
 ## Hope in Allāh
@@ -933,10 +936,8 @@ When a person's clothes become dirty, they are washed with soap. In the same
 way, committing sins soils and stains the heart. This filth can be removed
 through repentance (_tawbah_).
 
-<!-- TODO ref al-Tirmidhī -->
-
-The Messenger of Allāh \hon{\PBUH}{\BODY} said, "All of the children of Ādam
-are sinners, and the best of sinners are those who repent." (Jāmiʿ al-Tirmidhī)
+The Messenger of Allāh \hon{\PBUH}{\BODY} said, "All of the children of Ādam are
+sinners, and the best of sinners are those who repent."[-@@abuesa16, vol. 3, p. 450, #2680]
 
 <!-- TODO ref -->
 <!-- TODO translation: right must be fulfilled → (make restitution for the injustice) -->
@@ -974,14 +975,12 @@ repentance of His servant than one of you who finds his camel after having lost
 it in a barren land." \[Ṣaḥīḥ Muslim\]
 
 <!-- TODO ref Aḥmad: 21472 OR 13493 -->
-<!-- TODO ref al-Tirmidhī -->
 <!-- TODO check tense of translation -->
-
 The Messenger of Allāh \hon{\PBUH}{\BODY} said, "If you were to commit sins
 until your sins reach the sky, then you repent, Allāh would surely accept your
 repentance." \[Musnad Aḥmad\] The Prophet \hon{\PBUH}{\BODY} also said, "Indeed,
 Allāh accepts the repentance of the servant as long as his soul has not reached
-the throat." \[Jāmiʿ al-Tirmidhī\]
+the throat."[-@@abuesa16, vol. 4, p. 398, #3866.]
 
 <!-- TODO ref Majmu3 Taymiyah -->
 
@@ -1077,29 +1076,23 @@ accepted at certain times, such as:
 the _iqāmah_." \[Sunan Abī Dāwūd\]
 
 <!-- TODO ref Muslim -->
-
 [During and After Ṣalāh]{.smallcaps}: The Messenger of Allāh \hon{\PBUH}{\BODY}
 said, "The closest a servant is to his Lord is when he is in prostration, so
 increase in supplication." \[Ṣaḥīḥ Muslim\]
-
-<!-- TODO ref al-Tirmidhī -->
 
 ʿAbdullāh ibn Masʿūd \hon{\P_HIM}{\BODY} said, "I was praying while the Prophet
 \hon{\PBUH}{\BODY}, Abū Bakr, and ʿUmar \hon{\P_TWO}{\BODY} were present. When I
 sat for the final _tashahhud_, I praised Allāh and sent blessings upon the
 Prophet \hon{\PBUH}{\BODY}, then supplicated for myself. The Prophet
 \hon{\PBUH}{\BODY} said, 'Ask, and you will be given. Ask, and you will be
-given.'" \[Jāmiʿ al-Tirmidhī\]
-
-<!-- TODO ref al-Tirmidhī -->
-<!-- TODO check translation -->
+given.'"[-@@abuesa16, vol. 2, p. 31, #599]
 
 Abū Umāmah \hon{\P_HIM}{\BODY} reported, "It was said to the Messenger of Allāh
 \hon{\PBUH}{\BODY}, 'Which supplication is most heard?' He \hon{\PBUH}{\BODY}
-replied, 'The supplication made in the last part of the night and after the
-prescribed prayers.' \[Jāmiʿ al-Tirmidhī\]
+replied, 'The supplication made in the last part of the night and at the end of
+the prescribed prayers.'"[-@@abuesa16, vol. 4, p. 379, #3826.]
 
-<!-- ref Mu3jam Kabir -->
+<!-- TODO ref Mu3jam Kabir -->
 
 [When It's Raining Heavily]{.smallcaps}: The Prophet \hon{\PBUH}{\BODY} said,
 "Two supplications are not rejected: the supplication made at the time of the
@@ -1125,15 +1118,11 @@ strongest opinion is that it is the last hour after ʿAṣr." \[Zād al-Maʿād\
 
 ### Understanding Duʿāʾ
 
-<!-- TODO ref al-Tirmidhī -->
-<!-- TODO check translation -->
-
 The Messenger of Allāh \hon{\PBUH}{\BODY} said, "Indeed, Allāh is Most Modest
 and Most Generous. He feels shy when a servant raises his hands to Him to return
-them empty and disappointed." \[Jāmiʿ al-Tirmidhī\]
+them empty and disappointed."[-@@abuesa16, vol. 4, p. 409, #3891]
 
 <!-- TODO ref Muslim -->
-
 The Prophet \hon{\PBUH}{\BODY} said, "The supplication of a servant will
 continue to be answered so long as he does not supplicate for a sin or the
 severing of family ties, and so long as he is not hasty." It was said, "O
@@ -1452,8 +1441,6 @@ five [daily prayers], fast your month (Ramadan), give the _zakāh_ of your wealt
 and obey the leader of your affairs, so that you will enter the Paradise of your
 Lord."[-@@ahmad, vol. 36, p. 486, #22161]
 
-<!-- TODO ref Ibn Hisham -->
-
 Imam Ibn Hishām \hon{\M_HIM}{\BODY} recorded that when Abū Bakr al-Ṣiddīq
 \hon{\P_HIM}{\BODY} was pledged allegiance to on becoming the Khalīfah, he
 stood, praised Allāh and glorified Him, then said,
@@ -1469,7 +1456,8 @@ stood, praised Allāh and glorified Him, then said,
 > with humiliation. Obscenity does not spread among a people except that Allāh
 > afflicts them with trials. Obey me as long as I obey Allāh and His Messenger.
 > If I disobey Allāh and His Messenger, then you owe me no obedience. Now stand
-> for your prayer---may Allāh have mercy upon you. \[al-Sīrah al-Nabawiyyah\]
+> for your prayer---may Allāh have mercy upon you.[-@@sirahibnhisham, vol. 2, p.
+> 661]
 
 The Messenger of Allāh \hon{\PBUH}{\BODY} said, “All of you are shepherds and
 thus responsible for your flocks. Hence, a leader over a people is a shepherd
@@ -1667,8 +1655,6 @@ Messenger of Allāh \hon{\PBUH}{\BODY} said, "Whoever sends one prayer upon me,
 Allāh sends ten prayers upon him, removes ten sins from him, and raises him by
 ten levels." \[Sunan al-Nasāʾī\]
 
-<!-- TODO ref al-Tirmidhī -->
-
 Faḍālah ibn ʿUbayd \hon{\P_HIM}{\BODY} said,
 
 > The Messenger of Allāh \hon{\PBUH}{\BODY} heard a man supplicating in his
@@ -1676,8 +1662,8 @@ Faḍālah ibn ʿUbayd \hon{\P_HIM}{\BODY} said,
 > \hon{\PBUH}{\BODY}. He \hon{\PBUH}{\BODY} said, "This man has been hasty."
 > Then he called him and said, "When one of you supplicates, let him begin by
 > praising Allāh and glorifying Him, then let him send blessings upon the
-> Prophet \hon{\PBUH}{\BODY}, then let him supplicate for whatever he wishes."
-> \[Jāmiʿ al-Tirmidhī\]
+> Prophet \hon{\PBUH}{\BODY}, then let him supplicate for whatever he
+> wishes."[-@@abuesa16, vol. 4, pp. 369--70, #3805]
 
 <!-- TODO ref Mu3jam Kabir -->
 
@@ -1877,12 +1863,13 @@ their lies, and assists them in their oppression---he is not from me, and I am
 not from him, and he will not come to me at the Ḥawḍ (Cistern)..."[-@@ahmad,
 vol. 38, pp. 295--6, #23260]
 
-<!-- TODO ref al-Tirmidhī -->
-
 The Messenger of Allāh \hon{\PBUH}{\BODY} said, "A person follows the religion
-of his close friend, so let each of you carefully consider whom he befriends."
-\[Jāmiʿ al-Tirmidhī\] He \hon{\PBUH}{\BODY} further warned against sitting with
-innovators in religion and those enslaved by their desires.
+of his close friend, so let each of you carefully consider whom he
+ befriends."[-@@abuesa16,  vol. 3, pp. 386--7, #2549] He \hon{\PBUH}{\BODY}
+further warned against sitting with innovators in religion and those enslaved by
+their desires.
+
+
 
 The meaning is that deep association with such people inevitably harms one's
 religion, so extreme caution is required.

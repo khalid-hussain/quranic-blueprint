@@ -30,10 +30,9 @@ Shaykh al-Islām Ibn Taymīyah \hon{\M_HIM}{\BODY} said, "The one who enjoins
 good and forbids evil requires three qualities: knowledge before it, gentleness
 during it, and patience after it." \[al-Amr bil-Maʿrūf wa-n-Nahy ʿan al-Munkar\]
 
-<!-- TODO ref al-Tirmidhī -->
-
-The Prophet \hon{\PBUH}{\BODY} said, "Your enjoining what is right and
-forbidding what is wrong is charity for you." \[Jāmiʿ al-Tirmidhī\]
+The Prophet \hon{\PBUH}{\BODY} said, "...your enjoining what is right and
+forbidding what is wrong is charity for you..."[-@@abuesa16, vol. 3, pp. 165--6,
+#2083]
 
 <!-- TODO ref Muslim -->
 
@@ -67,14 +66,12 @@ true fear should be directed toward Him alone. The Messenger of Allāh
 speaking the truth when you have witnessed it or know it to be true."[-@@ahmad,
 vol. 18, p. 317--8, #11793]
 
-<!-- TODO ref al-Tirmidhī -->
-
 If people abandon the duty of commanding good and forbidding evil, then
 widespread corruption leads to collective consequences. The Messenger of Allāh
 \hon{\PBUH}{\BODY} said, "By the One in Whose Hand is my soul, you must enjoin
 good and forbid evil, or Allāh will soon send a punishment upon you from Him.
-Then you will supplicate to Him, but He will not respond to you." \[Jāmiʿ
-al-Tirmidhī\]
+Then you will supplicate to Him, but He will not respond to you."[-@@abuesa16
+vol. 3, p. 276, #2322]
 
 Allāh Says,
 
@@ -324,12 +321,9 @@ parents, but also for their children:
 And grant righteousness to my offspring. (Sūrat al-Aḥqāf, Q46:15)
 \AYAH_END
 
-
-<!-- TODO ref al-Tirmidhī -->
-
 The Messenger of Allāh \hon{\PBUH}{\BODY} said, "There is no gift a father gives
-his child greater than good manners and proper discipline." \[Sunan
-al-Tirmidhī\]
+his child greater than good manners and proper discipline."[-@@abuesa16, vol. 3,
+p. 164, #2079]
 
 ## Conduct of a Wife Toward Her Husband
 

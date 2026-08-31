@@ -168,11 +168,9 @@ disliked. A Companion asked the Messenger of Allāh \hon{\PBUH}{\BODY}, "If we
 are alone, may we uncover ourselves?" He replied, "Allāh is more deserving that
 you feel shy before Him." \[Sunan Abī Dāwūd\]
 
-<!-- TODO ref al-Tirmidhī -->
-
 The Prophet \hon{\PBUH}{\BODY} said, "Never remain naked, for angels are with
 you who leave you only at times of relieving oneself and intimacy. Be shy before
-them." \[Jāmiʿ al-Tirmidhī\]
+them."[-@@abuesa16, vol. 3, p. 601, #3022]
 
 <!-- TODO ref multiple books -->
 
@@ -275,8 +273,10 @@ al-Bukhārī\]
 <!-- [-@@bukhari, vol. X, p. Y, #Z] -->
 
 
-<!-- TODO ref al-Tirmidhī -->
-
+<!-- TODO ref al-Tirmidhī SHOULD I CHANGE TO SHAMAIL?-->
+<!--
+كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم يُقْبِلُ بِوَجْهِهِ وَحَدِيثِهِ عَلَى أَشَرِّ الْقَوْمِ يَتَأَلَّفُهُمْ بِذَلِكَ فَكَانَ يُقْبِلُ بِوَجْهِهِ وَحَدِيثِهِ عَلَيَّ، حَتَّى ظَنَنْتُ أَنِّي خَيْرُ الْقَوْمِ، فَقُلْتُ: يَا رَسُولَ اللَّهِ، أَنَا خَيْرٌ أَوْ أَبُو بَكْرٍ؟ قَالَ: «أَبُو بَكْرٍ» فَقُلْتُ: يَا رَسُولَ اللَّهِ، أَنَا خَيْرٌ أَوْ عُمَرُ؟ فَقَالَ: «عُمَرُ» ، فَقُلْتُ: يَا رَسُولَ اللَّهِ، أَنَا خَيْرٌ أَوْ عُثْمَانُ؟ قَالَ: «عُثْمَانُ» ، فَلَمَّا سَأَلْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم فَصَدَقَنِي فَلَوَدِدْتُ أَنِّي لَمْ أَكُنْ سَأَلْتُهُ
+-->
 When addressing a group, one should direct attention to everyone, turning toward
 them gradually so that no one feels neglected. \[Jāmiʿ al-Tirmidhī\]
 

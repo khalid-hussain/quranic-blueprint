@@ -279,13 +279,11 @@ by Allāh. Allāh has specified _Zakāh_ recipients or beneficiaries to
 7.  In The Path of Allāh
 8.  The Stranded Traveller
 
-<!-- TODO ref al-Tirmidhī -->
-
 _Zakāh_ becomes obligatory only when a person's wealth reaches a minimum
 threshold known as _niṣāb_, and a full lunar year (_ḥawl_) has passed over that
 wealth. ʿAbdullāh ibn ʿUmar \hon{\P_TWO}{\BODY} narrated, "Whoever acquires
-wealth is not liable to pay Zakāh on it until a year has passed while he remains
-in possession of it." \[Jāmiʿ al-Tirmidhī\]
+wealth is not liable to pay _zakāh_ on it until a full year has passed while it
+remains in his possession."[-@@abuesa16, vol. 2, p. 53, #635]
 
 This threshold of _niṣāb_ was stipulated by the Messenger of Allāh
 \hon{\PBUH}{\BODY}. The _niṣāb_ is calculated based on twenty _mithqāl_ of gold,
@@ -415,18 +413,15 @@ It is reported that Ḥajj was legislated in 9 AH or 10 AH after the Conquest of
 Makkah, when idolatry was wiped out, and Islam flourished. The Prophet
 \hon{\PBUH}{\BODY} performed one Hajj in 10 AH.
 
-<!-- TODO ref al-Tirmidhī -->
-
 ʿAlī ibn Abī Ṭālib \hon{\P_HIM}{\BODY} reported that the Messenger of Allāh
 \hon{\PBUH}{\BODY} said, "Whoever possesses provisions and a mount that can
 convey him to the House of Allāh, yet does not perform Ḥajj, then it makes no
-difference whether he dies as a Jew or a Christian." \[Jāmiʿ al-Tirmidhī\]
-
-<!-- TODO ref al-Tirmidhī -->
+difference whether he dies as a Jew or a Christian..."[-@@abuesa16, vol. 2,
+p. 151, #826]
 
 The Messenger of Allāh \hon{\PBUH}{\BODY} said, "Perform Ḥajj and ʿUmrah
 consecutively, for they remove poverty and sins just as the furnace removes
-impurities from iron, gold, and silver." \[Jāmiʿ al-Tirmidhī\]
+impurities from iron, gold, and silver..."[-@@abuesa16,  vol. 2, p. 150, #824]
 
 Abū Hurayrah \hon{\P_HIM}{\BODY} reported that the Messenger of Allāh
 \hon{\PBUH}{\BODY} was asked, "Which deed is best?" He \hon{\PBUH}{\BODY} said,
@@ -528,10 +523,17 @@ p.~507, #5353]
 The Messenger of Allāh \hon{\PBUH}{\BODY} said, "The best form of _jihād_ is a
 word of truth spoken before an oppressive ruler." \[Sunan Abī Dāwūd\]
 
-<!-- TODO ref al-Tirmidhī -->
+<!-- TODO ref al-Tirmidhī I DOUBT THIS BELONGS HERE-->
 
 The Messenger of Allāh \hon{\PBUH}{\BODY} said, "The true _mujāhid_ is the one
-who strives against his own soul in obedience to Allāh." \[Jāmiʿ al-Tirmidhī\]
+who strives against his own soul in Allāh's path."[-@@ahmad, vol. 39,
+p. 386, #23965]
+
+<!-- OLD TRANSLATION
+The Messenger of Allāh \hon{\PBUH}{\BODY} said, "The true _mujāhid_ is the one
+who strives against his own soul in obedience to Allāh."
+-->
+
 
 <!-- TODO ref majmu3 fatawa -->
 

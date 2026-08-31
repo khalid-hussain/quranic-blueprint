@@ -628,8 +628,11 @@ permissible and is no longer sinful. These situations generally include:
 - Complaining about oppression to an authority; and
 - Mentioning the wrongdoing of someone who commits sins openly.
 
-<!-- TODO ref al-Tirmidhī -->
-
+<!-- TODO ref al-Tirmidhī THIS IS PROBABLY NOT FROM THERE. Check Nawadir al-Usul by Hakim al-Tirmidhī -->
+<!--
+أَتَرْعَوْنَ عَن ذكر الْفَاجِر حَتَّى يعرفهُ النَّاس إذكروه بِمَا فِيهِ يحذرهُ النَّاس
+الْفَاجِر
+-->
 The Prophet Muḥammad \hon{\PBUH}{\BODY} said, "What do you say about a person
 who does not refrain from people?" They said, "Allāh and His Messenger know
 best." He \hon{\PBUH}{\BODY} said, "Mention what is in him so that people may
@@ -1295,12 +1298,10 @@ forever. Whoever kills himself with an iron weapon will have that weapon in his
 hand, stabbing himself in his abdomen in the Fire of Hell forever."[-@@bukhari,
 vol.~5, p.~167, #5778]
 
-
-<!-- TODO ref al-Tirmidhī -->
-
 The Messenger of Allāh \hon{\PBUH}{\BODY} also said, "If the people of the
 heavens and the earth were to participate in the shedding of the blood of a
-believer, Allāh would throw them all into the Fire." \[Sunan al-Tirmidhī\]
+believer, Allāh would throw them all into the Fire."[-@@abuesa16, vol. 2,
+p. 478, #1466]
 
 <!-- TODO consider removing "to" → but also others. -->
 Killing unjustly is sinful not only with respect to Muslims, but also to others.
@@ -1369,14 +1370,13 @@ Abū Ayyūb al-Anṣārī \hon{\P_HIM}{\BODY} said,
 > So destruction was in staying behind from Jihād and occupying ourselves with
 > our wealth and abandoning striving. \[Sunan Abī Dāwūd\]
 
-<!-- TODO ref al-Tirmidhī -->
-<!-- TODO review if the phrase in the brackets at the end; should there be brackets or not -->
+<!-- TODO ref al-Tirmidhī: review if the phrase in the brackets at the end; should there be brackets or not -->
 
 It is reported that during a battle near Constantinople, a man charged alone
 into the ranks of the enemy. People said, "Subḥān Allāh! He is throwing himself
 into destruction!" Abū Ayyūb al-Anṣārī \hon{\P_HIM}{\BODY} said, "O people! You
 interpret this _āyah_ incorrectly. It was revealed about us, the Anṣār..." (then
-he mentioned the above explanation) \[Sunan al-Tirmidhī\]
+he mentioned the above explanation)[-@@abuesa16, vol. 4, p. 69, #3229]
 
 <!-- TODO ref majmu3 fatawa -->
 
@@ -1594,14 +1594,29 @@ boast over what He has granted you. For Allāh does not like prideful boasters.
 If a person believes that all skill and excellence are gifts from Allāh, he will
 remain protected from this disease.
 
-<!-- TODO ref al-Tirmidhī -->
-
 The Messenger of Allāh \hon{\PBUH}{\BODY} mentioned among the signs of the Last
 Hour that every person will begin to admire his own opinion, take pride in it,
-and boast. The Prophet Muḥammad \hon{\PBUH}{\BODY} said, "When you see
-miserliness being obeyed, desires being followed, worldly life being preferred,
-and every person being impressed with his own opinion, then focus on yourself
-and leave the common people." \[Sunan al-Tirmidhī\]
+and boast. The Prophet Muḥammad \hon{\PBUH}{\BODY} said, "...when you see greed
+being obeyed, desires being followed, worldly life being preferred, and everyone
+admiring his own opinion, focus on reforming yourself and leave the masses
+alone..."[-@@abuesa16, vol. 4, p. 119, #3328]
+
+<!-- OLD TRANSLATION
+The Prophet Muḥammad \hon{\PBUH}{\BODY} said, "When you see miserliness being
+obeyed, desires being followed, worldly life being preferred, and every person
+being impressed with his own opinion, then focus on yourself and leave the
+common people." \[Sunan al-Tirmidhī\]
+-->
+
+<!-- HADITH TRANSLATION
+Rather, enjoin one another to do what is right and restrain one another from
+what is wrong. Then, when you see greed being obeyed, desires being followed,
+worldly life being preferred, and everyone admiring his own opinion, focus on
+reforming yourself and leave the masses alone. For there will come days after
+you when patience will be like holding on to burning embers. Whoever remains
+steadfast and acts rightly during those days will have the reward of fifty men
+who do the same deeds as you.
+-->
 
 <!-- TODO translation: I do not purify anyone... -->
 <!-- TODO review translation  -->
@@ -2267,14 +2282,13 @@ to cover their chests, and when going outside, to cover their entire bodies with
 a cloak. They should not apply strong perfume when going out, and should walk
 modestly along the side of the road.
 
-<!-- TODO ref al-Tirmidhī -->
-<!-- TODO review translation "...Shayṭān is the third of them." -->
+<!-- TODO ref al-Tirmidhī: review translation "...Shayṭān is the third of them." -->
 
 Men and women should not sit together freely, and no man should meet a
 non-_maḥram_ woman in seclusion. All these commands are meant so that Muslims
 may live lives of honor and purity. The Prophet Muḥammad \hon{\PBUH}{\BODY}
-said, "No man is alone with a woman except that Shayṭān is the third of them."
-\[Sunan al-Tirmidhī\]
+said, "Lo! No man is alone with a woman except that Shayṭān is the
+third."[-@@abuesa16, vol. 3, p. 274, #2317]
 
 <!-- TODO ref al-Bukhārī tannur hadith-->
 <!-- TODO review overall translation of ff para and confirm -->
