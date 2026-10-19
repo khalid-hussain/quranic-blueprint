@@ -50,13 +50,13 @@ followed by sections under which relevant āyahs were collected. Then came the
 translation, followed by explanatory marginal notes. The legal positions of the
 four Imams are also mentioned. Among the books written in India on Aḥkām
 al-Quran, this work holds significant importance. Accordingly, the renowned
-Indian historian and scholar Mawlana Sayyid ʿAbd al-Ḥayy Ḥasanī [رحمة
-الله]{dir="rtl"} mentioned it in al-Thaqāfah al-Islāmīyah fī'l-Hind. When Nawab
-Ṣiddīq Ḥasan Khān \hon{\M_HIM}{\BODY} received this book, he wrote a letter in
-Arabic to Ḥāfiẓ ʿAbd al-ʿAlī \hon{\M_HIM}{\BODY}, stating, after praising his
-knowledge and scholarship, that although he himself had written a book on Aḥkām
-al-Quran, Ḥāfiẓ Ṣāḥib's work surpassed his own in scholarly merit. This entire
-letter was published in the Maʿārif magazine.
+Indian historian and scholar Mawlana Sayyid ʿAbd al-Ḥayy Ḥasanī
+\hon{\M_HIM}{\BODY} mentioned it in _al-Thaqāfah al-Islāmīyah fī al-Hind_. When
+Nawab Ṣiddīq Ḥasan Khān \hon{\M_HIM}{\BODY} received this book, he wrote a
+letter in Arabic to Ḥāfiẓ ʿAbd al-ʿAlī \hon{\M_HIM}{\BODY}, stating, after
+praising his knowledge and scholarship, that although he himself had written a
+book on Aḥkām al-Quran, Ḥāfiẓ Ṣāḥib's work surpassed his own in scholarly merit.
+This entire letter was published in the Maʿārif magazine.
 
 Shaykh ʿAbd al-ʿAlī passed away on the night of Wednesday, the 6th of Shawwāl,
 in the year 1296 AH (1782 CE). His son, Idrees ibn ʿAbd al-ʿAlī, performed his
@@ -113,7 +113,7 @@ wide.
 
 Shaykh Owais began his early education in Nagrām. A praiseworthy trait observed
 within the family of Shaykh Owais was that a son would first study the
-foundational sciences and manners (ādāb) at the feet of his father before
+foundational sciences and manners (_ādāb_) at the feet of his father before
 proceeding to other teachers. Thus, we see Shaykh Owais learning from Shaykh
 Anīs, Shaykh Anīs learning from Shaykh Idrīs, and likewise Shaykh Idrīs learning
 from Shaykh Ḥāfiẓ Sayyid ʿAbd al-ʿAlī. May Allāh have Mercy upon them all.
