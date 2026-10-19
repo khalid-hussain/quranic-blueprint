@@ -37,6 +37,20 @@ docx:
 	--file-scope \
 	-o dist/blueprint-$(TODAY).docx
 
+icml:
+	for file in $(CONTENT); do \
+		fifo=$$(mktemp -u); \
+		FIFOS+=("$$fifo"); \
+		cat $(MACROS) "$$file" | \
+		$(GPP) -DWORD -DNOW="$(shell date '+%a %d %b %Y %I:%M%p')" -x -o "$$fifo" & \
+	done; \
+	pandoc "$${FIFOS[@]}" -f markdown -t icml -s \
+	--number-sections \
+	--bibliography=utils/master.bib \
+	--citeproc --csl $(CSL) \
+	--file-scope \
+	-o dist/CONTENT.icml
+
 odt:
 	for file in $(CONTENT); do \
 		fifo=$$(mktemp -u); \
