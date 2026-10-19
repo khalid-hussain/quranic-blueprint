@@ -25,11 +25,9 @@ quality of the people of Paradise. He \hon{\PBUH}{\BODY} said,
 "Truthfulness leads to righteousness, and righteousness leads to Paradise.
 A man continues to speak the truth until he is recorded with Allāh as a _ṣiddīq_..."[-@@bukhari, vol.~5, p.~284, #6094]
 
-<!-- TODO ref Abū Dāwūd -->
-
 Speaking the truth before a tyrannical ruler is the greatest form of Jihād. The
-Prophet \hon{\PBUH}{\BODY} said, "The best _jihād_ is a word of truth spoken
-before a tyrannical ruler." \[Sunan Abī Dāwūd\]
+Prophet \hon{\PBUH}{\BODY} said, "The best form of _jihād_ is a word of truth
+spoken before an oppressive ruler."[-@@abudawud, vol. 6, p. 492, #4296]
 
 In speaking the truth, one should not favor relatives, close ones, friends, or
 even fear enemies.
@@ -133,8 +131,6 @@ beneficial causes.
 Clearly, Allāh is not in need of any loan. Rather, giving a "loan to Allāh"
 means helping His needy servants and spending in paths that are pleasing to Him.
 
-<!-- TODO ref Muslim -->
-
 The Messenger of Allāh \hon{\PBUH}{\BODY} said that on the Day of Judgment,
 Allāh will say, "O son of Ādam! I was ill, and you did not visit Me." The
 servant will reply that Allāh is the Lord of the worlds. Allāh will say that His
@@ -148,7 +144,7 @@ reward with Allāh.
 Allāh will then say, "O son of Ādam! I asked you for water, and you did not give
 Me water." The servant will reply that Allāh is the Lord of the worlds. Allāh
 will say that His servant asked for water and had he given it, he would have
-found it with Allāh. \[Ṣaḥīḥ Muslim\]
+found it with Allāh.[-@@muslim, vol. 6, p. 433, #2651]
 
 
 ## Loans and Debt
@@ -180,20 +176,21 @@ worries me most is my debt. Sell our property and repay my debts first; and if
 anything remains, seek Allāh's help."[-@@bukhari, vol.~3, p.~141, #3129]
 
 
-<!-- TODO ref Muslim -->
-
+<!-- TODO ref Muslim: GPT says Tirmidhi -->
+<!-- 
+«مَنْ أَنْظَرَ مُعْسِرًا، أَوْ وَضَعَ لَهُ، أَظَلَّهُ اللَّهُ يَوْمَ الْقِيَامَةِ تَحْتَ ظِلِّ عَرْشِهِ، يَوْمَ لَا ظِلَّ إِلَّا ظِلُّهُ».
+-->
 Because of this Quranic command, the Companions would grant respite to debtors.
 A man owed Qatādah \hon{\P_HIM}{\BODY} money. Whenever Qatādah came to collect,
 the man would hide. One day, he was found and admitted to his hardship. Qatādah
 wept and narrated that the Prophet \hon{\PBUH}{\BODY} said, "Whoever grants
 respite to a debtor in difficulty or forgives him, Allāh will shade him under
-His Throne on the Day when there is no shade but His." \[Ṣaḥīḥ Muslim\]
+His Throne on the Day when there is no shade but His."[-@@muslim, vol. , p. , #]
 
-<!-- TODO ref Muslim -->
-
+<!-- TODO ref Muslim: Requires research -->
 The Companions not only granted respite, but they would also forgive debts. A
 man owed money to Abū al-Yasar \hon{\P_HIM}{\BODY} and was extremely poor. Abū
-al-Yasar said to him, "Go, your debt is forgiven." \[Ṣaḥīḥ Muslim\]
+al-Yasar said to him, "Go, your debt is forgiven."[-@@muslim, vol. , p. , #]
 
 <!-- TODO The detail of three dinars is not mentioned in al-Bukhārī but in either al-Tirmidhī or al-Nasāʾī. -->
 
@@ -221,33 +218,27 @@ al-Nisāʾ, Q4:58)
 _Amānah_ (trust) means that a person conducts his dealings with complete honesty
 and integrity, giving everyone their due fully and precisely. This includes:
 
-<!-- TODO ref Abū Dāwūd -->
-
 [Returning Entrusted Property]{.smallcaps}: If someone entrusts you with wealth
 or property, it must be returned exactly as it was given. The Prophet Muḥammad
 \hon{\PBUH}{\BODY} said, "Render the trust to the one who entrusted you, and do
-not betray the one who betrays you." \[Sunan Abī Dāwūd\]
-
-<!-- TODO ref Abū Dāwūd -->
+not betray the one who betrays you."[-@@abudawud, vol. 5, pp. 547--8, #3489]
 
 [Safeguarding Secrets]{.smallcaps}: If someone shares a secret, it is also an
 _amānah_ and must not be disclosed. The Prophet \hon{\PBUH}{\BODY} said, "When a
-man speaks to another and then turns away, it is a trust." \[Sunan Abī Dāwūd\]
-To expose such a trust is a sign of shamelessness and betrayal.
+man speaks to another and then turns away, it is a trust."[-@@abudawud, vol. 7,
+p. 349, #4787] To expose such a trust is a sign of shamelessness and betrayal.
 
 [Give Sincere Advice]{.smallcaps}: If someone seeks advice, sincere advice
 should be given. The Messenger of Allāh \hon{\PBUH}{\BODY} said, "Allow people
 to barter amongst themselves, but if one of your brothers seeks advice, then let
 him offer advice."[-@@ahmad, vol. 24, p. 193, #15455]
 
-<!-- TODO ref Muslim -->
-
 [Leadership Is A Trust]{.smallcaps}: If a person considers himself unfit for a
 responsibility, he should withdraw from it. The Prophet \hon{\PBUH}{\BODY} said
 to Abū Dharr al-Ghifārī, "O Abū Dharr, you are weak, and it (leadership) is a
 trust. On the Day of Resurrection, it will be a cause of humiliation and regret,
 except for one who takes it with its right and fulfills what is due upon him."
-\[Ṣaḥīḥ Muslim\]
+[-@@muslim, vol. 5, p. 145, #1873]
 
 Such people are called trustworthy. The Messenger of Allāh \hon{\PBUH}{\BODY}
 was extremely trustworthy. People generally referred to him as “al-Amīn,” and
@@ -296,13 +287,11 @@ However, one should not be shy in understanding religion, speaking the truth,
 enjoining good, or forbidding evil. The Quran states that Allāh does not shy
 away from stating the truth.
 
-<!-- TODO ref Muslim -->
-
 Once, a female Companion came to ask the Prophet \hon{\PBUH}{\BODY} a question
 and prefaced it by saying, "O Messenger of Allāh, Allāh does not shy away from
-the truth." ʿĀʾishah \hon{\P_HER}{\BODY} said that how excellent were the women
-of the Anṣār, for modesty did not prevent them from seeking religious knowledge.
-\[Ṣaḥīḥ Muslim\]
+the truth."[-@@muslim, vol. 2, pp. 78--9, #302] ʿĀʾishah \hon{\P_HER}{\BODY}
+said that how excellent were the women of the Anṣār, for modesty did not prevent
+them from seeking religious knowledge.[-@@muslim, vol. 2, pp. 95--6, #321/2]
 
 
 ## Mercy (Raḥmah)
@@ -328,17 +317,16 @@ This means that whoever does not show mercy to others, Allāh will not show merc
 to him. It may also mean that those who do not show mercy to others will not
 receive mercy from others.
 
-<!-- TODO ref Abū Dāwūd -->
-
 He \hon{\PBUH}{\BODY} said, "The Most Merciful shows mercy to those who are
-merciful. Show mercy to those on the earth, and the One above the heavens will
-show mercy to you." \[Sunan Abī Dāwūd\]
+merciful. Show mercy to those on earth, and the One above the heavens will
+show mercy to you."[-@@abudawud, vol. 7, p. 395, #4855]
 
 A Bedouin once said to the Prophet \hon{\PBUH}{\BODY}, "You people kiss your
 children, but we do not." The Prophet \hon{\PBUH}{\BODY} replied, "What can I do
 if Allāh has removed mercy from your heart?"[-@@bukhari, vol.~5, p.~249, #5998]
 
 <!-- TODO ref Aḥmad review translation -->
+<!-- TODO KHALID: match translation -->
 Special mercy should be shown to the young. The Prophet \hon{\PBUH}{\BODY} said,
 "Whoever does not show mercy to our young is not from us."[-@@ahmad, vol. 11, p. 345,
 #6733]
@@ -372,16 +360,13 @@ Allāh Says,
 Indeed, Allāh commands justice and excellence. (Sūrat al-Naḥl, Q16:90)
 \AYAH_END
 
-
-<!-- TODO ref Muslim -->
-
 [First: Justice (ʿAdl)]{.smallcaps}: Justice means that in whatever we say or
 do, the weight must always be on the truth. Whether the matter involves a friend
 or an enemy, a senior or a junior, benefit or loss, our own affair or someone
 else's, justice and truth must never be abandoned under any circumstance. The
 Messenger of Allāh \hon{\PBUH}{\BODY} said, "The just will be with Allāh on
-pulpits of light---those who are just in their rulings, with their families, and
-in all that they are entrusted with." \[Ṣaḥīḥ Muslim\]
+pulpits of light...those who are just in their rulings, with their families, and
+in all that they are entrusted with."[-@@muslim, vol. 5, p. 146, #1874]
 
 A woman from Banū Makhzūm committed theft, and people sought intercession
 through Usāmah ibn Zayd \hon{\P_HIM}{\BODY}. The Prophet \hon{\PBUH}{\BODY}
@@ -406,12 +391,17 @@ There are many forms of _iḥsān_: helping someone financially, rescuing someon
 from hardship, forgiving faults, suppressing anger, forgiving debts, and every
 correct action through which you bring happiness or comfort to others.
 
-<!-- TODO ref Muslim -->
+<!-- TODO ref Muslim: CHECK TRANS - MATCHED WITH OLDER VERSION -->
 
-The Messenger of Allāh \hon{\PBUH}{\BODY} said, "Indeed, Allāh has prescribed
+<!-- The Messenger of Allāh \hon{\PBUH}{\BODY} said, "Indeed, Allāh has prescribed
 excellence (_iḥsān_) in all things. So when you kill, kill in a good manner; and
 when you slaughter, slaughter in a good manner. Let one of you sharpen his blade
-and give comfort to his animal." \[Ṣaḥīḥ Muslim\]
+and give comfort to his animal."[-@@muslim, vol. , p. , #] -->
+
+The Messenger of Allāh \hon{\PBUH}{\BODY} said, "Allāh has prescribed excellence
+in all things. If you kill, kill well; and if you slaughter, slaughter well. Let
+one of you sharpen his blade and spare the animal unnecessary
+suffering."[-@@muslim, vol. 5, p. 285, #2010]
 
 If someone shows kindness to you, you should also show kindness in return. Allāh
 says:
@@ -466,15 +456,12 @@ betrays."[-@@bukhari, vol.~1, p.~34, #33]
 The Prophet \hon{\PBUH}{\BODY} advised that one should not make promises that
 one cannot fulfill.
 
-<!-- TODO ref Abū Dāwūd -->
-<!-- TODO check translit of name -->
-
-ʿAbdullāh ibn Abī al-Ḥamsā' \hon{\P_HIM}{\BODY} reported, "I made a transaction
+ʿAbdullāh ibn Abī al-Ḥamsāʾ \hon{\P_HIM}{\BODY} reported, "I made a transaction
 with the Prophet \hon{\PBUH}{\BODY} before he received revelation. I owed him
 something, so I said, 'I will come back to you.' I forgot. Then I remembered
 after three days and came to him, and found him still in that place. The Prophet
 \hon{\PBUH}{\BODY} said, 'O young man, you have caused me hardship. I have been
-here waiting for you for three days.'" \[Sunan Abī Dāwūd\]
+here waiting for you for three days.'"[-@@abudawud, vol. 7, pp. 431--2, #4910]
 
 Whether a promise is made to a Muslim or a non-Muslim, as long as it does not
 contradict religion, fulfilling it is obligatory.
@@ -496,28 +483,44 @@ Adopt forgiveness. (Sūrat al-Aʿrāf, Q7:199)
 Mistakes are part of human nature, and forgiveness should be practiced. If we
 forgive others, Allāh will forgive us.
 
-<!-- TODO ref Muslim -->
-
+<!-- OLD TRANS
 The Prophet Muḥammad \hon{\PBUH}{\BODY} said, "Charity does not decrease wealth,
 no one forgives except that Allāh increases him in honor, and no one humbles
-himself for Allāh except that Allāh raises him." \[Ṣaḥīḥ Muslim\]
+himself for Allāh except that Allāh raises him."[-@@muslim, vol. 6, p. 449,
+#2671] -->
 
-<!-- TODO ref Muslim -->
+<!-- TODO ref Muslim: took TRANS from Ultimate Profit -->
+The Prophet Muḥammad \hon{\PBUH}{\BODY} said, "_Ṣadaqah_ does not decrease
+wealth; Allāh only increases a slave in honor by [his] forgiveness (of another);
+and no one humbles himself for the sake of Allāh but that Allāh raises his
+status."[-@@muslim, vol. 6, p. 449, #2671]
+
 <!-- TODO ghulām → bondservant -->
-
 Abū Masʿūd \hon{\P_HIM}{\BODY} reported, "I was beating a bondservant of mine
 when I heard a voice behind me saying, 'Know, O Abū Masʿūd, that Allāh has more
 power over you than you have over him.' I turned and saw that it was the
 Messenger of Allāh \hon{\PBUH}{\BODY}. I said, 'He is free for the sake of
 Allāh.' The Prophet \hon{\PBUH}{\BODY} said, 'If you had not done so, the Fire
-would have touched you.'" \[Ṣaḥīḥ Muslim\]
+would have touched you.'"[-@@muslim, vol. 4, p. 387, #1699/2]
 
-<!-- TODO ref Abū Dāwūd -->
+<!-- TODO ref Abū Dāwūd: mismatch? -->
+
+<!-- ORIGINAL ARABIC: Mustadrak Hakim 6579 and al-Ṭabarānī in al-Muʿjam al-Kabīr 17/147, no. 374
+لَمَّا أَتَى النَّاسُ الْحَجَّ سَنَةَ تِسْعٍ قَدِمَ عُرْوَةُ بْنُ مَسْعُودٍ الثَّقَفِيُّ عَمُّ الْمُغِيرَةِ بْنِ شُعْبَةَ عَلَى رَسُولِ اللَّهِ ﷺ فَاسْتَأْذَنَ رَسُولَ اللَّهِ ﷺ أَنْ يَرْجِعَ إِلَى قَوْمِهِ، فَقَالَ رَسُولُ اللَّهِ ﷺ: «إِنِّي أَخَافُ أَنْ يَقْتُلُوكَ»، قَالَ: «لَوْ وَجَدُونِي نَائِمًا أَيْقَظُونِي»، فَأَذِنَ لَهُ رَسُولُ اللَّهِ ﷺ فَرَجَعَ إِلَى قَوْمِهِ مُسْلِمًا، فَقَدِمَ عِشَاءً فَجَاءَتْهُ ثَقِيفٌ فَدَعَاهُمْ إِلَى الْإِسْلَامِ فَاتَّهَمُوهُ وَعَصَوْهُ وَأَسْمَعُوهُ مَا لَمْ يَكُنْ يَحْتَسِبُ، ثُمَّ خَرَجُوا مِنْ عِنْدِهِ حَتَّى إِذَا أَسْحَرُوا وَطَلَعَ الْفَجْرُ قَامَ عُرْوَةُ فِي دَارِهِ فَأَذَّنَ بِالصَّلَاةِ وَتَشَهَّدَ، فَرَمَاهُ رَجُلٌ مِنْ ثَقِيفٍ بِسَهْمٍ فَقَتَلَهُ، فَقَالَ رَسُولُ اللَّهِ ﷺ: «مَثَلُ عُرْوَةَ مَثَلُ صَاحِبِ يَاسِينَ؛ دَعَا قَوْمَهُ إِلَى اللَّهِ تَعَالَى فَقَتَلُوهُ».
+
+“When the people came for the pilgrimage in the ninth year, ʿUrwah ibn Masʿūd al-Thaqafī came to the Messenger of Allah ﷺ as a Muslim and asked permission to return to his people. The Messenger of Allah ﷺ said, ‘I fear they will kill you.’ He replied, ‘If they found me asleep, they would wake me.’ The Messenger of Allah ﷺ granted him permission, and he returned to his people as a Muslim. […] When dawn broke, ʿUrwah stood in his house, called the adhān for prayer, and pronounced the testimony of faith. A man from Thaqīf shot him with an arrow and killed him. The Messenger of Allah ﷺ then said, ‘ʿUrwah is like the man of Yā Sīn: he called his people to Allah, but they killed him.’”
+-->
+
+<!-- ORIGINAL ARABIC:
+Ibn Abī Shaybah, al-Muṣannaf, no. 28177. Ibn Ḥajar cites this report in Fatḥ al-Bārī, 12/220, and identifies it as mursal—its chain does not extend back to the Prophet ﷺ through a Companion.
+أَنَّ عُرْوَةَ بْنَ مَسْعُودٍ لَمَّا دَعَا قَوْمَهُ إِلَى الْإِسْلَامِ فَرُمِيَ بِسَهْمٍ فَقُتِلَ، عَفَا عَنْ قَاتِلِهِ قَبْلَ أَنْ يَمُوتَ، فَأَجَازَ النَّبِيُّ ﷺ عَفْوَهُ.
+“When ʿUrwah ibn Masʿūd called his people to Islam, he was struck by an arrow and mortally wounded. Before he died, he pardoned his killer, and the Prophet ﷺ upheld his pardon.”
+-->
 
 ʿUrwah ibn Masʿūd \hon{\P_HIM}{\BODY} was calling people to Islam in Ṭāʾif when
 he was shot with an arrow during the _adhān_. His people rushed to fight, but he
 said, "Do not fight for me. I forgive my blood for the sake of reform." He later
-passed away from that wound. \[Sunan Abī Dāwūd\]
+passed away from that wound.[-@@abudawud, vol. , p. , #]
 
 
 ## Retaliation with Justice
@@ -572,19 +575,16 @@ with ease.
 The Prophet Muḥammad \hon{\PBUH}{\BODY} said, "Allāh is gentle and loves
 gentleness in all matters."[-@@bukhari, vol.~2, p~.146, #6927]
 
-<!-- TODO ref Muslim -->
-
 He \hon{\PBUH}{\BODY} said, "Whoever is deprived of gentleness is deprived of
-goodness." \[Ṣaḥīḥ Muslim\]
+goodness."[-@@muslim, vol. 6, p. 451, #2675]
 
 <!-- TODO ref missing -->
-
 He \hon{\PBUH}{\BODY} said that whoever possesses three qualities, Allāh will
 shade him under His shade and admit him into Paradise: showing gentleness to the
 weak, kindness to parents, and goodness toward servants.
 
 <!-- TODO ref al-Tirmidhī I'M UNSURE IF THIS IS THERE IN THIS PHRASING -->
-
+<!-- TODO KHALID: Change to the direct speech hadith. -->
 The Prophet \hon{\PBUH}{\BODY} said, "Whoever shows mercy, even to a small
 child, and honors the elderly, is among us." \[Sunan al-Tirmidhī\]
 
@@ -620,30 +620,25 @@ This _āyah_ shows that Muslims should deal with one another with kindness and
 gentleness. One should not do anything that humiliates another Muslim. This
 attitude is called humility and humility of the heart.
 
-<!-- TODO ref Muslim -->
-
-The Prophet Muḥammad \hon{\PBUH}{\BODY} said, "No one humbles himself for the
-sake of Allāh except that Allāh raises him." \[Ṣaḥīḥ Muslim\]
+The Prophet Muḥammad \hon{\PBUH}{\BODY} said, "...no one humbles himself for the
+sake of Allāh but that Allāh raises his status."[-@@muslim, vol. 6, p. 449,
+#2671]
 
 Humility does not mean that a person should degrade himself completely or become
 insignificant. Rather, it means that arrogance should not develop and that every
 person should respect others.
 
-<!-- TODO ref Muslim -->
-
 The Messenger of Allāh \hon{\PBUH}{\BODY} said, "Allāh revealed to me that you
 should adopt humility, so that no one transgresses against another, and no one
-boasts over another." \[Ṣaḥīḥ Muslim\]
+boasts over another."[-@@muslim, vol. 7, p. 251, #2971/3]
 
 <!-- TODO ref Fadail Sahabah -->
-
 Once, Muḥammad ibn al-Ḥanafīyah \hon{\P_HIM}{\BODY} asked ʿAlī
 \hon{\P_HIM}{\BODY} who was best after the Prophet \hon{\PBUH}{\BODY}. He
 replied, "Abū Bakr." Then "ʿUmar." When asked about himself, he said, "I am only
 one of the Muslims." \[Faḍāʾil al-Ṣaḥābah\]
 
 <!-- TODO ref Kitab al-Zuhd -->
-
 Salmān al-Fārsī \hon{\P_HIM}{\BODY} was governor of Madāʾin, yet lived so humbly
 that people did not recognize him. Once, a man purchased grass and placed the
 load on Salmān's head, making him carry it. As he walked, people told the man
@@ -736,10 +731,8 @@ weary..."[-@@bukhari, vol.~5, p.~203, #5861]
 The Prophet \hon{\PBUH}{\BODY} said, "The most beloved deeds to Allāh are those
 that are consistent, even if they are small."[-@@bukhari, vol.~5, p.~203, #5861]
 
-<!-- TODO ref al-Nasāʾī -->
-
 He \hon{\PBUH}{\BODY} said, "Beware of excess in religion, for those before you
-were destroyed by excess in religion." \[Sunan al-Nasāʾī\]
+were destroyed by excess in religion."[-@@majah14, vol. 3, p. 198, #3043]
 
 <!-- TODO ref missing? -->
 
@@ -755,6 +748,8 @@ required so that it does not become excessive to the point that a person becomes
 incapable of fulfilling other duties, nor so little that he forgets Allāh.
 
 <!-- TODO ref Aḥmad -->
+<!-- TODO KHALID: 25893: Look for an original reference -->
+<!-- TODO Tabaqat al-Kubra 3/302 -->
 When ʿUthmān ibn Maẓʿūn \hon{\P_HIM}{\BODY} devoted nights to prayer and days to
 fasting, the Prophet \hon{\PBUH}{\BODY} stopped him and said, "O ʿUthmān ibn
 Maẓʿūn, Allāh has not prescribed monasticism for us. Do you not have an example
@@ -798,10 +793,9 @@ having already gone ahead of them. He was on a horse belonging to Abū Ṭalḥa
 with a sword around his neck, and he was saying, 'Do not be afraid, do not be
 afraid,'..."[-@@bukhari, vol.~3, pp.~52--53, #2908]
 
-<!-- TODO ref Abū Dāwūd -->
-
-The Prophet Muḥammad \hon{\PBUH}{\BODY} said, "The best _jihād_ is a word of
-truth spoken before a tyrannical ruler." \[Sunan Abī Dāwūd\]
+The Prophet Muḥammad \hon{\PBUH}{\BODY} said, "The best form of _jihād_ is a
+word of truth spoken before an oppressive ruler."[-@@abudawud, vol. 6, p. 492,
+#4296]
 
 <!-- TODO ref Kitab al-Zuhd -->
 
@@ -810,17 +804,14 @@ truth spoken before a tyrannical ruler." \[Sunan Abī Dāwūd\]
 
 The Prophet Muḥammad \hon{\PBUH}{\BODY} used to supplicate, saying, "O Allāh, I
 seek refuge in You from cowardice, I seek refuge in You from
-miserliness..."[-@@bukhari, vol.~5, p.~396, #6374]
-
-<!-- TODO ref Abū Dāwūd -->
+miserliness..."[-@@bukhari, vol. 5, p. 396, #6374]
 
 He \hon{\PBUH}{\BODY} said, "The worst traits found in a man are anxious
-miserliness and severe cowardice." \[Sunan Abī Dāwūd\]
-
-<!-- TODO ref Muslim -->
+miserliness and severe cowardice."[-@@abudawud, vol. 4, p. 375, #2499]
 
 He \hon{\PBUH}{\BODY} said, "The strong believer is better and more beloved to
-Allāh than the weak believer, while there is good in both..." \[Ṣaḥīḥ Muslim\]
+Allāh than the weak believer, although there is good in both..."[-@@muslim, vol. 7,
+p. 29, #2756]
 
 
 ## Steadfastness (Istiqāmah)
@@ -855,6 +846,7 @@ separating it from his bones and sinews, yet that would not turn him away from
 his religion...'"[-@@bukhari, vol.~6, p.~156, #6943]
 
 <!-- TODO ref Aḥmad -->
+<!-- TODO Khalid: Find all relevant narrations -->
 Bilāl \hon{\P_HIM}{\BODY} was laid on scorching sand, heavy stones were placed
 on his chest, and he was dragged along the ground with a rope around his neck,
 being told to abandon Islam. Even then, the only words on his tongue were,
@@ -885,15 +877,11 @@ So proclaim openly what you are commanded. (Sūrat al-Ḥijr, Q15:94)
 \AYAH_END
 
 
-<!-- TODO ref Ibn Mājah -->
-
 This _āyah_ shows that the truth must be spoken clearly and openly. It is not
 correct to conceal the truth out of fear of abuse, harm, or loss of life or
 wealth. The Messenger of Allāh \hon{\PBUH}{\BODY} said, "Do not let the fear of
-people prevent any of you from speaking the truth when he knows it." \[Sunan Ibn
-Mājah\]
-
-<!-- TODO ref Ibn Mājah -->
+people prevent any of you from speaking the truth when he knows it."[-@@majah14,
+vol. 3, p. 569, #4037]
 
 Once, the Prophet \hon{\PBUH}{\BODY} said that no one should consider himself
 insignificant. The Companions asked, "O Messenger of Allāh, how can one of us
@@ -901,7 +889,7 @@ consider himself insignificant?" He replied, "He sees a matter concerning Allāh
 in which he should speak, yet he does not speak. So Allāh will say to him on the
 Day of Resurrection, 'What prevented you from speaking concerning
 such-and-such?' He will say, 'Fear of people.' Allāh will say, 'It is Me whom
-you should have feared more.'" \[Sunan Ibn Mājah\]
+you should have feared more.'"[-@@majah14, vol. 3, p. 569, #4037]
 
 <!-- TODO review translation -->
 
@@ -911,7 +899,7 @@ your people and inform them until my command comes to you.' I said, 'By the One
 in Whose Hand is my soul, I will proclaim it among them.' So I went to the
 mosque and announced my Islam. The people of Quraysh stood up and beat me until
 I fell unconscious..." Then he returned the next day and did the
-same.[-@@bukhari, vol.~3, pp.~453--454, #3861]
+same.[-@@bukhari, vol. 3, pp. 453--4, #3861]
 
 
 ## Consultation (Shūrá)
@@ -1004,14 +992,11 @@ of the Anṣār; shyness did not prevent them from gaining understanding of the
 religion."[-@@bukhari, vol. 1, p. 96, _Bāb al-Ḥayāʾ fī al-ʿIlm_ (Chapter on
 shyness in knowledge)]
 
-
 This _āyah_ also shows that a person should not fall short in acquiring
 knowledge, but should make every effort to learn what he does not know.
 
-<!-- TODO ref Ibn Mājah -->
-
-The Prophet Muḥammad \hon{\PBUH}{\BODY} said, "Seeking knowledge is obligatory upon
-every Muslim." \[Sunan Ibn Mājah\]
+The Prophet Muḥammad \hon{\PBUH}{\BODY} said, "Seeking knowledge is obligatory
+upon every Muslim."[-@@majah14, vol. 1, p. 268, #223]
 
 He \hon{\PBUH}{\BODY} said, "The superiority of the scholar over the worshipper
 is like my superiority over the least of you." Then he said, "Indeed, Allāh, His
@@ -1043,7 +1028,6 @@ Indeed, the believers are brothers, so reconcile between your brothers. (Sūrat
 al-Ḥujurāt, Q49:10)
 \AYAH_END
 
-
 If a dispute arises among Muslims, it is our duty that all should collectively
 restrain the aggressor and compel him toward reconciliation. And when they
 incline toward peace, reconciliation must be established with justice.
@@ -1056,17 +1040,14 @@ reconciliation among Muslims. Sahl ibn Saʿd al-Saʿidī \hon{\P_HIM}{\BODY}
 reported, "There was a dispute among the people of Banū ʿAmr ibn ʿAwf, so the
 Messenger of Allāh \hon{\PBUH}{\BODY} was informed about it. He
 \hon{\PBUH}{\BODY} went out with some of his Companions to reconcile between
-them."[-@@bukhari, vol.~2, p.~555, #2693]
-
-
-<!-- TODO ref Abū Dāwūd -->
-<!-- TODO add footnote for the shaver -->
+them."[-@@bukhari, vol. 2, p. 555, #2693]
 
 The Prophet Muḥammad \hon{\PBUH}{\BODY} said, "Shall I not inform you of
-something more excellent than voluntary fasting, prayer, and charity?" They
-said, "Yes, O Messenger of Allāh." He \hon{\PBUH}{\BODY} said, "Reconciling
-between people. Indeed, corruption and discord between people is the shaver---it
-shaves away the religion." \[Sunan Abī Dāwūd\]
+something more excellent in degree than fasting, prayer, and giving _ṣadaqah_?"
+The people replied, “Yes, of course!” He \hon{\PBUH}{\BODY} said, "Reconciling
+between people, whereas discord between people is the shaver."[-@@abudawud, vol.
+7, p. 380, #4838; "The shaver" refers to something that destroys and eradicates
+religion.]
 
 He \hon{\PBUH}{\BODY} said, "He is not a liar who reconciles between people,
-conveying good or saying what is good."[-@@bukhari, vol.~2, p.~555, #2692]
+conveying good or saying what is good."[-@@bukhari, vol. 2, p. 555, #2692]

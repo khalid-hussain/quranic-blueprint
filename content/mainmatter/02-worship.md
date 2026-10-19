@@ -221,15 +221,14 @@ So she ordered that a place of prayer be prepared for her in the furthest and
 darkest part of her house, and she continued to pray there until she met
 Allāh.[-@@ahmad, vol. 45, p. 37, #27090]
 
-<!-- TODO ref Abū Dāwūd -->
-<!-- TODO check translation of ff para -->
+<!-- TODO ref Abū Dāwūd: the narration mentions beating not "firmly instructing" -->
 <!-- TODO ...so this greatest habit of righteousness? -->
 
 The Messenger of Allāh \hon{\PBUH}{\BODY} instructed that children should be
 commanded to pray from the age of seven, and if they do not, then they must be
-instructed firmly by the age of ten. \[Sunan Abī Dāwūd\] Good and bad habits
-begin forming in this period, so this greatest habit of righteousness should
-also be instilled at that time so that it becomes firmly established in
+instructed firmly by the age of ten.[-@@abudawud, vol. 2, p. 382, #492] Good and
+bad habits begin forming in this period, so this greatest habit of righteousness
+should also be instilled at that time so that it becomes firmly established in
 adulthood.
 
 Care must be taken to pray with calmness and tranquility, without haste. The
@@ -238,12 +237,10 @@ one who steals from his prayer. The Companions asked, "O Messenger of Allāh, ho
 does one steal from prayer?" He \hon{\PBUH}{\BODY} replied, "By not performing
 the bowing and prostration properly."[-@@ahmad, vol. 37, p. 319, #22641]
 
-<!-- TODO ref Abū Dāwūd -->
-
 One should also not look around during the prayer. Abū Dharr \hon{\P_HIM}{\BODY}
 reported that the Messenger of Allāh \hon{\PBUH}{\BODY} said, "Allāh continues
 to face the servant during his prayer as long as he does not turn away. But when
-he turns away, Allāh turns away from him." \[Sunan Abī Dāwūd\]
+he turns away, Allāh turns away from him."[-@@abudawud, vol. 3, pp. 30--1, #902]
 
 
 ## Obligatory Charity (Zakāh)
@@ -295,23 +292,29 @@ of approximately 85 grams of gold. Muslims whose wealth or net assets reach this
 threshold and remain in their possession for a full lunar year are obligated to
 pay _zakāh_, which is 2.5% of that qualifying wealth.
 
-<!-- TODO ref Muslim -->
+<!-- TODO ref Muslim: Which part, what do the terms actually mean? -->
 
 _Zakāh_ should not be viewed as a tax, fine, or penalty. Giving _Zakāh_ does not
 diminish wealth; rather, it purifies it and brings blessing. The Messenger of
 Allāh \hon{\PBUH}{\BODY} said that charity purifies wealth, cleansing it of
 impurity and increasing its goodness. \[Ṣaḥīḥ Muslim\]
 
-<!-- TODO ref Muslim -->
-<!-- TODO ref Muslim -->
-
+<!-- =========================================== -->
 The Messenger of Allāh \hon{\PBUH}{\BODY} also warned that a person who does not
 give _Zakāh_ on gold and silver will, on the Day of Resurrection, have plates
 fashioned from that wealth, which will be heated and used to brand his forehead
-and sides. His wealth will be transformed into a snake that will continue to
-bite him. (Ṣaḥīḥ Muslim) Likewise, those who withhold _Zakāh_ on livestock will
+and sides.[-@@muslim, vol. 3, pp. 168--71, #999]
+
+<!-- فَلَا يَزَالُ يَتْبَعُهُ حَتَّى يُلْقِمَهُ يَدَهُ فَيَقْضِمُهَا، ثُمَّ يَتْبَعُهُ سَائِرَ جَسَدِهِ -->
+
+<!-- TODO ref No bite in narration -->
+His wealth will be transformed into a snake that will continue to
+bite him.[-@@bukhari, vol. 6, p. 163-4, #6957]
+
+Likewise, those who withhold _Zakāh_ on livestock will
 find that their animals will trample and gore them on the Day of Resurrection.
-\[Ṣaḥīḥ Muslim\]
+[-@@bukhari, vol. 2, p. 8, #1402]
+<!-- =========================================== -->
 
 Beyond _Zakāh_, a Muslim is encouraged to give _ṣadaqah_ (charity) whenever the
 opportunity arises. Technically speaking, _Zakāh_ refers to obligatory charity,
@@ -361,21 +364,19 @@ Allāh has stated that fasting produces purity. The Messenger of Allāh
 came to know there was little food in the house, they would say, "I am fasting
 today."
 
-
-<!-- TODO ref Muslim -->
-
 ʿĀʾishah \hon{\P_HER}{\BODY} reported,
 
 > The Messenger of Allāh \hon{\P_HIM}{\BODY} came to me one day and said, "Do
 > you have anything (to eat)?" We said, "No." He said, "Then I am fasting." Then
 > he came to us another day, and we said, "O Messenger of Allāh, some _ḥays_ (a
 > dish of dates, ghee, and cheese) was gifted to us." He said, "Show it to me,
-> for I began the day fasting," and then he ate. \[Ṣaḥīḥ Muslim\]
+> for I began the day fasting," and then he ate.[-@@muslim, vol. 3, p. 359
+> #1174, #1175/1.]
 
 The female Companions were also so devoted to fasting that it caused difficulty
 for their husbands. Eventually, the Messenger of Allāh \hon{\PBUH}{\BODY}
 instructed, "A woman should not fast while her husband is present except with
-his permission."[-@@bukhari, vol.~4, pp.~441--442, #5192]
+his permission."[-@@bukhari, vol. 4, pp. 441--2, #5192]
 
 The Messenger of Allāh \hon{\PBUH}{\BODY} said, "...when any one of you is
 fasting, he should neither have intercourse with his spouse nor engage in
@@ -514,17 +515,14 @@ to the best of his ability and capacity.
 
 The Prophet \hon{\PBUH}{\BODY} said, "The one who strives to support a widow and
 a poor person is like one who performs _jihād_ in the path of Allāh---or like
-one who stands in prayer at night and fasts during the day."[-@@bukhari, vol.~4,
-p.~507, #5353]
-
-
-<!-- TODO ref Abū Dāwūd -->
+one who stands in prayer at night and fasts during the day."[-@@bukhari, vol. 4,
+p. 507, #5353]
 
 The Messenger of Allāh \hon{\PBUH}{\BODY} said, "The best form of _jihād_ is a
-word of truth spoken before an oppressive ruler." \[Sunan Abī Dāwūd\]
+word of truth spoken before an oppressive ruler."[-@@abudawud, vol. 6, p. 492, #4296]
 
 <!-- TODO ref al-Tirmidhī I DOUBT THIS BELONGS HERE-->
-
+<!-- TODO KHALID: Find the reference with طاعة الله instead -->
 The Messenger of Allāh \hon{\PBUH}{\BODY} said, "The true _mujāhid_ is the one
 who strives against his own soul in Allāh's path."[-@@ahmad, vol. 39,
 p. 386, #23965]
@@ -690,18 +688,13 @@ Hajj)." \[Ṣaḥīḥ al-Bukhārī\]
 [-@@bukhari, vol. X, p. Y, #4404]
 [-@@bukhari, vol. X, p. Y, #4471] -->
 
-
-<!-- TODO ref Muslim -->
-
 Buraydah \hon{\P_HIM}{\BODY} narrated, "The Messenger of Allāh
 \hon{\PBUH}{\BODY} conducted nineteen military expeditions, and he personally
-fought in eight of them." \[Ṣaḥīḥ Muslim\]
-
-<!-- TODO ref Muslim -->
+fought in eight of them."[-@@muslim, vol. 5, p. 133, #1862]
 
 The Prophet \hon{\PBUH}{\BODY} said, "Whoever sincerely asks Allāh for
 martyrdom, Allāh will cause him to reach the ranks of the martyrs, even if he
-dies on his bed." \[Ṣaḥīḥ Muslim\]
+dies on his bed."[-@@muslim, vol. 5, pp. 234--5, #1962]
 
 #### Dispelling A Misconception {.unnumbered}
 

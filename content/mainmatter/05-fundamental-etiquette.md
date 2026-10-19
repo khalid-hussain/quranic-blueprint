@@ -97,11 +97,9 @@ every prayer."[-@@bukhari, vol.~1, p.~465, #887]
 It is instructed that one should not relieve oneself on pathways or in the shade
 of trees, as it harms others.
 
-<!-- TODO ref Muslim -->
-
 The Messenger of Allāh \hon{\PBUH}{\BODY} said, "Beware of the two matters that
-cause curses: relieving oneself on pathways or in places of shade." \[Ṣaḥīḥ
-Muslim\]
+cause curses: relieving oneself on pathways or in places of shade."[-@@muslim,
+vol. 2, p. 41, #260]
 
 
 ### 4. Avoid Urinating in Bathing Areas {.unnumbered}
@@ -109,20 +107,18 @@ Muslim\]
 It is prohibited to urinate in the place where one bathes, as it leads to
 impurity and harm.
 
-<!-- TODO ref Abū Dāwūd -->
-
 The Messenger of Allāh \hon{\PBUH}{\BODY} said, "None of you should urinate in
-the place where he bathes..." \[Sunan Abī Dāwūd\]
+the place where he bathes and then bathe there."[-@@abudawud, vol. 2, p. 24,
+#27]
 
 
 ### 5. Istinjā' (Cleaning After Relieving Oneself) {.unnumbered}
 
-<!-- TODO ref Muslim -->
-
 It should be performed with the left hand. And cleansing should be done using
-water and (traditionally) earth or similar material. This is established from
-multiple narrations describing the practice of the Prophet \hon{\PBUH}{\BODY}.
-\[Ṣaḥīḥ Muslim\]
+water and [traditionally] earth or similar material. This is established from
+multiple narrations describing the practice of the Prophet
+\hon{\PBUH}{\BODY}.[-@@bukhari, vol. 1, pp. 164--5, #266; -@@muslim, vol. 2, p.
+103, #326; vol. 2, pp. 36--7, #253; -@@abudawud, vol. 2, p. 29, #33]
 
 
 ### 6. Weekly Ghusl and Personal Care {.unnumbered}
@@ -161,12 +157,10 @@ For men, the area from the navel to the knees is _ʿawrah_.
 
 For women, the body from the head down to the ankles is _ʿawrah_.
 
-<!-- TODO ref Abū Dāwūd -->
-
 Exposing these parts before others is impermissible, and even in private it is
 disliked. A Companion asked the Messenger of Allāh \hon{\PBUH}{\BODY}, "If we
 are alone, may we uncover ourselves?" He replied, "Allāh is more deserving that
-you feel shy before Him." \[Sunan Abī Dāwūd\]
+you feel shy before Him."[-@@abudawud, vol. 6, p. 233, #3970]
 
 The Prophet \hon{\PBUH}{\BODY} said, "Never remain naked, for angels are with
 you who leave you only at times of relieving oneself and intimacy. Be shy before
@@ -196,9 +190,7 @@ Further guidelines:
 - When wearing clothes with sleeves, one should first insert the right arm.
   \[Ṣaḥīḥ al-Bukhārī\]
 
-When wearing new clothes, the Prophet \hon{\PBUH}{\BODY} would say:
-
-<!-- TODO ref Abū Dāwūd -->
+When wearing new clothes, the Prophet \hon{\PBUH}{\BODY} would say,
 
 \HADITH_AR_START
 اَلْحَمْدُ لِلَّهِ الَّذِي كَسَانِي هَذَا وَرَزَقَنِيهِ مِنْ غَيْرِ حَوْلٍ مِنِّي وَلَا قُوَّةٍ.
@@ -206,7 +198,7 @@ When wearing new clothes, the Prophet \hon{\PBUH}{\BODY} would say:
 
 \HADITH_START
 "All praise is for Allāh who clothed me with this and provided it for me without
-any power or strength from myself." \[Sunan Abī Dāwūd\]
+any power or strength from myself."[-@@abudawud, vol. 6, p. 237, #3976]
 \HADITH_END
 
 
@@ -274,6 +266,7 @@ al-Bukhārī\]
 
 
 <!-- TODO ref al-Tirmidhī SHOULD I CHANGE TO SHAMAIL?-->
+<!-- TODO KHALID: Change it -->
 <!--
 كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم يُقْبِلُ بِوَجْهِهِ وَحَدِيثِهِ عَلَى أَشَرِّ الْقَوْمِ يَتَأَلَّفُهُمْ بِذَلِكَ فَكَانَ يُقْبِلُ بِوَجْهِهِ وَحَدِيثِهِ عَلَيَّ، حَتَّى ظَنَنْتُ أَنِّي خَيْرُ الْقَوْمِ، فَقُلْتُ: يَا رَسُولَ اللَّهِ، أَنَا خَيْرٌ أَوْ أَبُو بَكْرٍ؟ قَالَ: «أَبُو بَكْرٍ» فَقُلْتُ: يَا رَسُولَ اللَّهِ، أَنَا خَيْرٌ أَوْ عُمَرُ؟ فَقَالَ: «عُمَرُ» ، فَقُلْتُ: يَا رَسُولَ اللَّهِ، أَنَا خَيْرٌ أَوْ عُثْمَانُ؟ قَالَ: «عُثْمَانُ» ، فَلَمَّا سَأَلْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم فَصَدَقَنِي فَلَوَدِدْتُ أَنِّي لَمْ أَكُنْ سَأَلْتُهُ
 -->
@@ -320,15 +313,12 @@ When you are greeted with a greeting, respond with one better than it or at
 least return it equally. (Sūrat al-Nisāʾ, Q4:86)
 \AYAH_END
 
-
-<!-- TODO ref Muslim -->
-
 When Muslims meet, they should say, "As-salāmu ʿalaykum" (Peace be upon you).
 This spreads blessings and increases love between hearts. The Prophet
 \hon{\PBUH}{\BODY} said, "You will not enter Paradise until you believe, and you
 will not truly believe until you love one another. Shall I tell you something
 which, if you do it, you will love one another? Spread _salām_ among
-yourselves." \[Ṣaḥīḥ Muslim\]
+yourselves."[-@@muslim, vol. 1, pp. 405--6, #46]
 
 _Salām_ should be offered regardless of whether the person is known or unknown,
 young or old. However, etiquette dictates that the younger greets the elder, the
@@ -374,18 +364,15 @@ One should not make another person stand up to take their place. The Prophet
 \hon{\PBUH}{\BODY} said, "A man should not make another man stand from his place
 and then sit in it."[-@@bukhari, vol. 5, p. 355, #6269]
 
-<!-- TODO ref Muslim -->
 If someone temporarily leaves their seat and then returns, they are more
 entitled to it. The Prophet \hon{\PBUH}{\BODY} said, "If one of you gets up from
-his place and then returns to it, then he has more right to it." \[Ṣaḥīḥ
-Muslim\]
-
-<!-- TODO ref Abū Dāwūd -->
+his place and then returns to it, then he has more right to it."[-@@muslim, vol.
+5, p. 544, #2237]
 
 One should not attempt to sit in places of distinction or honor within a
 gathering. The Prophet \hon{\PBUH}{\BODY} warned against seeking prominence,
-"Whoever loves that people stand for him, let him take his seat in the Fire."
-\[Sunan Abī Dāwūd\]
+"Whoever loves that people stand for him, let him take his seat in the
+Fire."[-@@abudawud, vol. 7, pp. 559--60, #5139]
 
 When visiting someone, one should not sit in their designated or honored place
 without permission. This falls under the general command of respect and seeking
@@ -414,21 +401,19 @@ There is great wisdom in seeking permission before entering someone's home. The
 primary reason is that at times a person may be in a condition in which they do
 not wish to be seen by others.
 
-<!-- TODO ref Abū Dāwūd -->
-
 When the Messenger of Allāh \hon{\PBUH}{\BODY} went to someone's house, he would
 stand to the right or left of the door before seeking permission, and would not
 stand directly in front, so that his gaze would not fall upon the interior of
 the house. It is reported, "Whenever the Prophet \hon{\PBUH}{\BODY} came to a
-door, he would not stand facing it, but would stand to its right or left..."
-\[Sunan Abī Dāwūd\]
+door, he would not stand facing it, but would stand to its right or
+left..."[-@@abudawud, vol. 7, p. 537, #5097]
 
-<!-- TODO ref Abū Dāwūd -->
+<!-- TODO ref Abū Dāwūd: I don't know if this exists -->
 
 Once, a man came and stood directly in front of the Prophet's \hon{\PBUH}{\BODY}
 door. The Prophet \hon{\PBUH}{\BODY} said to him to stand to the right or left
 of the door, because permission was prescribed so that the inside of the house
-is not looked into. \[Sunan Abī Dāwūd\]
+is not looked into.[-@@abudawud, vol. , p. , #]
 
 <!-- TODO ref Adab Mufrad -->
 
@@ -436,11 +421,11 @@ The correct method of seeking permission is to offer _salām_ and then ask, "May
 I enter?" A man asked, "Should I seek permission from my mother?" He
 \hon{\PBUH}{\BODY} replied, "Yes." \[Al-Adab al-Mufrad\]
 
-<!-- TODO ref Abū Dāwūd -->
 If permission is not granted after offering _salām_ three times, one should
-return.[-@@bukhari, vol.~5, p.~344, #6245] However, if a person has already been
+return.[-@@bukhari, vol. 5, p. 344, #6245] However, if a person has already been
 invited, then permission is not required. The Prophet \hon{\PBUH}{\BODY} said,
-"The messenger sent to invite a man is his permission." \[Sunan Abī Dāwūd\]
+"The messenger sent to invite a man is his permission."[-@@abudawud, vol. 7, p.
+539, #5100]
 
 <!-- TODO review translation of ff para -->
 
@@ -498,10 +483,8 @@ pleases our Lord..."[-@@bukhari, vol.~1, pp.~649--650, #1303] This establishes
 the balance where natural grief is permitted, and excessive lamentation is
 prohibited.
 
-<!-- TODO ref Abū Dāwūd -->
-
 When a death occurs in a Muslim household, it is recommended that relatives,
 friends, or neighbors send food to the bereaved family. At the time of Jaʿfar's
 martyrdom, the Messenger of Allāh \hon{\PBUH}{\BODY} sent food to his household
 and said, "Prepare food for the family of Jaʿfar, for there has come to them
-that which has preoccupied them." \[Sunan Abī Dāwūd\]
+that which has preoccupied them."[-@@abudawud, vol. 5, p. 268, #3118]

@@ -177,6 +177,9 @@ statement that reflects his sincerity (_ikhlāṣ_): He said that he deliberatel
 accepted Islam only after paying the ransom so that no one could claim that he
 embraced Islam merely to escape the payment. \[al-Sīrah al-Nabawiyyah\]
 
+[-@@sirahibnhisham, vol. , p. ]
+[-@@isti3ab_amman, p. ]
+
 <!-- TODO ref Ibn al-Qayyim -->
 <!-- TODO check translit of Riya -->
 
@@ -200,11 +203,9 @@ So be patient, for the promise of Allāh certainly is true. And do not be
 disturbed by those who have no sure faith. (Sūrat al-Rūm, Q30:60)
 \AYAH_END
 
-<!-- TODO ref Muslim -->
-
 _Ṣabr_ refers to inner strength, moral resolve, and steadfast perseverance. The
 Messenger of Allāh \hon{\PBUH}{\BODY} said, "...And patience is illumination
-(light)..." (Ṣaḥīḥ Muslim)
+(light)..."[-@@muslim, vol. 2, pp. 5--6, #214]
 
 The Quran conveys this meaning in multiple ways, all pointing to the following
 realities:
@@ -230,13 +231,11 @@ The Messenger of Allāh \hon{\PBUH}{\BODY} said, "...know that victory comes wit
 patience, relief comes with distress, and ease comes with hardship."[-@@ahmad,
 vol. 5, pp. 18--9, #2803]
 
-<!-- TODO ref Muslim -->
-
 The Messenger of Allāh \hon{\PBUH}{\BODY} said, "How amazing is the affair of the
 believer! Indeed, all of his affairs are good, and this is not the case for
 anyone except the believer. If something good happens to him, he is grateful,
 and that is good for him. And if something harmful befalls him, he is patient,
-and that is good for him." \[Ṣaḥīḥ Muslim\]
+and that is good for him."[-@@muslim, vol. 7, p. 405, #3116]
 
 
 ## Gratitude (Shukr)
@@ -269,25 +268,22 @@ Prophet Sulaymān \hon{\S_HIM}{\BODY} supplicated, "My Lord, enable me to be
 grateful for Your Favor which You have bestowed upon me and upon my parents, and
 to do righteousness of which You Approve." \[Sūrat al-Naml, Q27:9\]
 
-<!-- TODO ref Abū Dāwūd -->
-<!-- TODO add Arabic? -->
-
 Muʿādh ibn Jabal \hon{\P_HIM}{\BODY} reported that the Messenger of Allāh
-\hon{\PBUH}{\BODY} took his hand and said, "O Muʿādh, by Allāh, I love you. So
-do not leave saying at the end of every prayer, 'O Allāh, help me to remember
-You, to thank You, and to worship You in the best manner.'" \[Sunan Abī Dāwūd\]
+\hon{\PBUH}{\BODY} took his hand and said, "O Muʿādh, by Allāh, I love you."
+Then he said, "I advise you, O Muʿādh, never to leave saying after every prayer,
+'O Allāh, help me to remember You, to thank You, and to worship You in the best
+manner.'"[-@@abudawud, vol. 3, pp. 379--80, #1515]
 
 <!-- TODO ref Aḥmad UNSURE | SEEMS LIKE A PARAPHRASE -->
+<!-- TODO KHALID: Put the whole narration in here. -->
 
 The Messenger of Allāh \hon{\PBUH}{\BODY} said, "Whoever is granted a heart that
 is grateful has been given the best of this world and the Hereafter." \[Musnad
 Aḥmad\]
 
-<!-- TODO ref Muslim -->
-
 The Prophet \hon{\PBUH}{\BODY} said, "Indeed, Allāh is pleased with a servant
-who eats food and praises Him for it, or drinks a drink and praises Him for it."
-\[Ṣaḥīḥ Muslim\]
+who eats food and praises Him for it, or drinks a drink and praises Him for
+it."[-@@muslim, vol. 7, p. 94, #2833]
 
 True gratitude means attentiveness to Allāh's commands and appreciation of His
 blessings:
