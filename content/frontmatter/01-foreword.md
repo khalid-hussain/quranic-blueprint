@@ -1,11 +1,13 @@
 
 # Foreword {.unnumbered}
 
-::: {custom-style="Basmalah"}
-بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيم
+::: {custom-style="Basmalah" lang="ar" dir="rtl"}
+﷽
 :::
 
-In the Name of Allāh, the Most Compassionate, the Most Merciful
+::: {custom-style="Basmalah English"}
+In the Name of Allāh, the Most Compassionate, the Most Merciful.
+:::
 
 The book in hand, *The Quranic Blueprint*, is a faithful English translation of
 the renowned work *Taʿlīm al-Quran*, authored several decades ago by the eminent

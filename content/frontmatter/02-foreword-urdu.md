@@ -1,11 +1,13 @@
 
 # Foreword to the Urdu Edition {.unnumbered}
 
-::: {custom-style="Basmalah"}
-بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيم
+::: {custom-style="Basmalah" lang="ar" dir="rtl"}
+﷽
 :::
 
-In the Name of Allāh, the Most Compassionate, the Most Merciful,
+::: {custom-style="Basmalah English"}
+In the Name of Allāh, the Most Compassionate, the Most Merciful.
+:::
 
 There is a genuine lack of sound educational literature in Urdu for Muslim
 children. This gap made it necessary to produce a concise yet comprehensive

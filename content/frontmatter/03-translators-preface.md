@@ -1,8 +1,8 @@
 
 # Translator's Preface {.unnumbered}
 
-::: {custom-style="Basmalah"}
-بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيم
+::: {custom-style="Basmalah" lang="ar" dir="rtl"}
+﷽
 :::
 
 In the Name of Allāh, the Most Gracious, the Most Merciful. All types of thanks
