@@ -1004,15 +1004,13 @@ Angels, the inhabitants of the heavens and the earth, even the ant in its hole
 and the fish, send blessings upon those who teach people goodness."[-@@abuesa16,
 vol. 3, p. 550, #2893]
 
-<!-- TODO ref Sunan al-Darimi -->
-
 Once, the Prophet \hon{\PBUH}{\BODY} entered the mosque and saw two groups: one
 engaged in supplication and worship, and the other engaged in learning and
-teaching religion. He \hon{\PBUH}{\BODY} said that both were upon goodness, but one
-was superior to the other. He said that those making supplication may or may not
-be granted by Allāh, whereas those learning and teaching knowledge benefit
-others. Saying this, the Prophet \hon{\PBUH}{\BODY} sat with the group engaged in
-learning. \[Sunan al-Dārimī\]
+teaching religion. He \hon{\PBUH}{\BODY} said that both were upon goodness, but
+one was superior to the other. He said that those making supplication may or may
+not be granted by Allāh, whereas those learning and teaching knowledge benefit
+others. Saying this, the Prophet \hon{\PBUH}{\BODY} sat with the group engaged
+in learning.[-@@darimi, p. 166, #375]
 
 
 ## Reconciliation (Ṣulḥ)

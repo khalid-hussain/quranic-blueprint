@@ -47,9 +47,7 @@ True honor in the sight of Allāh is based on _taqwá_. The Quran states that th
 most honored of people before Allāh is the one who possesses the greatest
 _taqwá_.
 
-<!-- TODO ref Ibn al-Qayyim -->
-
-Imam Ibn al-Qayyim \hon{\M_HIM}{\BODY} said, "_Taqwá_ has three levels:
+<!-- Imam Ibn al-Qayyim \hon{\M_HIM}{\BODY} said, "_Taqwá_ has three levels:
 
 1.  The first is the vigilance of the heart and limbs to avoid sins and
     prohibitions.
@@ -57,7 +55,15 @@ Imam Ibn al-Qayyim \hon{\M_HIM}{\BODY} said, "_Taqwá_ has three levels:
 3.  The third is avoiding what is superfluous and of no concern.
 
 The first gives life to the heart. The second grants it soundness and strength.
-The third brings it happiness, joy, and delight." \[al-Fawāʾid\]
+The third brings it happiness, joy, and delight." \[al-Fawāʾid\] -->
+
+Imam Ibn al-Qayyim \hon{\M_HIM}{\BODY} said, “_Taqwá_ has three levels. The
+first is to guard the heart and limbs against sins and forbidden acts. The
+second is to guard them against disliked matters. The third is to refrain from
+excess and from that which does not concern one. The first gives a person life;
+the second grants them health and strength; and the third brings them happiness,
+joy, and delight.”[-@@fawaid, p. 45]
+
 
 <!-- TODO Jami3 al-Ulum wa al-Hikam -->
 
@@ -74,12 +80,19 @@ superiority of an Arab over a non-Arab, nor of a non-Arab over an Arab; nor of a
 white person over a black person, nor of a black person over a white
 person---except by _taqwá_..."[-@@ahmad, vol. 38, p. 474, #23489]
 
-<!-- TODO ref Ibn al-Qayyim -->
-
-Imam Ibn al-Qayyim \hon{\M_HIM}{\BODY} said, "Correct understanding of the
+<!-- Imam Ibn al-Qayyim \hon{\M_HIM}{\BODY} said, "Correct understanding of the
 religion is a light that Allāh casts into the heart of His servant, and it
 increases through having _taqwá_ of Allāh and having a sound intention." \[Iʿlām
-al-Muwaqqiʿīn\] Allāh Says,
+al-Muwaqqiʿīn\] -->
+
+Imam Ibn al-Qayyim \hon{\M_HIM}{\BODY} said, "Sound understanding is a light
+that Allāh casts into a person’s heart, enabling them to distinguish between
+what is sound and what is flawed, truth and falsehood, guidance and misguidance,
+and error and right guidance. This light is strengthened by sound intentions, a
+sincere pursuit of the truth, and mindfulness of one’s Lord, both in private and
+in public. It is extinguished by following one’s desires, preferring worldly
+gains, seeking people’s praise, and neglecting _taqwá_."[-@@i3lam, vol. 1, p. 189]
+Allāh Says,
 
 \AYAH_AR_START
 وَمَن يَتَّقِ ٱللَّهَ يَجۡعَل لَّهُۥ مَخۡرَجٗا ٢وَيَرۡزُقۡهُ مِنۡ حَيۡثُ لَا يَحۡتَسِبُۚ
@@ -91,10 +104,8 @@ from where he could never imagine. (Sūrat al-Ṭalāq, Q65:2--3)
 \AYAH_END
 
 
-<!-- TODO ref Ibn Kathīr -->
-
 ʿAbdullāh ibn Masʿūd \hon{\P_HIM}{\BODY} said that this _āyah_ is the greatest
-_āyah_ in the Quran regarding relief and deliverance. \[Tafsīr Ibn Kathīr\]
+_āyah_ in the Quran regarding relief and deliverance.[-@@tafsir_ibnkathir, vol. 7, pp. 300--1]
 
 <!-- TODO ref Ibn al-Jawzi -->
 
@@ -104,11 +115,13 @@ found none. Then this _āyah_ was brought to my attention, and I realized that
 _taqwá_ is the true cause of deliverance from every hardship. When I resolved to
 attain _taqwá_, I found the way out." \[Ṣayd al-Khāṭir\]
 
-<!-- TODO ref Ibn al-Qayyim -->
-
-Imam Ibn al-Qayyim \hon{\M_HIM}{\BODY} said, "Just as the affairs of the one who
+<!-- Imam Ibn al-Qayyim \hon{\M_HIM}{\BODY} said, "Just as the affairs of the one who
 fears Allāh are made easy, the affairs of the one who abandons _taqwá_ are made
-difficult." \[Ad-Dāʾ wa ad-Dawāʾ\]
+difficult." \[Ad-Dāʾ wa ad-Dawāʾ\] -->
+
+Imam Ibn al-Qayyim \hon{\M_HIM}{\BODY} said, “Just as Allāh makes matters easy
+for those who are mindful of Him, He makes matters difficult for those who
+neglect _taqwá_.”[-@@daa_wa_dawa, p. 134]
 
 
 ## Sincerity (Ikhlāṣ)
@@ -180,14 +193,11 @@ embraced Islam merely to escape the payment. \[al-Sīrah al-Nabawiyyah\]
 [-@@sirahibnhisham, vol. , p. ]
 [-@@isti3ab_amman, p. ]
 
-<!-- TODO ref Ibn al-Qayyim -->
-<!-- TODO check translit of Riya -->
-
-Imam Ibn al-Qayyim \hon{\M_HIM}{\BODY} said, "_Ikhlāṣ_ (sincerity) is when a
-servant's inner actions and outward actions are equal. _Riyāʾ_ (showing off) is
-when the outward actions are better than what is within the heart. Truthfulness
-in sincerity is when the inner state is better and more refined than the outward
-actions." \[Madārij al-Sālikīn\]
+Imam Ibn al-Qayyim \hon{\M_HIM}{\BODY} said, “It has been said: Sincerity
+(_ikhlāṣ_) is for a person's outward and inward actions to be equal. Ostentation
+(_riyāʾ_) is for his outward state to be better than his inward state.
+Truthfulness in sincerity is for his inward state to be more flourishing than
+his outward state.”[-@@madarijsalikeen, vol. 2, p. 349]
 
 
 ## Patience and Steadfastness (Ṣabr)
@@ -255,12 +265,15 @@ Q2:172)
 Our creation, life, sustenance, rest, movement, growth---everything is from
 Allāh's Mercy. Gratitude toward such a Beneficent Lord is essential.
 
-<!-- TODO ref Ibn al-Qayyim -->
-
-Imam Ibn al-Qayyim \hon{\M_HIM}{\BODY} said, "_Shukr_ (gratitude) is to manifest
+<!-- Imam Ibn al-Qayyim \hon{\M_HIM}{\BODY} said, "_Shukr_ (gratitude) is to manifest
 the effect of Allāh's blessing upon the tongue through praise and
 acknowledgment; in the heart through witnessing and love; and upon the limbs
-through submission and obedience." \[Madarīj al-Sālikīn\]
+through submission and obedience." \[Madarīj al-Sālikīn\] -->
+
+Imam Ibn al-Qayyim \hon{\M_HIM}{\BODY} said, “..._Shukr_ (gratitude) means that
+the effects of His blessings are reflected in a person’s words through praise
+and acknowledgment, in their heart through recognition and love, and in their
+actions through submission and obedience.”[-@@madarijsalikeen, vol. 2, p. 589]
 
 <!-- TODO add ayah? -->
 
@@ -368,12 +381,16 @@ narrated that a man said, "O Messenger of Allāh, should I tie my camel and rely
 upon Allāh, or leave it untied and rely upon Allāh?" He \hon{\PBUH}{\BODY}
 replied, "Tie it and then rely upon Allāh."[-@@abuesa16, vol. 3, p. 459, #2699]
 
-<!-- TODO ref Zaad Ma3aad -->
-
-Imam Ibn al-Qayyim \hon{\M_HIM}{\BODY} said, "It is not from _tawakkul_ to
+<!-- Imam Ibn al-Qayyim \hon{\M_HIM}{\BODY} said, "It is not from _tawakkul_ to
 abandon the means, nor to label helplessness as _tawakkul_. Rather, _tawakkul_
 is not complete except by taking the means that Allāh has established." \[Zād
-al-Maʿād\]
+al-Maʿād\] -->
+
+Imam Ibn al-Qayyim \hon{\M_HIM}{\BODY} said, “ A person should not use reliance
+upon Allāh as an excuse for helplessness, nor mistake helplessness for reliance
+upon Him. Rather, they should recognize that _tawakkul_ itself is one of the
+means Allāh has commanded us to adopt, and that the intended goal cannot be
+fully achieved without taking all the necessary means.”[-@@zad_ma3ad, vol. 2, p. 433]
 
 From this, it becomes clear that a person must take the necessary means (_asbāb_)
 and then entrust the outcome to Allāh. He does what is within his capacity and

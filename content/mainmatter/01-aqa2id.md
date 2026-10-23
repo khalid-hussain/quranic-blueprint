@@ -753,14 +753,14 @@ known and widely used among Quraysh. The Messenger of Allāh \hon{\PBUH}{\BODY}
 forbade names in which _ʿubūdiyyah_ (servitude) is attributed to anyone other
 than Allāh.
 
-<!-- TODO Double check name -->
-<!-- TODO ref Usd al-Ghabah -->
-
+<!-- TODO ref the detail "No, you are not ʿAbd al-ʿUzzá; rather, you are ʿAbdullāh." is not in Usd al-Ghabah -->
 From among the Ahl al-Ṣuffah was a Companion known as ʿAbdullāh Dhū al-Bijādayn
 \hon{\P_HIM}{\BODY}. At birth, his name was ʿAbd al-ʿUzzá (servant of the idol
 al-ʿUzzá). When he embraced Islam, the Messenger of Allāh \hon{\PBUH}{\BODY}
 changed his name and said, "No, you are not ʿAbd al-ʿUzzá; rather, you are
-ʿAbdullāh." \[Usd al-Ghābah\]
+ʿAbdullāh."[-@@isabah, vol. 4, p. 139]
+
+
 
 The Prophet \hon{\PBUH}{\BODY} also changed names that carried undesirable
 meanings. Zaynab bint Jaḥsh and Juwayriyah bint al-Ḥārith \hon{\P_TWO}{\BODY}
@@ -804,15 +804,13 @@ mosque or in the school, alone or among people, Allāh is watching us everywhere
 and hearing every word we speak. Therefore, like a true and obedient servant, we
 must always be ready to carry out every command of Allāh.
 
-<!-- TODO ref missing -->
-
 Asmāʾ bint Abī Bakr \hon{\P_HER}{\BODY} said, "The Companions used to weep out
-of fear of Allāh."
+of fear of Allāh."[-@@zad_masir, pp. 1228--9]
 
 ʿAbdullāh ibn Shaddād said, "I heard the sobbing of ʿUmar ibn al-Khaṭṭāb
 \hon{\P_HIM}{\BODY} from the last rows while he was reciting, 'I only complain
-of my grief and sorrow to Allāh.' (Sūrat Yūsuf, Q12:86)"[-@@bukhari, vol.~1,
-p.~388]
+of my grief and sorrow to Allāh.' (Sūrat Yūsuf, Q12:86)"[-@@bukhari, vol. 1,
+p. 388]
 
 ʿUmar ibn al-Khaṭṭāb \hon{\P_HIM}{\BODY} said, "Take yourselves to account
 before you are called to account, and prepare yourselves for the Great
@@ -869,7 +867,6 @@ said,
 > length, I draw near to him by a fathom. And if he comes to Me walking, I come
 > to him swiftly."[-@@muslim, vol. 7, p. 43, #2770]
 
-<!-- TODO ref Originally Muslim: I couldn't find it in Muslim -->
 Anas ibn Mālik \hon{\P_HIM}{\BODY} reported,
 
 > The Messenger of Allāh \hon{\PBUH}{\BODY} visited a young man who was dying
@@ -938,19 +935,18 @@ through repentance (_tawbah_).
 The Messenger of Allāh \hon{\PBUH}{\BODY} said, "All of the children of Ādam are
 sinners, and the best of sinners are those who repent."[-@@abuesa16, vol. 3, p. 450, #2680]
 
-<!-- TODO ref -->
 <!-- TODO translation: right must be fulfilled → (make restitution for the injustice) -->
 <!-- TODO consistent _tawbah_ or repentance? -->
 
 Imam al-Khaṭṭābī \hon{\M_HIM}{\BODY} said, "Allāh's name al-Tawwāb means: the
-One who accepts the repentance of His servant every time he repents."
-\[al-Asmāʾ\] The meaning of _tawbah_ is that a person admits his sin before
-Allāh, expresses remorse over it, and makes a firm resolve not to commit it
-again deliberately. If the right of another person is involved, that right must
-be fulfilled. For example, if one has falsely accused someone or possesses
-another person's unlawfully acquired wealth, then that wealth must be returned,
-and forgiveness must be sought from the one who was wronged. Without fulfilling
-these conditions, repentance is not complete.
+One who accepts the repentance of His servant every time he
+repents."[-@@sha2n_dua, p. 90] The meaning of _tawbah_ is that a person admits
+his sin before Allāh, expresses remorse over it, and makes a firm resolve not to
+commit it again deliberately. If the right of another person is involved, that
+right must be fulfilled. For example, if one has falsely accused someone or
+possesses another person's unlawfully acquired wealth, then that wealth must be
+returned, and forgiveness must be sought from the one who was wronged. Without
+fulfilling these conditions, repentance is not complete.
 
 Despite being the Messenger of Allāh, the Prophet \hon{\PBUH}{\BODY} used to
 repent and seek forgiveness seventy times a day.[-@@bukhari, vol.~5, p.~370,
@@ -958,42 +954,40 @@ repent and seek forgiveness seventy times a day.[-@@bukhari, vol.~5, p.~370,
 stand in prayer at night until his feet became swollen. I said, 'O Messenger of
 Allāh, why do you do this when Allāh has forgiven your past and future sins?' He
 \hon{\PBUH}{\BODY} said, 'Shall I not be a grateful servant?'"[-@@bukhari,
-vol.~4, p.~259, #4837]
-
-<!-- TODO ref missing -->
+vol. 4, p. 259, #4837]
 
 It is narrated that once Shayṭān said to Allāh Almighty, "O Lord! As long as
 Your servants have breath in them, I will continue to mislead them." Allāh
 Almighty replied, "As long as My servants continue to seek forgiveness from Me,
-I will continue to forgive them."
+I will continue to forgive them."[-@@ahmad, vol. 17, p. 337, #11237]
 
 The Messenger of Allāh \hon{\PBUH}{\BODY} said, "Allāh is more joyful over the
 repentance of His servant than one of you who finds his camel after having lost
 it in a barren land."[-@@muslim, vol. 7, p. 107, #2844]
 
-<!-- TODO ref Aḥmad: 21472 OR 13493 -->
-<!-- TODO KHALID: Go with 21472. Match the translation. -->
-<!-- TODO check tense of translation -->
-The Messenger of Allāh \hon{\PBUH}{\BODY} said, "If you were to commit sins
-until your sins reach the sky, then you repent, Allāh would surely accept your
-repentance." \[Musnad Aḥmad\] The Prophet \hon{\PBUH}{\BODY} also said, "Indeed,
-Allāh accepts the repentance of the servant as long as his soul has not reached
-the throat."[-@@abuesa16, vol. 4, p. 398, #3866.]
+The Messenger of Allāh \hon{\PBUH}{\BODY} said, “If you were to commit sins
+until your sins reached the sky, then repent, Allah would surely accept your
+repentance.”[-@@majah14, vol. 4, p. 91, #4282] The Prophet \hon{\PBUH}{\BODY}
+also said, "Indeed, Allāh accepts the repentance of the servant as long as his
+soul has not reached the throat."[-@@abuesa16, vol. 4, p. 398, #3866.]
 
-<!-- TODO ref Majmu3 Taymiyah -->
-
+<!-- TODO ref Majmu3 Taymiyah: Couldn't find -->
 Shaykh al-Islām Ibn Taymīyah \hon{\M_HIM}{\BODY} said, "If a servant
 repents, Allāh loves him, and he rises in rank by virtue of his repentance." He
-also said, "The strength of the heart returns through repentance." \[Majmūʿ
-al-Fatāwā\]
-
-<!-- TODO ref ibn al-qayyim -->
+also said, "The strength of the heart returns through repentance."
+<!-- [-@@majmu3fatawa, vol. ]
+\[Majmūʿ al-Fatāwā\] -->
 
 The Messenger of Allāh \hon{\PBUH}{\BODY} said, "The one who repents from sin is
 like one who has no sin."[-@@majah14, vol. 4, p. 91, #4284] Imam Ibn al-Qayyim
+\hon{\M_HIM}{\BODY} said, "...when a servant repents with sincere, genuine, and
+wholehearted repentance, it burns away the sins committed before it and restores
+to him the reward of his good deeds."[-@@wabilsayyib, p. 24]
+
+<!-- Imam Ibn al-Qayyim
 \hon{\M_HIM}{\BODY} said, "If a person repents with sincere repentance, his
 previous evil deeds are erased, and the reward for his good deeds is restored to
-him." \[al-Wābil al-Ṣayyib\]
+him." \[al-Wābil al-Ṣayyib\] -->
 
 Therefore, one should constantly seek forgiveness from Allāh. He will surely
 forgive our sins.
@@ -1042,14 +1036,12 @@ Whatever you wish to ask for, ask Allāh alone. Besides Him, no one has the powe
 to fulfill your desires. Everything in the heavens and the earth is dependent on
 Allāh.
 
-<!-- TODO ref missing -->
-<!-- TODO ref missing -->
-
-The Messenger of Allāh \hon{\PBUH}{\BODY} said that Allāh Almighty loves that His
-servants ask Him for His favors, and He becomes displeased with the one who does
-not ask Him. A person should raise their hands before Allāh for everything,
-great or small. The Messenger of Allāh \hon{\PBUH}{\BODY} said that the best habit
-is supplication.
+The Messenger of Allāh \hon{\PBUH}{\BODY} said that Allāh Almighty loves that
+His servants ask Him for His favors,[-@@abuesa16, vol. 4, p. 417, #3906] and He
+becomes displeased with the one who does not ask Him.[-@@abuesa16, vol. 4, p.
+315, #3690] A person should raise their hands before Allāh for everything, great
+or small. The Messenger of Allāh \hon{\PBUH}{\BODY} said that the best habit is
+supplication.[-@@abuesa16, vol. 4, p. 314, #3686]
 
 One should supplicate for oneself, for one's parents, for one's spouse and
 children, for elders, and for every Muslim. One should not make supplication for
@@ -1086,28 +1078,27 @@ Abū Umāmah \hon{\P_HIM}{\BODY} reported, "It was said to the Messenger of All�
 replied, 'The supplication made in the last part of the night and at the end of
 the prescribed prayers.'"[-@@abuesa16, vol. 4, p. 379, #3826.]
 
-<!-- TODO ref Mu3jam Kabir -->
-
 [When It's Raining Heavily]{.smallcaps}: The Prophet \hon{\PBUH}{\BODY} said,
 "Two supplications are not rejected: the supplication made at the time of the
-call to prayer, and the supplication made at the time when rain is falling."
-\[al-Muʿjam al-Kabīr\]
+call to prayer, and the supplication made at the time when rain is
+falling."[-@@abudawud, vol. 4, pp. 396--7, #3686]
 
 [During The Last Third of the Night]{.smallcaps}: The Messenger of Allāh
 \hon{\PBUH}{\BODY} said, "Our Lord, Blessed and Exalted, descends every night to
 the lowest heaven when the last third of the night remains and says, 'Who is
 calling upon Me so that I may answer him? Who is asking Me so that I may give
 him? Who is seeking My forgiveness so that I may forgive him?'"[-@@bukhari,
-vol.~1, p.~582, #1145]
-
-<!-- TODO ref ibn al-qayyim -->
+vol. 1, p. 582, #1145]
 
 [The Special Hour on Friday]{.smallcaps}: The Messenger of Allāh
 \hon{\PBUH}{\BODY} said, "There is an hour on Friday during which no Muslim
 servant stands praying and asks Allāh for anything except that Allāh grants it
-to him."[-@@bukhari,  vol.~1, p.~486, #935] Imam Ibn al-Qayyim \hon{\M_HIM}{\BODY} said, "The
-strongest opinion is that it is the last hour after ʿAṣr." \[Zād al-Maʿād\]
+to him."[-@@bukhari, vol. 1, p. 486, #935] Imam Ibn al-Qayyim
+\hon{\M_HIM}{\BODY} said that the stronger opinion is that it is after
+ʿAṣr.[-@@zad_ma3ad, vol. 1, p. 482]
 
+<!-- Imam Ibn al-Qayyim \hon{\M_HIM}{\BODY} said, "The strongest opinion is that it
+is the last hour after ʿAṣr." \[Zād al-Maʿād\] -->
 
 
 ### Understanding Duʿāʾ
@@ -1252,12 +1243,17 @@ The Messenger of Allāh \hon{\PBUH}{\BODY} said, "When Allah, Mighty and
 Majestic, bestows a blessing upon His servant, He loves to see its effects upon
 him."[-@@ahmad, vol. 25, p. 227, #15892]
 
-<!-- TODO ref Mu3jam Kabir -->
-
+<!-- OLD TRANSLATION
 The Messenger of Allāh \hon{\PBUH}{\BODY} said, "Indeed, when Allāh Grants a
 blessing to a servant, He loves to see the effect of that blessing upon him. He
 dislikes misery and feigned misery, hates the persistent beggar, and loves the
-modest, chaste, and self-restrained person." \[al-Muʿjam al-Kabīr\]
+modest, chaste, and self-restrained person." -->
+
+The Messenger of Allāh \hon{\PBUH}{\BODY} said, “Indeed, when Allah bestows a
+blessing upon a servant, He loves to see its effect upon him. He dislikes
+destitution and the affectation of destitution, detests the persistent beggar,
+and loves the modest, chaste person who refrains from asking
+others.”[-@@shu3abeman, vol. 8, p. 264, #5791]
 
 Gratitude for blessings is a cause of them being increased. Allāh Says,
 
@@ -1277,17 +1273,18 @@ Then he said, "I advise you, O Muʿādh, never to leave saying after every praye
 'O Allāh, help me to remember You, to thank You, and to worship You in the best
 manner.'"[-@@abudawud, vol. 3, pp. 379--80, #1515]
 
-<!-- Ibn al-Qayyim -->
-<!-- TODO ref Wabil Sayyib -->
-<!-- TODO ref Madarij Salikin -->
-
+<!-- OLD TRANSLATION
 Imam Ibn al-Qayyim \hon{\M_HIM}{\BODY} said, "Gratitude is built upon three
 pillars: acknowledging the blessing inwardly, speaking of it outwardly, and
-using it to seek the pleasure of the One who granted it and bestowed it."
-\[al-Wābil al-Ṣayyib\] In another place, Imam Ibn al-Qayyim \hon{\M_HIM}{\BODY}
-said, "Gratitude is manifested in the heart through submission and humility; on
-the tongue through praise and acknowledgement; and through the limbs by means of
-obedience and compliance." \[Madārij al-Sālikīn\]
+using it to seek the pleasure of the One who granted it and bestowed it." -->
+
+Ibn al-Qayyim \hon{\M_HIM}{\BODY} said, “Gratitude is built upon three pillars:
+acknowledging blessings inwardly, speaking of them openly, and using them in
+ways that please the One who bestowed them.”[-@@wabilsayyib, pp. 5--6] In
+another place, Imam Ibn al-Qayyim \hon{\M_HIM}{\BODY} said, "Gratitude is
+manifested in the heart through submission and humility; on the tongue through
+praise and acknowledgement; and through the limbs by means of obedience and
+compliance."[-@@madarijsalikeen, vol. 2, p. 593]
 
 
 ## Obedience to Allāh and His Messenger
@@ -1422,7 +1419,7 @@ and follow him in everything, as long as he does not command them to commit sin.
 The Messenger of Allāh \hon{\PBUH}{\BODY} said, "It is obligatory upon a Muslim
 to listen and obey in what he likes and dislikes, except when he is commanded to
 commit a sin. If he is commanded to commit a sin, then there is no listening and
-no obedience."[-@@bukhari, vol.~6, p.~241, #7144]
+no obedience."[-@@bukhari, vol. 6, p. 241, #7144]
 
 The Messenger of Allāh \hon{\PBUH}{\BODY} said, "Worship your Lord, pray your
 five [daily prayers], fast your month (Ramadan), give the _zakāh_ of your wealth,
@@ -1498,15 +1495,13 @@ The Messenger of Allāh \hon{\PBUH}{\BODY} said, "Whoever innovates into this
 matter of ours that which does not belong to it, will be rejected."[-@@bukhari,
 vol.~2, p.~557, #2697]
 
-<!-- TODO ref Darimi -->
-
 Linguistically, the root of the word _bidʿah_ in Arabic means initiating something
 without any precedent. Technically, introducing additions or omissions into the
 religion from one's own side that have no general or specific basis to support
 it is called _bidʿah_ (innovation). Ḥassān ibn ʿAṭīyah \hon{\M_HIM}{\BODY} said,
 "No people introduce an innovation into their religion except that Allāh removes
 from them a Sunnah equal to it, and He does not return it to them until the Day
-of Resurrection." \[Sunan al-Dārimī\]
+of Resurrection."[-@@darimi, p. 123, #106]
 
 ʿAbdullāh ibn Masʿūd \hon{\P_HIM}{\BODY} reported,
 
@@ -1537,8 +1532,8 @@ Q6:153)
 The Messenger of Allāh \hon{\PBUH}{\BODY} said, "All of my Ummah will enter
 Paradise except the one who refuses." They (his companions) said, "And who
 refuses, O Messenger of Allāh?" He \hon{\PBUH}{\BODY} said, "Whoever obeys me
-will enter Paradise, and whoever disobeys me has refused."[-@@bukhari, vol.~6,
-p.~298, #7280]
+will enter Paradise, and whoever disobeys me has refused."[-@@bukhari, vol. 6,
+p. 298, #7280]
 
 The Messenger of Allāh \hon{\PBUH}{\BODY} said, "Whoever introduces a good
 Sunnah in Islam will have its reward and the reward of those who act upon it
@@ -1550,16 +1545,14 @@ Anas ibn Mālik \hon{\P_HIM}{\BODY} narrated that the Prophet \hon{\PBUH}{\BODY}
 said, "Some people from my Companions will come to my Ḥawḍ (Cistern), and I will
 recognize them. Then they will be driven away from me, and I will say, 'They are
 my Companions!' It will be said, 'You do not know what they innovated after you
-were gone.'"[-@@bukhari, vol.~5, p.~478, #6582]
-
-<!-- TODO ref Tafsir Ibn Kathīr -->
+were gone.'"[-@@bukhari, vol. 5, p. 478, #6582]
 
 Imam Ibn Kathīr \hon{\M_HIM}{\BODY} states, "As for the position of Ahl
-al-Sunnah wa al-Jamāʿah, they say regarding every action or statement that is not
-established from the Companions that it is an innovation. For if there had been
-any good in it, they would have preceded us in it, since they did not leave off
-any good characteristic except that they hastened to perform it." \[Tafsīr Ibn
-Kathīr\]
+al-Sunnah wa al-Jamāʿah, they say regarding every action or statement that is
+not established from the Companions that it is an innovation. For if there had
+been any good in it, they would have preceded us in it, since they did not leave
+off any good characteristic except that they hastened to perform
+it."[-@@tafsir_ibnkathir, vol. 6, p. 622]
 
 <!-- TODO Adrami reference -- it also occurs in Lum3at al-I3tiqad by Ibn Qudamah -->
 
@@ -1653,18 +1646,16 @@ Faḍālah ibn ʿUbayd \hon{\P_HIM}{\BODY} said,
 > Prophet \hon{\PBUH}{\BODY}, then let him supplicate for whatever he
 > wishes."[-@@abuesa16, vol. 4, pp. 369--70, #3805]
 
-<!-- TODO ref Mu3jam Kabir -->
-
 ʿAbdullāh ibn Masʿūd \hon{\P_HIM}{\BODY} said, "When one of you wishes to ask
 Allāh, let him begin by praising Allāh as He deserves to be praised, then let
 him send blessings upon the Prophet \hon{\PBUH}{\BODY}, then let him supplicate
-thereafter, for that is more likely to be accepted." \[al-Muʿjam al-Kabīr\]
-
-<!-- TODO ref Shu3ab al-Iman -->
+thereafter, for that is more likely to be accepted."[-@@musannafabdirrazzaq,
+vol. 10, p. 58, #20700]
 
 ʿUmar ibn al-Khaṭṭāb \hon{\P_HIM}{\BODY} said, "Indeed, supplication remains
 suspended between the heaven and the earth; nothing of it ascends until you send
-prayers upon your Prophet \hon{\PBUH}{\BODY}." \[Shuʿab al-Īmān\]
+prayers upon your Prophet \hon{\PBUH}{\BODY}."[-@@abuesa16, vol. 1, p. 562,
+#492]
 
 The best form of sending blessings is the one recited in _al-Taḥīyāt_, namely,
 
@@ -1735,11 +1726,16 @@ Whoever fulfills it is a friend of Allāh; whoever departs from it should never
 be considered a friend of Allāh, nor should his words be trusted or one's heart
 be attached to him.
 
-<!-- TODO ref 7ilyat al-awliya -->
-
-Imam Junayd al-Baghdādī \hon{\M_HIM}{\BODY} said, "All paths are closed to
+<!-- OLD TRANSLATION
+Imam al-Junayd al-Baghdādī \hon{\M_HIM}{\BODY} said, "All paths are closed to
 creation except for the one who follows the way of the Messenger of Allāh
-\hon{\PBUH}{\BODY}." \[Ḥilyat al-Awliyāʾ\]
+\hon{\PBUH}{\BODY}." -->
+
+Imam al-Junayd al-Baghdādī \hon{\M_HIM}{\BODY} said, “All paths are closed to
+creation except for those who follow in the footsteps of the Messenger of Allāh
+\hon{\PBUH}{\BODY}, adhere to his Sunnah, and remain committed to his way.
+Indeed, all paths of goodness are open to such a person.”[-@@hilyah09, vol. 8,
+p. 320]
 
 <!-- TODO ref Fath Rabbani -->
 
@@ -1747,7 +1743,7 @@ Shaykh ʿAbd al-Qādir al-Jīlānī \hon{\M_HIM}{\BODY} said, "I advise you to f
 Allāh, to stop at His commands and prohibitions, to adhere to the Sharīʿah, and
 to abandon innovation." \[al-Fatḥ al-Rabbānī\]
 
-<!-- TODO ref Urdu book? -->
+<!-- TODO ref Maktūbāt-i-Maʿṣūmiyyah: Persian book -->
 
 Khwājah Muḥammad Maʿṣūm \hon{\M_HIM}{\BODY} said, "Anyone whose actions do not
 conform to the Sunnah and who is not bound by the Sharīʿah, staying away from
@@ -1861,16 +1857,12 @@ of his close friend, so let each of you carefully consider whom he
 further warned against sitting with innovators in religion and those enslaved by
 their desires.
 
-
-
 The meaning is that deep association with such people inevitably harms one's
 religion, so extreme caution is required.
 
-<!-- TODO ref missing -->
-
 ʿAbdullāh ibn ʿAbbās \hon{\P_TWO}{\BODY} said, "Do not sit with the people of
-desires, for sitting with them causes sickness of the heart." \[Sharḥ Uṣūl
-Iʿtiqād Ahl al-Sunnah\]
+desires, for sitting with them causes sickness of the heart."[-@@shariah, p. 64,
+#133]
 
 
 ## The Noble Quran
@@ -1886,13 +1878,11 @@ And hold firmly to the Rope of Allāh, and do not be divided. (Sūrat Āl ʿImr�
 Q3:103)
 \AYAH_END
 
-<!-- TODO ref al-Muwaṭṭāʾ -->
-<!-- TODO check if the reference exists elsewhere -->
-
 The Rope of Allāh refers to the Noble Quran. One must cling firmly to its
-commands. The Messenger of Allāh \hon{\PBUH}{\BODY} said, "I have left among
-you two matters; you will never go astray so long as you hold firmly to them:
-the Book of Allāh and the Sunnah of His Messenger." \[al-Muwaṭṭaʾ\]
+commands. The Messenger of Allāh \hon{\PBUH}{\BODY} said, "I have left among you
+two matters; you will never go astray so long as you hold firmly to them: the
+Book of Allāh and the Sunnah of His Messenger."[-@@malik16, vol. 2, p. 339,
+#1364]
 
 The Messenger of Allāh \hon{\PBUH}{\BODY} said, “Indeed, Allah is pleased with
 three things for you and displeased with three things. He is pleased that you
@@ -1913,7 +1903,7 @@ authority over you. And He is Displeased for you with idle talk ('he said',
 
 Shaykh al-Islām Ibn Taymīyah \hon{\M_HIM}{\BODY} said, "Holding fast altogether
 to the Rope of Allāh and not becoming divided is among the greatest foundations
-of Islam." \[Majmūʿ al-Fatāwá\]
+of Islam."[-@@majmu3fatawa, vol. ]
 
 <!-- TODO ref Aḥmad FAILED TO FIND THIS-->
 <!-- TODO Khalid: Change to Ibn Hibban -->

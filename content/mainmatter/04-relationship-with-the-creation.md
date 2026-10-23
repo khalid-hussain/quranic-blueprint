@@ -513,13 +513,10 @@ He \hon{\PBUH}{\BODY} also said, "I and the one who sponsors an orphan will be
 in Paradise like this," and he joined his index and middle fingers.[-@@bukhari,
 vol.~5, p.~251, #6005]
 
-
-<!-- TODO ref Adab Mufrad -->
-
 ʿAbdullāh ibn ʿUmar \hon{\P_TWO}{\BODY} would never eat unless an orphan was
-present with him. \[al-Adab al-Mufrad\]
+present with him.[-@@adabmufrad, p. 73, #136]
 
-<!-- TODO ref Adab Mufrad -->
+<!-- TODO ref Adab Mufrad: Couldn't find -->
 
 ʿĀʾishah \hon{\P_HER}{\BODY} took orphan girls from her family and the Anṣār
 into her home and raised them with great care. \[al-Adab al-Mufrad\]
@@ -563,7 +560,7 @@ repayment. Ḥakīm ibn Ḥizām offered help if needed. \[Ṣaḥīḥ al-Bukh�
 [-@@bukhari, vol.~3, pp.~141--143, #3129]
 
 
-<!-- TODO ref Adab Mufrad -->
+<!-- TODO ref Adab Mufrad: Couldn't find this version with "poor person". "Orphan" version available. -->
 
 ʿAbdullāh ibn ʿUmar \hon{\P_TWO}{\BODY} would rarely eat without a poor person
 present. \[al-Adab al-Mufrad\]
@@ -626,10 +623,11 @@ he is not a believer! By Allāh, he is not a believer!" It was said, "Who, O
 Messenger of Allāh?" He \hon{\PBUH}{\BODY} said, "The one whose neighbor is not
 safe from his harm."[-@@bukhari, vol.~5, p.~255, #6016]
 
-<!-- TODO ref adab mufrad -->
+<!-- The Prophet \hon{\PBUH}{\BODY} said, "He is not a believer who sleeps full while
+his neighbor is hungry beside him." \[al-Adab al-Mufrad\] -->
 
-The Prophet \hon{\PBUH}{\BODY} said, "He is not a believer who sleeps full while
-his neighbor is hungry beside him." \[al-Adab al-Mufrad\]
+The Prophet \hon{\PBUH}{\BODY} said, “He is not a true believer who eats his
+fill while his neighbor is hungry.”[-@@adabmufrad, p. 60, #112]
 
 This _āyah_ mentions two types of neighbors: the near neighbor and the distant
 neighbor. Some scholars explain that the near neighbor refers to a relative who

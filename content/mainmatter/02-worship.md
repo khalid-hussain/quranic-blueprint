@@ -91,18 +91,13 @@ Anas ibn Mālik \hon{\P_HIM}{\BODY} reported,
 > sleep, and I marry women. Whoever turns away from my Sunnah is not from
 > me."[-@@bukhari, vol.~4, p.~387, #5063]
 
-
-<!-- TODO ref Majmu3 fatawa -->
-<!-- TODO check translation -->
-
-Shaykh al-Islām Ibn Taymīyah \hon{\M_HIM}{\BODY} said,
-
-> It is important to know that the pleasure and love of Allāh must not be sought
-> by inflicting torture/harm on oneself and striving for difficulties. Some
-> ignorant people believe that the more difficult the deed is, the better it is,
-> and that the magnitude of the reward always depends on the degree of difficulty.
-> No! This is an absolutely wrong belief! The magnitude of the reward for the deed
-> depends on the benefit that it brings. \[Majmū al-Fatāwa\]
+Shaykh al-Islām Ibn Taymīyah \hon{\M_HIM}{\BODY} said, “It is important to know
+that the pleasure and love of Allāh must not be sought by inflicting
+torture/harm on oneself and striving for difficulties. Some ignorant people
+believe that the more difficult the deed is, the better it is, and that the
+magnitude of the reward always depends on the degree of difficulty. No! This is
+an absolutely wrong belief! The magnitude of the reward for the deed depends on
+the benefit that it brings.”[-@@majmu3fatawa, vol. 25, pp. 281--2]
 
 
 ## Prayer (Ṣalāh)
@@ -155,35 +150,33 @@ remembrance of Allāh is (an) even greater (deterrant). And Allāh (fully) knows
 what you (all) do. (Sūrat al-ʿAnkabūt, Q29:45)
 \AYAH_END
 
-<!-- TODO ref Shu3ab al-Iman -->
+<!-- TODO ref Shu3ab al-Iman: Couldn't find -->
 The Messenger of Allāh \hon{\PBUH}{\BODY} said, "...the coolness of my eyes has
 been placed in _ṣalāh_."[-@@ahmad, vol. 19, p. 305, #12293] He
 \hon{\PBUH}{\BODY} also said, "_Ṣalāh_ is the pillar of the religion. Whoever
 establishes it has established the religion, and whoever abandons it has
 demolished the religion." \[Shuʿab al-Īmān\]
 
-<!-- TODO ref al-Muwaṭṭāʾ -->
-
 When ʿUmar ibn al-Khaṭṭāb \hon{\P_HIM}{\BODY} was attacked with a dagger and lay
 wounded, he was awakened for the Fajr prayer that morning. He said, "There is no
 share in Islam for the one who abandons the prayer," and he performed the prayer
-in that condition. \[al-Muwaṭṭa'\]
+in that condition.[-@@malik16, vol. 1, p. 311, #91]
 
 Ḥusayn ibn ʿAlī \hon{\P_TWO}{\BODY} was on the battlefield of Karbalāʾ. The
 bodies of Companions and loved ones lay before him, and enemies surrounded him
 from all sides. When the time for Ẓuhr prayer arrived, he asked the enemy to
 grant him time so that he could perform the prayer.
 
-<!-- TODO ref Sunan Kubra -->
-<!-- TODO ...heavy with fruit? -->
-
+<!-- TODO ref Muwatta: Waiting for Zahid
+1/414: A man from the Ansar gave it to Uthman ibn Affan who was Khalifah at the time
+1/413: Abū Ṭalḥah al-Anṣārī gave it to the Prophet (صلى الله عليه وسلم)
+-->
 Abū Ṭalḥah al-Anṣārī \hon{\P_HIM}{\BODY} was praying in his orchard, which was
 heavy with fruit. His gaze fell upon it, and his heart became momentarily
 distracted by its beauty. As soon as he realized this during prayer, he felt
 ashamed that worldly wealth had diverted his attention. He went to ʿUthmān ibn
 ʿAffān \hon{\P_HIM}{\BODY}, who was the Khalīfah at the time, and said that the
 orchard which distracted him would be given away in the path of Allāh.
-\[al-Sunan al-Kubrā\]
 
 Muslims are commanded to perform the prayer themselves and to instruct their
 wives and children to pray. Five daily prayers are obligatory during the day and
@@ -521,7 +514,6 @@ p. 507, #5353]
 The Messenger of Allāh \hon{\PBUH}{\BODY} said, "The best form of _jihād_ is a
 word of truth spoken before an oppressive ruler."[-@@abudawud, vol. 6, p. 492, #4296]
 
-<!-- TODO ref al-Tirmidhī I DOUBT THIS BELONGS HERE-->
 <!-- TODO KHALID: Find the reference with طاعة الله instead -->
 The Messenger of Allāh \hon{\PBUH}{\BODY} said, "The true _mujāhid_ is the one
 who strives against his own soul in Allāh's path."[-@@ahmad, vol. 39,
@@ -532,13 +524,10 @@ The Messenger of Allāh \hon{\PBUH}{\BODY} said, "The true _mujāhid_ is the one
 who strives against his own soul in obedience to Allāh."
 -->
 
-
-<!-- TODO ref majmu3 fatawa -->
-
 Shaykh al-Islām Ibn Taymīyah \hon{\M_HIM}{\BODY} said, "Striving against one's
 own soul is the foundation of striving against the disbelievers, for whoever
 does not strive against his own soul first will not be able to strive against
-his external enemy." \[Majmūʿ al-Fatāwā\]
+his external enemy."[-@@rawdat_muhibbeen, p. 640]
 
 <!-- TODO ref Hilyat awliya -->
 
@@ -546,16 +535,38 @@ Al-Junayd \hon{\M_HIM}{\BODY} said, "Whoever does not strive against his own
 soul in obedience to Allāh will never succeed in striving against his enemy."
 \[Ḥilyat al-Awliyāʾ\]
 
-<!-- TODO ref Zaad Ma3aad -->
-
-Imam Ibn al-Qayyim \hon{\M_HIM}{\BODY} said, "Striving against the soul has four
+<!-- Imam Ibn al-Qayyim \hon{\M_HIM}{\BODY} said, "Striving against the soul has four
 stages:
 
 1. Striving to learn guidance,
 2. Striving to act upon it after knowing it,
 3. Striving to call others to it and teach those who are ignorant of it,
 4. Striving to remain patient upon the hardships of calling to Allāh and the
-   harm caused by people, enduring that for Allāh's sake." \[Zād al-Maʿād\]
+   harm caused by people, enduring that for Allāh's sake." \[Zād al-Maʿād\] -->
+
+
+Imam Ibn al-Qayyim \hon{\M_HIM}{\BODY} said,
+
+> Striving against the soul has four stages:
+
+> First: To strive against one’s own soul by learning divine guidance and the
+> religion of truth, upon which its success and happiness in this life and the
+> Hereafter depend. If one fails to acquire this knowledge, one will be wretched
+> in both worlds.
+
+> Second: To strive against one’s own soul by putting that knowledge into
+> practice. For mere knowledge without action, even if it does not harm a
+> person, will bring them no benefit.
+
+> Third: To strive against one’s own soul by calling others to this guidance and
+> teaching it to those who do not know it. Otherwise, one will be among those
+> who conceal the guidance and clear proofs that Allāh has revealed. Such
+> knowledge will neither benefit its possessor nor save them from Allāh’s
+> punishment.
+
+> Fourth: To strive against one’s own soul by patiently enduring the hardships
+> of calling people to Allāh and the harm inflicted by others, bearing all of
+> this for the sake of Allāh.[-@@zad_ma3ad, vol. 3, pp. 11--2]
 
 
 ## Jihād of Combat

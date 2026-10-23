@@ -22,12 +22,19 @@ In this _āyah_, three things are prohibited:
 _Faḥshāʾ_ means exceeding the limits. Whatever boundaries Allāh has set,
 crossing them is immorality, and this is disobedience to Allāh.
 
-<!-- TODO ref Madarij Salikin Ibn al-Qayyim -->
-
+<!-- OLD TRANSLATION
 Imam Ibn al-Qayyim \hon{\M_HIM}{\BODY} said, "_Faḥshāʾ_ includes every act whose
 ugliness is extreme, whether in speech or action." He further explained, "It is
 called _faḥshāʾ_ because it exceeds the limits in its ugliness and corruption."
-\[Madarij al-Salikin\]
+\[Madarij al-Salikin\] -->
+
+Imam Ibn al-Qayyim \hon{\M_HIM}{\BODY} said, "As for _al-faḥshāʾ_ (indecency)...
+It refers to an abhorrent act or an outrageous deed---something whose ugliness
+is evident to everyone and which any sound-minded person considers utterly
+repugnant. Hence, it has been interpreted as referring to fornication and
+sodomy, which Allah has called _fāḥishah_ because of their extreme
+depravity."[-@@madarijsalikeen, vol. 1, p. 571]
+
 
 _Munkar_ refers to actions that are generally disliked among people, such that the
 one who commits them falls in the eyes of others. Human nature itself finds them
@@ -45,12 +52,18 @@ Messenger of Allāh \hon{\PBUH}{\BODY} said that Allāh says, "O My servants, I
 have forbidden oppression for Myself and have made it forbidden among you, so do
 not oppress one another..."[-@@muslim, vol. 6, pp. 440--1, #2660]
 
-<!-- TODO ref madarij salikin -->
+<!-- TODO ref madarij salikin: missing addition -->
+<!-- It doesn't have the extension "whether by excess, deficiency, or transgression beyond limits"
+وَضْعُ الشَّيْءِ فِي غَيْرِ مَوْضِعِهِ -->
+
+<!-- OLD TRANSLATION
+Imam Ibn al-Qayyim said, "Oppression is placing a thing in other than its
+proper place..., whether by excess, deficiency, or transgression beyond limits."
+-->
 
 Exceeding limits and attacking the rights of others is precisely what oppression
 is. Imam Ibn al-Qayyim said, "Oppression is placing a thing in other than its
-proper place, whether by excess, deficiency, or transgression beyond limits."
-\[Madarij al-Salikin\]
+proper place..."[-@@madarijsalikeen, vol. 3, p. 32]
 
 
 ## Open and Hidden Sins
@@ -79,13 +92,18 @@ even go near them.
 Just as one who avoids water does not drown, and one who avoids fire does not
 burn, one who avoids the paths to sin avoids sin itself.
 
-<!-- TODO ref Ibn al-Qayyim -->
-
-Imam Ibn al-Qayyim \hon{\M_HIM}{\BODY} said, "When Allāh prohibits something, He
+<!-- Imam Ibn al-Qayyim \hon{\M_HIM}{\BODY} said, "When Allāh prohibits something, He
 prohibits all the ways and means that lead to it. This is from His mercy toward
 His servants, for if He were to permit the means, it would inevitably lead them
-to falling into the prohibited act itself." \[Iʿlām al-Muwaqqiʿīn\]
+to falling into the prohibited act itself." \[Iʿlām al-Muwaqqiʿīn\] -->
 
+Imam Ibn al-Qayyim \hon{\M_HIM}{\BODY} said, “When Allāh, Blessed and Exalted,
+prohibits something, He also prohibits and blocks the means that lead to it.
+This gives effect to His prohibition, reinforces it, and prevents people from
+encroaching upon its bounds. Were He to permit the means and avenues leading to
+the prohibited act, that would undermine the prohibition and tempt people to
+commit it. Yet His wisdom and knowledge utterly preclude such a
+thing.”[-@@i3lam, vol. 4. p. 3]
 
 ## Lying
 
@@ -149,7 +167,7 @@ Once, a female Companion asked whether it would be considered lying if someone
 desired something but then said that they did not want it. The Prophet
 \hon{\PBUH}{\BODY} replied that even the smallest lie is recorded as a lie.
 
-<!-- TODO ref Madarij Salikin -->
+<!-- TODO ref Madarij Salikin: couldn't find it -->
 
 Imam Ibn al-Qayyim \hon{\M_HIM}{\BODY} said, "Truthfulness and lying are the
 origin of righteousness and corruption. From truthfulness arise all forms of
@@ -185,14 +203,13 @@ The Prophet Muḥammad \hon{\PBUH}{\BODY} said, "Whoever swears an oath to take
 the right of a Muslim unjustly, Allāh will make the Fire obligatory for him and
 forbid Paradise for him." A man said, "Even if it is something small, O
 Messenger of Allāh?" He \hon{\PBUH}{\BODY} said, "Even if it is a twig of the
-_arāk_ tree."[-@@muslim, vol. 1, pp. 474-5, #126]
+_arāk_ tree."[-@@muslim, vol. 1, pp. 474--5, #126]
 
-<!-- TODO ref al-Muwaṭṭāʾ -->
 The Companions were extremely cautious about taking oaths. Once, ʿAbdullāh ibn
 ʿUmar \hon{\P_TWO}{\BODY} sold a slave. Later it was discovered that the slave
 had an illness. The case was presented before ʿUthmān \hon{\P_HIM}{\BODY}, who
 wished to take an oath from Ibn ʿUmar \hon{\P_TWO}{\BODY}, but he refused to
-swear and instead took the slave back. \[al-Muwaṭṭaʾ\]
+swear and instead took the slave back.[-@@malik16, vol. 3, p. 48, #1745]
 
 Allāh has commanded that oaths should not be used as a means of deceiving
 people---by swearing falsely to make others believe what is untrue. The
@@ -322,15 +339,24 @@ them...”[-@@majah14, vol. 3, pp. 574--5, #4049]
 that plagues and diseases spread among them which were not present among those
 before them..." -->
 
-<!-- TODO ref majmu3 fatawa -->
-Shaykh al-Islām Ibn Taymīyah \hon{\M_HIM}{\BODY} said, "Injustice in
+<!-- Shaykh al-Islām Ibn Taymīyah \hon{\M_HIM}{\BODY} said, "Injustice in
 transactions, such as cheating in weights and measures, is among the greatest
-forms of oppression." \[Majmūʿ al-Fatāwā\]
+forms of oppression." \[Majmūʿ al-Fatāwā\] -->
 
-<!-- TODO ref Ibn al-Qayyim -->
-Imam Ibn al-Qayyim \hon{\M_HIM}{\BODY} said, "The foundation of transactions is
+Shaykh al-Islām Ibn Taymīyah \hon{\M_HIM}{\BODY} said, “As for shortchanging
+people in weights and measures, it is among the practices for which Allāh
+destroyed the people of Shuʿayb, whose story He recounts to us in several places
+in the Qurʾān so that we may take heed. Persisting in this practice is among the
+gravest major sins, and the one who does so deserves a severe
+punishment.”[-@@majmu3fatawa, vol. 29, p. 474]
+
+<!-- Imam Ibn al-Qayyim \hon{\M_HIM}{\BODY} said, "The foundation of transactions is
 justice, and anything that departs from justice is oppression." \[Iʿlām
-al-Muwaqqiʿīn\]
+al-Muwaqqiʿīn\] -->
+
+Imam Ibn al-Qayyim \hon{\M_HIM}{\BODY} said, “The foundation of all contracts is
+justice, which is the very principle with which the Messengers were sent and the
+Books were revealed.”[-@@i3lam, vol. 2, p. 239]
 
 
 ## Breaking Covenants (Naqḍ al-ʿAhd)
@@ -381,8 +407,8 @@ Shaykh al-Islām Ibn Taymīyah \hon{\M_HIM}{\BODY} said, "Fulfilling covenants i
 among the greatest obligations, and treachery (_ghadr_) is among the gravest
 prohibitions." \[Majmūʿ al-Fatāwā\]
 
-<!-- TODO ref Zaad Ma3aad -->
-<!-- TODO ref Madarij Salikin -->
+<!-- TODO ref Zaad Ma3aad: Couldn't find -->
+<!-- TODO ref Madarij Salikin: Couldn't find -->
 
 Imam Ibn al-Qayyim \hon{\M_HIM}{\BODY} said, "The Prophet \hon{\PBUH}{\BODY}
 would never betray a covenant, even with his enemies, and he commanded
@@ -460,12 +486,11 @@ fleeing from the battlefield, and accusing chaste, believing, unsuspecting
 women."[-@@bukhari, vol.~2, p.~203, #6858]
 
 
-<!-- TODO ref majmu3 fatawa -->
-
+<!-- TODO ref majmu3 fatawa: Couldn't find -->
 Shaykh al-Islām Ibn Taymīyah \hon{\M_HIM}{\BODY} said, "Slandering the innocent
 is among the gravest forms of injustice and falsehood." \[Majmūʿ al-Fatāwā\]
 
-<!-- TODO ref madarij salikin -->
+<!-- TODO ref madarij salikin: Couldn't find -->
 
 Imam Ibn al-Qayyim \hon{\M_HIM}{\BODY} said, "_Buhtān_ is to attribute to a person
 what he is free from, and it is more severe than lying." \[Madarij al-Salikin\]
@@ -748,7 +773,7 @@ follows suspicion and bad assumptions." He also said, "Suspicion without
 evidence is forbidden, for it is speaking about others without knowledge."
 \[Majmūʿ al-Fatāwā\]
 
-<!-- TODO ref Madarij Salikin Ibn al-Qayyim -->
+<!-- TODO ref Madarij Salikin: Couldn't find -->
 
 Imam Ibn al-Qayyim \hon{\M_HIM}{\BODY} said, "The foundation of brotherhood is a
 sound heart, and it is destroyed by suspicion and ill assumptions." \[Madarij
@@ -874,10 +899,11 @@ to say,
 p. 291, #6115]
 \HADITH_END
 
+<!-- Imam Ibn al-Qayyim \hon{\M_HIM}{\BODY} said, "If anger is not restrained, it
+leads to oppression, injustice, and regret." -->
 
-<!-- TODO ref Madarij Salikin -->
-Imam Ibn al-Qayyim \hon{\M_HIM}{\BODY} said, "If anger is not restrained, it
-leads to oppression, injustice, and regret." \[Madarij al-Salikin\]
+Imam Ibn al-Qayyim \hon{\M_HIM}{\BODY} said, "Anger drives a person towards
+arrogance, rancor, envy, aggression, and foolishness."[-@@madarijsalikeen vol. 3, p. 33]
 
 
 ## Resentment and Malice (Ḥiqd)
@@ -929,10 +955,16 @@ Shaykh al-Islām Ibn Taymīyah \hon{\M_HIM}{\BODY} said, "Removing malice from
 the heart is among the greatest acts of purification of the soul." \[Majmūʿ
 al-Fatāwā\]
 
-<!-- TODO ref Madarij Salikin -->
+<!-- Imam Ibn al-Qayyim \hon{\M_HIM}{\BODY} said, "The heart cannot be sound while it
+contains malice, envy, and hatred." -->
 
-Imam Ibn al-Qayyim \hon{\M_HIM}{\BODY} said, "The heart cannot be sound while it
-contains malice, envy, and hatred." \[Madarij al-Salikin\]
+Imam Ibn al-Qayyim \hon{\M_HIM}{\BODY} said, "A sound heart is one that is free
+from associating partners with Allah, rancour, malice, envy, miserliness,
+arrogance, and love of worldly life and leadership. It is free from every
+affliction that distances it from Allah, every doubt that conflicts with what He
+has revealed, every desire that goes against His commands, every inclination
+that competes with His will, and every obstacle that cuts it off from
+Him."[-@@daa_wa_dawa, pp. 282--3]
 
 
 ## Arrogance (Kibr)
@@ -1084,12 +1116,17 @@ minor _shirk_, and it invalidates the deed for which it is intended." He also
 said, "Actions are only accepted when they are purely for Allāh and in
 accordance with the Sunnah." \[Majmūʿ al-Fatāwā\]
 
-<!-- TODO ref madarij salikin -->
-
+<!-- OLD TRANSLATION
 Imam Ibn al-Qayyim \hon{\M_HIM}{\BODY} said, "_Ikhlāṣ_ is that the servant's
 inward and outward actions are the same. _Riyāʾ_ is when the outward actions are
 better than the inward. And truthfulness in sincerity is when the inward is
-better than the outward." \[Madarij al-Sālikīn\]
+better than the outward." -->
+
+Imam Ibn al-Qayyim \hon{\M_HIM}{\BODY} said, “It has been said: Sincerity
+(_ikhlāṣ_) is for a person's outward and inward actions to be equal. Ostentation
+(_riyāʾ_) is for his outward state to be better than his inward state.
+Truthfulness in sincerity is for his inward state to be more flourishing than
+his outward state.”[-@@madarijsalikeen, vol. 2, p. 349]
 
 
 ## Envy (Ḥasad)
@@ -1744,8 +1781,8 @@ objective is to spend the wealth given by Allāh in righteous causes and thereby
 earn His pleasure. Gratitude for wealth lies in using it as a means for success
 in both religion and the world.
 
-<!-- TODO ref Ibn al-Qayyim Fawa2id -->
-<!-- TODO ref Madarij Salikin -->
+<!-- TODO ref Ibn al-Qayyim Fawa2id: Couldn't find -->
+<!-- TODO ref Madarij Salikin: Couldn't find -->
 
 Imam Ibn al-Qayyim \hon{\M_HIM}{\BODY} said, "Miserliness is among the greatest
 diseases of the heart, and it opposes trust in Allāh and reliance upon Him."
@@ -1815,11 +1852,15 @@ Imam Ibn Kathīr \hon{\M_HIM}{\BODY} mentioned, "Some of the Salaf said, 'Allāh
 has gathered all of medicine in half an _āyah_: "Eat and drink, but do not be
 extravagant."'" \[Tafsīr Ibn Kathīr\]
 
-<!-- TODO ref madarij salikin -->
-
+<!-- OLD TRANSLATION
 Imam Ibn al-Qayyim \hon{\M_HIM}{\BODY} said, "If wealth is in your hand and not
 in your heart, it will not harm you even if it is abundant; but if it is in your
-heart, it will harm you even if you possess nothing." \[Madārij al-Sālikīn\]
+heart, it will harm you even if you possess nothing." -->
+
+Imam Ibn al-Qayyim \hon{\M_HIM}{\BODY} said, “Whenever wealth is in your hand
+but not in your heart, it will not harm you, no matter how abundant it may be.
+But whenever it occupies your heart, it will harm you, even if you possess none
+of it.”[-@@madarijsalikeen, vol. 2, p. 108]
 
 
 ## Secretly Taking from Shared Property (Ghulūl)
