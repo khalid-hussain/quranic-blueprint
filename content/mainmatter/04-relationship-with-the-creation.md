@@ -24,11 +24,15 @@ wrong. If, through us, people begin to do good or refrain from evil, then we
 will receive a reward equal to theirs. Enjoining good and forbidding evil is
 itself a great act of righteousness.
 
-<!-- TODO ref missing -->
-
-Shaykh al-Islām Ibn Taymīyah \hon{\M_HIM}{\BODY} said, "The one who enjoins
+<!-- Shaykh al-Islām Ibn Taymīyah \hon{\M_HIM}{\BODY} said, "The one who enjoins
 good and forbids evil requires three qualities: knowledge before it, gentleness
-during it, and patience after it." \[al-Amr bil-Maʿrūf wa-n-Nahy ʿan al-Munkar\]
+during it, and patience after it." \[al-Amr bil-Maʿrūf wa-n-Nahy ʿan al-Munkar\] -->
+
+Shaykh al-Islām Ibn Taymīyah \hon{\M_HIM}{\BODY} said, “These three qualities
+are indispensable: knowledge, gentleness, and patience. Knowledge must precede
+enjoining good and forbidding evil; gentleness must accompany it; and patience
+must follow it---although all three qualities should be maintained
+throughout.”[-@@majmu3fatawa, vol. 28, p. 137]
 
 The Prophet \hon{\PBUH}{\BODY} said, "...your enjoining what is right and
 forbidding what is wrong is charity for you..."[-@@abuesa16, vol. 3, pp. 165--6,
@@ -85,11 +89,9 @@ This means that when wrongdoing spreads, and the righteous remain silent,
 punishment may encompass both the wrongdoers and those who failed to oppose
 them.
 
-<!-- TODO ref missing -->
-
 Shaykh al-Islām Ibn Taymīyah \hon{\M_HIM}{\BODY} said,
 
-> Rather, the religion is built upon enjoining what is good and forbidding what
+<!-- > Rather, the religion is built upon enjoining what is good and forbidding what
 > is evil, and the two are inseparable. Evil must not be forbidden except
 > alongside calling to a good that replaces it, just as Allāh, Exalted is He,
 > commanded that He be worshipped and forbade the worship of anything besides
@@ -101,7 +103,23 @@ Shaykh al-Islām Ibn Taymīyah \hon{\M_HIM}{\BODY} said,
 > with righteous action, he will not truly abandon evil deeds---except in a
 > deficient manner. Indeed, many prohibited matters are only forbidden because
 > they corrupt and undermine righteous deeds, so they are prohibited in order to
-> safeguard the soundness of righteous actions. \[Iqtiḍāʾ aṣ-Ṣirāṭ al-Mustaqīm\]
+> safeguard the soundness of righteous actions. \[Iqtiḍāʾ aṣ-Ṣirāṭ al-Mustaqīm\] -->
+
+> Rather, the religion is founded upon enjoining what is good and forbidding what
+> is evil; neither can be upheld without the other. Whenever an evil is forbidden,
+> it must be accompanied by an instruction to do something good that serves as a
+> lawful alternative. This is just as Allāh, Glorified is He, commands us to
+> worship Him and forbids us from worshipping anything besides Him, for the very
+> foundation of the religion is the testimony that none has the right to be
+> worshipped except Allāh.
+
+> The human soul was created to act, not merely to abstain. Abstention is sought
+> only as a means to something else. Unless a person occupies himself with
+> righteous deeds, he will not truly refrain from evil or deficient actions.
+> Indeed, some evil deeds are prohibited because they corrupt a person's
+> righteous deeds; they are therefore forbidden to preserve the integrity of
+> those deeds.[-@@iqtida_sirat_mustaqim, vol. 2, p. 126]
+
 
 
 ## The Method of Daʿwah (Calling to Allāh)
@@ -212,16 +230,23 @@ oppressor committing oppression and do not restrain him, it is possible that
 Allāh will seize all of them with punishment."[-@@abudawud, vol. 6, p. 486,
 #4290]
 
-<!-- TODO ref Abū Dāwūd: recheck -->
+<!-- The Prophet \hon{\PBUH}{\BODY} replied, "Command one another to do good and
+forbid one another from evil. But when you see greed being obeyed, miserliness
+being followed, worldly life being preferred over religion, and every person
+admiring his own opinion, then take care of yourself and leave the common
+people. After you will come a time in which holding firmly to the religion will
+be like holding a burning coal in one's hand." -->
 
 Abū Thaʿlabah al-Khashanī \hon{\P_HIM}{\BODY} asked the Messenger of Allāh
 \hon{\PBUH}{\BODY} about the meaning of this _āyah_. The Prophet
-\hon{\PBUH}{\BODY} replied, "Command one another to do good and forbid one
-another from evil. But when you see greed being obeyed, miserliness being
-followed, worldly life being preferred over religion, and every person admiring
-his own opinion, then take care of yourself and leave the common people. After
-you will come a time in which holding firmly to the religion will be like
-holding a burning coal in one's hand."[-@@abudawud, vol. , p. , #]
+\hon{\PBUH}{\BODY} replied, “Continue to enjoin what is good and forbid what is
+evil. But when you see people obeying their greed, following their desires,
+preferring worldly life over the Hereafter, and each person being impressed with
+his own opinions, then concern yourself with your own well-being and leave the
+common people alone. For there will come after you days when patience will be
+like holding a burning coal in one's hand. Whoever remains steadfast in those
+times will receive the reward of fifty men who do the same deeds as he
+does.”[-@@abudawud, vol. 6, pp. 488--90, #4293]
 
 
 ## Conduct Towards Parents
@@ -424,17 +449,14 @@ Women are generally tender-hearted, and for this reason, the Messenger of Allāh
 \hon{\PBUH}{\BODY} showed them special care. Once, during a journey, the wives
 of the Prophet \hon{\PBUH}{\BODY} were riding camels that were moving quickly.
 The Prophet \hon{\PBUH}{\BODY} said to Anjashah, the Abyssinian servant, "Be
-gentle---do not break the glass vessels (i.e. the women)."[-@@bukhari, vol.~5,
-p.~327, #6211]
-
-
-<!-- TODO ref Isabah -->
+gentle---do not break the glass vessels (i.e. the women)."[-@@bukhari, vol. 5,
+p. 327, #6211]
 
 The Companions showed deep affection toward their wives. Once, Ḥasan ibn ʿAlī
 \hon{\P_TWO}{\BODY} divorced his wife for a specific reason and sent her the
 full dowry (_mahr_). Upon seeing it, she wept and said, "This is insignificant
 compensation for separation from a beloved companion." When Ḥasan heard this, he
-too wept uncontrollably. \[al-Iṣābah\]
+too wept uncontrollably.[-@@mu3jam_kabir, vol. 2, p. 687, #2757]
 
 
 ## Conduct with Relatives
@@ -516,10 +538,9 @@ vol.~5, p.~251, #6005]
 ʿAbdullāh ibn ʿUmar \hon{\P_TWO}{\BODY} would never eat unless an orphan was
 present with him.[-@@adabmufrad, p. 73, #136]
 
-<!-- TODO ref Adab Mufrad: Couldn't find -->
-
 ʿĀʾishah \hon{\P_HER}{\BODY} took orphan girls from her family and the Anṣār
-into her home and raised them with great care. \[al-Adab al-Mufrad\]
+into her home and raised them with great care.[-@@ahmad, vol. 43, p. 340,
+#26313; -@@malik16, vol. 1, p. 470, #562]
 
 Orphans' wealth must not be wasted or misused. It may be spent only where it
 benefits them. ʿĀʾishah \hon{\P_HER}{\BODY} used to invest orphans' wealth in
@@ -557,20 +578,17 @@ Resurrection..."[-@@bukhari, vol. 2, p. 435, #2442]
 The Companions actively sought out the needy. When al-Zubayr \hon{\P_HIM}{\BODY}
 passed away, he left behind a massive debt. His son ʿAbdullāh worried about
 repayment. Ḥakīm ibn Ḥizām offered help if needed. \[Ṣaḥīḥ al-Bukhārī\]
-[-@@bukhari, vol.~3, pp.~141--143, #3129]
+[-@@bukhari, vol. 3, pp. 141--3, #3129]
 
+<!-- ʿAbdullāh ibn ʿUmar \hon{\P_TWO}{\BODY} would rarely eat without a poor person present. -->
 
-<!-- TODO ref Adab Mufrad: Couldn't find this version with "poor person". "Orphan" version available. -->
+ʿAbdullāh ibn ʿUmar would not eat until a poor person was brought to eat with
+him.[-@@bukhari, vol. 5, pp. 12--3, #5393]
 
-ʿAbdullāh ibn ʿUmar \hon{\P_TWO}{\BODY} would rarely eat without a poor person
-present. \[al-Adab al-Mufrad\]
-
-<!-- TODO missing reference -->
-<!-- TODO add honorific -->
-
-When Ḥārithah lost his eyesight, he tied a rope from his basket to the door.
-When a poor person arrived, he would take dates from the basket and follow the
-rope to give them.
+When Ḥārithah ibn al-Nuʿmān \hon{\P_HIM}{\BODY} lost his eyesight, he tied a
+rope from his basket to the door. When a poor person arrived, he would take
+dates from the basket and follow the rope to give them.[-@@mu3jam_kabir, vol. 3,
+p. 803, #3228]
 
 If someone asks for help---whether physical, financial, or intellectual---the
 request should not be harshly rejected. If assistance is possible, it should be
@@ -766,12 +784,13 @@ When one of them is given the news of a female child, his face darkens and he
 suppresses his anger. (Sūrat al-Naḥl, Q16:58)
 \AYAH_END
 
-
 It is commonly observed that when a girl is born instead of a boy, people do not
 celebrate as much and often show sorrow. This was the condition of the Arabs
 before Islam, who would even bury their daughters alive.
 
-<!-- TODO ref is missing -->
+<!-- 
+((يذكر أن صحابيًّا اسمه عبد الله بن مغفل رضي الله عنه كان إذا جلس عند رسول الله صلى الله عليه وسلم ظهر على وجهه حزن وكآبة عظيمان، فسأله النبي صلى الله عليه وسلم عن سبب حزنه ذلك الذي لا ينقطع أبدًا، فقال: كنت في الجاهلية، وخرجت من عند زوجي وهي حامل، وذهبت في سفرٍ طويل لم أعُدْ إلا بعد سنوات، وجئت وإذا بها قد أنجبت لي طفلة تلعب بين الصبيان كأجمل ما يكون الأطفال، قال: فأخذتها وقلت لأمها: زيِّنيها، زينيها، وهي تعلم أني سأئدُها وأقتلها، فقامت أمها تزينها وبها من الهمِّ ما بها، زينتها وهي تقول لأبيها: يا رجل، لا تضيع الأمانة، يا رجل، لا تضيع الأمانة، قال: ثم أخذتها كأجمل ما يكون الأطفال براءة وجمالًا، فخرجت بها إلى شِعب من الشعاب، قال: وبقيت في ذلك الشعب أبحث عن بئر أعرفها هناك، وكانت عميقة وليس بها قطرة ماء. قال: فوقفت على تلك البئر أنظر إلى تلك الصغيرة فيرق قلبي لما بها من براءة، ليس لها أي ذنب، ثم أتذكر نكاحها وسفاحها؛ فيقسو قلبي عليها، بين هاتين العاطفتين أعيش، قال: ثم استجمعت قواي، فأخذتها وألقيت بها في تلك البئر، وبقيت أنتظرها هل ماتت؟ وإذا بها تقول: يا أبتاه، ضيعت الأمانة، يا أبتاه، ضيعت الأمانة. ترددها وترددها حتى انقطع صوتها، فوالله يا رسول الله: ما ذكرت تلك الحادثة إلا وعلاني الهم والحزن، وتمنيت لو كنت نسيًا منسيًّا لو كان ذلك في الإسلام، ثم نظر إلى النبي الله صلى الله عليه وسلم فإذا دموعه قد بللت لحيته، وإذا به يقول: يا عبد الله، والله لو كنت مقيمًا الحد على رجل فعل فعلًا في الجاهلية لأقمته عليك لكن الإسلام يجب ما قبله)).
+-->
 
 A Companion once narrated to the Prophet \hon{\PBUH}{\BODY} that before Islam,
 he had a daughter. When he would call her, she would run joyfully toward him.
@@ -780,10 +799,15 @@ One day, he led her to a well and threw her into it while she cried out,
 
 The Messenger of Allāh \hon{\PBUH}{\BODY} wept so intensely upon hearing this
 that his beard became wet with tears. He then said, "Go. Islam has erased what
-came before it."
+came before it."[^girl_well]
+
+[^girl_well]: We could not find a reference for this narration. The Companion in
+    the narration is reportedly ʿAbdullāh ibn Mughaffal. The al-Durar al-Sanīyah
+    websites rules this as a narration without a chain of transmission
+    (`https://dorar.net/fake-hadith/488`).
 
 The Prophet \hon{\PBUH}{\BODY} said, "Allāh has forbidden disobedience to
-mothers and the burying of daughters alive."[-@@bukhari, vol.~2, p.~416, #2408.]
+mothers and the burying of daughters alive."[-@@bukhari, vol. 2, p. 416, #2408]
 
 He \hon{\PBUH}{\BODY} did not merely forbid killing daughters, he elevated their
 status.
@@ -828,21 +852,18 @@ servants to show kindness to them.
 
 The Messenger of Allāh \hon{\PBUH}{\BODY} said, "A Muslim has five rights over
 another Muslim---one of them is that he visits him when he is sick."[-@@bukhari,
-vol.~1, p.~625, #1240]
+vol. 1, p. 625, #1240]
 
-<!-- TODO ref Abū Dāwūd: this is a mawquf narration -->
 <!-- OLD TRANS
 When a Muslim visits his sick brother in the morning, seventy thousand angels send
 blessings upon him until evening; and if he visits him in the evening, seventy
 thousand angels send blessings upon him until morning.
 -->
-
 The Prophet \hon{\PBUH}{\BODY} said, "Whoever visits a sick person in the
 evening is accompanied by seventy thousand angels, who pray for his forgiveness
 until morning, and he is granted a garden harvest in Paradise. Whoever visits a
 sick person in the morning is accompanied by seventy thousand angels, who pray
-for his forgiveness until evening, and he is granted a garden harvest in
-Paradise."[-@@abudawud, vol. 5, p. 244, #3086]
+for his forgiveness until evening."[-@@abudawud, vol. 5, p. 245, #3087]
 
 He \hon{\PBUH}{\BODY} also said, "When someone visits a sick person, he
 continues harvesting the fruits of Paradise until he returns."[-@@muslim, vol.
@@ -901,7 +922,6 @@ love, mercy, and compassion, are like a single body: if one part suffers, the
 whole body responds with sleeplessness and fever."[-@@bukhari, vol.~5, p.~253,
 #6011.]
 
-<!-- TODO ref Muslim: review translation -->
 He \hon{\PBUH}{\BODY} said, “...A Muslim is the brother of another Muslim. He
 neither wrongs him, lets him down, nor looks down upon him... It is enough evil
 for a person to look down upon his Muslim brother. The blood, wealth, and honor
@@ -951,40 +971,35 @@ There is no creature on the earth, nor any bird that flies with its wings,
 except that they are communities like you. (Sūrat al-Anʿām, Q6:38)
 \AYAH_END
 
-
 Just as we do not wish harm for one another and care for each other's comfort,
 we must also treat animals with gentleness.
 
-<!-- TODO ref is missing -->
-Once some people came to ʿUbaydullāh and ʿAbdullāh \hon{\P_TWO}{\BODY} and asked
+<!-- Once some people came to ʿUbaydullāh and ʿAbdullāh \hon{\P_TWO}{\BODY} and asked
 whether they had heard anything from the Messenger of Allāh \hon{\PBUH}{\BODY}
 regarding a man who rides a horse and beats it excessively. They replied that
 they had not. Their elder sister then said from inside the house, "Allāh Himself
 Says, 'There is no creature on the earth nor bird that flies with its wings
-except that they are communities like you.' (Sūrat al-Anʿām, Q6:38)"
+except that they are communities like you.' (Sūrat al-Anʿām, Q6:38)" -->
+
+ʿUbaydullāh ibn Ziyād once came to the two sons of Busr al-Sulamī and asked
+whether they had heard anything from the Messenger of Allāh \hon{\PBUH}{\BODY}
+regarding a man who rides a horse and beats it excessively. They replied that
+they had not. Their elder sister then said from inside the house, "Allāh Himself
+Says, 'There is no creature on the earth nor bird that flies with its wings
+except that they are communities like you.' (Sūrat al-Anʿām, Q6:38)"[-@@ahmad,
+vol. 29, pp. 229--30, #17685]
 
 A Companion narrated, "I asked the Messenger of Allāh \hon{\PBUH}{\BODY} about
 stray camels that come to my watering troughs, which I had prepared and filled
 for my own camels---is there any reward for me if I water them?" He replied,
 "Yes, there is a reward in [watering] every creature with a moist liver (i.e. a
 living creature)."[@@majah14, vol. 3, p. 443, #3711]
- 
-<!-- A Companion asked the Prophet \hon{\PBUH}{\BODY}, "O Messenger of Allāh, I have
-made water troughs for my animals. If stray camels drink from them, will I
-receive reward?" He replied, "There is reward in showing kindness to every
-living being." \[Ṣaḥīḥ al-Bukhārī\] -->
-
-<!-- إِنَّهُ لَا يَنْبَغِي أَنْ يُعَذِّبَ بِالنَّارِ إِلَّا رَبُّ النَّارِ -->
-<!-- TODO ref Abū Dāwūd: missing second part -->
 
 Once during a journey, the Prophet \hon{\PBUH}{\BODY} saw that someone had lit a
 fire near an ant nest. He asked who had done it. He \hon{\PBUH}{\BODY} then
 said, "It is not befitting that anyone should punish with fire except the Lord
-of the Fire."[-@@abudawud, vol. 7, pp. 584--5, #5179] When the man replied, the
-Prophet \hon{\PBUH}{\BODY} said, "Extinguish it, extinguish it," so that the
-ants would not be harmed.
+of the Fire."[-@@abudawud, vol. 7, pp. 584--5, #5179]
 
-<!-- TODO review translation -->
 The Prophet \hon{\PBUH}{\BODY} said regarding a woman, "She was punished because
 she imprisoned a cat---neither feeding it nor allowing it to eat from the earth,
 until it died."[-@@bukhari, vol. 2, p. 399, #2365]
@@ -995,7 +1010,6 @@ and that Allāh will question a person who kills an animal unjustly. The Prophet
 just cause except that Allāh will question him about it."[-@@nasaiis, vol. 7,
 pp. 101--2, #4389]
 
-<!-- TODO ref Muslim: Review translation -->
 He \hon{\PBUH}{\BODY} commanded excellence even in slaughter, saying, "Allāh has
 prescribed excellence in all things. If you kill, kill well; and if you
 slaughter, slaughter well. Let one of you sharpen his blade and spare the animal
@@ -1061,29 +1075,26 @@ above the heavens will show mercy to you."[-@@abudawud, vol. 7, p. 395, #4855]
 
 Kindness is not restricted to Muslims alone.
 
-<!-- TODO One thousand what? -->
-<!-- TODO ref missing -->
+<!-- tabaqat kubra: her bequest of one-third of her estate to a Jewish nephew of hers
+وَرَّثَتْ صَفِيَّةُ مِائَةَ أَلْفِ دِرْهَمٍ، فَأَوْصَتْ لِابْنِ أُخْتِهَا، وَهُوَ يَهُودِيٌّ، بِثُلُثِهَا ...
+ -->
 
-Ṣafīyah \hon{\P_HER}{\BODY} gave charity worth one thousand to her Jewish
-relatives.
+Ṣafīyah \hon{\P_HER}{\BODY} once told a Jewish relative of hers to embrace
+Islam, for if he did, he would inherit from her. However, he declined, so she
+made a bequest in his favor.[-@@musannafabdirrazzaq, vol. 6, p. 146, #10755--6]
 
-<!-- TODO ref missing -->
-
-Abū Maysarah, ʿAmr ibn Maymūn, and ʿAmr ibn Sharjīl gave _ṣadaqat al-fiṭr_ to
-Christian monks.
+ʿAmr ibn Maymūn, ʿAmr ibn Shuraḥbīl, and Murrah al-Hamdānī gave _ṣadaqat
+al-fiṭr_ to Christian monks.[-@@kitab_amwal, p. 626, #1999]
 
 ʿUmar \hon{\P_HIM}{\BODY} sent a gift to his polytheist brother during the
-Prophet's \hon{\PBUH}{\BODY} lifetime.[-@@bukhari, vol.~1, p.~465, #886.]
-
-<!-- TODO ref missing -->
+Prophet's \hon{\PBUH}{\BODY} lifetime.[-@@bukhari, vol. 1, p. 465, #886]
 
 Abū Baṣrah al-Ghifārī narrated that when he was still a disbeliever, he stayed
 as a guest with the Prophet \hon{\PBUH}{\BODY} and drank the milk of all the
 goats of the household. The Prophet \hon{\PBUH}{\BODY} did not rebuke him, and
-the household remained hungry that night.
+the household remained hungry that night.[-@@ahmad, vol. 45, pp. 202--3, #27226]
 
-<!-- TODO ref Muslim: Add footnote that she later became muslim? -->
 The mother of Abū Hurayrah \hon{\P_HIM}{\BODY} was a disbeliever and used to
 insult the Prophet \hon{\PBUH}{\BODY}. When Abū Hurayrah complained, the Prophet
 \hon{\PBUH}{\BODY} raised his hands in supplication instead of anger.[-@@muslim,
-vol. 6, pp. 350--1, #2572]
+vol. 6, pp. 350--1, #2572; she became Muslim.]

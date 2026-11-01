@@ -30,32 +30,20 @@ _Taqwá_ is that you act in obedience to Allāh upon a light from Allāh, hoping
 for the reward of Allāh; and that you abandon disobedience to Allāh upon a light
 from Allāh, fearing the punishment of Allāh.
 
-<!-- TODO ref Shu3ab al-Iman -->
-
-ʿUmar ibn al-Khaṭṭāb \hon{\P_HIM}{\BODY} was once asked, "What is _taqwá_?" He
-replied, "Have you not walked upon a thorny path?" The man said, "Yes." ʿUmar
-said, "What did you do?" He replied, "I gathered my garments tightly and walked
-carefully." ʿUmar said, "That is _taqwá_." \[Shuʿab al-Īmān\]
-
-<!-- TODO ref Shu3ab al-Iman -->
+ʿUmar ibn al-Khaṭṭāb \hon{\P_HIM}{\BODY} once asked Ubayy ibn Kaʿb
+\hon{\P_HIM}{\BODY} about _taqwá_. He said, “Have you ever walked along a thorny
+path?” “Yes,” replied ʿUmar. “What did you do?” Ubayy asked. “I gathered up my
+garments and walked with great care,” he replied. “That,” said Ubayy, “is
+_taqwá_.”[-@@tafsir_ibnkathir, vol. 1, p. 255]
 
 ʿAlī ibn Abī Ṭālib \hon{\P_HIM}{\BODY} said, "_Taqwá_ is fearing the Most
 Majestic (Allāh), acting upon the Revelation, being content with little, and
-preparing for the Day of Departure." \[Shuʿab al-Īmān\]
+preparing for the Day of Departure."[-@@is3afakhbar, vol. 2, p. 261. It is a
+widespread saying without a chain of transmission.]
 
 True honor in the sight of Allāh is based on _taqwá_. The Quran states that the
 most honored of people before Allāh is the one who possesses the greatest
 _taqwá_.
-
-<!-- Imam Ibn al-Qayyim \hon{\M_HIM}{\BODY} said, "_Taqwá_ has three levels:
-
-1.  The first is the vigilance of the heart and limbs to avoid sins and
-    prohibitions.
-2.  The second is avoiding disliked matters.
-3.  The third is avoiding what is superfluous and of no concern.
-
-The first gives life to the heart. The second grants it soundness and strength.
-The third brings it happiness, joy, and delight." \[al-Fawāʾid\] -->
 
 Imam Ibn al-Qayyim \hon{\M_HIM}{\BODY} said, “_Taqwá_ has three levels. The
 first is to guard the heart and limbs against sins and forbidden acts. The
@@ -64,15 +52,12 @@ excess and from that which does not concern one. The first gives a person life;
 the second grants them health and strength; and the third brings them happiness,
 joy, and delight.”[-@@fawaid, p. 45]
 
-
-<!-- TODO Jami3 al-Ulum wa al-Hikam -->
-
 Similarly, Imam Ibn Rajab al-Ḥanbalī \hon{\M_HIM}{\BODY} said, "_Taqwá_ is that
 a servant places a protective barrier between himself and that which he fears
 and dreads. Thus, _taqwá_ of Allāh is that a person places a barrier between
 himself and Allāh's punishment, anger, and displeasure---by carrying out what He
-has commanded and abstaining from what He has forbidden." \[Jāmiʿ al-ʿUlūm wa
-al-Ḥikam\]
+has commanded and abstaining from what He has forbidden."[-@@jami3ulum, vol. 1,
+p. 398]
 
 The Messenger of Allāh \hon{\PBUH}{\BODY} said during the Farewell Pilgrimage,
 "O people, indeed your Lord is One, and your father is one. There is no
@@ -107,17 +92,11 @@ from where he could never imagine. (Sūrat al-Ṭalāq, Q65:2--3)
 ʿAbdullāh ibn Masʿūd \hon{\P_HIM}{\BODY} said that this _āyah_ is the greatest
 _āyah_ in the Quran regarding relief and deliverance.[-@@tafsir_ibnkathir, vol. 7, pp. 300--1]
 
-<!-- TODO ref Ibn al-Jawzi -->
-
 Imam Ibn al-Jawzī \hon{\M_HIM}{\BODY} said, "I was afflicted by a distress that
 caused me prolonged anxiety, and I sought relief by every possible means but
 found none. Then this _āyah_ was brought to my attention, and I realized that
 _taqwá_ is the true cause of deliverance from every hardship. When I resolved to
-attain _taqwá_, I found the way out." \[Ṣayd al-Khāṭir\]
-
-<!-- Imam Ibn al-Qayyim \hon{\M_HIM}{\BODY} said, "Just as the affairs of the one who
-fears Allāh are made easy, the affairs of the one who abandons _taqwá_ are made
-difficult." \[Ad-Dāʾ wa ad-Dawāʾ\] -->
+attain _taqwá_, I found the way out."[-@@saydalkhatir, p. 263]
 
 Imam Ibn al-Qayyim \hon{\M_HIM}{\BODY} said, “Just as Allāh makes matters easy
 for those who are mindful of Him, He makes matters difficult for those who
@@ -154,11 +133,29 @@ A deed lacking sincerity carries no weight with Allāh. Abū Umāmah al-Bāhilī
 > Allāh does not accept any deed except that which is done sincerely for Him and
 > by which His Face is sought." \[Sunan al-Nasāʾī\]
 
-<!-- TODO ref Ibn al-Qayyim -->
-
 Imam Ibn al-Qayyim \hon{\M_HIM}{\BODY} said,
 
-> There is nothing more beneficial for a servant than sincerity toward his Lord
+> Nothing benefits a servant more than being sincere with his Lord in all his
+> affairs, coupled with firm resolve: being sincere in both his intentions and
+> his actions. Allāh says, “If they had been true to Allāh when the matter was
+> decided, it would have been better for them.” (Sūrat Muḥammad, 47:21)
+
+> A person’s happiness lies in sincerity of resolve and sincerity of action.
+> Sincerity of resolve means being firmly determined and unwavering, without
+> hesitation or second thoughts. One’s resolve should be free from doubt and
+> reluctance. Once a person’s resolve is firm, all that remains is sincerity in
+> action: exerting every effort and striving to the utmost, holding nothing
+> back, inwardly or outwardly. Firm resolve protects a person from weakness of
+> will and ambition, while sincerity in action protects him from laziness and
+> lethargy.
+
+> Whoever is sincere with Allāh in all his affairs will find that Allāh does
+> more for him than He does for others. This sincerity is a quality that brings
+> together sound devotion to Allāh and genuine reliance upon Him. The most
+> sincere of people, therefore, are those whose devotion and reliance upon Allāh
+> are most sound.[-@@fawaid, pp. 271--2]
+
+<!-- > There is nothing more beneficial for a servant than sincerity toward his Lord
 > in all his affairs, along with sincerity of resolve. So let him be sincere
 > toward Allāh in both his intention and his action. Allāh says, "Then if they
 > had been true to Allāh, it would have been better for them." (Sūrat Muḥammad,
@@ -173,11 +170,10 @@ Imam Ibn al-Qayyim \hon{\M_HIM}{\BODY} said,
 > lethargy. Whoever is sincere toward Allāh in all his affairs, Allāh grants him
 > more than He grants others. This sincerity arises from true love of Allāh and
 > true reliance upon Him. Thus, the most sincere of people is the one who loves
-> Allāh the most and places the greatest trust in Him. \[al-Fawāʾid\]
+> Allāh the most and places the greatest trust in Him. \[al-Fawāʾid\] -->
 
-<!-- TODO ref Ibn Hisham? -->
 <!-- TODO outwardly returned? -->
-
+<!-- TODO I couldn't find the rest of the details -->
 The Companions embodied sincerity in every action. It is authentically reported
 in the books of Sīrah that al-Walīd ibn al-Walīd \hon{\P_HIM}{\BODY} was among
 those captured at the Battle of Badr. He later secured his release by paying a
@@ -188,10 +184,7 @@ al-Walīd \hon{\PBUH}{\BODY} later remarked to him that had he accepted Islam
 earlier, he would have avoided paying the ransom, al-Walīd replied with a
 statement that reflects his sincerity (_ikhlāṣ_): He said that he deliberately
 accepted Islam only after paying the ransom so that no one could claim that he
-embraced Islam merely to escape the payment. \[al-Sīrah al-Nabawiyyah\]
-
-[-@@sirahibnhisham, vol. , p. ]
-[-@@isti3ab_amman, p. ]
+embraced Islam merely to escape the payment.[-@@isti3ab_darma3rifah, p. 746]
 
 Imam Ibn al-Qayyim \hon{\M_HIM}{\BODY} said, “It has been said: Sincerity
 (_ikhlāṣ_) is for a person's outward and inward actions to be equal. Ostentation
@@ -287,12 +280,11 @@ Then he said, "I advise you, O Muʿādh, never to leave saying after every praye
 'O Allāh, help me to remember You, to thank You, and to worship You in the best
 manner.'"[-@@abudawud, vol. 3, pp. 379--80, #1515]
 
-<!-- TODO ref Aḥmad UNSURE | SEEMS LIKE A PARAPHRASE -->
-<!-- TODO KHALID: Put the whole narration in here. -->
-
-The Messenger of Allāh \hon{\PBUH}{\BODY} said, "Whoever is granted a heart that
-is grateful has been given the best of this world and the Hereafter." \[Musnad
-Aḥmad\]
+The Messenger of Allāh \hon{\PBUH}{\BODY} said, “Whoever is blessed with four
+things has been granted the best of this world and the Hereafter: a grateful
+heart, a tongue that constantly remembers Allāh, a body that patiently endures
+adversity, and a wife who remains faithful to him, safeguarding her honour and
+his wealth.”[-@@shu3abeman, vol. 6, p. 246, #4115]
 
 The Prophet \hon{\PBUH}{\BODY} said, "Indeed, Allāh is pleased with a servant
 who eats food and praises Him for it, or drinks a drink and praises Him for
@@ -321,21 +313,21 @@ when Allāh has forgiven your past and future sins?' He \hon{\PBUH}{\BODY}
 replied, 'Should I not be a grateful servant?'"[-@@bukhari, vol.~4, p.~259,
 #4837]
 
-
-<!-- TODO ref Kitab al-Shukr -->
-
-ʿAlī ibn Abī Ṭālib \hon{\P_HIM}{\BODY} said, "Blessings are tied to gratitude,
+<!-- ʿAlī ibn Abī Ṭālib \hon{\P_HIM}{\BODY} said, "Blessings are tied to gratitude,
 and gratitude is tied to increase. The increase from Allāh will never cease
-unless gratitude from the servant ceases." \[Kitāb al-Shukr\]
+unless gratitude from the servant ceases." \[Kitāb al-Shukr\] -->
 
-<!-- TODO ref Kitab al-Shukr -->
+ʿAlī ibn Abī Ṭālib \hon{\P_HIM}{\BODY} said, “Blessings are inseparably linked
+to gratitude, and gratitude brings further blessings. The two go hand in hand:
+Allāh, the Almighty, will never cease to bestow His bounty as long as His
+servant continues to be grateful.”[-@@shu3abeman, vol. 6, p. 296, #4213]
 
 Imam Ibn Abī al-Dunyā \hon{\M_HIM}{\BODY} recorded that one of the wise men
 wrote to his brother, "To proceed: O my brother, we awaken amidst blessings from
 Allāh that we cannot enumerate, despite the abundance of our disobedience to
 Him. We do not know which of them deserves more gratitude: the beautiful
-blessings He has made apparent, or the ugly deeds He has concealed." \[Kitāb
-al-Shukr\]
+blessings He has made apparent, or the ugly deeds He has concealed."[-@@shukr,
+p. 57]
 
 
 ## Reliance upon Allāh (Tawakkul)
@@ -371,10 +363,12 @@ with true reliance, He would provide for you just as He provides for the birds:
 they go out in the morning with empty stomachs and return in the evening with
 full stomachs." \[Musnad Aḥmad\] -->
 
-<!-- TODO ref Tabaqat Hanabilah -->
+<!-- Imam Aḥmad \hon{\M_HIM}{\BODY} said, "_Tawakkul_ is to sever hope from the
+creation." -->
 
-Imam Aḥmad \hon{\M_HIM}{\BODY} said, "_Tawakkul_ is to sever hope from the
-creation." \[Ṭabaqāt al-Ḥanābilah\]
+Imam Aḥmad \hon{\M_HIM}{\BODY} said, “It (tawakkul) is to abandon all
+expectation of benefit from people and place no hope in what they
+possess.”[-@@tabaqat_hanabilah, vol. 2, p. 556]
 
 _Tawakkul_ does not mean abandoning effort. Anas ibn Mālik \hon{\P_HIM}{\BODY}
 narrated that a man said, "O Messenger of Allāh, should I tie my camel and rely

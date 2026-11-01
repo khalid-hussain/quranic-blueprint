@@ -150,12 +150,22 @@ remembrance of Allāh is (an) even greater (deterrant). And Allāh (fully) knows
 what you (all) do. (Sūrat al-ʿAnkabūt, Q29:45)
 \AYAH_END
 
-<!-- TODO ref Shu3ab al-Iman: Couldn't find -->
 The Messenger of Allāh \hon{\PBUH}{\BODY} said, "...the coolness of my eyes has
-been placed in _ṣalāh_."[-@@ahmad, vol. 19, p. 305, #12293] He
-\hon{\PBUH}{\BODY} also said, "_Ṣalāh_ is the pillar of the religion. Whoever
+been placed in _ṣalāh_."[-@@ahmad, vol. 19, p. 305, #12293] Muʿādh ibn Jabal
+\hon{\P_HIM}{\BODY} reported that the Prophet \hon{\PBUH}{\BODY} said, “Shall I
+not inform you of the head of the entire matter, its pillar, and its peak?” to
+which he said, “Yes, O Messenger of Allah.” He \hon{\PBUH}{\BODY} then said,
+“The head of the matter is Islam, its pillar is the prayer, and its peak is
+Jihad.”[-@@abuesa16, vol. 3, pp. 515--6, #2817]
+
+He \hon{\PBUH}{\BODY} also said, “...whoever abandons the prayer has no
+religion, for prayer is the pillar of the religion.”[-@@shu3abeman, vol. 4, p.
+300, #2550] He \hon{\PBUH}{\BODY} also said, “What separates a person from shirk
+and kufr is the abandonment of prayer.”[-@@muslim, vol. 1, p. 424, #74]
+
+<!-- He \hon{\PBUH}{\BODY} also said, "_Ṣalāh_ is the pillar of the religion. Whoever
 establishes it has established the religion, and whoever abandons it has
-demolished the religion." \[Shuʿab al-Īmān\]
+demolished the religion." \[Shuʿab al-Īmān\] -->
 
 When ʿUmar ibn al-Khaṭṭāb \hon{\P_HIM}{\BODY} was attacked with a dagger and lay
 wounded, he was awakened for the Fajr prayer that morning. He said, "There is no
@@ -167,16 +177,28 @@ bodies of Companions and loved ones lay before him, and enemies surrounded him
 from all sides. When the time for Ẓuhr prayer arrived, he asked the enemy to
 grant him time so that he could perform the prayer.
 
-<!-- TODO ref Muwatta: Waiting for Zahid
+<!-- 
 1/414: A man from the Ansar gave it to Uthman ibn Affan who was Khalifah at the time
 1/413: Abū Ṭalḥah al-Anṣārī gave it to the Prophet (صلى الله عليه وسلم)
 -->
+
+<!-- OLD TRANSLATION
 Abū Ṭalḥah al-Anṣārī \hon{\P_HIM}{\BODY} was praying in his orchard, which was
 heavy with fruit. His gaze fell upon it, and his heart became momentarily
 distracted by its beauty. As soon as he realized this during prayer, he felt
 ashamed that worldly wealth had diverted his attention. He went to ʿUthmān ibn
 ʿAffān \hon{\P_HIM}{\BODY}, who was the Khalīfah at the time, and said that the
-orchard which distracted him would be given away in the path of Allāh.
+orchard which distracted him would be given away in the path of Allāh. -->
+
+Abū Ṭalḥah al-Anṣārī \hon{\P_HIM}{\BODY} was once praying in his garden when a
+small bird flew about, fluttering back and forth in search of a way out. He
+found its movements captivating and watched it for a while. When he returned to
+his prayer, he could no longer remember how many _rakʿāt_ he had performed.
+
+He realized that his garden had become a trial for him. So he went to the
+Messenger of Allāh \hon{\PBUH}{\BODY} and told him what had happened, saying, “O
+Messenger of Allāh, I give this garden in charity. Dispose of it as you see
+fit.”[-@@malik16, vol. 1, p. 418, #413]
 
 Muslims are commanded to perform the prayer themselves and to instruct their
 wives and children to pray. Five daily prayers are obligatory during the day and
@@ -214,9 +236,7 @@ So she ordered that a place of prayer be prepared for her in the furthest and
 darkest part of her house, and she continued to pray there until she met
 Allāh.[-@@ahmad, vol. 45, p. 37, #27090]
 
-<!-- TODO ref Abū Dāwūd: the narration mentions beating not "firmly instructing" -->
 <!-- TODO ...so this greatest habit of righteousness? -->
-
 The Messenger of Allāh \hon{\PBUH}{\BODY} instructed that children should be
 commanded to pray from the age of seven, and if they do not, then they must be
 instructed firmly by the age of ten.[-@@abudawud, vol. 2, p. 382, #492] Good and
@@ -285,29 +305,20 @@ of approximately 85 grams of gold. Muslims whose wealth or net assets reach this
 threshold and remain in their possession for a full lunar year are obligated to
 pay _zakāh_, which is 2.5% of that qualifying wealth.
 
-<!-- TODO ref Muslim: Which part, what do the terms actually mean? -->
-
 _Zakāh_ should not be viewed as a tax, fine, or penalty. Giving _Zakāh_ does not
 diminish wealth; rather, it purifies it and brings blessing. The Messenger of
 Allāh \hon{\PBUH}{\BODY} said that charity purifies wealth, cleansing it of
-impurity and increasing its goodness. \[Ṣaḥīḥ Muslim\]
+impurity and increasing its goodness.[-@@muslim, vol. 19, p. 386, #12394]
 
-<!-- =========================================== -->
 The Messenger of Allāh \hon{\PBUH}{\BODY} also warned that a person who does not
 give _Zakāh_ on gold and silver will, on the Day of Resurrection, have plates
 fashioned from that wealth, which will be heated and used to brand his forehead
 and sides.[-@@muslim, vol. 3, pp. 168--71, #999]
 
-<!-- فَلَا يَزَالُ يَتْبَعُهُ حَتَّى يُلْقِمَهُ يَدَهُ فَيَقْضِمُهَا، ثُمَّ يَتْبَعُهُ سَائِرَ جَسَدِهِ -->
-
-<!-- TODO ref No bite in narration -->
-His wealth will be transformed into a snake that will continue to
-bite him.[-@@bukhari, vol. 6, p. 163-4, #6957]
-
-Likewise, those who withhold _Zakāh_ on livestock will
-find that their animals will trample and gore them on the Day of Resurrection.
-[-@@bukhari, vol. 2, p. 8, #1402]
-<!-- =========================================== -->
+Likewise, those who withhold _Zakāh_ on livestock will find that their animals
+will trample and gore them on the Day of Resurrection. His wealth will be
+transformed into a serpent that will bite him.[-@@muslim,  vol. 3, pp. 175--6,
+#1000/1]
 
 Beyond _Zakāh_, a Muslim is encouraged to give _ṣadaqah_ (charity) whenever the
 opportunity arises. Technically speaking, _Zakāh_ refers to obligatory charity,
@@ -529,11 +540,10 @@ own soul is the foundation of striving against the disbelievers, for whoever
 does not strive against his own soul first will not be able to strive against
 his external enemy."[-@@rawdat_muhibbeen, p. 640]
 
-<!-- TODO ref Hilyat awliya -->
-
-Al-Junayd \hon{\M_HIM}{\BODY} said, "Whoever does not strive against his own
+<!-- TODO ZAHID REF -->
+<!-- Al-Junayd \hon{\M_HIM}{\BODY} said, "Whoever does not strive against his own
 soul in obedience to Allāh will never succeed in striving against his enemy."
-\[Ḥilyat al-Awliyāʾ\]
+\[Ḥilyat al-Awliyāʾ\] -->
 
 <!-- Imam Ibn al-Qayyim \hon{\M_HIM}{\BODY} said, "Striving against the soul has four
 stages:

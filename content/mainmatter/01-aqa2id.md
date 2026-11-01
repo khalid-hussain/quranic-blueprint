@@ -300,7 +300,7 @@ the prophets before me is like that of a man who built a house, completed it,
 and beautified it, except for the place of one brick in a corner. People began
 to walk around it, admiring it, and saying, 'If only this brick were placed!'"
 He then said "I am that brick, and I am the Seal of the Prophets."[-@@bukhari,
-vol.~3, p.~329, #3535]
+vol. 3, p. 329, #3535]
 
 The Messenger of Allāh \hon{\PBUH}{\BODY} said, "I am the master of the children
 of Ādam on the Day of Resurrection, and I am not boasting. In my hand will be
@@ -753,14 +753,11 @@ known and widely used among Quraysh. The Messenger of Allāh \hon{\PBUH}{\BODY}
 forbade names in which _ʿubūdiyyah_ (servitude) is attributed to anyone other
 than Allāh.
 
-<!-- TODO ref the detail "No, you are not ʿAbd al-ʿUzzá; rather, you are ʿAbdullāh." is not in Usd al-Ghabah -->
 From among the Ahl al-Ṣuffah was a Companion known as ʿAbdullāh Dhū al-Bijādayn
 \hon{\P_HIM}{\BODY}. At birth, his name was ʿAbd al-ʿUzzá (servant of the idol
 al-ʿUzzá). When he embraced Islam, the Messenger of Allāh \hon{\PBUH}{\BODY}
-changed his name and said, "No, you are not ʿAbd al-ʿUzzá; rather, you are
-ʿAbdullāh."[-@@isabah, vol. 4, p. 139]
-
-
+changed his name and said, "Rather, you are ʿAbdullāh Dhū
+al-Bijādayn."[-@@isabah, vol. 4, p. 139]
 
 The Prophet \hon{\PBUH}{\BODY} also changed names that carried undesirable
 meanings. Zaynab bint Jaḥsh and Juwayriyah bint al-Ḥārith \hon{\P_TWO}{\BODY}
@@ -971,23 +968,11 @@ repentance.”[-@@majah14, vol. 4, p. 91, #4282] The Prophet \hon{\PBUH}{\BODY}
 also said, "Indeed, Allāh accepts the repentance of the servant as long as his
 soul has not reached the throat."[-@@abuesa16, vol. 4, p. 398, #3866.]
 
-<!-- TODO ref Majmu3 Taymiyah: Couldn't find -->
-Shaykh al-Islām Ibn Taymīyah \hon{\M_HIM}{\BODY} said, "If a servant
-repents, Allāh loves him, and he rises in rank by virtue of his repentance." He
-also said, "The strength of the heart returns through repentance."
-<!-- [-@@majmu3fatawa, vol. ]
-\[Majmūʿ al-Fatāwā\] -->
-
 The Messenger of Allāh \hon{\PBUH}{\BODY} said, "The one who repents from sin is
 like one who has no sin."[-@@majah14, vol. 4, p. 91, #4284] Imam Ibn al-Qayyim
 \hon{\M_HIM}{\BODY} said, "...when a servant repents with sincere, genuine, and
 wholehearted repentance, it burns away the sins committed before it and restores
 to him the reward of his good deeds."[-@@wabilsayyib, p. 24]
-
-<!-- Imam Ibn al-Qayyim
-\hon{\M_HIM}{\BODY} said, "If a person repents with sincere repentance, his
-previous evil deeds are erased, and the reward for his good deeds is restored to
-him." \[al-Wābil al-Ṣayyib\] -->
 
 Therefore, one should constantly seek forgiveness from Allāh. He will surely
 forgive our sins.
@@ -1161,9 +1146,7 @@ Q18:23--34)
 Do not say about anything, "I will do it tomorrow," except by saying, _In-shāʾ
 Allāh_ ("If Allāh Wills").
 
-<!-- TODO ref al-Bukhārī -->
-<!-- TODO I have trouble finding this in al-Bukhārī -->
-
+<!-- OLD TRANSLATION
 Ibn ʿAbbās \hon{\P_TWO}{\BODY} reported,
 
 > The Jews came to the Prophet \hon{\PBUH}{\BODY} and asked him about certain
@@ -1171,11 +1154,15 @@ Ibn ʿAbbās \hon{\P_TWO}{\BODY} reported,
 > inform you tomorrow," but he did not say, _In-shāʾ Allāh_ ("If Allāh wills").
 > Revelation was withheld from him for several days. Then Allāh, the Exalted,
 > revealed, "And never say of anything, 'Indeed, I will do that tomorrow,'
-> except, 'If Allāh Wills.'" \[Ṣaḥīḥ al-Bukhārī?\]
+> except, 'If Allāh Wills.'" -->
 
-<!-- [-@@bukhari, vol. X, p. Y, #Z] -->
-
-
+Ibn ʿAbbās \hon{\P_TWO}{\BODY} reported that the Jews came to the Prophet
+\hon{\PBUH}{\BODY} and asked him about certain matters. The Messenger of Allāh
+\hon{\PBUH}{\BODY} said to them, "I will inform you tomorrow," but he did not
+say, _In-shāʾ Allāh_ ("If Allāh wills"). Revelation was withheld from him for
+several days. Then Allāh, the Exalted, revealed _Sūrat al-Kahf_, which included
+the _āyah_ "And never say of anything, 'Indeed, I will do that tomorrow,' except
+by adding, 'If Allāh Wills.'"[-@@tafsir_ibnkathir, vol. 4, pp. 135--6]
 
 <!-- TODO Zahid review -->
 
@@ -1359,13 +1346,10 @@ with Muhammad \hon{\PBUH}{\BODY} as his Messenger."[-@@muslim, vol. 1, pp.
 > you are more beloved to me than myself." The Prophet \hon{\PBUH}{\BODY}
 > replied, "Now, O ʿUmar."[-@@bukhari, vol.~6, p.~20, #6632]
 
-<!-- TODO ref Jami3 Bayan al-Ilm wa Fadlihi -->
-
 During a gathering in Masjid al-Nabawi, Imam Mālik ibn Anas \hon{\M_HIM}{\BODY}
 said, while pointing to the grave of the Prophet \hon{\PBUH}{\BODY},
 "Everyone's statement may be accepted or rejected, except the companion of this
-grave." \[Jāmiʿ Bayān al-ʿIlm wa Faḍlihi\]
-
+grave."[-@@siyarelam, vol. 8, p. 93]
 
 ## Obedience to Authority
 
@@ -1399,17 +1383,14 @@ ruler. Therefore, appointing a ruler over oneself is necessary for Muslims. If
 they do not do so, they will be sinful. This ruler is referred to as the Khalīfah,
 the Imam, or the Amīr.
 
-<!-- TODO check translation -->
-<!-- TODO ref missing: should not pass a night  -->
-
 The Messenger of Allāh \hon{\PBUH}{\BODY} said that whoever among you has the
 ability such that he should not pass a night or greet a morning without having
-an appointed Imam over him, then he should do so. He \hon{\PBUH}{\BODY} also
-said, "When three people set out on a journey, it is obligatory for them to
-appoint one among themselves as an Amīr."[-@@abudawud, vol. 4, p. 434, #2596]
-Consider this carefully: if appointing a leader is required even for a simple
-journey, then how can the entire Muslim population live without a Khalīfah or an
-Amīr?
+an appointed Imam over him, then he should do so.[-@@ahmad, vol. 17, pp. 346--7,
+#11247] He \hon{\PBUH}{\BODY} also said, "When three people set out on a
+journey, it is obligatory for them to appoint one among themselves as an
+Amīr."[-@@abudawud, vol. 4, p. 434, #2596] Consider this carefully: if
+appointing a leader is required even for a simple journey, then how can the
+entire Muslim population live without a Khalīfah or an Amīr?
 
 The duty of this Khalīfah, Amīr, or Imam is to act with justice, to enforce the
 religious commands upon Muslims, to care for their benefits and harms, and to
@@ -1687,7 +1668,6 @@ Indeed, the friends of Allāh will have no fear upon them, nor will they
 grieve---those who believe and are mindful of Allāh. (Sūrat Yūnus, Q10:62--63)
 \AYAH_END
 
-
 Those who obey Allāh and, through following the Messenger \hon{\PBUH}{\BODY},
 become beloved to Allāh are called His friends (_awliyāʾ_). The sign of a friend
 of Allāh is that he follows the religion and obeys Allāh and His Messenger
@@ -1701,11 +1681,8 @@ of Allāh is that he follows the religion and obeys Allāh and His Messenger
 Indeed, His friends are only the people of _taqwá_. (Sūrat al-Anfāl, Q8:34)
 \AYAH_END
 
-
-<!-- TODO ref missing -->
-
-The Messenger of Allāh \hon{\PBUH}{\BODY} said, "My friends are Allāh and the
-righteous believers."
+The Messenger of Allāh \hon{\PBUH}{\BODY} said, "...my ally is only Allāh and
+the righteous believers."[-@@bukhari, vol. 5, pp. 245--6, #5990]
 
 Imam Ḥasan al-Baṣrī \hon{\M_HIM}{\BODY} said that some people claimed to love
 Allāh, so Allāh revealed this _āyah_ to test them:
@@ -1720,16 +1697,10 @@ Love you and Forgive your sins. For Allāh is All-Forgiving, Most Merciful."
 (Sūrat Āl ʿImrān, Q3:31)
 \AYAH_END
 
-
 This means that following the Messenger \hon{\PBUH}{\BODY} is the criterion.
 Whoever fulfills it is a friend of Allāh; whoever departs from it should never
 be considered a friend of Allāh, nor should his words be trusted or one's heart
 be attached to him.
-
-<!-- OLD TRANSLATION
-Imam al-Junayd al-Baghdādī \hon{\M_HIM}{\BODY} said, "All paths are closed to
-creation except for the one who follows the way of the Messenger of Allāh
-\hon{\PBUH}{\BODY}." -->
 
 Imam al-Junayd al-Baghdādī \hon{\M_HIM}{\BODY} said, “All paths are closed to
 creation except for those who follow in the footsteps of the Messenger of Allāh
@@ -1737,21 +1708,22 @@ creation except for those who follow in the footsteps of the Messenger of Allāh
 Indeed, all paths of goodness are open to such a person.”[-@@hilyah09, vol. 8,
 p. 320]
 
-<!-- TODO ref Fath Rabbani -->
-
-Shaykh ʿAbd al-Qādir al-Jīlānī \hon{\M_HIM}{\BODY} said, "I advise you to fear
-Allāh, to stop at His commands and prohibitions, to adhere to the Sharīʿah, and
-to abandon innovation." \[al-Fatḥ al-Rabbānī\]
-
-<!-- TODO ref Maktūbāt-i-Maʿṣūmiyyah: Persian book -->
+Shaykh ʿAbd al-Qādir al-Jīlānī \hon{\M_HIM}{\BODY} said, “Hold fast to the way
+of following the revealed teachings without introducing religious innovations.
+Adhere to the way of the righteous Salaf and keep to the straight path. Avoid
+both likening Allāh to His creation and denying His attributes. Rather, follow
+the Sunnah of the Messenger of Allāh ﷺ without affectation, artificiality,
+extremism, pretentious speech, or excessive intellectual hair-splitting. What
+was sufficient for those who came before you should be sufficient for
+you.”[-@@fathrabbani, p. 45]
 
 Khwājah Muḥammad Maʿṣūm \hon{\M_HIM}{\BODY} said, "Anyone whose actions do not
 conform to the Sunnah and who is not bound by the Sharīʿah, staying away from
-him is obligatory. All salvation lies in following Muḥammad \hon{\PBUH}{\BODY}."
-\[Maktūbāt-i-Maʿṣūmiyyah\]
+him is obligatory. All salvation lies in following Muḥammad
+\hon{\PBUH}{\BODY}."[^_Maktūbāt-i Maʿṣūmiyyah_; we couldn't find the exact
+reference.]
 
 <!-- TODO ...is only the one who... -->
-
 Thus, the friend of Allāh is only the one who practices the religion and follows
 the Messenger of Allāh \hon{\PBUH}{\BODY}. Whoever does not do so is not a
 friend of Allāh.
@@ -1785,7 +1757,6 @@ the sake of Allāh.' He said, 'I am a messenger from Allāh to you, informing yo
 that Allāh loves you just as you love him for His sake.'"[-@@muslim, vol. 6, p.
 431, #2649]
 
-<!-- TODO ref Ibn Mājah: Check which version Zahid wants -->
 Asmāʾ bint Yazīd \hon{\P_TWO}{\BODY} heard the Messenger of Allāh
 \hon{\PBUH}{\BODY} say, “Shall I tell you who the best among you are?” They
 replied, “Yes, O Messenger of Allāh!” He \hon{\PBUH}{\BODY} replied, “The best
@@ -1798,7 +1769,6 @@ Messenger of Allāh \hon{\PBUH}{\BODY}, "Who is the best of people?" He
 \[al-Sunan al-Kubra vol. 11, p. 147, #11346 by Ibn Mājah\] -->
 
 <!-- TODO "brother in Islam" → "brother in faith"? -->
-
 ʿUmar \hon{\P_HIM}{\BODY} lived at some distance from Madinah and could not
 attend the Prophet \hon{\PBUH}{\BODY} daily. So he would go one day himself and
 send his brother in faith the next day so that he could learn the words of the
@@ -1899,42 +1869,19 @@ become divided, and that you sincerely advise those whom Allāh has placed in
 authority over you. And He is Displeased for you with idle talk ('he said',
 'so-and-so said'), wasting wealth, and excessive questioning." -->
 
-<!-- TODO ref Majmu3 fatawa -->
+Shaykh al-Islām Ibn Taymīyah \hon{\M_HIM}{\BODY} said, “This great
+principle—holding fast altogether to the Rope of Allāh and not becoming
+divided—is among the greatest foundations of Islam, and it is one of the matters
+concerning which Allāh Most High gave emphatic instruction in His
+Book.”[-@@majmu3fatawa, vol. 22, p. 359]
 
-Shaykh al-Islām Ibn Taymīyah \hon{\M_HIM}{\BODY} said, "Holding fast altogether
-to the Rope of Allāh and not becoming divided is among the greatest foundations
-of Islam."[-@@majmu3fatawa, vol. ]
-
-<!-- TODO ref Aḥmad FAILED TO FIND THIS-->
-<!-- TODO Khalid: Change to Ibn Hibban -->
-<!-- TODO check translation -->
-
-<!--
-عَنْ أَبِي شُرَيْحٍ الْخُزَاعِيِّ قَالَ خَرَجَ عَلَيْنَا رَسُولُ اللَّهِ صَلَّى الِلَّهِ عَلَيْهِ وَسَلَّمَ فَقَالَ أَبْشِرُوا وَأَبْشِرُوا أَلَيْسَ تَشْهَدُونَ أَنْ لا إِلَهَ إِلا اللَّهُ وَأَنِّي رَسُولُ اللَّهِ قَالُوا نَعَمْ قَالَ فَإِنَّ هَذَا الْقُرْآنَ سَبَبٌ طَرَفُهُ بِيَدِ اللَّهِ وَطَرَفُهُ بِأَيْدِيكُمْ فَتَمَسَّكُوا بِهِ فَإِنَّكُمْ لَنْ تَضِلُّوا وَلَنْ تَهْلِكُوا بَعْدَهُ أَبَدًا
-
-122 صحيح ابن حبان كتاب العلم باب الزجر عن كتبة المرء السنن مخافة أن يتكل عليها دون الحفظ لها
-
-1/330 المحدث شعيب الأرنؤوط خلاصة حكم المحدث إسناده حسن في تخريج صحيح ابن حبان
--->
-
-<!--
-أَبْشِرُوا وَأَبْشِرُوا، أَلَيْسَ تَشْهَدُونَ أَنْ لَا إِلَهَ إِلَّا اللَّهُ، وَأَنِّي رَسُولُ اللَّهِ؟ قَالُوا: نَعَمْ، قَالَ: فَإِنَّ هَذَا الْقُرْآنَ سَبَبٌ، طَرَفُهُ بِيَدِ اللَّهِ، وَطَرَفُهُ بِأَيْدِيكُمْ، فَتَمَسَّكُوا بِهِ، فَإِنَّكُمْ لَنْ تَضِلُّوا وَلَنْ تَهْلِكُوا بَعْدَهُ أَبَدًا.
-
-“Rejoice, and rejoice! Do you not testify that there is no deity worthy of
-worship except Allāh and that I am the Messenger of Allāh?” They replied, “Yes.”
-He said, “Indeed, this Qurʾān is a cord: one end is in the Hand of Allāh and the
-other is in your hands. So hold fast to it, for you will never go astray or be
-destroyed after it.”
--->
-
-Abū Shurayḥ al-Khuzaʿī \hon{\P_HIM}{\BODY} reported,
-
-> The Messenger of Allāh \hon{\PBUH}{\BODY} came out to us and said, "Rejoice,
-> and rejoice! Do you not testify that there is no deity worthy of worship
-> except Allāh and that I am the Messenger of Allāh?" They replied, "Yes." He
-> \hon{\PBUH}{\BODY} said, "Indeed, this Quran is a rope---one end of it is in
-> the Hand of Allāh, and the other end is in your hands. So hold fast to it, for
-> you will never go astray nor be destroyed after it, ever." \[Musnad Aḥmad\]
+Abū Shurayḥ al-Khuzāʿī \hon{\P_HIM}{\BODY} reported, “The Messenger of Allāh
+\hon{\PBUH}{\BODY} came out to us and said, "Rejoice, and rejoice! Do you not
+testify that there is no deity worthy of worship except Allāh and that I am the
+Messenger of Allāh?" They replied, "Yes." He \hon{\PBUH}{\BODY} said, "Indeed,
+this Quran is a rope---one end of it is in the Hand of Allāh, and the other end
+is in your hands. So hold fast to it, for you will never go astray nor be
+destroyed after it, ever.”[-@@ibnhibban, vol. 1, pp. 331--2, #413]
 
 This Rope of Allāh cannot be broken, but it can be let go. Whoever lets go of it
 will fall into the pit of misguidance, and whoever holds fast to it will be
