@@ -3,8 +3,6 @@
 
 ## Enjoining Good and Forbidding Evil
 
-<!-- TODO Allāh mentions... -->
-
 Allāh Says,
 
 \AYAH_AR_START
@@ -23,10 +21,6 @@ Therefore, it is upon all of us to encourage what is good and prevent what is
 wrong. If, through us, people begin to do good or refrain from evil, then we
 will receive a reward equal to theirs. Enjoining good and forbidding evil is
 itself a great act of righteousness.
-
-<!-- Shaykh al-Islām Ibn Taymīyah \hon{\M_HIM}{\BODY} said, "The one who enjoins
-good and forbids evil requires three qualities: knowledge before it, gentleness
-during it, and patience after it." \[al-Amr bil-Maʿrūf wa-n-Nahy ʿan al-Munkar\] -->
 
 Shaykh al-Islām Ibn Taymīyah \hon{\M_HIM}{\BODY} said, “These three qualities
 are indispensable: knowledge, gentleness, and patience. Knowledge must precede
@@ -57,14 +51,14 @@ example:
 > others the lower deck. When those below need water, they pass by those above,
 > so they say, "If we make a hole in our portion, we will not harm those above
 > us." If they are left to do what they intend, all will perish. But if they are
-> restrained, all will be saved.[-@@bukhari, vol.~2, p.~458, #2493]
+> restrained, all will be saved.[-@@bukhari, vol. 2, p. 458, #2493]
 
 The Prophet \hon{\PBUH}{\BODY} warned that those who refrain from forbidding
 evil out of fear of powerful or wealthy people will be questioned by Allāh, for
 true fear should be directed toward Him alone. The Messenger of Allāh
 \hon{\PBUH}{\BODY} said, "Let not fear of people prevent any of you from
 speaking the truth when you have witnessed it or know it to be true."[-@@ahmad,
-vol. 18, p. 317--8, #11793]
+vol. 18, pp. 317--8, #11793]
 
 If people abandon the duty of commanding good and forbidding evil, then
 widespread corruption leads to collective consequences. The Messenger of Allāh
@@ -139,8 +133,6 @@ them in the best manner. (Sūrat al-Naḥl, Q16:125)
 This _āyah_ teaches Muslims that people should be invited to the religion of
 Allāh in three ways:
 
-<!-- TODO review translation of ff para -->
-
 1. Wisdom (_ḥikmah_)
 2. Good counsel (_mawʿiẓah ḥasanah_)
 3. Reasoned debate in the best manner
@@ -163,12 +155,10 @@ hearing the truth with their own ears.
 
 Even today, you can invite people to Allāh's religion in the same way.
 
-<!-- TODO I couldn't find mention of Muadh and Musa in this narration -->
-
 When the Messenger of Allāh \hon{\PBUH}{\BODY} sent Muʿādh ibn Jabal and Abū
 Mūsá al-Ashʿarī \hon{\P_TWO}{\BODY} to Yemen to call people to Islam, he advised
 them at the time of departure, "Make things easy; do not make them difficult.
-Give glad tidings; do not drive people away."[-@@bukhari, vol.~1, pp.~60--61,
+Give glad tidings; do not drive people away."[-@@bukhari, vol. 1, pp. 60--1,
 #69]
 
 
@@ -192,8 +182,6 @@ your own selves?"
 
 This means that whatever a person says with his tongue, he must also act upon it
 himself. Otherwise, his words will have no effect on people.
-
-<!-- TODO Review translation of last phrase -->
 
 Whatever the Messenger of Allāh \hon{\PBUH}{\BODY} instructed others to do, he
 practiced it himself first. He encouraged people to help the poor and needy, and
@@ -272,13 +260,13 @@ A man once asked the Messenger of Allāh \hon{\PBUH}{\BODY}, "Who is most
 deserving of my good companionship?" He replied, "Your mother." The man asked,
 "Then who?" He replied, "Your mother." He asked again, "Then who?" He replied,
 "Your mother." When he asked the fourth time, he replied, "Your
-father."[-@@bukhari, vol.~5, pp.~237--238 #5971]
+father."[-@@bukhari, vol. 5, pp. 237--8 #5971]
 
 Allāh says in the Quran that you must treat your parents with goodness. If one
 or both of them reach old age in your presence, do not even say 'uff' to them,
 do not scold them, and speak to them with respect. Obey them, and say, "My Lord,
 have mercy upon them, just as they raised me when I was small." (Sūrat al-Isrāʾ,
-Q17:23--24)
+Q17:23--4)
 
 A man asked the Messenger of Allāh \hon{\PBUH}{\BODY}, "What right do parents
 have over their children?" He replied, "They are your Paradise and your
@@ -344,9 +332,6 @@ p. 164, #2079]
 
 ## Conduct of a Wife Toward Her Husband
 
-<!-- TODO Check ayah text and translation -->
-<!-- 9 July 2026 -->
-
 Allāh Says,
 
 \AYAH_AR_START
@@ -355,7 +340,7 @@ Allāh Says,
 
 \AYAH_START
 Righteous women are obedient and guard what Allāh has entrusted them with in the
-absence of their husbands. (Sūrat al-Nisāʾ, Q4:34)
+absence [of their husbands]. (Sūrat al-Nisāʾ, Q4:34)
 \AYAH_END
 
 
@@ -389,17 +374,15 @@ right Allāh has given their husbands over them.”[-@@abudawud vol. 4, pp. 157-
 The female Companions took great care in serving their husbands, honoring them,
 and safeguarding their property. ʿĀʾishah \hon{\P_HER}{\BODY} used to wash the
 Prophet's \hon{\PBUH}{\BODY} clothes with her own hands,[-@@bukhari, vol. 1, p.
-145, #229] prepare his tooth-stick,[-@@bukhari, vol. 3, p. 710, #4438] and apply
+145, #229] prepare his _siwāk_,[-@@bukhari, vol. 3, p. 710, #4438] and apply
 fragrance on him.[-@@bukhari, vol. 1, p. 166, #267]
-
-<!-- TODO adab mufrad -->
 
 Once, a poor trader asked Asmāʾ bint Abī Bakr \hon{\P_TWO}{\BODY} for permission
 to sell goods in the shade of her wall. She wished to permit him but did not
 want to do so without her husband al-Zubayr's consent. She told the man to
 return when al-Zubayr was present. When he came again and sought permission,
 al-Zubayr objected at first, then relented. Once Asmāʾ realized her husband's
-approval, she granted permission. \[al-Adab al-Mufrad\]
+approval, she granted permission.[-@@muslim, vol. 5, pp. 547--8, #2241/1]
 
 On another occasion, the Prophet \hon{\PBUH}{\BODY} noticed silver rings in
 ʿĀʾishah's hand and asked what they were. She replied, "I made them to beautify
@@ -463,14 +446,12 @@ too wept uncontrollably.[-@@mu3jam_kabir, vol. 2, p. 687, #2757]
 
 Allāh Says,
 
-<!-- TODO Check translation -->
-
 \AYAH_AR_START
 وَبِذِي ٱلۡقُرۡبَىٰ
 \AYAH_AR_END
 
 \AYAH_START
-And show kindness to relatives. (Sūrat al-Nisāʾ, Q4:36)
+[And show kindness] to relatives. (Sūrat al-Nisāʾ, Q4:36)
 \AYAH_END
 
 
@@ -480,17 +461,15 @@ be shown to them.
 A man once asked the Messenger of Allāh \hon{\PBUH}{\BODY} to tell him something
 that would lead him to Paradise. He \hon{\PBUH}{\BODY} said, "Worship Allāh
 without associating partners with Him, establish prayer, give _zakāh_, and
-uphold ties of kinship."[-@@bukhari, vol.~2, pp.~5--6, #1396.]
-
-<!-- TODO review translation -->
+uphold ties of kinship."[-@@bukhari, vol. 2, pp. 5--6, #1396]
 
 He \hon{\PBUH}{\BODY} said, "Whoever wishes for expansion in provision and
-increase in lifespan should maintain family ties."[-@@bukhari, vol.~2, p.~273,
+increase in lifespan should maintain family ties."[-@@bukhari, vol. 2, p. 273,
 #2067]
 
 He \hon{\PBUH}{\BODY} also said, "The one who truly upholds kinship is not the
 one who reciprocates kindness, but the one who maintains ties even when
-relatives cut them off."[-@@bukhari, vol.~5, p.~246, #5991]
+relatives cut them off."[-@@bukhari, vol. 5, p. 246, #5991]
 
 The Companions were exemplary in their conduct toward relatives.
 
@@ -533,7 +512,7 @@ orphan is mistreated."[-@@majah14, vol. 3, p. 441, #3704]
 
 He \hon{\PBUH}{\BODY} also said, "I and the one who sponsors an orphan will be
 in Paradise like this," and he joined his index and middle fingers.[-@@bukhari,
-vol.~5, p.~251, #6005]
+vol. 5, p. 251, #6005]
 
 ʿAbdullāh ibn ʿUmar \hon{\P_TWO}{\BODY} would never eat unless an orphan was
 present with him.[-@@adabmufrad, p. 73, #136]
@@ -574,13 +553,10 @@ his brother, Allāh will fulfill his need. Whoever relieves a Muslim of a
 hardship, Allāh will relieve him of a hardship on the Day of
 Resurrection..."[-@@bukhari, vol. 2, p. 435, #2442]
 
-<!-- TODO add honorific for Hakim ibn Hizam -->
 The Companions actively sought out the needy. When al-Zubayr \hon{\P_HIM}{\BODY}
 passed away, he left behind a massive debt. His son ʿAbdullāh worried about
-repayment. Ḥakīm ibn Ḥizām offered help if needed. \[Ṣaḥīḥ al-Bukhārī\]
-[-@@bukhari, vol. 3, pp. 141--3, #3129]
-
-<!-- ʿAbdullāh ibn ʿUmar \hon{\P_TWO}{\BODY} would rarely eat without a poor person present. -->
+repayment. Ḥakīm ibn Ḥizām \hon{\P_HIM}{\BODY} offered help if
+needed.[-@@bukhari, vol. 3, pp. 141--3, #3129]
 
 ʿAbdullāh ibn ʿUmar would not eat until a poor person was brought to eat with
 him.[-@@bukhari, vol. 5, pp. 12--3, #5393]
@@ -611,8 +587,8 @@ an evil cause will share in its sin.
 
 When someone came to the Prophet \hon{\PBUH}{\BODY} seeking help, he would say
 to the Companions, "Intercede, and you will be rewarded; and Allāh decrees upon
-the tongue of His Prophet whatever He wills."[-@@bukhari, vol.~5, pp.~258--259,
-#6026--6027]
+the tongue of His Prophet whatever He wills."[-@@bukhari, vol. 5, pp. 258--9,
+#6026--7]
 
 
 ## Conduct with Neighbors
@@ -633,16 +609,12 @@ The rights of neighbors are immense in Islam. A neighbor is anyone who lives
 nearby. Islam places strong emphasis on good treatment of neighbors.
 
 The Messenger of Allāh \hon{\PBUH}{\BODY} said, "Whoever believes in Allāh and
-the Last Day should honor his neighbor..."[-@@bukhari, vol.~5, p.~256, #6019]
+the Last Day should honor his neighbor..."[-@@bukhari, vol. 5, p. 256, #6019]
 
-<!-- TODO check last part of translation -->
 The Prophet \hon{\PBUH}{\BODY} said,"By Allāh, he is not a believer! By Allāh,
 he is not a believer! By Allāh, he is not a believer!" It was said, "Who, O
 Messenger of Allāh?" He \hon{\PBUH}{\BODY} said, "The one whose neighbor is not
-safe from his harm."[-@@bukhari, vol.~5, p.~255, #6016]
-
-<!-- The Prophet \hon{\PBUH}{\BODY} said, "He is not a believer who sleeps full while
-his neighbor is hungry beside him." \[al-Adab al-Mufrad\] -->
+safe from his harm."[-@@bukhari, vol. 5, p. 255, #6016]
 
 The Prophet \hon{\PBUH}{\BODY} said, “He is not a true believer who eats his
 fill while his neighbor is hungry.”[-@@adabmufrad, p. 60, #112]
@@ -657,7 +629,7 @@ Even neighbors of other religions must be treated with kindness. Once, ʿAbdull�
 ibn ʿUmar \hon{\P_TWO}{\BODY} slaughtered a goat and asked his household whether
 they had sent some to his Jewish neighbor. He said that he heard the Prophet
 \hon{\PBUH}{\BODY} say, "Jibrīl kept advising me regarding the neighbor until I
-thought he would make him an heir."[-@@bukhari, vol.~5, p.~254, #6014; #6015.]
+thought he would make him an heir."[-@@bukhari, vol. 5, p. 254, #6014; #6015]
 
 In addition to these, there is another category that is not commonly called a
 neighbor but is treated as such due to constant association. The Quran refers to
@@ -690,24 +662,19 @@ guesthouse. Many visitors who came to the Messenger of Allāh \hon{\PBUH}{\BODY}
 would stay at her home.
 
 The Prophet \hon{\PBUH}{\BODY} said, "Whoever believes in Allāh and the Last Day
-should honor his guest."[-@@bukhari, vol.~5, p.~298, #6136.]
-
-<!-- TODO review translation of ff para -->
+should honor his guest."[-@@bukhari, vol. 5, p. 298, #6136]
 
 In a _ḥadīth_, it is reported that the Messenger of Allāh \hon{\PBUH}{\BODY}
-visited ʿAbdullāh ibn ʿAmr \hon{\P_TWO}{\BODY} and said, "Have I not been
-informed that you pray all night and fast every day?" He replied, "Yes." The
-Prophet \hon{\PBUH}{\BODY} said, "Do not do that. Pray and sleep, fast and break
-your fast. Your body has a right over you, your eyes have a right over you, your
+visited ʿAbdullāh ibn ʿAmr \hon{\P_TWO}{\BODY} and said, “I have come to know
+that you pray all night and fast every day?” He replied, "Yes." The Prophet
+\hon{\PBUH}{\BODY} said, "Do not do that. Pray and sleep, fast and break your
+fast. Your body has a right over you, your eyes have a right over you, your
 guest has a right over you, and your wife has a right over you."[-@@bukhari,
-vol.~2, p.~234, #1975.]
-
-
-<!-- TODO review translation -->
+vol. 2, p. 234, #1975]
 
 He \hon{\PBUH}{\BODY} also said, "[Hospitality is] for one day and one night,
 and hosting a guest is for three days. Anything beyond that is
-charity."[-@@bukhari, vol.~5, p.~256, #6019]
+charity."[-@@bukhari, vol. 5, p. 256, #6019]
 
 
 ## Conduct with Widows (Ādāb al-Arāmil)
@@ -727,32 +694,10 @@ Widows are women whose husbands have passed away. They are often left without
 support for food, clothing, shelter, and protection. Islam commands that they be    
 treated with kindness.
 
-<!-- TODO review translation -->
-
-<!-- ORIGINAL -->
-<!-- The Messenger of Allāh \hon{\PBUH}{\BODY} said, "The one who strives on behalf
-of widows and the poor is like one who strives in the path of Allāh." \[Ṣaḥīḥ
-al-Bukhārī\] -->
-
-<!-- The following is taken from chapter 2 -->
-The Prophet \hon{\PBUH}{\BODY} said, "The one who strives to support a widow and
-a poor person is like one who performs _jihād_ in the path of
-Allāh..."[-@@bukhari, vol.~4, p.~507, #5353]
-
-
 The Prophet \hon{\PBUH}{\BODY} said, "The one who strives to support a widow and
 a poor person is like one who performs _jihād_ in the path of Allāh---or like
-one who stands in prayer at night and fasts during the day."
-
-<!-- TODO review translation -->
-
-<!-- OLD -->
-<!-- He \hon{\PBUH}{\BODY} said, "He is like one who fasts by day and stands in
-prayer by night." \[Ṣaḥīḥ al-Bukhārī\] -->
-
-<!-- From chapter 2. Originally, this and the one before it are a single hadith -->
-He \hon{\PBUH}{\BODY} also said that he is "like one who stands in prayer at
-night and fasts during the day."[-@@bukhari, vol.~4, p.~507, #5353]
+one who stands in prayer at night and fasts during the day."[-@@bukhari, vol. 4,
+p. 507, #5353]
 
 Some ignorant people consider widows unlucky---this is contrary to Islamic
 teachings.
@@ -823,7 +768,7 @@ and gave her to Fāṭimah. Jaʿfar and Zayd \hon{\P_TWO}{\BODY} also laid claim
 her guardianship.
 
 The Prophet \hon{\PBUH}{\BODY} ruled, "The maternal aunt is like the mother,"
-and placed the child in her care.[-@@bukhari, vol.~2, pp.~558--559, #2699.]
+and placed the child in her care.[-@@bukhari, vol. 2, pp. 558--9, #2699]
 
 
 ## Conduct with the Sick
@@ -847,18 +792,15 @@ they may pray lying down.
 Just as Allāh has shown leniency to the sick in His commands, He has ordered His
 servants to show kindness to them.
 
-<!-- TODO: consider putting in the full translation -->
-<!-- TODO consider rephrasing the citation to stay true to the text -->
-
-The Messenger of Allāh \hon{\PBUH}{\BODY} said, "A Muslim has five rights over
+<!-- The Messenger of Allāh \hon{\PBUH}{\BODY} said, "A Muslim has five rights over
 another Muslim---one of them is that he visits him when he is sick."[-@@bukhari,
-vol. 1, p. 625, #1240]
+vol. 1, p. 625, #1240] -->
 
-<!-- OLD TRANS
-When a Muslim visits his sick brother in the morning, seventy thousand angels send
-blessings upon him until evening; and if he visits him in the evening, seventy
-thousand angels send blessings upon him until morning.
--->
+He \hon{\PBUH}{\BODY} said, "Every Muslim has five rights over another Muslim:
+responding to the greeting, visiting the sick, accepting invitations, saying,
+'may Allāh have mercy on you,' when he sneezes, and accompanying the funeral."
+[-@@bukhari, vol. 1, p. 625, #1240]
+
 The Prophet \hon{\PBUH}{\BODY} said, "Whoever visits a sick person in the
 evening is accompanied by seventy thousand angels, who pray for his forgiveness
 until morning, and he is granted a garden harvest in Paradise. Whoever visits a
@@ -869,7 +811,6 @@ He \hon{\PBUH}{\BODY} also said, "When someone visits a sick person, he
 continues harvesting the fruits of Paradise until he returns."[-@@muslim, vol.
 6, p. 432, #2650/1]
 
-<!-- TODO sacred narration → ḥadīth qudsī -->
 In a _ḥadīth qudsī_, Allāh will say on the Day of Judgment, "O son of Adam, I
 was sick and you did not visit Me." The servant will reply, "O Lord, how could I
 visit You when You are the Lord of the worlds?"
@@ -915,12 +856,10 @@ in faith. (Sūrat al-Tawbah, Q9:11)
 \AYAH_END
 
 
-<!-- TODO review translation -->
-
-The Messenger of Allāh \hon{\PBUH}{\BODY} said, "The believers, in their mutual
-love, mercy, and compassion, are like a single body: if one part suffers, the
-whole body responds with sleeplessness and fever."[-@@bukhari, vol.~5, p.~253,
-#6011.]
+The Messenger of Allāh \hon{\PBUH}{\BODY} said, "The example of the believers in
+their mutual love, mercy, and compassion is like a body: when one limb suffers,
+the whole body responds to it with sleeplessness and fever."[-@@bukhari, vol. 5,
+p. 253, #6011]
 
 He \hon{\PBUH}{\BODY} said, “...A Muslim is the brother of another Muslim. He
 neither wrongs him, lets him down, nor looks down upon him... It is enough evil
@@ -928,27 +867,15 @@ for a person to look down upon his Muslim brother. The blood, wealth, and honor
 of a Muslim are inviolable to another Muslim.”[-@@muslim, vol. 6, pp. 427--8,
 #2646]
 
-<!-- OLD TRANSLATION
-He \hon{\PBUH}{\BODY} said, "A Muslim is the brother of another Muslim. He does
-not oppress him, abandon him, or humiliate him. It is sufficient evil for a
-person to look down upon his Muslim brother. The blood, wealth, and honor of a
-Muslim are sacred to another Muslim." -->
-
-<!-- TODO Added salam in brackets -->
-<!-- TODO review translation -->
-
-He \hon{\PBUH}{\BODY} said, "It is not permissible for a Muslim to boycott his
-brother for more than three days. When they meet, one turns away and the other
-turns away. The better of the two is the one who initiates the greeting of peace
-(_salām_)."[-@@bukhari, vol.~5, p.~340, #6237.]
-
-
-<!-- TODO review translation -->
+He \hon{\PBUH}{\BODY} said, “It is not permissible for a Muslim to shun his
+fellow Muslim for more than three [days]. When they meet, each turns away from
+the other. The better of the two is the one who initiates the greeting of peace
+(_salām_).”[-@@bukhari, vol. 5, p. 340, #6237]
 
 He \hon{\PBUH}{\BODY} said, "Every Muslim has five rights over another Muslim:
 responding to the greeting, visiting the sick, accepting invitations, saying,
 'may Allāh have mercy on you,' when he sneezes, and accompanying the funeral."
-[-@@bukhari, vol.~1, p.~625, #1240]
+[-@@bukhari, vol. 1, p. 625, #1240]
 
 He \hon{\PBUH}{\BODY} warned, "Whoever swears falsely to seize the right of a
 Muslim, Allāh will make Hellfire obligatory for him and Paradise
@@ -1028,15 +955,16 @@ pp. 402--3, #2536]
 
 Allāh Says,
 
-<!-- TODO Translation: Days of Allāh? -->
+<!-- Say to those who believe that they should forgive those who do not hope for the
+Days of Allāh. -->
 
 \AYAH_AR_START
 قُل لِّلَّذِينَ ءَامَنُواْ يَغۡفِرُواْ لِلَّذِينَ لَا يَرۡجُونَ أَيَّامَ ٱللَّهِ
 \AYAH_AR_END
 
 \AYAH_START
-Say to those who believe that they should forgive those who do not hope for the
-Days of Allāh. (Sūrat al-Jāthiyah, Q45:14)
+[O Prophet!] Tell the believers to forgive those who do not fear Allah’s days
+[of torment]... (Sūrat al-Jāthiyah, Q45:14)
 \AYAH_END
 
 

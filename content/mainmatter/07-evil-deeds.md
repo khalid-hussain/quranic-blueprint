@@ -40,26 +40,14 @@ _Munkar_ refers to actions that are generally disliked among people, such that t
 one who commits them falls in the eyes of others. Human nature itself finds them
 repugnant, and they must be avoided.
 
-<!-- TODO ref Majmu3 fatawa -->
+Shaykh al-Islām Ibn Taymīyah \hon{\M_HIM}{\BODY} said, “_Munkar_ is that which
+one abhors and recoils from upon coming to know of it.”[-@@dar2_ta3arud, vol. 2,
+p. 233]
 
-Shaykh al-Islām Ibn Taymīyah \hon{\M_HIM}{\BODY} said, "_Munkar_ is everything
-that Allāh has prohibited, and which the sound natural disposition (_fiṭrah_)
-and intellect recognize as evil." \[Majmūʿ al-Fatāwā\]
-
-<!-- TODO check translit of baghiyy -->
 _Baghiyy_ means excess and wrongdoing, which is also called oppression. The
 Messenger of Allāh \hon{\PBUH}{\BODY} said that Allāh says, "O My servants, I
 have forbidden oppression for Myself and have made it forbidden among you, so do
 not oppress one another..."[-@@muslim, vol. 6, pp. 440--1, #2660]
-
-<!-- TODO ref madarij salikin: missing addition -->
-<!-- It doesn't have the extension "whether by excess, deficiency, or transgression beyond limits"
-وَضْعُ الشَّيْءِ فِي غَيْرِ مَوْضِعِهِ -->
-
-<!-- OLD TRANSLATION
-Imam Ibn al-Qayyim said, "Oppression is placing a thing in other than its
-proper place..., whether by excess, deficiency, or transgression beyond limits."
--->
 
 Exceeding limits and attacking the rights of others is precisely what oppression
 is. Imam Ibn al-Qayyim said, "Oppression is placing a thing in other than its
@@ -117,20 +105,17 @@ Allāh Says,
 And avoid false speech. (Sūrat al-Ḥajj, Q22:30)
 \AYAH_END
 
-<!-- TODO previous translation was different. See Chapter 6. -->
-<!-- TODO chapter 6 uses "siddiq" -->\
-<!-- The word used was Kaddhab, perhaps, "perpetual liar" -->
 Lying is an extremely evil trait and must be avoided. The Messenger of Allāh
 \hon{\PBUH}{\BODY} said,
 "Truthfulness leads to righteousness, and righteousness leads to Paradise.
 A man continues to speak the truth until he is recorded with Allāh as truthful.
 And lying leads to wickedness, and wickedness leads to Hellfire.
-A man continues to lie until he is recorded with Allāh as a liar."[-@@bukhari, vol.~5, p.~284, #6094]
+A man continues to lie until he is recorded with Allāh as a liar."[-@@bukhari, vol. 5, p. 284, #6094]
 
 The Prophet \hon{\PBUH}{\BODY} identified lying as a sign of hypocrisy. He
 \hon{\PBUH}{\BODY} said, "The signs of a hypocrite are three: when he speaks, he
 lies; when he promises, he breaks it; and when he is entrusted, he
-betrays."[-@@bukhari, vol.~1, p.~34, #33]
+betrays."[-@@bukhari, vol. 1, p. 34, #33]
 
 The Companions did not lie. If they committed a mistake, they would admit it
 immediately. During the expedition of Tabūk, some people did not participate.
@@ -145,7 +130,7 @@ Allāh, if I were sitting before anyone else of the people of the world, I would
 have avoided his anger with an excuse... but by Allāh, I know that if I were to
 tell you a lie to please you, Allāh would soon make you angry with me. But if I
 tell you the truth, I hope for Allāh's forgiveness...'"[-@@bukhari, vol. 3,
-pp.699--704, #4418]
+pp. 699--704, #4418]
 
 Lying remains lying whether it is done in jest or to amuse children. People
 commonly fall into this and do not consider it wrong, even though it has also
@@ -161,31 +146,29 @@ said, "I will give him dates." The Messenger of Allāh \hon{\PBUH}{\BODY} said,
 "If you had not given him anything, a lie would have been recorded against
 you."[-@@abudawud, vol. 7, pp. 427--8, #4905]
 
-<!-- TODO ref missing -->
-
 Once, a female Companion asked whether it would be considered lying if someone
 desired something but then said that they did not want it. The Prophet
-\hon{\PBUH}{\BODY} replied that even the smallest lie is recorded as a lie.
+\hon{\PBUH}{\BODY} replied that even the smallest lie is recorded as a
+lie.[-@@ahmad, vol. 45, pp. 464--5, #27471]
 
-<!-- TODO ref Madarij Salikin: couldn't find it -->
-
-Imam Ibn al-Qayyim \hon{\M_HIM}{\BODY} said, "Truthfulness and lying are the
+<!-- ZAHID REF -->
+<!-- Imam Ibn al-Qayyim \hon{\M_HIM}{\BODY} said, "Truthfulness and lying are the
 origin of righteousness and corruption. From truthfulness arise all forms of
-good, and from lying arise all forms of evil." \[Madarij al-Salikin\]
+good, and from lying arise all forms of evil." \[Madarij al-Salikin\] -->
 
 
 ## Oaths
 
 Allāh Says,
 
-<!-- TODO clarify translation -->
-
 \AYAH_AR_START
-وَلَا تَجۡعَلُواْ ٱللَّهَ عُرۡضَةٗ لِّأَيۡمَٰنِكُمۡ
+وَلَا تَجۡعَلُواْ ٱللَّهَ عُرۡضَةٗ لِّأَيۡمَٰنِكُمۡ أَن تَبَرُّواْ وَتَتَّقُواْ وَتُصۡلِحُواْ بَيۡنَ ٱلنَّاسِۚ وَٱللَّهُ سَمِيعٌ عَلِيمٞ ٢٢٤
 \AYAH_AR_END
 
 \AYAH_START
-And do not make Allāh a target for your oaths. (Sūrat al-Baqarah, Q2:224)
+Do not make [the name of] Allāh the subject of your oaths as an excuse for not
+doing good, not guarding against evil, or not making peace between people. And
+Allāh is All-Hearing, All-Knowing. (Sūrat al-Baqarah, Q2:224)
 \AYAH_END
 
 
@@ -198,12 +181,11 @@ repeatedly.
 The Quran instructs that one should not obey a person who swears excessively and
 is contemptible.
 
-<!-- TODO Check arak tree translation -->
-The Prophet Muḥammad \hon{\PBUH}{\BODY} said, "Whoever swears an oath to take
-the right of a Muslim unjustly, Allāh will make the Fire obligatory for him and
-forbid Paradise for him." A man said, "Even if it is something small, O
-Messenger of Allāh?" He \hon{\PBUH}{\BODY} said, "Even if it is a twig of the
-_arāk_ tree."[-@@muslim, vol. 1, pp. 474--5, #126]
+The Prophet \hon{\PBUH}{\BODY} said, "Whoever swears an oath to take the right
+of a Muslim unjustly, Allāh will make the Fire obligatory for him and forbid
+Paradise for him." A man said, "Even if it is something small, O Messenger of
+Allāh?" He \hon{\PBUH}{\BODY} said, "Even if it is a twig of the _arāk_
+tree."[-@@muslim, vol. 1, pp. 474--5, #126]
 
 The Companions were extremely cautious about taking oaths. Once, ʿAbdullāh ibn
 ʿUmar \hon{\P_TWO}{\BODY} sold a slave. Later it was discovered that the slave
@@ -218,15 +200,14 @@ prepare his place in Hell.
 
 He \hon{\PBUH}{\BODY} said, "The major sins are: associating partners with
 Allāh, disobedience to parents, killing a soul, and false oaths (_al-yamīn
-al-ghamūs_)."[-@@bukhari, vol.~6, pp.~36--37, #6675]
+al-ghamūs_)."[-@@bukhari, vol. 6, pp. 36--7, #6675]
 
-<!-- TODO ref majmu3 fatawa -->
-
-Shaykh al-Islām Ibn Taymīyah \hon{\M_HIM}{\BODY} said, "Oaths are of the nature
+<!-- ZAHID REF -->
+<!-- Shaykh al-Islām Ibn Taymīyah \hon{\M_HIM}{\BODY} said, "Oaths are of the nature
 of testimony, and swearing by Allāh is making Him a witness over what one says."
 He also said, "False oaths (_al-yamīn al-ghamūs_) are among the gravest of major
 sins because it combines lying with dishonoring the Name of Allāh." \[Majmūʿ
-al-Fatāwā\]
+al-Fatāwā\] -->
 
 Just as excessive oaths and false oaths are sinful, breaking an oath after
 taking it and failing to fulfill it is also sinful. Allāh has commanded that
@@ -260,42 +241,33 @@ Not betraying the Messenger \hon{\PBUH}{\BODY} means fulfilling the commands of
 Allāh that have reached us through him and not turning away from the path he has
 shown. Failing to do so constitutes betrayal of the Messenger.
 
-<!-- TODO translation of "we return wealth incompletely" -->
+Not betraying one another means that when something is entrusted to us and we
+accept responsibility for it, we must fulfil that trust faithfully. Betrayal
+includes failing to return the full amount of money entrusted to us, disclosing
+secrets shared with us, giving dishonest advice when someone seeks our counsel,
+or withholding part of what we are obligated to return. All such actions
+constitute betrayal and must be avoided.
 
-Not betraying one another means that when a matter is entrusted to us and we
-accept responsibility for it, we must not fall short in fulfilling it. Betrayal
-includes situations where wealth is entrusted to us and we do not return it,
-secrets are shared with us and we disclose them, advice is sought and we give
-dishonest counsel, or when we return wealth incompletely. All such actions are
-forms of betrayal and must be avoided.
-
-<!-- TODO double check reference -->
-
-The Prophet Muḥammad \hon{\PBUH}{\BODY} said, "The signs of a hypocrite are
-three: when he speaks, he lies; when he makes a promise, he breaks it; and when
-he is entrusted, he betrays."[-@@bukhari, vol.~1, p.~34, #33]
+The Prophet \hon{\PBUH}{\BODY} said, "The signs of a hypocrite are three: when
+he speaks, he lies; when he makes a promise, he breaks it; and when he is
+entrusted, he betrays."[-@@bukhari, vol. 1, p. 34, #33]
 
 The Messenger of Allāh \hon{\PBUH}{\BODY} sought refuge from betrayal and would
 say, "O Allāh, I seek refuge in You from hunger, for it is an evil companion,
 and I seek refuge in You from betrayal, for it is an evil inner
 trait."[-@@abudawud, vol. 3, p. 392, #1540]
 
-<!-- TODO ref missing -->
-
 He \hon{\PBUH}{\BODY} described betrayal as a sign of hypocrisy and said that a
-Muslim is the brother of another Muslim and must not betray him.
+Muslim is the brother of another Muslim and must not betray him.[-@@muslim vol. 1,
+p. 412, #51/2; -@@abuesa16, vol. 3, p. 153, #2052]
 
-<!-- TODO ref majmu3 fatawa -->
-
-Shaykh al-Islām Ibn Taymīyah \hon{\M_HIM}{\BODY} said, "Trust (_amānah_) is the
+<!-- ZAHID REF -->
+<!-- Shaykh al-Islām Ibn Taymīyah \hon{\M_HIM}{\BODY} said, "Trust (_amānah_) is the
 foundation of all obligations, and betrayal (_khiyānah_) is the foundation of
-all corruption." \[Majmūʿ al-Fatāwā\]
+all corruption." \[Majmūʿ al-Fatāwā\] -->
 
 
-<!-- TODO check translation of shortfall -->
-<!-- We've used shortage of weights later on -->
-
-## Shortfall in Weights and Measures
+## Shortchanging in Weights and Measures
 
 Allāh Says,
 
@@ -307,32 +279,32 @@ Allāh Says,
 And give full measure and weight. (Sūrat al-Anʿām, Q6:152)
 \AYAH_END
 
-Reducing weights and measures is, in reality, usurping the rights of others.
-Whoever increases the measure when taking, and reduces it when giving,
+Shortchanging in weights and measures is, in reality, usurping the rights of
+others. Whoever increases the measure when taking, and reduces it when giving,
 unlawfully takes possession of another's property. This, too, is a form of
 theft.
 
-The Quran has strongly emphasized avoiding such dishonesty. Cheating in weights
-and measures removes blessing and prosperity. We observe that those who cheat in
-this manner lose credibility in the marketplace, and their businesses are
-ruined.
+The Quran has strongly emphasized avoiding such dishonesty. Shortchanging in
+weights and measures removes blessing and prosperity. We observe that those who
+cheat in this manner lose credibility in the marketplace, and their businesses
+are ruined.
 
-The Prophet Muḥammad \hon{\PBUH}{\BODY} said, "...Whoever cheats us is not from
-us."[-@@muslim, vol. 1, p. 441, #93.]
+The Prophet \hon{\PBUH}{\BODY} said, "...Whoever cheats us is not from
+us."[-@@muslim, vol. 1, p. 441, #93]
 
-The Messenger of Allāh \hon{\PBUH}{\BODY} said that shortage in weights and
+The Messenger of Allāh \hon{\PBUH}{\BODY} said that shortchanging in weights and
 measures leads to famine, just as the widespread practice of adultery leads to
-the outbreak of plagues. The Prophet Muḥammad \hon{\PBUH}{\BODY} said, “O
-assembly of the Muhājirūn! There are five things with which you may be tested...
-Whenever people give short measure and weight, they will be afflicted with years
-of famine, severe hardship, and oppression at the hands of their
-rulers...”[-@@majah14, vol. 3, pp. 574--5, #4049]
+the outbreak of plagues. The Prophet \hon{\PBUH}{\BODY} said, “O assembly of the
+Muhājirūn! There are five things with which you may be tested... Whenever people
+shortchange measure and weight, they will be afflicted with years of famine,
+severe hardship, and oppression at the hands of their rulers...”[-@@majah14,
+vol. 3, pp. 574--5, #4049]
 
-He \hon{\PBUH}{\BODY} warned that those who cheat in weighing and measuring are
-committing actions due to which previous nations were destroyed. In the same
-narration, he \hon{\PBUH}{\BODY} said, “...Whenever immorality (_fāḥishah_)
-becomes widespread among a people and they practise it openly, plagues and
-diseases that were unknown to their predecessors will spread among
+He \hon{\PBUH}{\BODY} warned that those who shortchange in weighing and
+measuring are committing actions due to which previous nations were destroyed.
+In the same narration, he \hon{\PBUH}{\BODY} said, “...Whenever immorality
+(_fāḥishah_) becomes widespread among a people and they practise it openly,
+plagues and diseases that were unknown to their predecessors will spread among
 them...”[-@@majah14, vol. 3, pp. 574--5, #4049]
 
 <!-- "...and immorality (_zinā_) does not become widespread among a people except
@@ -346,13 +318,14 @@ forms of oppression." \[Majmūʿ al-Fatāwā\] -->
 Shaykh al-Islām Ibn Taymīyah \hon{\M_HIM}{\BODY} said, “As for shortchanging
 people in weights and measures, it is among the practices for which Allāh
 destroyed the people of Shuʿayb, whose story He recounts to us in several places
-in the Qurʾān so that we may take heed. Persisting in this practice is among the
+in the Quran so that we may take heed. Persisting in this practice is among the
 gravest major sins, and the one who does so deserves a severe
 punishment.”[-@@majmu3fatawa, vol. 29, p. 474]
 
-<!-- Imam Ibn al-Qayyim \hon{\M_HIM}{\BODY} said, "The foundation of transactions is
-justice, and anything that departs from justice is oppression." \[Iʿlām
-al-Muwaqqiʿīn\] -->
+<!-- ZAHID REF -->
+<!-- Imam Ibn al-Qayyim \hon{\M_HIM}{\BODY} said, "The foundation of
+transactions is justice, and anything that departs from justice is oppression."
+\[Iʿlām al-Muwaqqiʿīn\] -->
 
 Imam Ibn al-Qayyim \hon{\M_HIM}{\BODY} said, “The foundation of all contracts is
 justice, which is the very principle with which the Messengers were sent and the
@@ -377,16 +350,14 @@ Treachery and deception mean reassuring someone by giving one's word and then
 acting against them when an opportunity arises. The Quran has classified this
 behavior as betrayal.
 
-The Prophet Muḥammad \hon{\PBUH}{\BODY} said, "For every traitor there will be a
-banner on the Day of Resurrection, and it will be said, 'This is the betrayal of
-so-and-so.'"[-@@bukhari, vol.~5, p.~315, #6177]
+The Prophet \hon{\PBUH}{\BODY} said, "For every traitor there will be a banner
+on the Day of Resurrection, and it will be said, 'This is the betrayal of
+so-and-so.'"[-@@bukhari, vol. 5, p. 315, #6177]
 
 The Messenger of Allāh \hon{\PBUH}{\BODY} would advise his military commanders
 not to commit treachery---that is, not to betray agreements made with
 enemies.[Muslim, vol. 5, pp. 6--8, #1780, #1781]
 
-<!-- TODO ref Abū Dāwūd: The man's name and his being a Companion are not mentioned
-in the narration -->
 Once, Amīr Muʿāwiyah \hon{\P_HIM}{\BODY} made a treaty with the Romans for a
 fixed period. As the end of the treaty approached, he moved his army near their
 border so that the moment the treaty expired, an attack could be launched.
@@ -402,19 +373,19 @@ annulled."
 Upon hearing this, Amīr Muʿāwiyah \hon{\P_HIM}{\BODY} withdrew his
 forces.[-@@abudawud, vol. 3, p. 551, #2749]
 
-<!-- TODO ref majmu3 fatawa -->
-Shaykh al-Islām Ibn Taymīyah \hon{\M_HIM}{\BODY} said, "Fulfilling covenants is
-among the greatest obligations, and treachery (_ghadr_) is among the gravest
-prohibitions." \[Majmūʿ al-Fatāwā\]
+Shaykh al-Islām Ibn Taymīyah \hon{\M_HIM}{\BODY} said, “The Quran and Sunnah
+command the fulfilment of covenants, conditions, pledges, and contracts; the
+discharge of trusts and their proper observance; and they prohibit treachery,
+the breaking of covenants, and betrayal, issuing stern warnings against those
+who commit such acts.”[-@@majmu3fatawa, vol. 145, pp. 145--6]
 
-<!-- TODO ref Zaad Ma3aad: Couldn't find -->
-<!-- TODO ref Madarij Salikin: Couldn't find -->
-
-Imam Ibn al-Qayyim \hon{\M_HIM}{\BODY} said, "The Prophet \hon{\PBUH}{\BODY}
+<!-- ZAHID REF -->
+<!-- ZAHID REF -->
+<!-- Imam Ibn al-Qayyim \hon{\M_HIM}{\BODY} said, "The Prophet \hon{\PBUH}{\BODY}
 would never betray a covenant, even with his enemies, and he commanded
 fulfillment of agreements in all circumstances." \[Zād al-Maʿād\] He further
 said, "Treachery is a sign of corruption in the heart, just as fulfilling
-covenants is a sign of righteousness." \[Madarij al-Salikin\]
+covenants is a sign of righteousness." \[Madarij al-Salikin\] -->
 
 
 ## False Accusations (Buhtān)
@@ -430,15 +401,14 @@ And that they do not bring forth false accusations. (Sūrat al-Mumtaḥanah,
 Q60:12)
 \AYAH_END
 
-<!-- TODO review translation of ff para -->
 
-_Buhtān_ means deliberately declaring an innocent person to be guilty, or
-attributing to someone a sin or wrongdoing that he does not possess. This is
-also a form of lying. The Quran has classified it as betrayal.
+_Buhtān_ means deliberately declaring an innocent person guilty or attributing
+to someone a sin or wrongdoing of which he is innocent. This is also a form of
+lying. The Quran has classified it as betrayal.
 
-The Prophet Muḥammad \hon{\PBUH}{\BODY} said, "Whoever makes a false accusation
-against a believer, attributing to him something that is not true, Allah will
-make him dwell in the pus of the inhabitants of Hell until he retracts what he
+The Prophet \hon{\PBUH}{\BODY} said, "Whoever makes a false accusation against a
+believer, attributing to him something that is not true, Allah will make him
+dwell in the pus of the inhabitants of Hell until he retracts what he
 said."[-@@abudawud, vol. 5, pp. 588--9, #3552]
 
 <!-- "Whoever says about a believer what is not in him, Allāh will make him dwell in
@@ -446,22 +416,21 @@ the discharge of the people of Hell until he retracts what he
 said."[-@@abudawud, vol. , p. , #] -->
 
 He \hon{\PBUH}{\BODY} said, "...The blood, wealth, and honor of a Muslim are
-inviolable to another Muslim."[-@@muslim, vol. 6, p. 427-8, #2646]
+inviolable to another Muslim."[-@@muslim, vol. 6, pp. 427--8, #2646]
 
 <!-- OLD TRANSLATION
 "Every Muslim is sacred to another Muslim: his
 blood, his wealth, and his honor."
 -->
 
-<!-- TODO double check translation -->
-He \hon{\PBUH}{\BODY} also said, "Whoever accuses his slave of _zinā_ while he
-is innocent will be lashed on the Day of Resurrection, unless he is as he
-said."[-@@bukhari, vol.~6, p.~113, #6858]
+He \hon{\PBUH}{\BODY} also said, “Whoever falsely accuses his slave of _zinā_,
+when that person is innocent of the charge, will be flogged on the Day of
+Resurrection---unless the accusation is true.”[-@@bukhari, vol. 6, p. 113,
+#6858]
 
 The one who fabricates false accusations is sinful in the sight of Allāh, and
 his testimony is not considered valid.
 
-<!-- TODO footnote for what legally required witnesses are? -->
 Accusing chaste women is an assault on their honor. Therefore, its punishment is
 that whoever does so and fails to produce the legally required witnesses shall
 be flogged. Allāh Says,
@@ -476,24 +445,21 @@ eighty lashes and never accept their testimony---for they are indeed the
 rebellious. (Sūrat al-Nūr, Q24:4)
 \AYAH_END
 
-<!-- TODO review translation of the ff para -->
 
 The Messenger of Allāh \hon{\PBUH}{\BODY} said, "Avoid the seven destructive
 sins." They said, "O Messenger of Allāh, what are they?" He \hon{\PBUH}{\BODY}
 said, "Associating partners with Allāh, sorcery, killing a soul which Allāh has
 forbidden except by right, consuming usury, consuming the wealth of an orphan,
 fleeing from the battlefield, and accusing chaste, believing, unsuspecting
-women."[-@@bukhari, vol.~2, p.~203, #6858]
+women."[-@@bukhari, vol. 2, p. 203, #2766]
 
+<!-- ZAHID REF -->
+<!-- Shaykh al-Islām Ibn Taymīyah \hon{\M_HIM}{\BODY} said, "Slandering the innocent
+is among the gravest forms of injustice and falsehood." \[Majmūʿ al-Fatāwā\] -->
 
-<!-- TODO ref majmu3 fatawa: Couldn't find -->
-Shaykh al-Islām Ibn Taymīyah \hon{\M_HIM}{\BODY} said, "Slandering the innocent
-is among the gravest forms of injustice and falsehood." \[Majmūʿ al-Fatāwā\]
-
-<!-- TODO ref madarij salikin: Couldn't find -->
-
-Imam Ibn al-Qayyim \hon{\M_HIM}{\BODY} said, "_Buhtān_ is to attribute to a person
-what he is free from, and it is more severe than lying." \[Madarij al-Salikin\]
+<!-- ZAHID REF -->
+<!-- Imam Ibn al-Qayyim \hon{\M_HIM}{\BODY} said, "_Buhtān_ is to attribute to a person
+what he is free from, and it is more severe than lying." \[Madarij al-Salikin\] -->
 
 
 ## Tale-Bearing (Namīmah)
@@ -506,7 +472,7 @@ Allāh Says,
 
 \AYAH_START
 And do not obey every habitual swearer, disgraced, a slanderer, one who goes
-about spreading tales. (Sūrat al-Qalam, Q68:10--11)
+about spreading tales. (Sūrat al-Qalam, Q68:10--1)
 \AYAH_END
 
 
@@ -528,38 +494,33 @@ between loved ones, and seeking corruption for the innocent." -->
 Those who go about spreading malicious gossip, sowing discord among loved ones,
 and seeking to cause hardship for innocent people.
 
-<!-- TODO review translation: ...he used not to... & go about spreading tale-bearing → go about tale-bearing -->
 Once, the Messenger of Allāh \hon{\PBUH}{\BODY} passed by two graves and said,
-"Indeed, they are being punished, and they are not being punished for something
-that is difficult to avoid. As for one of them, he used not to protect himself
-from urine. As for the other, he used to go about spreading tale-bearing
-(_namīmah_)."[-@@bukhari, vol.~1, pp.~139--140, #216]
+“They are being punished, and they are not being punished for anything that
+would seem particularly serious.” He then explained, “Indeed, one of them did
+not take care to protect himself from urine, while the other used to go about
+spreading malicious gossip (_namīmah_).”[-@@bukhari, vol. 1, pp. 139--40, #216]
 
 The Prophet \hon{\PBUH}{\BODY} instructed, "Let none of you convey to me
 anything about my Companions, for I love to come out to you while my heart is
 free from ill feeling."[-@@abudawud, vol. 7, pp. 343--4, #4779]
 
-<!-- TODO Review translation and see if there is a difference between qattat and someone who does namimah. -->
-<!-- TODO Paradise or Jannah -->
+<!-- ORIGINAL HADITH USES QATTAT
+"A tale-bearer (_qattāt_) will not enter... -->
 
-The Prophet \hon{\PBUH}{\BODY} said, "A tale-bearer (_qattāt_) will not enter
-Paradise."[-@@bukhari, vol.~5, p.~269, #6056]
+The Prophet \hon{\PBUH}{\BODY} said, "A tale-bearer will not enter
+Paradise."[-@@bukhari, vol. 5, p. 269, #6056]
 
-
-<!-- TODO ref Majmu3 fatawa -->
-<!-- TODO review translation -->
-
-Shaykh al-Islām Ibn Taymīyah \hon{\M_HIM}{\BODY} said, "_Namīmah_ is conveying
+<!-- ZAHID REF -->
+<!-- Shaykh al-Islām Ibn Taymīyah \hon{\M_HIM}{\BODY} said, "_Namīmah_ is conveying
 the speech of people to one another with the intent of causing corruption
 between them." He also said, "This is among the gravest causes of corruption
-between people and the severing of relationships." \[Majmūʿ al-Fatāwā\]
+between people and the severing of relationships." \[Majmūʿ al-Fatāwā\] -->
 
-<!-- TODO ref al-Da wa al-Dawa Ibn al-Qayyim -->
-
-Imam Ibn al-Qayyim \hon{\M_HIM}{\BODY} said, "_Namīmah_ is among the most
+<!-- ZAHID REF -->
+<!-- Imam Ibn al-Qayyim \hon{\M_HIM}{\BODY} said, "_Namīmah_ is among the most
 destructive diseases of the heart and the greatest causes of enmity between
 people." He further said, "The tale-bearer corrupts hearts, destroys
-relationships, and spreads hatred among people." \[al-Dāʾ wa al-Dawāʾ\]
+relationships, and spreads hatred among people." \[al-Dāʾ wa al-Dawāʾ\] -->
 
 
 ## Backbiting (Ghībah)
@@ -570,17 +531,15 @@ Allāh Says,
 يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ ٱجۡتَنِبُواْ كَثِيرٗا مِّنَ ٱلظَّنِّ إِنَّ بَعۡضَ ٱلظَّنِّ إِثۡمٞۖ وَلَا تَجَسَّسُواْ وَلَا يَغۡتَب بَّعۡضُكُم بَعۡضًاۚ أَيُحِبُّ أَحَدُكُمۡ أَن يَأۡكُلَ لَحۡمَ أَخِيهِ مَيۡتٗا فَكَرِهۡتُمُوهُۚ وَٱتَّقُواْ ٱللَّهَۚ إِنَّ ٱللَّهَ تَوَّابٞ رَّحِيمٞ ١٢
 \AYAH_AR_END
 
-<!-- TODO Accepter or Acceptor? -->
-
 \AYAH_START
-O believers! Avoid many suspicions, (for) indeed, some suspicions are sinful.
+O believers! Avoid many suspicions, [for] indeed, some suspicions are sinful.
 And do not spy, nor backbite one another. Would any of you like to eat the flesh
 of their dead brother? You would despise that! And fear Allāh. Surely Allāh is
-(the) Accepter of Repentance, Most Merciful. (Sūrat al-Ḥujurāt, Q49:12)
+[the] Accepter of Repentance, Most Merciful. (Sūrat al-Ḥujurāt, Q49:12)
 \AYAH_END
 
-The Prophet Muḥammad \hon{\PBUH}{\BODY} said, "Do you know what backbiting is?"
-They said, "Allāh and His Messenger know best."
+The Prophet \hon{\PBUH}{\BODY} said, "Do you know what backbiting is?" They
+said, "Allāh and His Messenger know best."
 
 He \hon{\PBUH}{\BODY} said, "It is to mention about your brother that which he
 dislikes." It was said, "What if what I say about my brother is true?" He
@@ -600,62 +559,95 @@ have polluted it.' She said, 'I also imitated a person in front of him.' He
 \hon{\PBUH}{\BODY} said, 'I do not like that I should imitate someone even if I
 were given such-and-such.'"[-@@abudawud, vol. 7, p. 352, #4794]
 
-<!-- TODO Add Quran reference to ff -->
 Allāh has described backbiting by saying, "Would any of you like to eat the
 flesh of his dead brother?" From this, it is understood that backbiting is like
 eating the flesh of one's dead brother.
 
-<!-- TODO Night Journey or al-Isra wa al-Mi3raaj -->
-The Prophet Muḥammad \hon{\PBUH}{\BODY} said, "When I was taken up (on the Night
-Journey), I passed by people who had copper nails with which they were
-scratching their faces and chests. I said, 'Who are these, O Jibrīl?' He said,
-'These are the ones who used to eat the flesh of people and dishonor
-them.'"[-@@abudawud, vol. 7, pp. 353--4, 4796]
-
-<!-- TODO Check punctuation of list in CMOS; check other lists too -->
+The Prophet \hon{\PBUH}{\BODY} said, "When I was taken up (on the Night of
+Miʿrāj), I passed by people who had copper nails with which they were scratching
+their faces and chests. I said, 'Who are these, O Jibrīl?' He said, 'These are
+the ones who used to eat the flesh of people and dishonor them.'"[-@@abudawud,
+vol. 7, pp. 353--4, 4796]
 
 There are certain situations where mentioning another's faults becomes
 permissible and is no longer sinful. These situations generally include:
 
-- Preventing religious or moral harm;
-- Seeking a legal verdict (_fatwá_);
-- Warning others against someone's harm;
-- When a person is widely known by a particular nickname, even if it contains a
-  flaw, and he is no longer offended by it;
-- Complaining about oppression to an authority; and
-- Mentioning the wrongdoing of someone who commits sins openly.
+- preventing religious or moral harm;
+- seeking a legal verdict (_fatwá_);
+- warning others against someone's harm;
+- referring to someone by a widely known nickname, even if it points to a flaw,
+  provided that the person is no longer offended by it;
+- complaining about oppression to an authority; and
+- mentioning the wrongdoing of someone who commits sins openly.
 
-<!-- TODO ref al-Tirmidhī THIS IS PROBABLY NOT FROM THERE. Check Nawadir al-Usul by Hakim al-Tirmidhī -->
-<!-- TODO Khalid: Change it -->
-<!--
-أَتَرْعَوْنَ عَن ذكر الْفَاجِر حَتَّى يعرفهُ النَّاس إذكروه بِمَا فِيهِ يحذرهُ النَّاس
-الْفَاجِر
--->
-The Prophet Muḥammad \hon{\PBUH}{\BODY} said, "What do you say about a person
+<!-- OLD
+The Prophet \hon{\PBUH}{\BODY} said, "What do you say about a person
 who does not refrain from people?" They said, "Allāh and His Messenger know
 best." He \hon{\PBUH}{\BODY} said, "Mention what is in him so that people may
-beware of him." \[Sunan al-Tirmidhī\]
+beware of him." -->
 
-<!-- TODO review translation -->
+The Messenger of Allāh \hon{\PBUH}{\BODY} said, “Why do you hold back from
+speaking about a wicked person? How else will people recognize him? Speak openly
+about his faults so that they may be on their guard against
+him.”[-@@nawadir_usul, vol. 4, p. 203, #917]
+
 He \hon{\PBUH}{\BODY} said, "Help your brother whether he is an oppressor or
 oppressed." They said, "O Messenger of Allāh, we help him if he is oppressed,
 but how do we help him if he is an oppressor?" He \hon{\PBUH}{\BODY} said, "By
-preventing him from oppression."[-@@bukhari, vol. 2, p. 436, #2444]
+preventing him from oppressing."[-@@bukhari, vol. 2, p. 436, #2444]
 
+<!-- ZAHID REF -->
 
-<!-- TODO ref majmu3 fatawa -->
+<!-- أَصْلُ الْكَلَامِ فِي هَذَا أَنْ يُعْلَمَ أَنَّ الْغِيبَةَ هِيَ كَمَا فَسَّرَهَا النَّبِيُّ ﷺ فِي الْحَدِيثِ الصَّحِيحِ لَمَّا سُئِلَ عَنِ الْغِيبَةِ فَقَالَ: «هِيَ ذِكْرُكَ أَخَاكَ بِمَا يَكْرَهُ». قِيلَ: يَا رَسُولَ اللَّهِ، أَرَأَيْتَ إِنْ كَانَ فِي أَخِي مَا أَقُولُ؟ قَالَ: «إِنْ كَانَ فِيهِ مَا تَقُولُ فَقَدِ اغْتَبْتَهُ، وَإِنْ لَمْ يَكُنْ فِيهِ مَا تَقُولُ فَقَدْ بَهَتَّهُ». -->
+<!-- The starting point in this discussion is to understand that backbiting is as the
+Prophet ﷺ defined it in the authentic hadith. When asked about backbiting, he
+replied, ‘It is your mentioning something about your brother that he dislikes.’
+He was asked, ‘What if what I say about my brother is true?’ He replied, ‘If he
+is as you describe him, you have backbitten him; but if he is not, you have
+slandered him.’ -->
 
-Shaykh al-Islām Ibn Taymīyah \hon{\M_HIM}{\BODY} said, "Backbiting is
+<!--
+وَأَمَّا الشَّخْصُ الْمُعَيَّنُ فَيُذْكَرُ مَا فِيهِ مِنَ الشَّرِّ فِي مَوَاضِعَ.
+
+مِنْهَا الْمَظْلُومُ لَهُ أَنْ يَذْكُرَ ظَالِمَهُ بِمَا فِيهِ، إِمَّا عَلَى وَجْهِ دَفْعِ ظُلْمِهِ وَاسْتِيفَاءِ حَقِّهِ.
+
+وَمِنْهَا أَنْ يَكُونَ عَلَى وَجْهِ النَّصِيحَةِ لِلْمُسْلِمِينَ فِي دِينِهِمْ وَدُنْيَاهُمْ.
+
+وَفِي مَعْنَى هَذَا نُصْحُ الرَّجُلِ فِيمَنْ يُعَامِلُهُ وَمَنْ يُوَكِّلُهُ وَيُوصِي إِلَيْهِ وَمَنْ يَسْتَشْهِدُهُ، بَلْ وَمَنْ يَتَحَاكَمُ إِلَيْهِ.
+-->
+<!--
+As for a particular individual, his faults may be mentioned in certain
+circumstances. One such circumstance is when a person has been wronged: he may
+speak about his oppressor to repel the injustice and obtain his rights. Another
+is when it is done to advise Muslims concerning their religious and worldly
+affairs. The same principle applies to advising someone about a person with whom
+they intend to conduct business, whom they wish to appoint as an agent, to whom
+they intend to entrust something, whom they wish to call as a witness, or before
+whom they intend to bring a dispute.
+-->
+
+<!-- Shaykh al-Islām Ibn Taymīyah \hon{\M_HIM}{\BODY} said, "Backbiting is
 mentioning a person in a way he dislikes, even if it is true." He also said, "If
 mentioning a person contains a legitimate benefit, such as warning or seeking
-justice, then it is permitted." \[Majmūʿ al-Fatāwā\]
+justice, then it is permitted." \[Majmūʿ al-Fatāwā\] -->
 
-<!-- TODO ref al-da wa al-dawa Ibn al-Qayyim -->
+<!-- وَأَيْسَرُ حَرَكَاتِ الْجَوَارِحِ حَرَكَةُ اللِّسَانِ، وَهِيَ أَضَرُّهَا عَلَى الْعَبْدِ. -->
+<!-- The easiest of the bodily movements is the movement of the tongue, yet it is the
+most harmful to a person. -->
 
-Imam Ibn al-Qayyim \hon{\M_HIM}{\BODY} said, "Backbiting harms honor, and harm
+<!-- وَإِنَّ الْعَبْدَ لَيَأْتِي يَوْمَ الْقِيَامَةِ بِحَسَنَاتٍ أَمْثَالِ الْجِبَالِ، فَيَجِدُ لِسَانَهُ قَدْ هَدَمَهَا كُلَّهَا. -->
+
+Imam Ibn al-Qayyim \hon{\M_HIM}{\BODY} said, “A person may come on the Day of
+Resurrection with good deeds like mountains, only to find that his tongue has
+destroyed them all.”[-@@daa_wa_dawa, p. 375]
+
+<!-- ZAHID REF -->
+<!-- Imam Ibn al-Qayyim \hon{\M_HIM}{\BODY} said, "Backbiting harms honor, and harm
 to honor is more severe than harm to wealth." He further said, "The tongue is
 the greatest cause of destruction for a person in both this world and the
-Hereafter." \[al-Dāʾ wa al-Dawāʾ\]
+Hereafter." \[al-Dāʾ wa al-Dawāʾ\] -->
+
+
 
 
 ## Spying (Tajassus)
@@ -683,29 +675,25 @@ home."[-@@abudawud, vol. 7, p. 355, #4799]
 
 The Prophet \hon{\PBUH}{\BODY} also said, "...and whoever listens to the
 conversation of a people while they dislike that or flee from him, molten lead
-will be poured into his ears on the Day of Resurrection..."[-@@bukhari, vol.~6,
-pp.~202--203, #7042]
+will be poured into his ears on the Day of Resurrection..."[-@@bukhari, vol. 6,
+pp. 202--3, #7042]
 
 It is worth reflecting why one should unnecessarily pry into the conversations
 and private matters of others. Are one's own affairs not sufficient that one
 interferes in the affairs of others? After the commands of Allāh and His
 Messenger \hon{\PBUH}{\BODY}, no Muslim should commit such an error.
 
-<!-- TODO ref majmu3 fatawa -->
+<!-- Imam Ibn al-Qayyim \hon{\M_HIM}{\BODY} said, "Whoever busies himself with the
+faults of others will be tested with his own faults." \[al-Fawāʾid\] -->
 
-Shaykh al-Islām Ibn Taymīyah \hon{\M_HIM}{\BODY} said, "The believer conceals
-and advises, whereas the hypocrite searches for faults and exposes." \[Majmūʿ
-al-Fatāwā\]
-
-<!-- TODO ref Ibn al-Qayyim al-Fawa2id -->
-
-Imam Ibn al-Qayyim \hon{\M_HIM}{\BODY} said, "Whoever busies himself with the
-faults of others will be tested with his own faults." \[al-Fawāʾid\]
+Imam Ibn al-Qayyim \hon{\M_HIM}{\BODY} said, ““Blessed is the one whose own
+faults keep him occupied rather than the faults of others. Woe to the one who
+forgets his own faults and devotes himself to the faults of others. This is a
+sign of misery, just as the former is a sign of felicity.”[-@@tariq_hijratayn,
+vol. 1, p. 370]
 
 
 ## Suspicion (Sūʾ al-Ẓann)
-
-<!-- TODO see if suspicion is a suitable word in all instances -->
 
 Allāh Says,
 
@@ -724,60 +712,39 @@ suspicion. Because of it, mutual affection decreases, people begin to view one
 another with doubt, and gradually suspicion takes root in hearts, creating
 fertile ground for conflict.
 
-The Prophet Muḥammad \hon{\PBUH}{\BODY} said, "Beware of suspicion, for
-suspicion is the most false of speech. Do not spy, do not compete with one
-another, do not envy one another, do not hate one another, and do not turn away
-from one another. Be, O servants of Allāh, brothers."[-@@bukhari, vol.~5,
-pp.~272--273, #6064]
+The Prophet \hon{\PBUH}{\BODY} said, "Beware of suspicion, for suspicion is the
+most false of speech. Do not spy, do not compete with one another, do not envy
+one another, do not hate one another, and do not turn away from one another. Be,
+O servants of Allāh, brothers."[-@@bukhari, vol. 5, pp. 272--3, #6064]
 
 It is also appropriate that if a person does something that may give others an
 opportunity for suspicion, he should remove that suspicion.
 
-
-<!-- TODO Either 3281 or 6219; 3281 is active speech while 6219 is passive. translation needs to be edited accordingly. -->
 Ṣafīyah bint Ḥuyayy \hon{\P_HER}{\BODY} reported, “The Prophet
-\hon{\PBUH}{\BODY} was in _iʿtikāf_, and I came to visit him at night. I spoke
-with him, then I stood to return, and he stood with me to accompany me.” She was
-staying at the house of Usāmah ibn Zayd then. Two men from the Anṣār passed by.
-When they saw the Prophet \hon{\PBUH}{\BODY}, they hastened. The Prophet
-\hon{\PBUH}{\BODY} said, "Take it easy, she is Ṣafiyyah bint Ḥuyayy." They said,
-"_Subḥān Allāh_, O Messenger of Allāh!" He \hon{\PBUH}{\BODY} said, "Indeed,
-Shayṭān flows through the son of Ādam like blood, and I feared that he might
-cast ill into your hearts."[-@@bukhari, vol. 3, p. 211, #3281]
-
-
-<!-- Ṣafīyah bint Ḥuyayy \hon{\P_HER}{\BODY} reported,
-
-> The Prophet \hon{\PBUH}{\BODY} was in _iʿtikāf_, and I came to visit him at
-> night. I spoke with him, then I stood to return, and he stood with me to
-> accompany me. When we reached the door of the mosque, two men from the Anṣār
-> passed by. When they saw the Prophet \hon{\PBUH}{\BODY}, they hastened away.
-> The Prophet \hon{\PBUH}{\BODY} said, "Take it easy, she is Ṣafiyyah bint
-> Ḥuyayy."
-
-> They said, "Subḥān Allāh, O Messenger of Allāh!" He \hon{\PBUH}{\BODY} said,
-> "Indeed, Shayṭān flows through the son of Ādam like blood, and I feared that
-> he might cast something into your hearts." \[Ṣaḥīḥ al-Bukhārī\] -->
-
-
-<!-- TODO review translation of ff para -->
+\hon{\PBUH}{\BODY} was observing _iʿtikāf_ when I came to visit him one night. I
+sat with him and spoke to him for a while. When I got up to leave, he rose and
+walked with me to see me off. At that time, my accommodation was in the house of
+Usāmah ibn Zayd. Two men from the Anṣār happened to pass by. When they saw the
+Prophet \hon{\PBUH}{\BODY}, they quickened their pace. He said, ‘Take it easy!
+This is Ṣafiyyah bint Ḥuyayy.’ They exclaimed, ‘Glory be to Allāh, Messenger of
+Allāh!’ He replied, ‘Shayṭān flows through a person like blood. I feared that he
+might cast some suspicion—or something evil—into your hearts.’”[-@@bukhari, vol.
+3, p. 211, #3281]
 
 The conclusion is that the Prophet \hon{\PBUH}{\BODY} removed even the
 possibility of suspicion.
 
-<!-- TODO ref majmu3 fatawa -->
-
-Shaykh al-Islām Ibn Taymīyah \hon{\M_HIM}{\BODY} said, "The believer interprets
+<!-- ZAHID REF -->
+<!-- Shaykh al-Islām Ibn Taymīyah \hon{\M_HIM}{\BODY} said, "The believer interprets
 the words and actions of people in the best possible way, while the hypocrite
 follows suspicion and bad assumptions." He also said, "Suspicion without
 evidence is forbidden, for it is speaking about others without knowledge."
-\[Majmūʿ al-Fatāwā\]
+\[Majmūʿ al-Fatāwā\] -->
 
-<!-- TODO ref Madarij Salikin: Couldn't find -->
-
-Imam Ibn al-Qayyim \hon{\M_HIM}{\BODY} said, "The foundation of brotherhood is a
+<!-- ZAHID REF -->
+<!-- Imam Ibn al-Qayyim \hon{\M_HIM}{\BODY} said, "The foundation of brotherhood is a
 sound heart, and it is destroyed by suspicion and ill assumptions." \[Madarij
-al-Salikin\]
+al-Salikin\] -->
 
 
 ## Greed (Ḥirṣ)
@@ -806,13 +773,13 @@ received.
 
 The Messenger of Allāh \hon{\PBUH}{\BODY} said, "Richness is not having many
 possessions. Rather, true richness is the richness of the soul."[-@@bukhari,
-vol.~5, p.~428, #6446]
+vol. 5, p. 428, #6446]
 
-The Prophet Muḥammad \hon{\PBUH}{\BODY} said, "...whoever seeks chastity, Allāh
-will grant him chastity; whoever seeks self-sufficiency, Allāh will make him
+The Prophet \hon{\PBUH}{\BODY} said, "...whoever seeks chastity, Allāh will
+grant him chastity; whoever seeks self-sufficiency, Allāh will make him
 self-sufficient; and whoever seeks patience, Allāh will grant him patience. No
-one is given a gift better and more expansive than patience."[-@@bukhari, vol. 2,
-p. 37, #1469]
+one is given a gift better and more expansive than patience."[-@@bukhari, vol.
+2, p. 37, #1469]
 
 Ḥakīm ibn Ḥizām \hon{\P_HIM}{\BODY} reported,
 
@@ -833,18 +800,31 @@ p. 37, #1469]
 > it."
 
 > So Ḥakīm did not take anything from anyone after the Messenger of Allāh
-> \hon{\PBUH}{\BODY} until he died."[-@@bukhari, vol.~2, pp.~37--38, #1472]
+> \hon{\PBUH}{\BODY} until he died."[-@@bukhari, vol. 2, pp. 37--8, #1472]
 
 
 This affected Ḥakīm so deeply that thereafter he never accepted a gift from
 anyone.
 
-<!-- TODO ref majmu3 fatawa -->
-
-Shaykh al-Islām Ibn Taymīyah \hon{\M_HIM}{\BODY} said, "The true richness of the
+<!-- Shaykh al-Islām Ibn Taymīyah \hon{\M_HIM}{\BODY} said, "The true richness of the
 servant is that his heart is independent of creation and attached only to
-Allāh." He also said, "Greed (_ḥirṣ_) is a form of poverty of the heart, even if
+Allāh." -->
+
+Shaykh al-Islām Ibn Taymīyah \hon{\M_HIM}{\BODY} said, “True richness of the
+soul is to be free of longing for what others possess. For a free person becomes
+a slave through covetousness, while a slave becomes free through contentment. As
+the saying goes, ‘I obeyed my desires, and they enslaved me,’ ... Such
+dependence is contrary to the reliance upon Allāh that one is commanded to
+cultivate, and contrary to true richness of the soul.”[-@@majmu3fatawa, vol. 18,
+p. 329]
+
+
+He also said, "Greed (_ḥirṣ_) is a form of poverty of the heart, even if
 a person possesses the world." \[Majmūʿ al-Fatāwā\]
+
+
+
+
 
 
 ## Anger (Ghaḍab)
@@ -870,10 +850,10 @@ The Messenger of Allāh \hon{\PBUH}{\BODY} said, "A strong man is not the one wh
 overpowers others, but the one who controls himself when angry."[-@@bukhari,
 vol. 5, pp. 290--1, #6114]
 
-A man said to the Prophet Muḥammad \hon{\PBUH}{\BODY}, "Advise me." He
-\hon{\PBUH}{\BODY} said, "Do not become angry." The man repeated his request
-several times, and he \hon{\PBUH}{\BODY} said each time, "Do not become angry."
-[-@@bukhari, vol. 5, p. 291, #6116]
+A man said to the Prophet \hon{\PBUH}{\BODY}, "Advise me." He \hon{\PBUH}{\BODY}
+said, "Do not become angry." The man repeated his request several times, and he
+\hon{\PBUH}{\BODY} said each time, "Do not become angry." [-@@bukhari, vol. 5,
+p. 291, #6116]
 
 The Messenger of Allāh \hon{\PBUH}{\BODY} taught three remedies for anger: He
 \hon{\PBUH}{\BODY} said, “Anger comes from Shayṭān, and Shayṭān was created
@@ -919,9 +899,6 @@ And do not place in our hearts resentment toward the believers. (Sūrat al-Ḥas
 Q59:10)
 \AYAH_END
 
-
-<!-- TODO ref for "Allāh has praised those who pray to be free from it" -->
-
 Keeping enmity in the heart for a long time is called malice and resentment. It
 is such an evil trait that Allāh has praised those who pray to be free from it.
 In Paradise, people will be brothers to one another; there will be no resentment
@@ -936,24 +913,21 @@ his chest three times. "It is enough evil for a person to look down upon his
 Muslim brother. The blood, wealth, and honor of a Muslim are inviolable to
 another Muslim."[-@@muslim, vol. 6, pp. 427--8, #2646]
 
-<!-- TODO nights or days? -->
-<!-- TODO review translation -->
-The Prophet \hon{\PBUH}{\BODY} said, "It is not permissible for a Muslim to
-abandon his brother for more than three [nights]. They meet, and this one turns
-away, and that one turns away. The better of the two is the one who initiates
-the greeting of peace."[-@@bukhari, vol.~5, p.~340, #6237]
+The Prophet \hon{\PBUH}{\BODY} said, “It is not permissible for a Muslim to shun
+his fellow Muslim for more than three [days]. When they meet, each turns away
+from the other. The better of the two is the one who initiates the greeting of
+peace (_salām_).”[-@@bukhari, vol. 5, p. 340, #6237]
 
 He \hon{\PBUH}{\BODY} said, "The gates of Paradise are opened on Mondays and
 Thursdays, and every servant who does not associate anything with Allāh is
 forgiven, except a man between whom and his brother there is resentment. It will
 be said, 'Delay these two until they reconcile. Delay these two until they
-reconcile.'"[-@@muslim, vol. 6, pp. 428--9, #2646]
+reconcile.'"[-@@muslim, vol. 6, pp. 428--9, #2647]
 
-<!-- TODO ref majmu3 fatawa -->
-
-Shaykh al-Islām Ibn Taymīyah \hon{\M_HIM}{\BODY} said, "Removing malice from
+<!-- ZAHID REF -->
+<!-- Shaykh al-Islām Ibn Taymīyah \hon{\M_HIM}{\BODY} said, "Removing malice from
 the heart is among the greatest acts of purification of the soul." \[Majmūʿ
-al-Fatāwā\]
+al-Fatāwā\] -->
 
 <!-- Imam Ibn al-Qayyim \hon{\M_HIM}{\BODY} said, "The heart cannot be sound while it
 contains malice, envy, and hatred." -->
@@ -1009,30 +983,21 @@ On another occasion, he \hon{\PBUH}{\BODY} said, "...Shall I inform you who the
 people of Hell are? They said, "Yes." He \hon{\PBUH}{\BODY} said, "Every harsh,
 violent, and arrogant person."[-@@bukhari, vol. 4, pp. 307--8, #4918]
 
-
-<!-- TODO ref majmu3 fatawa -->
-
-Shaykh al-Islām Ibn Taymīyah \hon{\M_HIM}{\BODY} said, "Arrogance is rejecting
+<!-- ZAHID REF: This might be just the hadith -->
+<!-- Shaykh al-Islām Ibn Taymīyah \hon{\M_HIM}{\BODY} said, "Arrogance is rejecting
 the truth and despising people, and this is the essence of kibr." \[Majmūʿ
-al-Fatāwā\]
+al-Fatāwā\] -->
 
-<!-- TODO ref Ibn al-Qayyim Fawa2id -->
+Imam Ibn al-Qayyim \hon{\M_HIM}{\BODY} said,
 
-Imam Ibn al-Qayyim \hon{\M_HIM}{\BODY} said, "The origins of wrongdoing are
-three:
+> The roots of all wrongdoing are three: (1) Arrogance: This is what drove Iblīs
+> to do what he did. (2) Greed: This is what led to Ādam’s expulsion from
+> Paradise. (3) Jealousy: This is what emboldened one of the two sons of Ādam to
+> attack his brother.
 
-1. Arrogance: It is that which drove Iblīs to that which it drove him (i.e. to
-   commit that which Iblīs committed);
-
-2. Desire: It is that which caused Ādam to be expelled from the Paradise; and
-
-3. Jealousy: It is that which caused one of the sons of Ādam to transgress
-   against his brother.
-
-Therefore, whoever is protected from the evil of these three [traits], then
-indeed he has been protected from evil. For disbelief is from arrogance;
-disobedience from desires; and transgression and oppression from jealousy."
-\[al-Fawā'id\]
+> Whoever is protected from the evil of these three traits has indeed been
+> protected from evil. Disbelief stems from arrogance, sins from greed, and
+> transgression and oppression from jealousy.[-@@fawaid, p. 80]
 
 
 ## Showing Off (Riyāʾ)
@@ -1055,27 +1020,25 @@ generosity, and other good deeds not for fulfilling obligation or seeking
 Allāh's Pleasure, but so that people may call one pious, righteous, or noble.
 All such deeds have no value with Allāh.
 
-<!-- TODO: ref Muslim -->
-<!-- TODO review translation of ff para -->
+The Prophet \hon{\PBUH}{\BODY} said that Allāh said, “I am the One Who has
+absolutely no need of partners. Whoever performs a deed and associates anyone
+else with Me in it, I shall leave him and his act of associating partners with
+Me (_shirk_).”[-@@muslim, vol. 7, p. 396, #3102]
 
-The Prophet Muḥammad \hon{\PBUH}{\BODY} said that Allāh said, "I am the most
-independent of partners. Whoever does a deed in which he associates others with
-Me, I will leave him and his _shirk_." \[Ṣaḥīḥ Muslim\]
+The Prophet \hon{\PBUH}{\BODY} said, “When Allāh gathers all the earlier and
+later generations on the Day of Resurrection—a Day about which there is no
+doubt—a caller will proclaim, ‘Whoever associated anyone with Allāh in an act he
+performed for His sake, let him seek his reward from someone other than Allāh.
+For Allāh has absolutely no need of any partner.’”[-@@majah14, vol. 4, p. 74,
+#4236]
 
-The Prophet Muḥammad \hon{\PBUH}{\BODY} said, “When Allāh gathers all the
-earlier and later generations on the Day of Resurrection—a Day about which there
-is no doubt—a caller will proclaim, ‘Whoever associated anyone with Allāh in an
-act he performed for His sake, let him seek his reward from someone other than
-Allāh. For Allāh has absolutely no need of any partner.’”[-@@majah14, vol. 4, p.
-74, #4236]
-
-<!-- The Prophet Muḥammad \hon{\PBUH}{\BODY} said, "When Allāh gathers the first and
+<!-- The Prophet \hon{\PBUH}{\BODY} said, "When Allāh gathers the first and
 the last on the Day of Resurrection for a Day about which there is no doubt, a
 caller will announce, 'Whoever associated partners with Allāh in any deed, let
 him seek his reward from other than Allāh, for Allāh is the most independent of
 partners.'"[-@@majah14, vol. 4, p. 74, #4236] -->
 
-The Prophet Muḥammad \hon{\PBUH}{\BODY} said,
+The Prophet \hon{\PBUH}{\BODY} said,
 
 > The first of people to be judged on the Day of Resurrection will be a man who
 > died as a martyr. He will be brought, and Allāh will make known to him His
@@ -1107,14 +1070,22 @@ The Prophet Muḥammad \hon{\PBUH}{\BODY} said,
 > dragged on his face until he is thrown into the Fire."[-@@muslim, vol. 5, pp.
 > 231--2, #1958]
 
-
-<!-- TODO ref majmu3 fatawa -->
-<!-- TODO add foonote for minor shirk? -->
-
+<!-- OLD TEXT
 Shaykh al-Islām Ibn Taymīyah \hon{\M_HIM}{\BODY} said, "_Riyāʾ_ is a form of
-minor _shirk_, and it invalidates the deed for which it is intended." He also
-said, "Actions are only accepted when they are purely for Allāh and in
-accordance with the Sunnah." \[Majmūʿ al-Fatāwā\]
+minor _shirk_, and it invalidates the deed for which it is intended." -->
+
+<!-- OLD TEXT
+He also said, "Actions are only accepted when they are purely for Allāh and in
+accordance with the Sunnah." \[Majmūʿ al-Fatāwā\] -->
+
+
+Shaykh al-Islām Ibn Taymīyah \hon{\M_HIM}{\BODY} said, “Whoever performs a deed
+for someone other than Allāh---as do those who act for show (_ahl
+al-riyāʾ_)---will have that deed rejected.”[-@@majmu3fatawa, vol. 7, p. 495] He
+also said, “If a deed is sincere but not correct, it will not be accepted; and
+if it is correct but not sincere, it will not be accepted until it is both
+sincere and correct. Sincerity means that it is done for Allāh, and correctness
+means that it accords with the Sunnah.”[-@@majmu3fatawa, vol. 10, p. 174]
 
 <!-- OLD TRANSLATION
 Imam Ibn al-Qayyim \hon{\M_HIM}{\BODY} said, "_Ikhlāṣ_ is that the servant's
@@ -1142,8 +1113,6 @@ And do not covet that by which Allāh has given some of you advantage over
 others. (Sūrat al-Nisāʾ, Q4:32)
 \AYAH_END
 
-<!-- TODO review translation "emulation" -->
-<!-- TODO footnote for difference? ghibtah and envy? -->
 
 If Allāh grants someone honor or excellence in worldly or religious matters, and
 upon seeing this, a desire arises in your heart to attain the same honor, this
@@ -1157,15 +1126,10 @@ The Messenger of Allāh \hon{\PBUH}{\BODY} said, "Beware of envy, for envy
 consumes good deeds just as fire consumes wood."[-@@abudawud, vol. 7, p. 371,
 #4822]
 
-<!-- TODO add ghibtah? emulation? Why envy? Chapter 6 doesn't have ghibtah -->
-<!-- TODO review trans: spends it in truth? -->
-<!-- TODO translation is different from chapter 6. Double check. -->
-
-The Prophet \hon{\PBUH}{\BODY} said, "There is no envy except in two cases: a
-man whom Allāh has given wealth and he spends it in truth, and a man whom Allāh
-has given wisdom and he judges by it and teaches it."[-@@bukhari, vol.~1, p.~62, #73]
-
-<!-- TODO: ref ibn al-qayyim -->
+The Prophet \hon{\PBUH}{\BODY} said, “There is no envy except in two cases: a
+person to whom Allāh has granted wealth and who spends it generously in the
+cause of truth, and a person to whom Allāh has granted wisdom, by which he
+judges and which he teaches to others.”[-@@bukhari, vol. 1, p. 62, #73]
 
 Imam Ibn al-Qayyim \hon{\M_HIM}{\BODY} said, "Envy is to wish for the removal of
 Allāh's blessing from its possessor, and this is its first level. The second
@@ -1173,24 +1137,43 @@ level is to wish that harm and misfortune accompany him constantly, like a
 shadow that follows its object. At this level, the envier wishes that the one he
 envies remains ignorant, poor, weak, and cut off from Allāh. He wishes
 deficiency in his religion. In reality, such a person hates what Allāh has
-decreed and granted to His servants." \[Ḥasad: Dhamm al-Ḥasad wa Ahlīhi\]
+decreed and granted to His servants."
 
-<!-- TODO: ref ibn al-qayyim -->
+Ibn al-Qayyim \hon{\M_HIM}{\BODY} identifies three levels of envy. The first is
+the one where one wishes for the removal of another person's blessing and acting
+upon that envy through the heart, tongue, or limbs.
+
+He then explains the second:
+
+> The second is wishing that another person should remain deprived of blessings.
+> Such a person resents the prospect of Allāh granting His servant any blessing.
+> Rather, he wishes that the person should remain as he is: ignorant, poor,
+> weak, with a heart distracted from Allāh, or deficient in religious
+> commitment. He wishes that the person's existing shortcomings and deficiencies
+> should persist. This is envy concerning a blessing that has not yet
+> materialized, whereas the first is envy concerning a blessing that already
+> exists. Both types of people are envious: enemies of Allāh’s blessings and of
+> His servants. They are detested by Allāh Most High and by people.
+
+The third type of envy he mentioned is the praiseworthy one: where one wishes
+for a similar blessing for himself without its removal from another
+person.[-@@bada2i3_fawaid, p. 762]
 
 Imam Ibn al-Qayyim \hon{\M_HIM}{\BODY} also said,
 
-> A protection from envy is giving charity and doing good as much as one is
-> able. This has an amazing effect in repelling calamities, the evil eye, and
-> the evil of envy. If there were nothing other than the experiences of past
-> nations to prove this, it would suffice.
+> Giving charity and doing good to others to the best of one's ability have a
+> remarkable effect in warding off calamities, the evil eye, and the harm caused
+> by envy. The experiences of nations, both past and present, would alone be
+> sufficient to demonstrate this. The evil eye, envy, and other forms of harm
+> can scarcely gain power over someone who is devoted to doing good and giving
+> charity. Even if such a person is afflicted by any of these things, Allāh
+> treats him with kindness, grants him support and assistance, and ultimately
+> brings about a favourable outcome for him.
 
-> The evil eye and envy do not come near the one who gives charity and does good
-> to creation; and if they do reach him, they are light, and his end is
-> praiseworthy. This is because gratitude protects blessings.
-
-> The envier's heart does not find rest until the envied loses his blessing, and
-> nothing protects blessings like gratitude. Just as nothing causes blessings to
-> vanish like ingratitude." \[Miʾat Naṣīḥah\]
+> A person who does good and gives charity is under the protection of his good
+> deeds and charity. Allāh provides him with a protective shield and an
+> impregnable fortress. In short, gratitude safeguards blessings against
+> anything that might cause them to disappear.[-@@bada2i3_fawaid, pp. 771--2]
 
 
 ## Quarreling (Tanāzuʿ)
@@ -1219,23 +1202,19 @@ deteriorates, and your honor vanishes in the eyes of others.
 
 The Messenger of Allāh \hon{\PBUH}{\BODY} said, "A believer to another believer
 is like a building, each part strengthening the other," and he interlaced his
-fingers.[-@@bukhari, vol.~1, p.~277, #481] Just as bricks of a wall join
+fingers.[-@@bukhari, vol. 1, p. 277, #481] Just as bricks of a wall join
 together to form a strong fortress, the Muslim community is like a fortress
 whose strength lies in each brick supporting the other. As long as the bricks
 remain connected, the wall stands; once a brick slips from its place, the entire
 wall collapses.
 
-<!-- TODO review trans: if even one suffers -->
 The Prophet \hon{\PBUH}{\BODY} said, "The example of the believers in their
 mutual love, mercy, and compassion is like a body: when one limb suffers, the
-whole body responds to it with sleeplessness and fever."[-@@bukhari, vol.~5,
-p.~253, #6011] This is how Muslims should be---if even one suffers, all should
+whole body responds to it with sleeplessness and fever."[-@@bukhari, vol. 5,
+p. 253, #6011] This is how Muslims should be---if even one suffers, all should
 feel the pain.
 
-<!-- TODO review translation -->
-<!-- TODO trans: conceals a Muslim -->
-
-The Prophet Muḥammad \hon{\PBUH}{\BODY} said, "A Muslim is the brother of
+The Prophet \hon{\PBUH}{\BODY} said, "A Muslim is the brother of
 another Muslim: he does not wrong him, nor abandon him. Whoever fulfills the
 need of his brother, Allāh will fulfill his need. Whoever relieves a Muslim of a
 hardship, Allāh will relieve him of a hardship on the Day of Resurrection.
@@ -1268,51 +1247,54 @@ Some kill their children due to financial stress or other reasons. Others take
 the lives of people due to enmity, greed for wealth, or other motives. All of
 these are grave sins.
 
-The Prophet Muḥammad \hon{\PBUH}{\BODY} said, "There was a man among those
-before you who was wounded. He became impatient and took a knife and cut his
-hand, and the blood did not stop until he died. Allāh said, 'My servant hastened
-his death; I have forbidden Paradise for him.'"[-@@bukhari, vol.~3,
-pp.~300--301, #3463]
+The Prophet \hon{\PBUH}{\BODY} said, "There was a man among those before you who
+was wounded. He became impatient and took a knife and cut his hand, and the
+blood did not stop until he died. Allāh said, 'My servant hastened his death; I
+have forbidden Paradise for him.'"[-@@bukhari, vol. 3, pp. 300--1, #3463]
 
-<!-- TODO review translation -->
+<!-- The Messenger of Allāh \hon{\PBUH}{\BODY} said, "...whoever kills himself with
+something will be punished with it on the Day of Resurrection..." -->
 
-The Messenger of Allāh \hon{\PBUH}{\BODY} said, "...whoever kills himself with
-something will be punished with it on the Day of Resurrection..."[-@@bukhari,
-vol.~5, pp.~265--266, #6047]
+The Messenger of Allāh \hon{\PBUH}{\BODY} said, “Whoever takes their own life by
+any means in this world will be punished with that same means on the Day of
+Resurrection.”[-@@bukhari, vol. 5, pp. 265--6, #6047]
 
-<!-- TODO review translation -->
-The Prophet Muḥammad \hon{\PBUH}{\BODY} said, "Whoever throws himself from a
-mountain and kills himself will be throwing himself in the Fire of Hell forever.
-Whoever drinks poison and kills himself will be sipping it in the Fire of Hell
-forever. Whoever kills himself with an iron weapon will have that weapon in his
-hand, stabbing himself in his abdomen in the Fire of Hell forever."[-@@bukhari,
-vol.~5, p.~167, #5778]
+<!-- The Prophet \hon{\PBUH}{\BODY} said, "Whoever throws himself from a mountain and
+kills himself will be throwing himself in the Fire of Hell forever. Whoever
+drinks poison and kills himself will be sipping it in the Fire of Hell forever.
+Whoever kills himself with an iron weapon will have that weapon in his hand,
+stabbing himself in his abdomen in the Fire of Hell forever."[-@@bukhari,
+vol. 5, p. 167, #5778] -->
+
+The Prophet \hon{\PBUH}{\BODY} said, “Whoever throws himself from a mountain and
+takes his own life will continue falling in the Fire of Hell, where he will
+remain forever. Whoever drinks poison and takes his own life will continue
+drinking it in the Fire of Hell, with the poison in his hand, and will remain
+there forever. And whoever takes his own life with a piece of iron will continue
+stabbing himself in the stomach with it in the Fire of Hell and will remain
+there forever.”[-@@bukhari, vol. 5, p. 167, #5778]
 
 The Messenger of Allāh \hon{\PBUH}{\BODY} also said, "If the people of the
 heavens and the earth were to participate in the shedding of the blood of a
 believer, Allāh would throw them all into the Fire."[-@@abuesa16, vol. 2,
 p. 478, #1466]
 
-<!-- TODO consider removing "to" → but also others. -->
-Killing unjustly is sinful not only with respect to Muslims, but also to others.
+Unlawful killing is a sin, regardless of whether the victim is Muslim or not.
 The Prophet \hon{\PBUH}{\BODY} said, "Whoever kills a person under covenant will
 not smell the fragrance of Paradise, though its fragrance can be perceived from
-a distance of forty years."[-@@bukhari, vol.~3, p.~161, #3166]
+a distance of forty years."[-@@bukhari, vol. 3, p. 161, #3166]
 
-<!-- TODO ref majmu3 fatawa -->
-
-Shaykh al-Islām Ibn Taymīyah \hon{\M_HIM}{\BODY} said, "The sanctity of blood is
+<!-- ZAHID REF -->
+<!-- Shaykh al-Islām Ibn Taymīyah \hon{\M_HIM}{\BODY} said, "The sanctity of blood is
 among the greatest sanctities in Islam, and violating it is among the gravest
 sins." He also said, "Killing without right is among the greatest causes of
-punishment in this world and the Hereafter." \[Majmūʿ al-Fatāwā\]
+punishment in this world and the Hereafter." \[Majmūʿ al-Fatāwā\] -->
 
-<!-- TODO ref ibn al-qayyim al-da wa al-dawaa -->
-<!-- TODO ref ibn al-qayyim -->
-
-Imam Ibn al-Qayyim \hon{\M_HIM}{\BODY} said, "After _Shirk_, there is no sin
+<!-- ZAHID REF -->
+<!-- Imam Ibn al-Qayyim \hon{\M_HIM}{\BODY} said, "After _Shirk_, there is no sin
 greater than unlawful killing." \[al-Jawāb al-Kāfī\] He further said, "The
 preservation of life is one of the greatest objectives of the Sharīʿah." \[Iʿlām
-al-Muwaqqiʿīn\]
+al-Muwaqqiʿīn\] -->
 
 
 ## Self-Destruction (Halākah)
@@ -1327,7 +1309,6 @@ Allāh Says,
 And do not throw yourselves into destruction. (Sūrat al-Baqarah, Q2:195)
 \AYAH_END
 
-
 This _āyah_ shows that one must not engage in actions whose outcome is
 destruction and ruin.
 
@@ -1337,24 +1318,13 @@ itself leads to destruction and ruin.
 
 Abū Ayyūb al-Anṣārī \hon{\P_HIM}{\BODY} said,
 
-> This _āyah_ was revealed concerning us, the Anṣār, when Allāh granted victory to
-> His Prophet \hon{\PBUH}{\BODY} and made Islam prevail. We said to one another, “Come, let us stay
-> with our wealth and put it in order.” Thereupon, Allāh, Mighty and Majestic,
-> revealed:
-
-<!-- TODO: The ff needs to be part of the block quote -->
-
-\AYAH_AR_START
-وَأَنفِقُواْ فِي سَبِيلِ ٱللَّهِ وَلَا تُلۡقُواْ بِأَيۡدِيكُمۡ إِلَى ٱلتَّهۡلُكَةِ
-\AYAH_AR_END
-
-\AYAH_START
-“Spend in the way of Allāh, and do not cast yourselves into destruction” (Sūrat
-al-Baqarah, Q2:195)
-\AYAH_END
-
-> Thus, casting oneself into destruction meant staying behind to attend to one’s
-> wealth and put it in order, while abandoning Jihād.
+> This _āyah_ was revealed concerning us, the Anṣār, when Allāh granted victory
+> to His Prophet \hon{\PBUH}{\BODY} and made Islam prevail. We said to one
+> another, “Come, let us stay with our wealth and put it in order.” Thereupon,
+> Allāh, Mighty and Majestic, revealed: “Spend in the way of Allāh, and do not
+> cast yourselves into destruction” (Sūrat al-Baqarah, Q2:195) Thus, casting
+> oneself into destruction meant staying behind to attend to one’s wealth and
+> put it in order, while abandoning Jihād.[-@@abudawud, vol. 4, p. 376, #2500]
 
 <!-- > This _āyah_ was revealed about us, the Anṣār. When Allāh gave strength to Islam
 > and its people became numerous, we said among ourselves secretly, without
@@ -1375,22 +1345,42 @@ al-Baqarah, Q2:195)
 <!-- > So destruction was in staying behind from Jihād and occupying ourselves with
 > our wealth and abandoning striving.[-@@abudawud, vol. 4, p. 376, #2500] -->
 
-<!-- TODO ref al-Tirmidhī: review if the phrase in the brackets at the end; should there be brackets or not -->
-<!-- TODO Khalid: remove the brackets and fix the flow. -->
-
-It is reported that during a battle near Constantinople, a man charged alone
+<!-- It is reported that during a battle near Constantinople, a man charged alone
 into the ranks of the enemy. People said, "Subḥān Allāh! He is throwing himself
 into destruction!" Abū Ayyūb al-Anṣārī \hon{\P_HIM}{\BODY} said, "O people! You
 interpret this _āyah_ incorrectly. It was revealed about us, the Anṣār..." (then
-he mentioned the above explanation)[-@@abuesa16, vol. 4, p. 69, #3229]
+he mentioned the above explanation)[-@@abuesa16, vol. 4, p. 69, #3229] -->
 
-<!-- TODO ref majmu3 fatawa -->
+It is reported that during a battle near Constantinople, a man charged alone
+into the ranks of the enemy. People said, "Subḥān Allāh! He is throwing himself
+into destruction!" Abū Ayyūb al-Anṣārī \hon{\P_HIM}{\BODY} said,
 
+O people! You interpret this _āyah_ incorrectly. It was revealed about us, the
+Anṣār when Allāh had strengthened Islam and its supporters had become numerous.
+
+Some of us began speaking privately among ourselves, without the Messenger of
+Allāh \hon{\PBUH}{\BODY} present. We said, “Our wealth has been neglected, and
+now that Allāh has strengthened Islam and its supporters have grown in number,
+perhaps we should stay behind and attend to our property, restoring whatever has
+fallen into disrepair.”
+
+In response to what we had said, Allāh, Blessed and Exalted is He, revealed to
+His Prophet \hon{\PBUH}{\BODY}, “Spend in the cause of Allāh, and do not cast
+yourselves into destruction.” (al-Baqarah, Q2:195) Thus, destruction meant
+staying behind to tend to our property and put it in order, thereby abandoning
+military expeditions.[-@@abuesa16, vol. 4, p. 69, #3229]
+
+<!-- OLD TEXT
 Shaykh al-Islām Ibn Taymīyah \hon{\M_HIM}{\BODY} said, "Destruction (_tahlukah_)
 is abandoning what Allāh has obligated, and this is more severe than facing
-danger in obedience to Allāh." He also said, "Entering danger for the sake of
-Allāh is not destruction; rather, destruction lies in abandoning His commands."
-\[Majmūʿ al-Fatāwā\]
+danger in obedience to Allāh."
+
+He also said, "Entering danger for the sake of Allāh is not destruction; rather,
+destruction lies in abandoning His commands." -->
+
+Shaykh al-Islām Ibn Taymīyah \hon{\M_HIM}{\BODY} said, “Destruction and ruin
+come only through abandoning what Allāh has commanded or doing what He has
+forbidden.”[-@@jaami3masaa2il, vol. 5, p. 327]
 
 
 ## Laziness and Grief
@@ -1420,13 +1410,13 @@ and use it to make up for the loss.
 The result of these two qualities is that if faith is sincere, success and
 elevation will surely be attained.
 
-The Prophet Muḥammad \hon{\PBUH}{\BODY} used to say, "O Allāh, I seek refuge in
+The Prophet \hon{\PBUH}{\BODY} used to say, "O Allāh, I seek refuge in
 You from anxiety and grief, from incapacity and laziness, from cowardice and
 miserliness, and from the burden of debt and the oppression of men."[-@@bukhari,
-vol.~5, p.~394, #6369]
+vol. 5, p. 394, #6369]
 
 <!-- OLD TRANSLATION
-The Prophet Muḥammad \hon{\PBUH}{\BODY} said, "The strong believer is better
+The Prophet \hon{\PBUH}{\BODY} said, "The strong believer is better
 and more beloved to Allāh than the weak believer, though there is good in both.
 Be keen on what benefits you, seek help from Allāh, and do not be helpless. If
 something befalls you, do not say, 'If only I had done such-and-such,' but say,
@@ -1434,7 +1424,7 @@ something befalls you, do not say, 'If only I had done such-and-such,' but say,
 does),' for 'if' opens the door to Shayṭān."[-@@muslim, vol. 7, p. 29, #2756]
  -->
 
-The Prophet Muḥammad \hon{\PBUH}{\BODY} said, "The strong believer is better and
+The Prophet \hon{\PBUH}{\BODY} said, "The strong believer is better and
 more beloved to Allāh than the weak believer, although there is good in both.
 Strive to do what will benefit you, seek Allāh’s help, and do not give up. If
 something happens to you, do not say, ‘If only I had done such-and-such, it
@@ -1443,7 +1433,7 @@ faʿal_ ([It is] Allāh's decree, and whatever He wills, He does.),' For saying
 ‘if only’ opens the door to Shayṭān's work."[-@@muslim, vol. 7, p. 29, #2756]
 
 <!-- OLD TRANSLATION
-<!-- The Prophet Muḥammad \hon{\PBUH}{\BODY} said, "How amazing is the affair of the
+<!-- The Prophet \hon{\PBUH}{\BODY} said, "How amazing is the affair of the
 believer! All of his affairs are good, and this is not for anyone except the
 believer. If something pleasing happens to him, he is grateful, and that is good
 for him. If something harmful happens to him, he is patient, and that is good
@@ -1455,11 +1445,13 @@ anyone except the believer. If something good happens to him, he is grateful,
 and that is good for him. And if something harmful befalls him, he is patient,
 and that is good for him."[-@@muslim, vol. 7, p. 405, #3116]
 
-<!-- TODO ref Ibn al-Qayyim -->
-
-Imam Ibn al-Qayyim \hon{\M_HIM}{\BODY} said, "Knowledge and action are twins,
+<!-- Imam Ibn al-Qayyim \hon{\M_HIM}{\BODY} said, "Knowledge and action are twins,
 and their mother is high aspiration. Ignorance and inactivity are twins, and
-their mother is laziness." \[al-Fawāʾid\]
+their mother is laziness." \[al-Fawāʾid\] -->
+
+Imam Ibn al-Qayyim \hon{\M_HIM}{\BODY} said, “Knowledge and action are twins,
+and their mother is high aspiration. Ignorance and idleness are twins, and their
+mother is a preference for laziness.”[-@@bada2i3_fawaid, vol. 3, p. 1206]
 
 
 ## Mockery
@@ -1480,36 +1472,36 @@ than them. (Sūrat al-Ḥujurāt, Q49:11)
 Muslims should not ridicule or mock one another. Times do not remain the same
 forever. The one who laughs at others may himself become an object of ridicule.
 
-<!-- TODO ref Shu3ab al-Iman -->
-
+<!-- OLD TRANSLATION
 The Messenger of Allāh \hon{\PBUH}{\BODY} described the condition of those who
 mock others saying, "The gates of Paradise will be opened for one of you, and
 he will be called to enter, but when he comes, it will be closed before him.
 Then another gate will be opened, and he will be called again, and when he
 comes, it will be closed before him, until he becomes distressed. This is for
-the one who used to mock people." \[Shuʿab al-Īmān\]
+the one who used to mock people." \[Shuʿab al-Īmān\] -->
 
-<!-- TODO footnote or part of book text? -->
-
-Note: This narration is reported, but its chain is not among the strongest. It
-should be used cautiously.
+The Messenger of Allāh \hon{\PBUH}{\BODY} described the condition of those who
+mock others saying, “Those who mock people will have a gate of Paradise opened
+for one of them, and he will be told, ‘Come! Come!’ He will approach in anguish
+and distress, but when he arrives, the gate will be shut in his face. This will
+continue until a gate of Paradise is opened for one of them and he is called,
+‘Come!’ But, out of despair, he will no longer approach.”[-@@shu3abeman, vol. 9,
+p. 109, #6333; Note: This narration is reported, but its chain is not among the
+strongest. It should be used cautiously.]
 
 The Companions were aware of people's major faults, yet they did not expose or
-ridicule them. Instead, they tried to conceal them. The Prophet Muḥammad
+ridicule them. Instead, they tried to conceal them. The Prophet
 \hon{\PBUH}{\BODY} said, "Whoever conceals a Muslim, Allāh will conceal him on
-the Day of Resurrection."[-@@bukhari, vol.~2, p.~435, #2442]
+the Day of Resurrection."[-@@bukhari, vol. 2, p. 435, #2442]
 
-<!-- TODO ref missing -->
-<!-- TODO ref prof Musannaf -->
-<!-- أَخْبَرَنَا عَبْدُ الرَّزَّاقِ، عَنْ إِبْرَاهِيمَ بْنِ طَهْمَانَ، عَنْ مُوسَى بْنِ عُقْبَةَ، عَنْ عَبْدِ اللَّهِ بْنِ يَزِيدَ، عَنْ مُحَمَّدِ بْنِ عَبْدِ الرَّحْمَنِ، قَالَ: قَالَ أَبُو بَكْرٍ الصِّدِّيقُ: لَوْ لَمْ أَجِدْ لِلسَّارِقِ، وَالزَّانِي، وَشَارِبِ الْخَمْرِ إِلَّا ثَوْبِي، لَأَحْبَبْتُ أَنْ أَسْتُرَهُ عَلَيْهِ. -->
+Abū Bakr al-Ṣiddīq \hon{\P_HIM}{\BODY} said, “Were I to apprehend someone who
+drinks intoxicants, I would wish that Allāh conceal him; and were I to apprehend
+a thief, I would wish that Allāh conceal him.”[-@@shaybah, vol. 15, p. 334,
+#29940]
 
-Abū Bakr al-Ṣiddīq \hon{\P_HIM}{\BODY} said, "If I were to find a man committing
-a sin, I would love that Allāh conceal him."
-
-<!-- TODO ref Ibn al-Qayyim -->
-
-Imam Ibn al-Qayyim \hon{\M_HIM}{\BODY} said, "Allāh has not permitted joking as
-an excuse to mock others." \[Iʿlām al-Muwaqqiʿīn\]
+<!-- ZAHID REF -->
+<!-- Imam Ibn al-Qayyim \hon{\M_HIM}{\BODY} said, "Allāh has not permitted joking as
+an excuse to mock others." \[Iʿlām al-Muwaqqiʿīn\] -->
 
 
 ## Spreading Corruption and Discord (Fitnah wa Fasād)
@@ -1530,41 +1522,52 @@ Islam is a religion of peace and security. It desires calmness and tranquility
 in the world and commands that mischief and corruption not be spread on the
 earth.
 
-<!-- TODO translation: grant people honesty -->
+We should refrain from all actions that cause harm and distress to Allah’s
+creation, sow discord among people, and spread immorality and misconduct.
+Instead, we should participate in good deeds that establish genuine peace in the
+world, enabling people to embrace the truth and experience true tranquillity.
 
-We should avoid actions that cause distress to Allāh's creation, lead to
-discord, and spread immoral conduct. Instead, we should participate in righteous
-deeds that establish true peace in the world and grant people honesty and
-genuine tranquility.
+The Prophet \hon{\PBUH}{\BODY} said, "There should be neither harming nor
+reciprocating harm."[-@@majah14, vol. 2, p. 467, #2344]
 
-The Prophet Muḥammad \hon{\PBUH}{\BODY} said, "There should be neither harming
-nor reciprocating harm."[-@@majah14, vol. 2, p. 467, #2344]
+The Prophet \hon{\PBUH}{\BODY} said, "A Muslim is the one from whose tongue and
+hands the Muslims are safe, and a _muhājir_ is the one who abandons what Allāh
+has forbidden."[-@@bukhari, vol. 1, p. 22, #10]
 
-The Prophet Muḥammad \hon{\PBUH}{\BODY} said, "A Muslim is the one from whose
-tongue and hands the Muslims are safe, and a _muhājir_ is the one who abandons
-what Allāh has forbidden."[-@@bukhari, vol. 1, p. 22, #10]
+The Prophet \hon{\PBUH}{\BODY} said, “Trials and tribulations (_fitan_) will
+arise. During them, the one who remains seated will be better off than the one
+who stands; the one who stands will be better off than the one who walks; and
+the one who walks will be better off than the one who hastens towards them.
+Whoever exposes himself to these trials will be drawn into them. So whoever can
+find a place of refuge or shelter should seek refuge there.”[-@@bukhari, vol. 3,
+p. 352, #3601]
 
-<!-- TODO review translation: grammatical tense -->
-The Prophet Muḥammad \hon{\PBUH}{\BODY} said, "There will be tribulations
-(_fitan_) during which the one sitting is better than the one standing, the one
-standing is better than the one walking, and the one walking is better than the
-one running. Whoever exposes himself to them will be drawn into them, so whoever
-finds a refuge or shelter should seek it."[-@@bukhari, vol. 3, p. 352, #3601]
+<!-- ZAHID REF -->
+<!-- Shaykh al-Islām Ibn Taymīyah \hon{\M_HIM}{\BODY} said, "Corruption (_fasād_) in
+the earth is every action that leads to harm in religion or worldly affairs." -->
+<!-- ZAHID REF -->
+<!-- He also said, "The objective of the Sharīʿah is to bring about benefit and
+prevent corruption." \[Majmūʿ al-Fatāwā\] -->
 
-<!-- TODO ref majmu3 fatawa -->
-Shaykh al-Islām Ibn Taymīyah \hon{\M_HIM}{\BODY} said, "Corruption (_fasād_) in
-the earth is every action that leads to harm in religion or worldly affairs." He
-also said, "The objective of the Sharīʿah is to bring about benefit and prevent
-corruption." \[Majmūʿ al-Fatāwā\]
+He also said, “The Sharīʿah aims to secure benefits and bring them to
+completion, while preventing harm and reducing it as far as possible. When two
+benefits cannot both be attained, it seeks to secure the greater of the two; and
+when two harms cannot both be avoided, it seeks to avert the greater of the
+two.”[-@@majmu3fatawa, vol. 23, p. 343]
 
-<!-- TODO ref Ibn al-Qayyim al-daa wa al-dawa -->
-<!-- TODO ref Ibn al-Qayyim -->
-
+<!-- OLD TRANSLATION
 Imam Ibn al-Qayyim \hon{\M_HIM}{\BODY} said, "The Sharīʿah is built upon
 achieving benefits and preventing harms, and all of it revolves around justice
-and wisdom." \[Iʿlām al-Muwaqqiʿīn\] He further said, "Wherever corruption
-prevails, it is due to abandoning the commands of Allāh and His Messenger."
-\[al-Dāʾ wa al-Dawāʾ\]
+and wisdom." [Iʿlām al-Muwaqqiʿīn] -->
+
+Imam Ibn al-Qayyim \hon{\M_HIM}{\BODY} said, “The Sharīʿah is founded upon
+wisdom and the welfare of people in this life and the Hereafter. It is entirely
+justice, entirely mercy, entirely beneficial, and entirely wisdom.” [-@@i3lam,
+vol. 3, p. 429]
+
+<!-- ZAHID REF: I'm not sure this even fits here -->
+<!-- He further said, "Wherever corruption prevails, it is due to abandoning the
+commands of Allāh and His Messenger." \[al-Dāʾ wa al-Dawāʾ\] -->
 
 
 ## Claiming Self-Purity
@@ -1584,13 +1587,9 @@ righteous. (Sūrat al-Najm, Q53:32)
 We should not boast about our own virtue and purity. Those who are truly pure,
 sincere, and accomplished always consider themselves lesser than others.
 
-<!-- TODO Quran Says or Quran says? -->
-<!-- TODO Both Quran Says and Allah Says? -->
 When a person begins to view piety, excellence, and righteousness as
 self-created qualities, the diseases of self-admiration and arrogance arise.
 Therefore, Allāh Says,
-
-<!-- Therefore, the Quran Says, -->
 
 \AYAH_AR_START
 لِّكَيۡلَا تَأۡسَوۡاْ عَلَىٰ مَا فَاتَكُمۡ وَلَا تَفۡرَحُواْ بِمَآ ءَاتَىٰكُمۡۗ وَٱللَّهُ لَا يُحِبُّ كُلَّ مُخۡتَالٖ فَخُورٍ ٢٣
@@ -1608,13 +1607,13 @@ remain protected from this disease.
 
 The Messenger of Allāh \hon{\PBUH}{\BODY} mentioned among the signs of the Last
 Hour that every person will begin to admire his own opinion, take pride in it,
-and boast. The Prophet Muḥammad \hon{\PBUH}{\BODY} said, "...when you see greed
-being obeyed, desires being followed, worldly life being preferred, and everyone
+and boast. The Prophet \hon{\PBUH}{\BODY} said, "...when you see greed being
+obeyed, desires being followed, worldly life being preferred, and everyone
 admiring his own opinion, focus on reforming yourself and leave the masses
 alone..."[-@@abuesa16, vol. 4, p. 119, #3328]
 
 <!-- OLD TRANSLATION
-The Prophet Muḥammad \hon{\PBUH}{\BODY} said, "When you see miserliness being
+The Prophet \hon{\PBUH}{\BODY} said, "When you see miserliness being
 obeyed, desires being followed, worldly life being preferred, and every person
 being impressed with his own opinion, then focus on yourself and leave the
 common people." \[Sunan al-Tirmidhī\]
@@ -1630,28 +1629,42 @@ steadfast and acts rightly during those days will have the reward of fifty men
 who do the same deeds as you.
 -->
 
-<!-- TODO translation: I do not purify anyone... -->
-<!-- TODO review translation  -->
-Once, someone was mentioned in the presence of the Prophet \hon{\PBUH}{\BODY},
+<!-- Once, someone was mentioned in the presence of the Prophet \hon{\PBUH}{\BODY},
 and a man praised him. The Prophet \hon{\PBUH}{\BODY} said, "Woe to you! You
 have cut the neck of your companion!" He repeated this several times. Then he
 said, "If one of you must praise his brother, let him say, 'I think so-and-so is
 such-and-such, and Allāh knows best about him, and I do not purify anyone before
-Allāh,' if he truly knows that of him."[-@@bukhari, vol.~5, pp.~270--271, #6061]
+Allāh,' if he truly knows that of him." -->
 
+“Woe to you! You have ruined your companion! (lit. you have cut the neck of your
+companion)” he said this several times. “If any of you simply must praise
+someone, let him say, ‘I consider him to be such-and-such,’ if he genuinely
+believes that to be the case. Allāh is the One Who will judge him, and no one
+should declare anyone to be pure before Allāh.”[-@@bukhari, vol. 5, pp. 270--1,
+#6061]
 
-<!-- TODO ref Tabarani -->
+<!-- OLD TRANSLATION
+The Prophet Muhammad \hon{\PBUH}{\BODY} said, "Three things are destructive:
+miserliness that is obeyed, desire that is followed, and a person being
+impressed with himself." -->
 
 The Prophet \hon{\PBUH}{\BODY} discouraged excessive praise because it causes
 self-admiration to develop in the heart of the one being praised. The Prophet
-Muhammad \hon{\PBUH}{\BODY} said, "Three things are destructive: miserliness
-that is obeyed, desire that is followed, and a person being impressed with
-himself." \[al-Ṭabarānī\]
+Muhammad \hon{\PBUH}{\BODY} said, “Three things lead to ruin: greed that is
+obeyed, desires that are indulged, and conceit—that is, a person’s admiration of
+himself, which is a form of arrogance.”[-@@mu3jam_awsat, vol. 5, p. 328, #5452]
 
-<!-- TODO ref Ibn al-Qayyim -->
+<!--
+فَكُلَّمَا جُدِّدَ لَهُ نِعْمَةٌ ازْدَادَ لَهُ ذُلًّا وَانْكِسَارًا وَخُشُوعًا وَمَحَبَّةً وَخَوْفًا وَرَجَاءً.
+-->
 
-Imam Ibn al-Qayyim \hon{\M_HIM}{\BODY} said, "The more a servant recognizes the
-favors of Allāh upon him, the less he sees himself." \[al-Fawāʾid\]
+<!--
+“Whenever he is granted a new blessing, he grows in humility, meekness,
+submissiveness, love, fear, and hope.”
+-->
+<!-- ZAHID REF -->
+<!-- Imam Ibn al-Qayyim \hon{\M_HIM}{\BODY} said, "The more a servant recognizes the
+favors of Allāh upon him, the less he sees himself." \[al-Fawāʾid\] -->
 
 
 ## Reminding of One's Favors (Mann)
@@ -1689,35 +1702,39 @@ Allāh Says,
 Do not give, seeking greater return. (Sūrat al-Muddaththir, Q74:6)
 \AYAH_END
 
-The Prophet Muḥammad \hon{\PBUH}{\BODY} said, "Three people Allāh will not speak
-to on the Day of Resurrection, nor will He look at them, nor purify them, and
-they will have a painful punishment: the one who lets his garment hang below his
+The Prophet \hon{\PBUH}{\BODY} said, "Three people Allāh will not speak to on
+the Day of Resurrection, nor will He look at them, nor purify them, and they
+will have a painful punishment: the one who lets his garment hang below his
 ankles out of pride, the one who reminds others of what he has given, and the
 one who sells his goods by false oaths."[-@@muslim, vol. 1, p. 445, #98]
 
-<!-- TODO review translation: meeting and parting upon that -->
+The Prophet \hon{\PBUH}{\BODY} said, “Seven types of people will be granted the
+shade of Allāh on the Day when there will be no shade but His: a just ruler; a
+young person who grows up worshipping his Lord; someone whose heart is attached
+to the mosques; two people who love one another for the sake of Allāh, coming
+together for His sake and parting for His sake; a man who is tempted by a woman
+of high status and beauty, but says, ‘I fear Allāh’; someone who gives charity
+so discreetly that his left hand does not know what his right hand gives; and
+someone who remembers Allāh in solitude and whose eyes overflow with
+tears.”[-@@bukhari, vol. 1, pp. 357--8, #660]
 
-The Prophet Muḥammad \hon{\PBUH}{\BODY} said, "Seven will be shaded by Allāh on
-the Day when there is no shade except His shade: a just ruler; a young man who
-grew up in the worship of Allāh; a man whose heart is attached to the mosques;
-two men who love each other for the sake of Allāh, meeting and parting upon
-that; a man who is called by a woman of status and beauty and says, 'I fear
-Allāh'; a man who gives charity and conceals it so that his left hand does not
-know what his right hand has spent; and a man who remembers Allāh in solitude
-and his eyes overflow with tears."[-@@bukhari, vol.~1, pp.~357--358, #660]
+<!-- "Seven will be shaded by Allāh on the Day when there is no shade except His
+shade: a just ruler; a young man who grew up in the worship of Allāh; a man
+whose heart is attached to the mosques; two men who love each other for the sake
+of Allāh, meeting and parting upon that; a man who is called by a woman of
+status and beauty and says, 'I fear Allāh'; a man who gives charity and conceals
+it so that his left hand does not know what his right hand has spent; and a man
+who remembers Allāh in solitude and his eyes overflow with tears." -->
 
-
-<!-- TODO ref majmu3 fatawa -->
-
-Shaykh al-Islām Ibn Taymīyah \hon{\M_HIM}{\BODY} said, "Reminding others of
+<!-- ZAHID REF -->
+<!-- Shaykh al-Islām Ibn Taymīyah \hon{\M_HIM}{\BODY} said, "Reminding others of
 one's favor (_mann_) invalidates charity just as Allāh has stated, because it
-harms the recipient and corrupts intention." \[Majmūʿ al-Fatāwā\]
+harms the recipient and corrupts intention." \[Majmūʿ al-Fatāwā\] -->
 
-<!-- TODO madaarij salikin -->
-
-Imam Ibn al-Qayyim \hon{\M_HIM}{\BODY} said, "The perfection of giving is that
+<!-- ZAHID REF -->
+<!-- Imam Ibn al-Qayyim \hon{\M_HIM}{\BODY} said, "The perfection of giving is that
 the giver does not see himself as having any favor over the one he gives."
-\[Madarij al-Salikin\]
+\[Madarij al-Salikin\] -->
 
 
 ## Miserliness (Bukhl)
@@ -1730,7 +1747,7 @@ Allāh Says,
 
 \AYAH_START
 And Allāh does not love every self-conceited, boastful person---those who are
-miserly and command others to be miserly. (Sūrat al-Nisāʾ, Q4:36--37)
+miserly and command others to be miserly. (Sūrat al-Nisāʾ, Q4:36--7)
 \AYAH_END
 
 
@@ -1743,52 +1760,56 @@ The Messenger of Allāh \hon{\PBUH}{\BODY} said, "...Miserliness and faith can
 never coexist in the heart of a servant of Allāh."[-@@nasaiis, vol. 5, p. 354,
 #3133]
 
-<!-- TODO review translation: returned to the most decrepit old age -->
-The Prophet \hon{\PBUH}{\BODY} used to supplicate, "O Allāh, I seek refuge in
+The Prophet \hon{\PBUH}{\BODY} used to supplicate, “O Allāh, I seek refuge in
+You from miserliness and cowardice. I seek refuge in You from reaching the
+feeblest stage of old age, from the trials and temptations of this world, and
+from the punishment of the grave.”[-@@bukhari, vol. 5, pp. 394--5, #6370]
+
+<!-- The Prophet \hon{\PBUH}{\BODY} used to supplicate, "O Allāh, I seek refuge in
 You from miserliness; I seek refuge in You from cowardice; I seek refuge in You
 from being returned to the most decrepit old age; I seek refuge in You from the
 trial of this world; and I seek refuge in You from the punishment of the
-grave."[-@@bukhari, vol.~5, pp.~394--395, #6370]
+grave."[-@@bukhari, vol. 5, pp. 394--5, #6370] -->
 
-The Prophet Muḥammad \hon{\PBUH}{\BODY} said, "Beware of oppression, for
+The Prophet \hon{\PBUH}{\BODY} said, "Beware of oppression, for
 oppression will be darkness on the Day of Resurrection, and beware of
 miserliness, for miserliness destroyed those before you. It led them to shed
 their blood and make lawful what was unlawful."[-@@muslim, vol. 6, p. 442,
 #2661]
 
-<!-- TODO review translation of the ff para -->
-
-A person who hoards wealth and remains attached to it---about such a person, the
-Quran has drawn a striking picture. Allāh Says,
+The Quran paints a striking picture of a person who hoards wealth and becomes
+excessively attached to it. Allāh Says,
 
 \AYAH_AR_START
 ٱلَّذِي جَمَعَ مَالٗا وَعَدَّدَهُۥ ٢يَحۡسَبُ أَنَّ مَالَهُۥٓ أَخۡلَدَهُۥ ٣كـَلَّاۖ لَيُنۢبَذَنَّ فِي ٱلۡحُطَمَةِ ٤
 \AYAH_AR_END
 
-<!-- TODO add footnote for the Crusher? -->
-
 \AYAH_START
 The one who amasses wealth and counts it, thinking that his wealth will make him
-live forever---never! He will surely be thrown into the Crusher. (Sūrat
-al-Humazah, Q104:2--4)
+live forever---never! He will surely be thrown into the Crusher (i.e., Hellfire,
+which crushes and destroys all that enters it). (Sūrat al-Humazah, Q104:2--4)
 \AYAH_END
-
-
-<!-- TODO review translation: both religion and the world -->
 
 A person should understand that wealth is not our ultimate objective. The real
 objective is to spend the wealth given by Allāh in righteous causes and thereby
 earn His pleasure. Gratitude for wealth lies in using it as a means for success
-in both religion and the world.
+in one’s spiritual and worldly affairs.
 
-<!-- TODO ref Ibn al-Qayyim Fawa2id: Couldn't find -->
-<!-- TODO ref Madarij Salikin: Couldn't find -->
+<!-- 
+= both spiritual and worldly well-being — balanced and natural.
+= success in this life and the Hereafter — if the intended meaning encompasses both worldly life and the afterlife.
+= both religious and worldly pursuits — if the emphasis is on the two spheres of human activity.
+= one’s spiritual and worldly affairs — formal and fairly close to the original.
+= both this world and the Hereafter — direct, familiar Islamic phrasing.
+-->
 
-Imam Ibn al-Qayyim \hon{\M_HIM}{\BODY} said, "Miserliness is among the greatest
+<!-- ZAHID REF -->
+<!-- ZAHID REF -->
+<!-- Imam Ibn al-Qayyim \hon{\M_HIM}{\BODY} said, "Miserliness is among the greatest
 diseases of the heart, and it opposes trust in Allāh and reliance upon Him."
 \[Madarij al-Salikin\] He further said, "The cure for miserliness is generosity
 and certainty that what is with Allāh is better and more lasting."
-\[al-Fawāʾid\]
+\[al-Fawāʾid\] -->
 
 
 ## Extravagance (Isrāf / Tabdhīr)
@@ -1801,7 +1822,7 @@ Allāh Says,
 
 \AYAH_START
 And do not squander wastefully. Indeed, the wasteful are brothers of the devils,
-and Shayṭān is ever ungrateful to his Lord. (Sūrat al-Isrāʾ, Q17:26--27)
+and Shayṭān is ever ungrateful to his Lord. (Sūrat al-Isrāʾ, Q17:26--7)
 \AYAH_END
 
 
@@ -1813,12 +1834,8 @@ In this _āyah_, Allāh has called the extravagant person a brother of Shayṭā
 and Shayṭān an extreme ingrate---meaning that wasting wealth, which is a
 blessing from Allāh, is severe ingratitude.
 
-<!-- TODO Two: The Quran Says and Allāh Says? -->
-
 Today, people may praise you for your extravagance; tomorrow, when all wealth is
 gone, the same people will reproach you.
-
- <!-- The Quran says, -->
 
 Allāh Says,
 
@@ -1832,25 +1849,21 @@ completely, lest you sit blamed and destitute. (Sūrat al-Isrāʾ,
 Q17:29)
 \AYAH_END
 
-The Prophet Muḥammad \hon{\PBUH}{\BODY} said, "Allāh has disliked for you three
-things: idle talk, excessive questioning, and wasting wealth."[-@@bukhari,
-vol.~2, pp.~39--40, #1477]
+The Prophet \hon{\PBUH}{\BODY} said, "Allāh has disliked for you three things:
+idle talk, excessive questioning, and wasting wealth."[-@@bukhari, vol. 2, pp.
+39--40, #1477]
 
-The Prophet Muḥammad \hon{\PBUH}{\BODY} said, "Eat, give charity, and clothe
+The Prophet \hon{\PBUH}{\BODY} said, "Eat, give charity, and clothe
 yourselves without extravagance and without arrogance."[-@@majah14, vol. 3, p.
 415, #3630]
 
-<!-- TODO ref Musannaf ibn Abi Shaybah -->
-
 ʿAbdullāh ibn ʿAbbās \hon{\P_TWO}{\BODY} said, "Eat what you wish and wear what
-you wish, so long as you avoid two things: extravagance and arrogance."
-\[Muṣannaf Ibn Abī Shaybah\]
-
-<!-- TODO ref Tafsir Ibn Kathīr -->
+you wish, so long as you avoid two things: extravagance and
+arrogance."[-@@shaybah15, vol. 13, p. 542, #26492 ]
 
 Imam Ibn Kathīr \hon{\M_HIM}{\BODY} mentioned, "Some of the Salaf said, 'Allāh
 has gathered all of medicine in half an _āyah_: "Eat and drink, but do not be
-extravagant."'" \[Tafsīr Ibn Kathīr\]
+extravagant."'"[-@@tafsir_ibnkathir, vol. 4, p. 24]
 
 <!-- OLD TRANSLATION
 Imam Ibn al-Qayyim \hon{\M_HIM}{\BODY} said, "If wealth is in your hand and not
@@ -1881,18 +1894,17 @@ When property jointly belongs to several people and has not yet been divided,
 secretly taking something from it without the others' knowledge is called
 _ghulūl_. This is also a form of theft.
 
-<!-- TODO ref Muslim: review translation -->
+<!-- OLD
 The Messenger of Allāh \hon{\PBUH}{\BODY} said, "O people! Whoever is appointed
 over any of our affairs and takes even a needle secretly has committed _ghulūl_
-(misappropriation) and will have to bring it on the Day of Judgment."[-@@muslim,
-vol. 5, p. 157, #1881]
+(misappropriation) and will have to bring it on the Day of Judgment." -->
 
-<!-- TODO check translit of Qura -->
-<!-- TODO translation: by one of Banu al-Dibbab -->
+The Messenger of Allāh \hon{\PBUH}{\BODY} said, “Whoever among you is appointed
+by us to a position of responsibility and conceals even a needle---or anything
+greater than that---will be guilty of misappropriation and will have to answer
+for it on the Day of Resurrection.”[-@@muslim, vol. 5, p. 157, #1881]
 
 Abū Hurayrah \hon{\P_HIM}{\BODY} narrated,
-
-<!-- TODO review translation: ...distributed is burning him with fire... -->
 
 > When we conquered Khaybar, we did not gain gold or silver as booty, but we
 > gained cows and camels, goods, and gardens. Then we departed with the
@@ -1908,14 +1920,13 @@ Abū Hurayrah \hon{\P_HIM}{\BODY} narrated,
 > distributed is burning him with fire." Upon hearding this, a man came with one
 > or two straps of sandals and said, "O Messenger of Allāh, I took these
 > unlawfully." The Messenger of Allāh \hon{\PBUH}{\BODY} said, "A strap of fire,
-> or two straps of fire."[-@@bukhari, vol. 3, pp. 625--626, #4234]
+> or two straps of fire."[-@@bukhari, vol. 3, pp. 625--6, #4234]
 
 
-<!-- TODO ref majmu3 fatawa -->
-
-Shaykh al-Islām Ibn Taymīyah \hon{\M_HIM}{\BODY} said, "_Ghulūl_ is among the
+<!-- ZAHID REF -->
+<!-- Shaykh al-Islām Ibn Taymīyah \hon{\M_HIM}{\BODY} said, "_Ghulūl_ is among the
 gravest forms of betrayal because it combines theft and breach of trust."
-\[Majmūʿ al-Fatāwā\]
+\[Majmūʿ al-Fatāwā\] -->
 
 
 ## Consuming Wealth Unjustly
@@ -1937,7 +1948,7 @@ unlawful. It is forbidden for a Muslim to use such wealth.
 Theft, robbery, bribery, usury, immorality, and dishonesty are all unlawful
 means of earning and must be avoided.
 
-The Prophet Muḥammad \hon{\PBUH}{\BODY} said,
+The Prophet \hon{\PBUH}{\BODY} said,
 
 > O people, Allāh is Pure and accepts only what is pure. Allāh has commanded the
 > believers with what He commanded the Messengers: He said, {O messengers! Eat
@@ -1951,39 +1962,31 @@ The Prophet Muḥammad \hon{\PBUH}{\BODY} said,
 > with unlawful wealth, so how can he be answered?[-@@muslim, vol. 3, pp.
 > 202--3, #1029]
 
-The Prophet Muḥammad \hon{\PBUH}{\BODY} said, "No flesh nourished by unlawful
-earnings will enter Paradise; the Fire is more deserving of it."[-@@ahmad, vol.
-22, p. 332, #14441]
-
-<!-- TODO ref Shu3ab al-Iman -->
+The Prophet \hon{\PBUH}{\BODY} said, "No flesh nourished by unlawful earnings
+will enter Paradise; the Fire is more deserving of it."[-@@ahmad, vol. 22, p.
+332, #14441]
 
 Once, the Prophet \hon{\PBUH}{\BODY} said that if a man buys a garment for ten
 dirhams and even one dirham among them is from unlawful earnings, then as long
-as he prays wearing that garment, his prayer will not be accepted. \[Shuʿab
-al-Īmān\]
+as he prays wearing that garment, his prayer will not be
+accepted.[-@@shu3abeman, vol. 8, p. 210, #5707]
 
 Abū Bakr al-Ṣiddīq \hon{\P_HIM}{\BODY} had a servant who brought him some
 earnings. Abū Bakr ate from it, then the servant informed him that it was earned
 in pre-Islamic times through unlawful means. Upon hearing this, Abū Bakr
 inserted his fingers into his mouth and vomited everything he had
-consumed.[-@@bukhari, vol.~3, pp.~445--446, #3842]
+consumed.[-@@bukhari, vol. 3, pp. 445--6, #3842]
 
-
-<!-- TODO ref al-Daa wa al-dawaa -->
-<!-- TODO review translation: sins upon the heart → sins in the heart  -->
-
-> Imam Ibn al-Qayyim \hon{\M_HIM}{\BODY} said, "_Duʿāʾ_ is among the strongest
-> means of repelling harm and attaining what is sought. However, its effect may
-> not appear due to a weakness in the _duʿāʾ_ itself, such as when it contains
-> transgression or is not beloved to Allāh, or due to weakness in the heart of
-> the one making _duʿāʾ_, such that he does not fully turn to Allāh or gather
-> his resolve in supplication, like a weak bow from which the arrow is released
-> feebly.
-
-> Another reason for the _duʿāʾ_ not being answered is the presence of a
-> barrier, such as consuming unlawful sustenance, committing oppression, or the
-> accumulation of sins upon the heart, or a heart overtaken by heedlessness and
-> distraction. \[al-Dāʾ wa al-Dawāʾ\]
+Imam Ibn al-Qayyim \hon{\M_HIM}{\BODY} said, “_Duʿāʾ_ is among the strongest
+means of repelling harm and attaining what is sought. However, its effect may
+not appear due to a weakness in the _duʿāʾ_ itself, such as when it contains
+transgression or is not beloved to Allāh, or due to weakness in the heart of the
+one making _duʿāʾ_, such that he does not fully turn to Allāh or gather his
+resolve in supplication, like a weak bow from which the arrow is released
+feebly. Another reason for the _duʿāʾ_ not being answered is the presence of a
+barrier, such as consuming unlawful sustenance, committing oppression, or the
+accumulation of sins upon the heart, or a heart overtaken by heedlessness and
+distraction.”[-@@daa_wa_dawa, p. 9]
 
 
 ## Bribery (Rishwah)
@@ -2000,9 +2003,6 @@ in order to devour a portion of others' property, knowing that it is a sin.
 (Sūrat al-Baqarah, Q2:188)
 \AYAH_END
 
-<!-- TODO Old translation -->
-<!-- And do not offer it to the authorities in order that you may consume a portion
-of people's wealth sinfully, while you know. (Sūrat al-Baqarah, Q2:188) -->
 
 This _āyah_ prohibits bribery. Bribery means giving something to an official in
 order to incline him in one's favor, whether the objective is rightful or
@@ -2012,20 +2012,35 @@ The Messenger of Allāh \hon{\PBUH}{\BODY} said, "Allāh has cursed the one who
 gives a bribe and the one who takes a bribe."[-@@abudawud, vol. 5, p. 577,
 #3535]
 
-<!-- TODO ref missing -->
+<!-- OLD TRANSLATION
+"O Jews! What you have offered as a bribe is unlawful. We Muslims do not consume
+it." -->
 
 When the Jews of Khaybar attempted to offer a bribe to ʿAbdullāh ibn Rawāḥah
-\hon{\P_HIM}{\BODY} in a matter, he said, "O Jews! What you have offered as a
-bribe is unlawful. We Muslims do not consume it."
+\hon{\P_HIM}{\BODY} in a matter, he said, “O Jews! By Allāh, you are among the
+people I detest most, but that will never lead me to treat you unjustly. As for
+the bribe you have offered, it is unlawful gain, and we do not consume
+it.”[-@@malik16, vol. 3, p. 23, #1735]
 
 The Messenger of Allāh \hon{\PBUH}{\BODY} prohibited rulers from accepting gifts
 due to this very concern. Once, an official came and said, "This is charity, and
 this was given to me as a gift." Hearing this, the Prophet \hon{\PBUH}{\BODY}
 stood on the pulpit and said,
 
-<!-- TODO review translation of ff para -->
+> What is the matter with an official whom I appoint, who then says, “This is
+> for you, and this was given to me as a gift”? Why did he not stay in his
+> father's or mother's house and see whether he would still receive such gifts?
 
-> What is the matter with an official whom we appoint, and he comes and says,
+> By the One in Whose Hand is the soul of Muḥammad, anyone among you who takes
+> anything from it will come on the Day of Resurrection carrying it around his
+> neck: a camel bellowing, a cow lowing, or a sheep bleating.
+
+> He then raised his hands so high that we could see the whiteness of his
+> armpits and said twice, “O Allāh, have I conveyed Your message?”[-@@bukhari,
+> vol. 2, p. 504, #2597; -@@muslim, vol. 5, pp. 153--4, #1880; the wording is
+> from the latter.]
+
+<!-- > What is the matter with an official whom we appoint, and he comes and says,
 > "This is for you and this was given to me as a gift"? Why does he not sit in
 > the house of his father or his mother and see whether gifts would be given to
 > him or not?
@@ -2033,16 +2048,14 @@ stood on the pulpit and said,
 > By the One in whose hand is my soul, whoever takes anything from it unlawfully
 > will come carrying it on his neck on the Day of Resurrection. If it is a
 > camel, it will be groaning; if a cow, it will be lowing; and if a sheep, it
-> will be bleating.[-@@bukhari, vol.~2, p.~504, #2597]
+> will be bleating. -->
 
-
-<!-- TODO ref majmu3 fatawa -->
-
-Shaykh al-Islām Ibn Taymīyah \hon{\M_HIM}{\BODY} said, "Bribery given to obtain
+<!-- ZAHID REF -->
+<!-- Shaykh al-Islām Ibn Taymīyah \hon{\M_HIM}{\BODY} said, "Bribery given to obtain
 falsehood or to prevent a right is unlawful by consensus." He also clarified,
 "If a person gives money to repel injustice from himself when he has no other
 means, the sin is upon the one who takes it, not the one compelled to give it."
-\[Majmūʿ al-Fatāwā\]
+\[Majmūʿ al-Fatāwā\] -->
 
 
 ## Theft
@@ -2058,70 +2071,50 @@ As for the thief, male or female, cut off their hands. (Sūrat al-Mā'idah, Q5:3
 \AYAH_END
 
 
-<!-- TODO consider refining translation -->
+Taking another person's property secretly and without their permission is called
+theft. The prescribed punishment for this offence is severe: amputation of the
+hand.
 
-Taking someone's property secretly without their permission is called theft. Its
-punishment has been set as severe: cutting off the hand.
+<!-- Taking someone's property secretly without their permission is called theft. Its
+punishment has been set as severe: cutting off the hand. -->
 
-
-<!-- TODO double check the first narration -->
 The Messenger of Allāh \hon{\PBUH}{\BODY} used to take pledges from Muslims that
-they would not commit theft or immorality.[-@@bukhari, vol.~1, p.~25, #18] He
+they would not commit theft or immorality.[-@@bukhari, vol. 1, p. 25, #18] He
 \hon{\PBUH}{\BODY} said, "May Allāh curse the thief who steals an egg and his
 hand is cut off, and who steals a rope and his hand is cut off."[-@@bukhari,
-vol.~6, p.~80, #6782]
+vol. 6, p. 80, #6782]
 
-<!-- TODO translation "bring a slander you fabricate between your hands and feet"? -->
+The Messenger of Allāh \hon{\PBUH}{\BODY} said, “Pledge allegiance to me on the
+condition that you will not associate anything with Allāh, steal, commit
+adultery, kill your children, fabricate lies and falsely attribute them to
+others, or disobey me in anything that is right and proper. Whoever among you
+fulfils this pledge will have his reward with Allāh. Whoever commits any of
+these offences and is punished for it in this world, that punishment will serve
+as expiation for him. Whoever commits any of them but is then concealed by
+Allāh, his affair rests with Allāh: if He wills, He will forgive him; and if He
+wills, He will punish him.”[-@@bukhari, vol. 1, p. 25, #18]
 
-The Prophet Muḥammad \hon{\PBUH}{\BODY} said, "Give me your pledge that you will
-not associate anything with Allāh, that you will not steal, that you will not
-commit adultery, that you will not kill your children, that you will not bring a
-slander you fabricate between your hands and your feet, and that you will not
-disobey me in what is right. Whoever fulfills this among you, his reward is with
-Allāh; and whoever commits any of that and is punished for it in this world, it
-will be an expiation for him; and whoever commits any of that and Allāh conceals
-him, then his affair is with Allāh---if He wills, He will punish him, and if He
-wills, He will forgive him."[-@@bukhari, vol.~1, p.~25, #18]
+<!-- "Give me your pledge that you will not associate anything with Allāh, that you
+will not steal, that you will not commit adultery, that you will not kill your
+children, that you will not bring a slander you fabricate between your hands and
+your feet, and that you will not disobey me in what is right. Whoever fulfills
+this among you, his reward is with Allāh; and whoever commits any of that and is
+punished for it in this world, it will be an expiation for him; and whoever
+commits any of that and Allāh conceals him, then his affair is with Allāh---if
+He wills, He will punish him, and if He wills, He will forgive him." -->
 
+The Prophet \hon{\PBUH}{\BODY} was once shown Hell while performing the
+eclipse prayer. He said, “I saw in it a man with a hooked staff, dragging his
+intestines through the Fire. He used to steal from pilgrims with his hooked
+staff. If he was noticed, he would say, ‘It merely got caught on my staff.’ But
+if no one was paying attention, he would take it away.”[-@@muslim, vol. 3, pp.
+74--6, #911/2]
 
-<!-- TODO ref Muslim: review translation -->
-<!-- Muslim, vol. 3, pp. 74-6, #911/2
-**Jābir reported:**
-
-A solar eclipse occurred during the lifetime of the Messenger of Allah ﷺ on the day his son Ibrāhīm died. The people said, “The sun has eclipsed because of Ibrāhīm’s death.”
-
-The Prophet ﷺ stood and led the people in prayer, performing six bowings (*rukūʿs*) and four prostrations (*sujūd*) in total. He began by pronouncing the opening takbīr, then recited for a long time. He bowed for approximately as long as he had stood. He then raised his head from bowing and recited again, though for a shorter time than his first recitation. He bowed again for approximately as long as he had stood. He then raised his head from bowing and recited a third time, for a shorter period than the second recitation. He bowed again for approximately as long as he had stood, then raised his head from bowing and descended into prostration, performing two prostrations.
-
-He then stood and performed another three bowings. Each successive standing was shorter than the one before it, and each bowing was approximately as long as the corresponding prostration.
-
-He then moved backwards, and the rows behind him moved back as well, until we reached the end. (Abū Bakr’s version says, “until he reached the women.”) He then moved forward, and the people moved forward with him, until he returned to his original position. He finished the prayer just as the sun had reappeared.
-
-He then said:
-
-“O people! The sun and the moon are two of Allah’s signs. They do not eclipse because of anyone’s death.” (Abū Bakr’s version says, “because of the death of any human being.”) “So, whenever you witness such an event, pray until the eclipse has passed.
-
-“Everything you have been promised has been shown to me during this prayer of mine. Hell was brought before me. That was when you saw me move backwards, fearing that its scorching heat might reach me. I also saw in it the man with the hooked staff, dragging his intestines through the Fire. He used to steal from pilgrims with his hooked staff. If he was discovered, he would say, ‘It merely got caught on my staff.’ But if no one was paying attention, he would take it away.
-
-“I also saw in it the woman who had tied up a cat. She neither fed it nor let it forage for the creatures of the earth, until it died of hunger.
-
-“Then Paradise was brought before me. That was when you saw me move forward until I returned to my original position. I even stretched out my hand, intending to take some of its fruit so that you could see it, but then I decided not to do so.
-
-“Everything you have been promised has been shown to me during this prayer of mine.”
--->
-
-The Prophet Muḥammad \hon{\PBUH}{\BODY} said, "I was shown Paradise and Hell
-just now during my prayer. I have never seen good and evil like today. I saw in
-the Fire a man who used to steal from the pilgrims with a hooked stick. If he
-was noticed, he would say, 'It only got caught on my stick,' and if he was not
-noticed, he would take it. I saw him dragging his intestines in the Fire."
-\[Ṣaḥīḥ Muslim\]
-
-<!-- TODO ref Ibn al-Qayyim -->
-
-Imam Ibn al-Qayyim \hon{\M_HIM}{\BODY} said, "The punishment for theft is among
+<!-- ZAHID REF -->
+<!-- Imam Ibn al-Qayyim \hon{\M_HIM}{\BODY} said, "The punishment for theft is among
 the most effective deterrents, ensuring the protection of people's wealth." He
 further said, "Sharīʿah punishments are built upon justice, mercy, and wisdom,
-even if they appear severe." \[Iʿlām al-Muwaqqiʿīn\]
+even if they appear severe." \[Iʿlām al-Muwaqqiʿīn\] -->
 
 
 ## Usury (Ribā)
@@ -2144,49 +2137,50 @@ among people. Although a few individuals may become wealthy, the general public
 becomes impoverished.
 
 Taking usury is like sucking people's blood. The Messenger of Allāh
-\hon{\PBUH}{\BODY} said,
+\hon{\PBUH}{\BODY} said, “Last night, two men came to me and took me to a sacred
+land. Then we set out until we reached a river of blood, in which a man was
+standing, and on the bank of the river, there was another man with stones in
+front of him. The man in the river tried to come out, but whenever he came near
+the bank, the man threw a stone into his mouth, forcing him to return to where
+he was. He kept coming, and the man kept throwing stones into his mouth,
+returning him to his place. I asked, ‘What is this?’ They said, ‘The one you saw
+in the river is the one who consumed _ribā_ (usury).’”[-@@bukhari, vol. 2, p.
+279, #2085]
 
-<!-- TODO translation riba or usury? I added usury in brackets -->
-
-> Last night, two men came to me and took me to a sacred land. Then we set out
-> until we reached a river of blood, in which a man was standing, and on the
-> bank of the river, there was another man with stones in front of him.
-
-> The man in the river tried to come out, but whenever he came near the bank,
-> the man threw a stone into his mouth, forcing him to return to where he was.
-> He kept coming, and the man kept throwing stones into his mouth, returning him
-> to his place.
-
-> I asked, "What is this?" They said, "The one you saw in the river is the one
-> who consumed _ribā_ (usury)." \[Ṣaḥīḥ al-Bukhārī\]
-
-The Prophet Muḥammad \hon{\PBUH}{\BODY} said, "Allāh has cursed the one who
+The Prophet \hon{\PBUH}{\BODY} said, "Allāh has cursed the one who
 consumes _ribā_, the one who pays it, the one who records it, and the two who
 witness it," and he said, "They are all equal."[-@@muslim, vol. 4, p. 295,
 #1636]
 
-<!-- TODO ref Mughni Ibn Qudamah -->
-
-Imam Ibn Qudāmah \hon{\M_HIM}{\BODY} said, "Every loan in which it is stipulated
+<!-- Imam Ibn Qudāmah \hon{\M_HIM}{\BODY} said, "Every loan in which it is stipulated
 that an additional payment be made is prohibited (_ḥarām_), and there is no
-difference of opinion among the scholars regarding this." He also said, "It was
-narrated from Ubayy ibn Kaʿb \hon{\P_HIM}{\BODY}, ʿAbdullāh ibn ʿAbbās
-\hon{\P_TWO}{\BODY}, and ʿAbdullāh ibn Masʿūd \hon{\P_HIM}{\BODY} that they
-forbade loans that bring about any benefit." \[al-Mughnī\]
+difference of opinion among the scholars regarding this." -->
 
-<!-- TODO ref Ibn al-Mundhir - Ijma -->
+Imam Ibn Qudāmah \hon{\M_HIM}{\BODY} said, “Any loan that stipulates an increase
+in repayment is prohibited (_ḥarām_), without any scholarly disagreement.” He
+also said, “It is reported that Ubayy ibn Kaʿb \hon{\P_HIM}{\BODY}, Ibn ʿAbbās
+\hon{\P_TWO}{\BODY}, and Ibn Masʿūd \hon{\P_HIM}{\BODY} forbade any loan that
+yields a benefit to the lender.”[-@@mughni97, vol. 6, p. 436]
 
-Imam Ibn al-Mundhir \hon{\M_HIM}{\BODY} said, "They (the scholars) are
+Ibn al-Mundhir said, “The scholars unanimously agreed that if a lender
+stipulates an additional payment or a gift as a condition of granting a loan,
+any such additional benefit received by the lender constitutes _ribā_
+(usury).”[-@@mughni97, vol. 6, p. 436]
+
+
+<!-- He also said, "It was narrated from Ubayy ibn Kaʿb \hon{\P_HIM}{\BODY},
+ʿAbdullāh ibn ʿAbbās \hon{\P_TWO}{\BODY}, and ʿAbdullāh ibn Masʿūd
+\hon{\P_HIM}{\BODY} that they forbade loans that bring about any benefit." -->
+
+<!-- Imam Ibn al-Mundhir \hon{\M_HIM}{\BODY} said, "They (the scholars) are
 unanimously agreed that if the lender stipulates that the borrower must pay
 extra or give a gift, and he gives the loan on that basis, then it is _ribā_."
-\[al-Ijmāʿ\]
+\[al-Ijmāʿ\] -->
 
 
 ## Intoxicants, Gambling, Divining Arrows, and Sacrificial Stones
 
 Allāh Says,
-
-<!-- TODO Updated translation -->
 
 \AYAH_AR_START
 يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓاْ إِنَّمَا ٱلۡخَمۡرُ وَٱلۡمَيۡسِرُ وَٱلۡأَنصَابُ وَٱلۡأَزۡلَٰمُ رِجۡسٞ مِّنۡ عَمَلِ ٱلشَّيۡطَٰنِ فَٱجۡتَنِبُوهُ لَعَلَّكُمۡ تُفۡلِحُونَ ٩٠
@@ -2198,33 +2192,23 @@ all evil of Shayṭān's handiwork. So shun them so you may be successful. (Sūr
 al-Māʾidah, Q5:90)
 \AYAH_END
 
-<!-- O you who believe! Indeed, intoxicants, gambling, sacrificial stones, and
-divining arrows are filth from the work of Shayṭān, so avoid them. -->
 
-<!-- TODO translation: unbefitting for a Muslim → unbefitting a Muslim -->
-
-In this _āyah_, four things are prohibited as satanic practices, unbefitting for
-a Muslim.
-
-<!-- TODO trans: In intoxication, people commit acts they would never do while sober. -->
-<!-- Intoxicated, people commit acts... -->
-<!-- When intoxicated, people commit acts... -->
-
-<!-- TODO translation review first hadith -->
+In this _āyah_, four things are prohibited as satanic practices, unbefitting a
+Muslim.
 
 1.  Intoxicants (Alcohol): Alcohol affects the intellect and ruins health and
-    wealth. In intoxication, people commit acts they would never do while sober.
-    Many murders and fights occur because of it, and it causes negligence toward
-    religious and worldly duties. In a _ḥadīth_, the Prophet \hon{\PBUH}{\BODY}
-    said, "The adulterer does not commit adultery while he is a believer, the
-    thief does not steal while he is a believer, and the one who drinks alcohol
-    does not drink it while he is a believer."[-@@bukhari, vol. 2, p. 450,
-    #2475] He \hon{\PBUH}{\BODY} also said, "From among the signs of the Hour is
-    that knowledge will be taken away, ignorance will prevail, alcohol will be
-    drunk, and fornication will become widespread."[-@@bukhari, vol. 1, p. 68,
-    #80]
+    wealth. When intoxicated, people commit acts they would never do while
+    sober. Many murders and fights occur because of it, and it causes negligence
+    toward religious and worldly duties. In a _ḥadīth_, the Prophet
+    \hon{\PBUH}{\BODY} said, "The adulterer does not commit adultery while he is
+    a believer, the thief does not steal while he is a believer, and the one who
+    drinks alcohol does not drink it while he is a believer."[-@@bukhari, vol.
+    2, p. 450, #2475] He \hon{\PBUH}{\BODY} also said, "From among the signs of
+    the Hour is that knowledge will be taken away, ignorance will prevail,
+    alcohol will be drunk, and fornication will become widespread."[-@@bukhari,
+    vol. 1, p. 68, #80]
 
-    The Prophet Muḥammad \hon{\PBUH}{\BODY} said, "Allāh has cursed alcohol, the
+    The Prophet \hon{\PBUH}{\BODY} said, "Allāh has cursed alcohol, the
     one who drinks it, the one who pours it, the one who sells it, the one who
     buys it, the one who squeezes it, the one for whom it is squeezed, the one
     who carries it, and the one to whom it is carried."[-@@abudawud, vol. 6, pp.
@@ -2236,9 +2220,9 @@ a Muslim.
     A gambler's life becomes one of failure and loss. Countless respectable
     families have been ruined because of it; hence, Islam has prohibited it.
 
-    The Prophet Muḥammad \hon{\PBUH}{\BODY} said, "...whoever says to his
+    The Prophet \hon{\PBUH}{\BODY} said, "...whoever says to his
     companion, 'Come, let me gamble with you,' must give charity."[-@@bukhari,
-    vol.~4, p.~272, #4860]
+    vol. 4, p. 272, #4860]
 
 3.  Divining Arrows: This is also a form of gambling. Among the Arabs, camels
     were the greatest wealth, so they gambled with them. They would slaughter
@@ -2254,7 +2238,7 @@ a Muslim.
     offerings and animal sacrifices. This was a polytheistic practice;
     therefore, Muslims were commanded to keep away from it.
 
-    The Prophet Muḥammad \hon{\PBUH}{\BODY} said, "Allāh has cursed the one who
+    The Prophet \hon{\PBUH}{\BODY} said, "Allāh has cursed the one who
     sacrifices for other than Allāh."[-@@muslim, vol. 5, pp. 313--4, #2034]
 
 
@@ -2271,7 +2255,6 @@ And do not go near adultery. Indeed, it is an obscenity and an evil path. (Sūra
 al-Isrāʾ, Q17:32)
 \AYAH_END
 
-<!-- TODO translation review of ff para -->
 
 Illicit relations between men and women are among the gravest acts of
 disobedience. Allāh commands not merely to avoid adultery, but to not even go
@@ -2281,7 +2264,7 @@ be avoided.
 The Messenger of Allāh \hon{\PBUH}{\BODY} said, "The adulterer does not commit
 adultery while he is a believer, the thief does not steal while he is a
 believer, and the one who drinks alcohol does not drink it while he is a
-believer."[-@@bukhari, vol.~5, p.~90, #5578]
+believer."[-@@bukhari, vol. 5, p. 90, #5578]
 
 The gaze greatly influences the unlawful relationship between men and women.
 Therefore, Allāh clearly Says,
@@ -2306,41 +2289,39 @@ modestly along the side of the road.
 
 Men and women should not sit together freely, and no man should meet a
 non-_maḥram_ woman in seclusion. All these commands are meant so that Muslims
-may live lives of honor and purity. The Prophet Muḥammad \hon{\PBUH}{\BODY}
+may live lives of honor and purity. The Prophet \hon{\PBUH}{\BODY}
 said, "Lo! No man is alone with a woman except that Shayṭān is the
 third."[-@@abuesa16, vol. 3, p. 274, #2317]
 
-<!-- TODO ref al-Bukhārī tannur hadith-->
-<!-- TODO review overall translation of ff para and confirm -->
-<!-- TODO This is probably not a narration of Mi'raj -->
-<!-- TODO Probably #7047 -->
-The Messenger of Allāh \hon{\PBUH}{\BODY} narrated about the Night of Miʿrāj,
-"We proceeded until we came to something like a _tannūr_ (oven), narrow at the
-top and wide at the bottom, beneath which a fire was kindled. When the fire
-flared up, they rose until they were about to come out of it, and when it
-subsided, they returned inside it. In it were naked men and women. I said, 'Who
-are these?' They said, 'These are the adulterers and adulteresses.'" \[Ṣaḥīḥ
-al-Bukhārī\]
+The Messenger of Allāh \hon{\PBUH}{\BODY} said, “During the Night of Miʿrāj, I
+passed by some men whose skin was being cut with scissors of fire. I asked, ‘Who
+are these people, O Jibrīl?’ He replied, ‘They are those who adorn themselves
+for illicit sexual encounters.’ Then I passed by a foul-smelling pit from which
+I could hear loud cries. I asked, ‘Who are these people, O Jibrīl?’ He replied,
+‘They are women who used to adorn themselves for illicit sexual encounters and
+engage in what was unlawful for them...’”[-@@shu3abeman, vol. 9, pp. 104--5,
+#6326]
 
-<!-- [-@@bukhari, vol. X, p. Y, #Z] -->
-
-The Prophet Muḥammad \hon{\PBUH}{\BODY} said, “...Whenever immorality
-(_fāḥishah_) becomes widespread among a people and they practise it openly,
-plagues and diseases that were unknown to their predecessors will spread among
+The Prophet \hon{\PBUH}{\BODY} said, “...Whenever immorality (_fāḥishah_)
+becomes widespread among a people and they practise it openly, plagues and
+diseases that were unknown to their predecessors will spread among
 them...”[-@@majah14, vol. 3, pp. 574--5, #4049]
 
 He \hon{\PBUH}{\BODY} also said that adultery leads to poverty and destitution.
 
-<!-- TODO review translation of the ff -->
+<!-- And he \hon{\PBUH}{\BODY} said, "Whoever commits adultery, drinks wine, or
+steals has removed the rope of Islam from his neck." -->
 
-And he \hon{\PBUH}{\BODY} said, "Whoever commits adultery, drinks wine, or
-steals has removed the rope of Islam from his neck."
+And he \hon{\PBUH}{\BODY} said, “An adulterer does not commit adultery while he
+is a believer; a person does not steal while he is a believer, nor does he drink
+wine while he is a believer... When a person commits any of these offences, he
+casts off the bond of Islam from his neck. But if he repents, Allāh accepts his
+repentance.”[-@@nasaiis, vol. 7, p. 449, #4916]
 
-<!-- TODO ref majmu3 fatawa -->
-
-Shaykh al-Islām Ibn Taymīyah \hon{\M_HIM}{\BODY} said, "_Zinā_ corrupts lineage,
+<!-- ZAHID REF -->
+<!-- Shaykh al-Islām Ibn Taymīyah \hon{\M_HIM}{\BODY} said, "_Zinā_ corrupts lineage,
 honor, and society, and thus its prohibition is among the greatest objectives of
-the Sharīʿah." \[Majmūʿ al-Fatāwā\]
+the Sharīʿah." \[Majmūʿ al-Fatāwā\] -->
 
 
 ## Begging Persistently
@@ -2355,48 +2336,37 @@ Allāh Says,
 They do not beg people persistently. (Sūrat al-Baqarah, Q2:273)
 \AYAH_END
 
-<!-- TODO review translation: not a single piece of flesh on his face. -->
 
 Begging is considered extremely reprehensible in Islam. The Messenger of Allāh
 \hon{\PBUH}{\BODY} said, "Whoever persists in begging will come on the Day of
-Judgment with not a single piece of flesh on his face."[-@@bukhari, vol.~2,
-p.~38, #1474]
+Judgment with not even a morsel of flesh left on his face."[-@@bukhari, vol. 2,
+p. 38, #1474]
 
-
-<!-- TODO review translation; the order does not match -->
-
-The Prophet \hon{\PBUH}{\BODY} said, "Whoever seeks to be self-sufficient, Allāh
-will make him self-sufficient; and whoever seeks independence, Allāh will grant
-him independence; and whoever is patient, Allāh will grant him patience. No one
-is given a gift better and more expansive than patience."
-
-<!-- [-@@bukhari, vol.~2, p.~37, #1469] -->
-
+The Prophet \hon{\PBUH}{\BODY} said, "...whoever seeks chastity, Allāh will
+grant him chastity; whoever seeks self-sufficiency, Allāh will make him
+self-sufficient; and whoever seeks patience, Allāh will grant him patience. No
+one is given a gift better and more expansive than patience."[-@@bukhari,
+vol. 2, p. 37, #1469]
 
 Such was the state of the Companions that even if a whip fell from their hands
 to the ground, they would not ask anyone to pick it up for them.
 
-<!-- TODO ref missing -->
-<!-- TODO ref missing -->
-
 If a person is compelled to ask, the Prophet \hon{\PBUH}{\BODY} said that he
-should ask righteous people, for there is hope that they will fulfill the
-request with gentleness, honor, and good intention. He \hon{\PBUH}{\BODY} said
-that begging is not permissible for a strong, capable, healthy person.
+should ask righteous people,[-@@abudawud, vol. 3, p. 465, #1640] for there is
+hope that they will fulfill the request with gentleness, honor, and good
+intention. He \hon{\PBUH}{\BODY} said that begging is not permissible for a
+strong, capable, healthy person.[-@@abudawud, vol. 3, p. 456, #1628]
 
 He \hon{\PBUH}{\BODY} further said, "By the One in whose hand is my soul, it is
 better for one of you to take his rope, gather firewood, carry it on his back,
 and sell it, than to ask a man who may give him or withhold from
-him."[-@@bukhari, vol.~2, p.~37, #1471]
+him."[-@@bukhari, vol. 2, p. 37, #1471]
 
-
-<!-- TODO def Abū Dāwūd -->
-
-The Prophet Muḥammad \hon{\PBUH}{\BODY} said to a man who came asking, "Do you
-have anything in your house?" He said, "Yes, a piece of cloth, part of it we
-wear and part we spread, and a bowl from which we drink water." He said, "Bring
-them to me." He brought them, and the Messenger of Allāh \hon{\PBUH}{\BODY} took
-them in his hand and said, "Who will buy these?"
+The Prophet \hon{\PBUH}{\BODY} said to a man who came asking, "Do you have
+anything in your house?" He said, "Yes, a piece of cloth, part of it we wear and
+part we spread, and a bowl from which we drink water." He said, "Bring them to
+me." He brought them, and the Messenger of Allāh \hon{\PBUH}{\BODY} took them in
+his hand and said, "Who will buy these?"
 
 A man said, "I will buy them for one dirham." He said, "Who will offer more?"
 twice or thrice. A man said, "I will take them for two dirhams." He gave them to
@@ -2407,4 +2377,4 @@ did so, then came back having earned ten dirhams.
 
 The Messenger of Allāh \hon{\PBUH}{\BODY} then said, "This is better for you
 than begging, which will come as a mark on your face on the Day of
-Resurrection." \[Sunan Abī Dāwūd\]
+Resurrection."[-@@abudawud, vol. 3, pp. 461--2, #1635]

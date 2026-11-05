@@ -78,8 +78,6 @@ Allāh Says,
 ٱللَّهُ لَآ إِلَٰهَ إِلَّا هُوَ ٱلۡحَيُّ ٱلۡقَيُّومُۚ لَا تَأۡخُذُهُۥ سِنَةٞ وَلَا نَوۡمٞۚ لَّهُۥ مَا فِي ٱلسَّمَٰوَٰتِ وَمَا فِي ٱلۡأَرۡضِۗ مَن ذَا ٱلَّذِي يَشۡفَعُ عِندَهُۥٓ إِلَّا بِإِذۡنِهِۦۚ يَعۡلَمُ مَا بَيۡنَ أَيۡدِيهِمۡ وَمَا خَلۡفَهُمۡۖ وَلَا يُحِيطُونَ بِشَيۡءٖ مِّنۡ عِلۡمِهِۦٓ إِلَّا بِمَا شَآءَۚ وَسِعَ كُرۡسِيُّهُ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضَۖ وَلَا يَـُٔودُهُۥ حِفۡظُهُمَاۚ وَهُوَ ٱلۡعَلِيُّ ٱلۡعَظِيمُ ٢٥٥
 \AYAH_AR_END
 
-<!-- TODO His Seat? -->
-
 \AYAH_START
 Allāh! There is no deity (worthy of worship) except Him, the Ever-Living,
 All-Sustaining. Neither drowsiness nor sleep overtakes Him. To Him belongs
@@ -167,8 +165,6 @@ wills. And He is the All-Powerful, Almighty. (Sūrat al-Shūrá, Q42:19)
 وَٱصۡبِرۡ فَإِنَّ ٱللَّهَ لَا يُضِيعُ أَجۡرَ ٱلۡمُحۡسِنِينَ ١١٥
 \AYAH_AR_END
 
-<!-- TODO Double check translation -->
-
 \AYAH_START
 And be patient! Certainly, Allāh Does not discount the reward of the good-doers.
 (Sūrat Hūd, Q11:115)
@@ -177,10 +173,7 @@ And be patient! Certainly, Allāh Does not discount the reward of the good-doers
 
 ### If There Were More Than One God
 
-<!-- TODO Consider: He is the One True God -->
-<!-- TODO any other god besides him (original) -->
-
-This is the One True God. He is alone, and there is none like Him. He Has no
+There is just the One true God. He is alone, and there is none like Him. He Has no
 partner. If there were any other gods besides Him, this universe would be
 destroyed. Allāh Says,
 
@@ -245,11 +238,8 @@ Allāh Says,
 Indeed, (O Prophet), We have sent you as a witness, a deliverer of good news,
 and a warner, so that you (believers) may have faith in Allāh and His Messenger,
 support and honor him, and glorify Allāh morning and evening. (Sūrat al-Fatḥ,
-Q48: 8--9)
+Q48:8--9)
 \AYAH_END
-
-
-<!-- TODO ...give commands for good deeds -->
 
 Allāh Loves His servants greatly. Because of this love, He Continued to Send
 human beings into the world so that they might convey to the servants the
@@ -323,8 +313,6 @@ Last Day has clearly gone far astray. (Sūrat al-Nisāʾ, Q4:136)
 \AYAH_END
 
 
-<!-- TODO ...it is they who take the soul → ...seize the soul. -->
-
 Those who bring the Message of Allāh to the Messengers are called Angels.
 Believing in these Angels and believing in them as the conveyers of Allāh's
 Message is necessary. The Angels do not disobey Allāh; they always speak pure
@@ -355,8 +343,6 @@ Allāh gave books to His messengers for the instruction of His servants. In thos
 books, Allāh Wrote commands and matters of benefit. As Muslims, we firmly
 believe in all the Books of Allāh. The names of some of the heavenly books are
 as follows:
-
-<!-- TODO We also have Ṣuḥuf Mūsá -- Footnote perhaps? -->
 
 - The Ṣuḥuf that were given to Prophet Ibrāhīm \hon{\S_HIM}{\BODY};
 - The Tawrāh that was given to Prophet Mūsá \hon{\S_HIM}{\BODY};
@@ -406,12 +392,12 @@ disbelieve, there is deafness in their ears and blindness upon them. They are as
 if they are being called from a distant place." (Sūrat Fuṣṣilat, Q41:44)
 \AYAH_END
 
-Prophet Muḥammad \hon{\PBUH}{\BODY} said, "I'm the closest of all people to ʿĪsá
-ibn Maryam in this life and the Hereafter. The Prophets are paternal brothers:
-their mothers are different, but their religion is one."[-@@bukhari, vol.~3,
-p.~294, #3443] Another way of understanding this _ḥadīth_ is that the core
-message of faith of all the prophets was the same, while the _sharīʿah_ they
-brought differed according to the needs of their times.
+The Prophet \hon{\PBUH}{\BODY} said, "I'm the closest of all people to ʿĪsá ibn
+Maryam in this life and the Hereafter. The Prophets are paternal brothers: their
+mothers are different, but their religion is one."[-@@bukhari, vol. 3, p. 294,
+#3443] Another way of understanding this _ḥadīth_ is that the core message of
+faith of all the prophets was the same, while the _sharīʿah_ they brought
+differed according to the needs of their times.
 
 \AYAH_AR_START
 لِكُلّٖ جَعَلۡنَا مِنكُمۡ شِرۡعَةٗ وَمِنۡهَاجٗاۚ
@@ -422,23 +408,12 @@ To each of you, We have appointed a law and a way of life. (Sūrat al-Māʾidah,
 Q5:48)
 \AYAH_END
 
-<!-- TODO ...so that He (might Know) who obeys him → so that He establishes... OR Footnote?  -->
-<!-- TODO ...added al-Tawḥīd (monotheism) and al-Ikhlāṣ (sincerity) for Allāh... -->
-
-<!-- OLD TRANSLATION
-Imam Qatādah \hon{\M_HIM}{\BODY} explained this _āyah_ and said, "A path and a
-way. The paths differed: for the Tawrāh there was one legislation, for the Injīl
-another, and for the Quran another. In them Allāh Permitted whatever He Willed
-and Forbade whatever He Willed as a test, so that He might Know who obeys Him
-and who disobeys Him. But the religion which none other is accepted besides it
-is al-Tawḥīd (monotheism) and al-Ikhlāṣ (sincerity) for Allāh, the religion
-brought by all the messengers."[@@tafsir_tabari, vol. 8, p. 494] -->
 
 Imam Qatādah \hon{\M_HIM}{\BODY} explained this _āyah_ and said, “[It means] a
 law and a way. The different laws and prescribed ways vary: the Torah has its
 own law, the Gospel has its own law, and the Quran has its own law. In each,
 Allāh permits whatever He wills and prohibits whatever He wills, as a test, so
-that He may distinguish those who obey Him from those who disobey Him. But the
+that He may establish those who obey Him from those who disobey Him. But the
 one religion that is accepted to the exclusion of all others is the affirmation
 of Allah's oneness (Tawḥīd) and sincere devotion to Him (_ikhlāṣ_)---the very
 message brought by the messengers.”[@@tafsir_tabari, vol. 8, p. 494]
@@ -460,12 +435,10 @@ Prophet) and what was revealed before you, and have sure faith in the Hereafter.
 \AYAH_END
 
 
-<!-- TODO ...we firmly believe ~~this matter~~ that one day... -->
-
-As Muslims, we firmly believe this matter, that one day this entire world will
-be destroyed, and we will stand before Allāh. Those who did good deeds in this
-world, Allāh will Reward them for their good deeds, and those who committed bad
-deeds, Allāh will Punish them. This day is called the Day of Resurrection.
+As Muslims, we firmly believe that one day this entire world will be destroyed,
+and we will stand before Allāh. Those who did good deeds in this world, Allāh
+will Reward them for their good deeds, and those who committed bad deeds, Allāh
+will Punish them. This day is called the Day of Resurrection.
 
 Therefore, it should be understood that a Muslim is one who believes in Allāh,
 believes in all the Messengers of Allāh, believes in all the Books of Allāh,
@@ -493,22 +466,15 @@ authority belongs to Him. And to Him you will (all) be returned. (Sūrat
 al-Qaṣaṣ, Q28:88)
 \AYAH_END
 
-
-<!-- TODO To kill → To give and take life... -->
-<!-- TODO ...to give children... → ...to grant children... OR ...to bestow children... -->
-<!-- TODO ...open _shirk_ → clear _shirk_ -->
-
-Allāh is One; He is alone; there is none like Him. To kill, to give life, to
-provide sustenance, to remove illness, to grant health, to give children, and to
-fulfill hopes---all of this is in His Hand alone. If someone begins to associate
-anyone else with Allāh in these matters, then this is open _shirk_ (associating
-partners with Allāh). Allāh Says,
+Allāh is One; He is alone; there is none like Him. To give and take life, to
+provide sustenance, to remove illness, to grant health, to grant children, and
+to fulfill hopes---all of this is in His Hand alone. If someone begins to
+associate anyone else with Allāh in these matters, then this is clear _shirk_
+(associating partners with Allāh). Allāh Says,
 
 \AYAH_AR_START
 إِنَّ ٱللَّهَ لَا يَغۡفِرُ أَن يُشۡرَكَ بِهِۦ وَيَغۡفِرُ مَا دُونَ ذَٰلِكَ لِمَن يَشَآءُۚ وَمَن يُشۡرِكۡ بِٱللَّهِ فَقَدِ ٱفۡتَرَىٰٓ إِثۡمًا عَظِيمًا ٤٨
 \AYAH_AR_END
-
-<!-- TODO Check translation -->
 
 \AYAH_START
 Indeed, Allāh does not Forgive associating others with Him (in worship), but
@@ -540,12 +506,10 @@ One major form of _shirk_ is that excessive reverence is shown to a particular
 person. Gradually, this very thing becomes a means of _shirk_, and people begin to
 attribute to that person the status of God.
 
-<!-- TODO zahid review -->
-
 The Messenger of Allāh \hon{\PBUH}{\BODY} said, "Do not exaggerate in praising
 me as the Christians exaggerated in praising the son of Maryam. I am only His
-servant, so say, 'the servant of Allāh and His Messenger.'"[-@@bukhari, vol.~3,
-p.~295, #3445]
+servant, so say, 'the servant of Allāh and His Messenger.'"[-@@bukhari, vol. 3,
+p. 295, #3445]
 
 Anas ibn Mālik \hon{\P_HIM}{\BODY} reported,
 
@@ -554,18 +518,20 @@ Anas ibn Mālik \hon{\P_HIM}{\BODY} reported,
 > \hon{\PBUH}{\BODY} said, "Speak according to your words, and do not let
 > Shayṭān lead you astray. I am Muḥammad, the servant of Allāh and His
 > Messenger. I do not like that you raise me above the rank that Allāh has given
-> me."[-@@ahmad, vol. 21, p. 216--7, #13596]
-
-<!-- TODO footnote for _pīrs_ (saints) and _faqīrs_ ? -->
-<!-- TODO they offer vows and offerings (gifts): seems repetitive -->
+> me."[-@@ahmad, vol. 21, pp. 216--7, #13596]
 
 Hundreds of thousands of people know very well that goddesses or gods, or
-_pīrs_, _faqīrs_, and martyrs are not the creators of the world, yet even then,
-they present all kinds of needs before them. When they stand or sit, they take
-their names, they direct their gaze toward them, they offer vows and offerings
-(gifts) to them, although before Allāh, no one's authority can prevail.
+_pīrs_,[^pir] _faqīrs_,[^faqir] and martyrs are not the creators of the world,
+yet even then, they present all kinds of needs before them. When they stand or
+sit, they take their names, they direct their gaze toward them, they offer vows
+and offerings (gifts) to them, although before Allāh, no one's authority can
+prevail.
 
-<!-- TODO zahid review -->
+[^pir]: _Pīr_: A spiritual guide or Sufi master revered for religious and
+    spiritual guidance.
+
+[^faqir]: _Faqīr_: Literally, a poor or needy person; in Sufi tradition, an
+    ascetic devoted to spiritual worship and detachment from worldly affairs.
 
 Abū Hurayrah \hon{\P_HIM}{\BODY} reported,
 
@@ -574,10 +540,10 @@ Abū Hurayrah \hon{\P_HIM}{\BODY} reported,
 > people of Quraysh, save yourselves. I cannot avail you of anything against
 > Allāh. O Banū ʿAbd Manāf, I cannot avail you of anything against Allāh. O
 > ʿAbbās ibn ʿAbd al-Muṭṭalib, I cannot avail you of anything against Allāh. O
-> Ṣafīyah (paternal aunt of the Messenger of Allāh), I cannot avail you of
+> Ṣafīyah, paternal aunt of the Messenger of Allāh, I cannot avail you of
 > anything against Allāh. O Fāṭimah bint Muḥammad, ask me whatever you wish from
-> my wealth, but I cannot avail you of anything against Allāh."[-@@bukhari,
-> vol.~2, pp.~595--6, #2753]
+> my wealth, but I cannot avail you of anything against Allāh."[-@@bukhari, vol.
+> 2, pp. 595--6, #2753]
 
 
 ### Shirk at Graves
@@ -586,18 +552,10 @@ Some people congregate yearly at graves, travel from far away, make vows, gift
 offerings, and believe that their wishes will be fulfilled. Jundub
 \hon{\P_HIM}{\BODY} reported,
 
-<!-- OLD TRANSLATION
-> I heard the Prophet \hon{\PBUH}{\BODY} say, "Indeed, those who came before
-> you used to take the graves of their prophets and righteous people as places
-> of worship. Be aware! Do not take graves as places of worship. Indeed, I
-> forbid you from doing that." \[Ṣaḥīḥ Muslim\] -->
-
 > I heard the Prophet \hon{\PBUH}{\BODY} say, “...Lo! Those who came before you
 > used to take the graves of their prophets and righteous people as places of
 > worship. Beware! Do not take graves as places of worship. Indeed, I forbid you
 > from doing so.”[-@@muslim, vol. 2, p. 264, #264]
-
-<!-- TODO review translation -->
 
 ʿĀʾishah and Ibn ʿAbbās \hon{\P_THM}{\BODY} reported,
 
@@ -605,40 +563,28 @@ offerings, and believe that their wishes will be fulfilled. Jundub
 > began placing a patterned cloak over his face. When he felt distressed, he
 > would uncover it from his face and say, while in that state, "May Allāh curse
 > the Jews and the Christians; they took the graves of their prophets as places
-> of worship." He was warning against what they had done.[-@@bukhari, vol.~1,
-> p.~256, #435—6]
-
-
-<!-- TODO check translation -->
-<!-- TODO bowing the head → prostrating the head? OR JUST prostrating? -->
-<!-- TODO tāziyah → footnote? -->
+> of worship." He was warning against what they had done.[-@@bukhari, vol. 1,
+> p. 256, #435--6]
 
 That respect and manner which are exclusive to God---if they are shown toward
-others, then this too is _shirk_, such as performing _sajdah_ (bowing the head),
-which is only for Allāh. Performing _sajdah_ for a _tāʿziyah_, or for graves, or
-for any god or goddess, is not correct.
+others, then this too is _shirk_, such as performing _sajdah_ (prostrating the
+head), which is only for Allāh. Performing _sajdah_ for a _tāʿziyah_,[^ta3ziyah] or for
+graves, or for any god or goddess, is not correct.
+
+[^ta3ziyah]: In Lucknow, a _tāʿziyah_ is a highly ornate, temporary miniature
+    replica of the mausoleum of Imam al-Ḥussayn \hon{\P_HIM}{\BODY}. Derived
+    from the Arabic word _ʿazzá_, meaning "to mourn" or "condole," the
+    _tāʿziyah_ serves as the spiritual and cultural focal point of mourning
+    during Muharram, commemorating the martyrdom of Imam al-Ḥussayn
+    \hon{\P_HIM}{\BODY} at the Battle of Karbala.
 
 Qays ibn Saʿd \hon{\P_HIM}{\BODY} reported,
 
-<!-- OLD TRANSLATION
-> I came to al-Ḥīrah and saw that they were prostrating to a _marzubān_ (a
-> governor) of theirs. I said, "The Messenger of Allāh \hon{\PBUH}{\BODY} has
-> more right that prostration be made to him." So I came to the Messenger of
-> Allāh \hon{\PBUH}{\BODY} and said, "I went to al-Ḥīrah and saw them
-> prostrating to a _marzubān_ of theirs, and you have more right to have
-> prostration made to you."
-
-> He \hon{\PBUH}{\BODY} said to me, "Tell me, if you were to pass by my grave,
-> would you prostrate to it?" I said, "No." He \hon{\PBUH}{\BODY} said, "Then
-> do not do so. If I were to command anyone to prostrate to anyone, I would have
-> commanded women to prostrate to their husbands, due to the right that Allāh
-> has given them over them." -->
-
-> I came to al-Ḥīrah and saw them prostrating to one of their _marzubāns_. I
-> said, “The Messenger of Allāh has more right to have people prostrate to him.”
-> So I went to the Prophet \hon{\PBUH}{\BODY} and said, “I came to al-Ḥīrah and
-> saw them prostrating to one of their _marzubāns_. You, O Messenger of Allāh,
-> have more right to have us prostrate to you.”
+> I came to al-Ḥīrah and saw them prostrating to one of their _marzubāns_ (a
+> governor). I said, “The Messenger of Allāh has more right to have people
+> prostrate to him.” So I went to the Prophet \hon{\PBUH}{\BODY} and said, “I
+> came to al-Ḥīrah and saw them prostrating to one of their _marzubāns_. You, O
+> Messenger of Allāh, have more right to have us prostrate to you.”
 
 > He \hon{\PBUH}{\BODY} said, “Tell me, if you were to pass by my grave, would
 > you prostrate to it?” I said, “No.” He said, “Then do not do so. If I were to
@@ -647,10 +593,7 @@ Qays ibn Saʿd \hon{\P_HIM}{\BODY} reported,
 > them.”[-@@abudawud vol. 4, pp. 157--8, #2129]
 
 
-### Shirk In Allāh's Exclusive Attributes 
-
-<!-- TODO ...are also believed... → ...are believed to also... -->
-<!-- TODO ...granting children... -> bestowing children (like previously commented) -->
+### Shirk In Allāh's Exclusive Attributes
 
 Another form of _shirk_ is that Allāh's exclusive attributes are also believed
 to exist in others, such as causing death, giving life, providing sustenance,
@@ -675,8 +618,6 @@ not then reflect?" (Sūrat al-Anʿām, Q6:50)
 
 
 ### The Origins of Idolatry
-
-<!-- TODO Review translation of ff para -->
 
 Those things which even raise the suspicion of _shirk_ have also been
 prohibited, such as making images. In the beginning, such things were done for
@@ -714,8 +655,6 @@ besides Allāh back to pure Tawḥīd.
 
 ### How the Worship of Stones Spread in Arabia
 
-<!-- TODO (check translation) ...or appeared distinctive to them. -->
-
 Imam Ibn Isḥāq \hon{\M_HIM}{\BODY} mentions that when the descendants of Prophet
 Ismāʿīl \hon{\S_HIM}{\BODY} eventually dispersed from Makkah, each group took
 with them a stone from the sacred precincts as a keepsake of the Kaʿbah. They
@@ -725,26 +664,21 @@ show them reverence. Over time, the following generations began to worship not
 only those stones, but also any stone that resembled their original stones or
 appeared distinctive to them.[-@@sirahibnhisham, vol. 1, p. 77]
 
-<!-- TODO review translation -->
-
 Abū Rajāʾ al-ʿUṭāridī \hon{\P_HIM}{\BODY} narrated, "We used to worship stones.
 When we found a better stone than the one we had, we would discard the first and
 take the latter. If we could not find a stone, we would gather some earth, then
 bring a sheep and milk it over the earth, and then perform _ṭawāf_ around
-it."[-@@bukhari, vol.~3, p.~684, #4376-7]
+it."[-@@bukhari, vol. 3, p. 684, #4376-7]
 
 As a result, idolatry spread throughout society until every tribe had an idol
 that it worshipped. Not only tribes, but at times even individual families
 possessed a particular idol which they venerated and worshipped. By the time of
-the birth of the Prophet Muḥammad \hon{\PBUH}{\BODY}, around 360 idols were
-housed inside the Kaʿbah. The most prominent of these was Hubal, which had been
-brought there by ʿAmr ibn Luḥayy.
+the birth of the Prophet \hon{\PBUH}{\BODY}, around 360 idols were housed inside
+the Kaʿbah. The most prominent of these was Hubal, which had been brought there
+by ʿAmr ibn Luḥayy.
 
 
 ### Changing Names
-
-<!-- TODO consider Pre-Islamic Arabia -->
-<!-- TODO ʿAbd Manāf → footnote? -->
 
 Pre-Islamic Arab society commonly used names that reflected servitude to
 entities other than Allāh, such as celestial bodies, tribal deities, or revered
@@ -820,8 +754,6 @@ who held themselves to account in this world."[-@@abuesa16, vol. 3, pp. 430--1,
 
 Allāh Says,
 
-<!-- TODO Check translation quotation marks -->
-
 \AYAH_AR_START
 قُلۡ يَٰعِبَادِيَ ٱلَّذِينَ أَسۡرَفُواْ عَلَىٰٓ أَنفُسِهِمۡ لَا تَقۡنَطُواْ مِن
 رَّحۡمَةِ ٱللَّهِۚ إِنَّ ٱللَّهَ يَغۡفِرُ ٱلذُّنُوبَ جَمِيعًاۚ إِنَّهُۥ هُوَ
@@ -831,7 +763,7 @@ Allāh Says,
 \AYAH_START
 Say, "O My servants who have exceeded the limits against their souls! Do not
 lose hope in Allāh's Mercy, for Allāh certainly Forgives all sins. He is indeed
-the All-Forgiving, Most Merciful." (Sūrat al-Zumar, Q39:53)
+the All-Forgiving, Most Merciful..." (Sūrat al-Zumar, Q39:53)
 \AYAH_END
 
 
@@ -901,10 +833,8 @@ only our own well-being. The first and greatest form of helping the religion is
 that we ourselves act upon it. After that, those over whom we have influence
 should be guided onto the straight path of the religion.
 
-<!-- TODO check translation -->
-
-Wherever you see that the cause of the religion is becoming weak in any way,
-there you should devote your wealth, your effort, and your very selves.
+Wherever you see the cause of religion weakening in any way, devote your wealth,
+your efforts, and even your lives to strengthening it.
 
 One should serve the religion of Allāh with everything: one's life, wealth, pen,
 tongue, intellect, and every ability one possesses.
@@ -932,21 +862,18 @@ through repentance (_tawbah_).
 The Messenger of Allāh \hon{\PBUH}{\BODY} said, "All of the children of Ādam are
 sinners, and the best of sinners are those who repent."[-@@abuesa16, vol. 3, p. 450, #2680]
 
-<!-- TODO translation: right must be fulfilled → (make restitution for the injustice) -->
-<!-- TODO consistent _tawbah_ or repentance? -->
-
 Imam al-Khaṭṭābī \hon{\M_HIM}{\BODY} said, "Allāh's name al-Tawwāb means: the
-One who accepts the repentance of His servant every time he
+One who accepts the _tawbah_ (repentance) of His servant every time he
 repents."[-@@sha2n_dua, p. 90] The meaning of _tawbah_ is that a person admits
 his sin before Allāh, expresses remorse over it, and makes a firm resolve not to
-commit it again deliberately. If the right of another person is involved, that
-right must be fulfilled. For example, if one has falsely accused someone or
-possesses another person's unlawfully acquired wealth, then that wealth must be
-returned, and forgiveness must be sought from the one who was wronged. Without
-fulfilling these conditions, repentance is not complete.
+commit it again deliberately. If the right of another person is involved, he
+should make restitution for the injustice. For example, if one has falsely
+accused someone or possesses another person's unlawfully acquired wealth, then
+that wealth must be returned, and forgiveness must be sought from the one who
+was wronged. Without fulfilling these conditions, repentance is not complete.
 
 Despite being the Messenger of Allāh, the Prophet \hon{\PBUH}{\BODY} used to
-repent and seek forgiveness seventy times a day.[-@@bukhari, vol.~5, p.~370,
+repent and seek forgiveness seventy times a day.[-@@bukhari, vol. 5, p. 370,
 #6307] ʿĀʾishah \hon{\P_HER}{\BODY} said, "The Prophet \hon{\PBUH}{\BODY} would
 stand in prayer at night until his feet became swollen. I said, 'O Messenger of
 Allāh, why do you do this when Allāh has forgiven your past and future sins?' He
@@ -966,7 +893,7 @@ The Messenger of Allāh \hon{\PBUH}{\BODY} said, “If you were to commit sins
 until your sins reached the sky, then repent, Allah would surely accept your
 repentance.”[-@@majah14, vol. 4, p. 91, #4282] The Prophet \hon{\PBUH}{\BODY}
 also said, "Indeed, Allāh accepts the repentance of the servant as long as his
-soul has not reached the throat."[-@@abuesa16, vol. 4, p. 398, #3866.]
+soul has not reached the throat."[-@@abuesa16, vol. 4, p. 398, #3866]
 
 The Messenger of Allāh \hon{\PBUH}{\BODY} said, "The one who repents from sin is
 like one who has no sin."[-@@majah14, vol. 4, p. 91, #4284] Imam Ibn al-Qayyim
@@ -985,8 +912,6 @@ Allāh Says,
 \AYAH_AR_START
 وَٱذۡكُر رَّبَّكَ فِي نَفۡسِكَ تَضَرُّعٗا وَخِيفَةٗ وَدُونَ ٱلۡجَهۡرِ مِنَ ٱلۡقَوۡلِ بِٱلۡغُدُوِّ وَٱلۡأٓصَالِ وَلَا تَكُن مِّنَ ٱلۡغَٰفِلِينَ ٢٠٥
 \AYAH_AR_END
-
-<!-- TODO check translation -->
 
 \AYAH_START
 Remember your Lord inwardly with humility and reverence and in a moderate tone
@@ -1061,7 +986,7 @@ given.'"[-@@abuesa16, vol. 2, p. 31, #599]
 Abū Umāmah \hon{\P_HIM}{\BODY} reported, "It was said to the Messenger of Allāh
 \hon{\PBUH}{\BODY}, 'Which supplication is most heard?' He \hon{\PBUH}{\BODY}
 replied, 'The supplication made in the last part of the night and at the end of
-the prescribed prayers.'"[-@@abuesa16, vol. 4, p. 379, #3826.]
+the prescribed prayers.'"[-@@abuesa16, vol. 4, p. 379, #3826]
 
 [When It's Raining Heavily]{.smallcaps}: The Prophet \hon{\PBUH}{\BODY} said,
 "Two supplications are not rejected: the supplication made at the time of the
@@ -1127,8 +1052,6 @@ Responds in multiple ways:
 
 ## Saying “In-shāʾ Allāh” (“If Allāh Wills”)
 
-<!-- TODO Should we include the Arabic and the translation at every instance? -->
-
 Allāh Says,
 
 \AYAH_AR_START
@@ -1143,28 +1066,16 @@ Q18:23--34)
 \AYAH_END
 
 
-Do not say about anything, "I will do it tomorrow," except by saying, _In-shāʾ
-Allāh_ ("If Allāh Wills").
-
-<!-- OLD TRANSLATION
-Ibn ʿAbbās \hon{\P_TWO}{\BODY} reported,
-
-> The Jews came to the Prophet \hon{\PBUH}{\BODY} and asked him about certain
-> matters. The Messenger of Allāh \hon{\PBUH}{\BODY} said to them, "I will
-> inform you tomorrow," but he did not say, _In-shāʾ Allāh_ ("If Allāh wills").
-> Revelation was withheld from him for several days. Then Allāh, the Exalted,
-> revealed, "And never say of anything, 'Indeed, I will do that tomorrow,'
-> except, 'If Allāh Wills.'" -->
+Do not say about anything, "I will do it tomorrow," except by saying, “_In-shāʾ
+Allāh_” ("If Allāh Wills").
 
 Ibn ʿAbbās \hon{\P_TWO}{\BODY} reported that the Jews came to the Prophet
 \hon{\PBUH}{\BODY} and asked him about certain matters. The Messenger of Allāh
 \hon{\PBUH}{\BODY} said to them, "I will inform you tomorrow," but he did not
-say, _In-shāʾ Allāh_ ("If Allāh wills"). Revelation was withheld from him for
+say, “_In-shāʾ Allāh_” ("If Allāh wills"). Revelation was withheld from him for
 several days. Then Allāh, the Exalted, revealed _Sūrat al-Kahf_, which included
 the _āyah_ "And never say of anything, 'Indeed, I will do that tomorrow,' except
 by adding, 'If Allāh Wills.'"[-@@tafsir_ibnkathir, vol. 4, pp. 135--6]
-
-<!-- TODO Zahid review -->
 
 Abū Hurayrah \hon{\P_HIM}{\BODY} said,
 
@@ -1176,25 +1087,12 @@ Abū Hurayrah \hon{\P_HIM}{\BODY} said,
 > He went around to them, and none of them became pregnant except one woman, who
 > gave birth to half a human. The Messenger of Allāh \hon{\PBUH}{\BODY} said,
 > "Had he said, 'If Allāh Wills,' he would have fulfilled his vow and would have
-> been more hopeful of his want [being fulfilled]."[-@@bukhari, vol.~4, p.~458,
+> been more hopeful of his want [being fulfilled]."[-@@bukhari, vol. 4, p. 458,
 > #5242]
 
-<!-- 
-The Messenger of Allāh \hon{\PBUH}{\BODY} said, "Sulaymān ibn Dāwūd
-\hon{\S_TWO}{\BODY} said, 'Tonight I will go around to ninety women, each of
-whom will give birth to a boy who will fight in the path of Allāh.' His
-companion said to him, 'Say, "If Allāh wills,"' but he did not say it."
-
-He went around to them, and none of them gave birth except one woman, who gave
-birth to half of a human being. The Messenger of Allāh \hon{\PBUH}{\BODY} said,
-"By the One in Whose Hand is my soul, had he said, 'If Allāh Wills,' they would
-all have fought as horsemen in the path of Allāh." \[Ṣaḥīḥ al-Bukhārī\] -->
-
-<!-- TODO Check translation of ff para -->
-
 Without the Command of Allāh, even a single leaf of a tree cannot move. What
-power does a human being have that he can accomplish anything without His Help?
-That is why the Quran teaches that when you intend to do something, do not
+power does a human being have that he can accomplish anything without Allāh's
+Help? That is why the Quran teaches that when you intend to do something, do not
 simply say, "I will do this," but rather say, "If Allāh Wills, I will do it."
 
 
@@ -1210,11 +1108,10 @@ Allāh Says,
 And proclaim the Blessings of your Lord. (Sūrat al-Ḍuḥá, Q93:11)
 \AYAH_END
 
-<!-- TODO "favors and kindnesses" -->
 
 It is not appropriate to become arrogant over the blessings that Allāh has
 granted us, but it is also not correct to conceal them. One should certainly
-mention the favors and kindnesses of Allāh to one's children and friends. This,
+mention the blessings and favors of Allāh to one's children and friends. This,
 too, is a form of gratitude. Those who hide the blessings given by Allāh are
 guilty of ingratitude. Allāh loves to see the effects of His blessings upon His
 servants.
@@ -1344,7 +1241,7 @@ with Muhammad \hon{\PBUH}{\BODY} as his Messenger."[-@@muslim, vol. 1, pp.
 > Prophet \hon{\PBUH}{\BODY} said, "No, by the One in Whose Hand is my soul, not
 > until I am more beloved to you than yourself." ʿUmar then said, "By Allāh, now
 > you are more beloved to me than myself." The Prophet \hon{\PBUH}{\BODY}
-> replied, "Now, O ʿUmar."[-@@bukhari, vol.~6, p.~20, #6632]
+> replied, "Now, O ʿUmar."[-@@bukhari, vol. 6, p. 20, #6632]
 
 During a gathering in Masjid al-Nabawi, Imam Mālik ibn Anas \hon{\M_HIM}{\BODY}
 said, while pointing to the grave of the Prophet \hon{\PBUH}{\BODY},
@@ -1431,7 +1328,7 @@ and responsible for them; a man is a shepherd over his household and responsible
 for them; a woman is a shepherdess over her husband's house and children and is
 responsible for them; and a slave is a shepherd over his master's wealth and
 responsible for it. Lo! All of you are shepherds and all of you are responsible
-for their flocks.”[-@@bukhari, vol. 2, p. 482, #2554.]
+for their flocks.”[-@@bukhari, vol. 2, p. 482, #2554]
 
 <!-- The Messenger of Allāh \hon{\PBUH}{\BODY} said, "Each of you is a shepherd, and
 each of you is responsible for his flock. The leader over the people is a
@@ -1474,7 +1371,7 @@ and every innovation is misguidance."[-@@nasaiis, vol. 3, p. 343, #1594] -->
 
 The Messenger of Allāh \hon{\PBUH}{\BODY} said, "Whoever innovates into this
 matter of ours that which does not belong to it, will be rejected."[-@@bukhari,
-vol.~2, p.~557, #2697]
+vol. 2, p. 557, #2697]
 
 Linguistically, the root of the word _bidʿah_ in Arabic means initiating something
 without any precedent. Technically, introducing additions or omissions into the
@@ -1490,8 +1387,6 @@ of Resurrection."[-@@darimi, p. 123, #106]
 > "This is the path of Allāh." Then he drew lines to its right and left and
 > said, "These are paths, and on every one of them there is a Shayṭān calling to
 > it."[-@@ahmad, vol. 7, pp. 207--8, #4142]
-
-<!-- TODO Satan or Shayṭān -->
 
 The meaning of this is that the path of the Messenger is straight and free from
 confusion; whichever other path one follows after abandoning it, one will fall
@@ -1520,7 +1415,8 @@ The Messenger of Allāh \hon{\PBUH}{\BODY} said, "Whoever introduces a good
 Sunnah in Islam will have its reward and the reward of those who act upon it
 after him, without any reduction in their rewards. And whoever introduces an
 evil innovation in Islam will bear its sin and the sin of those who act upon it
-after him, without any reduction in their sins."[-@@muslim, vol. 3, pp. 204--5, 1031]
+after him, without any reduction in their sins."[-@@muslim, vol. 3, pp. 204--5,
+1031]
 
 Anas ibn Mālik \hon{\P_HIM}{\BODY} narrated that the Prophet \hon{\PBUH}{\BODY}
 said, "Some people from my Companions will come to my Ḥawḍ (Cistern), and I will
@@ -1534,8 +1430,6 @@ not established from the Companions that it is an innovation. For if there had
 been any good in it, they would have preceded us in it, since they did not leave
 off any good characteristic except that they hastened to perform
 it."[-@@tafsir_ibnkathir, vol. 6, p. 622]
-
-<!-- TODO Adrami reference -- it also occurs in Lum3at al-I3tiqad by Ibn Qudamah -->
 
 The teacher of Imam Abū Dāwūd and Imam al-Nasāʾī, Imam Muḥammad ibn ʿAbd
 al-Raḥmān al-Adramī \hon{\M_HIM}{\BODY}, articulated a profound principle
@@ -1552,9 +1446,9 @@ Imam al-Adramī then said, "They were aware of it according to you, yet they did
 not preach it. So how is it that you now propagate it?" The innovator was unable
 to answer. The ruler, who was witnessing the debate, then said, "If what was
 sufficient for the Messenger of Allāh \hon{\PBUH}{\BODY} and the Khulafāʾ
-al-Rāshidūn \hon{\P_THM}{\BODY} is not sufficient for someone, then may
-Allāh never suffice the one who is not content with what sufficed them."
-\[Manāqib al-Imam Aḥmad\]
+al-Rāshidūn \hon{\P_THM}{\BODY} is not sufficient for someone, then may Allāh
+never suffice the one who is not content with what sufficed
+them."[-@@lum3ah_uthaymin, pp. 27--8]
 
 Allāh Says,
 
@@ -1640,18 +1534,17 @@ prayers upon your Prophet \hon{\PBUH}{\BODY}."[-@@abuesa16, vol. 1, p. 562,
 
 The best form of sending blessings is the one recited in _al-Taḥīyāt_, namely,
 
-<!-- TODO review translation -->
-
 \HADITH_AR_START
 اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ، وَعَلَى آلِ مُحَمَّدٍ، كَمَا صَلَّيْتَ عَلَى
 إِبْرَاهِيمَ وَعَلَى آلِ إِبْرَاهِيمَ، إِنَّكَ حَمِيدٌ مَجِيدٌ
 \HADITH_AR_END
 
 \HADITH_START
-"O Allāh, send blessings upon Muḥammad and upon the family of Muḥammad, as You
+"O Allāh, send blessings upon Muḥammad and upon the family of Muḥammad, just as You
 sent blessings upon Ibrāhīm and upon the family of Ibrāhīm. Indeed, You are Most
-Praiseworthy, Most Glorious."[-@@bukhari, vol.~3, p.~254, #3370]
+Praiseworthy, Most Glorious."[-@@bukhari, vol. 3, p. 254, #3370]
 \HADITH_END
+
 
 ## The Friends of Allāh (Awliyāʾ Allāh)
 
@@ -1661,11 +1554,9 @@ Allāh Says,
 أَلَآ إِنَّ أَوۡلِيَآءَ ٱللَّهِ لَا خَوۡفٌ عَلَيۡهِمۡ وَلَا هُمۡ يَحۡزَنُونَ ٦٢ٱلَّذِينَ ءَامَنُواْ وَكَانُواْ يَتَّقُونَ ٦٣
 \AYAH_AR_END
 
-<!-- TODO Check translation -->
-
 \AYAH_START
 Indeed, the friends of Allāh will have no fear upon them, nor will they
-grieve---those who believe and are mindful of Allāh. (Sūrat Yūnus, Q10:62--63)
+grieve---those who believe and are mindful of Allāh. (Sūrat Yūnus, Q10:62--3)
 \AYAH_END
 
 Those who obey Allāh and, through following the Messenger \hon{\PBUH}{\BODY},
@@ -1723,7 +1614,6 @@ him is obligatory. All salvation lies in following Muḥammad
 \hon{\PBUH}{\BODY}."[^_Maktūbāt-i Maʿṣūmiyyah_; we couldn't find the exact
 reference.]
 
-<!-- TODO ...is only the one who... -->
 Thus, the friend of Allāh is only the one who practices the religion and follows
 the Messenger of Allāh \hon{\PBUH}{\BODY}. Whoever does not do so is not a
 friend of Allāh.
@@ -1763,12 +1653,6 @@ replied, “Yes, O Messenger of Allāh!” He \hon{\PBUH}{\BODY} replied, “The
 among you are those who, when seen, remind people of Allāh, Mighty and
 Majestic.”[-@@majah14, vol. 4, pp. 47--8, #4152]
 
-<!-- ʿAbdullāh ibn ʿAbbās \hon{\P_TWO}{\BODY} narrated that it was said to the
-Messenger of Allāh \hon{\PBUH}{\BODY}, "Who is the best of people?" He
-\hon{\PBUH}{\BODY} replied, "The one who, when he is seen, Allāh is remembered."
-\[al-Sunan al-Kubra vol. 11, p. 147, #11346 by Ibn Mājah\] -->
-
-<!-- TODO "brother in Islam" → "brother in faith"? -->
 ʿUmar \hon{\P_HIM}{\BODY} lived at some distance from Madinah and could not
 attend the Prophet \hon{\PBUH}{\BODY} daily. So he would go one day himself and
 send his brother in faith the next day so that he could learn the words of the
@@ -1778,23 +1662,21 @@ among Banū Umayyah ibn Zayd, who lived on the outskirts of Madinah. We used to
 take turns going to the Messenger of Allāh \hon{\PBUH}{\BODY}. He would go one
 day, and I would go the next. When I went, I would bring him the news of that
 day regarding revelation and other matters, and when he went, he would do the
-same..."[-@@bukhari, vol.~1, p.~73, #89]
-
-<!-- TODO Zahid review -->
-
-<!-- The Messenger of Allāh (صلى الله عليه وسلم) said, "The example of a righteous
-companion and an evil companion is like that of a perfume seller and a
-blacksmith. The perfume seller may give you some perfume, or you may buy some
-from him, or at least you will find a pleasant fragrance from him. As for the
-blacksmith, he may burn your clothes, or you will find from him an offensive
-smell." -->
+same..."[-@@bukhari, vol. 1, p. 73, #89]
 
 The Messenger of Allāh \hon{\PBUH}{\BODY} said, "The example of a righteous
+companion and an evil companion is like that of a perfume seller and a bellows
+operator. The perfume seller may give you some perfume, or you may buy some from
+him, or at least you will find a pleasant fragrance from him. As for the bellows
+operator, he may burn your clothes, or you will find from him an offensive
+smell."[-@@bukhari, vol. 5, pp. 69--70, #5534]
+
+<!-- The Messenger of Allāh \hon{\PBUH}{\BODY} said, "The example of a righteous
 companion and an evil one is like that of a perfume seller and a bellows
 operator. The perfume seller may give you some perfume, or you may buy some from
 him, or you will smell fragrance from him. As for the bellows operator, he may
-burn your clothes, or you will smell offensive odor."[-@@bukhari, vol.~5,
-pp.~69--70, #5534.]
+burn your clothes, or you will smell offensive odor."[-@@bukhari, vol. 5, pp.
+69--70, #5534] -->
 
 
 ## Bad Company
@@ -1969,32 +1851,22 @@ associate none in the worship of their Lord. (Sūrat al-Kahf, Q18:110)
 \AYAH_END
 
 
-<!-- TODO review translation -->
-
-<!-- The Messenger of Allāh \hon{\PBUH}{\BODY} said, "Three things follow the
-deceased: his family, his wealth, and his deeds. Two return and one remains. His
-family and wealth return, and his deeds remain." \[Ṣaḥīḥ al-Bukhārī\] -->
-
 The Messenger of Allāh \hon{\PBUH}{\BODY} said, "Three things follow the
 deceased. Two of these return and one remains: his family, his wealth, and his
 deeds follow him; his family and wealth return while his deeds
-remain."[-@@bukhari, vol.~5, p.~454, #6514]
+remain."[-@@bukhari, vol. 5, p. 454, #6514]
 
 The Messenger of Allāh \hon{\PBUH}{\BODY} said, "Do not belittle any good deed,
 even if it is meeting your brother with a cheerful face."[-@@muslim, vol. 6, p.
 485, #2714]
 
-<!-- TODO review translation -->
-ʿĀʾishah \hon{\P_HER}{\BODY} said that the Messenger of Allāh \hon{\PBUH}{\BODY}
-said, "O people, you should do whatever good deeds you are able to do, for Allāh
-does not become weary until you become weary. And the most beloved of good deeds
-to Allāh is that which is done consistently, even if it is little."[-@@bukhari,
-vol.~5, p.~203, #5861]
+<!-- ʿĀʾishah \hon{\P_HER}{\BODY} said that the Messenger of Allāh \hon{\PBUH}{\BODY}
+said, "O people, you should do good deeds that are within your ability, for
+Allāh does not become weary until you become weary. And the most beloved of good
+deeds to Allāh are those that are done consistently, even if small."[-@@bukhari,
+vol. 5, p. 203, #5861] -->
 
-
-ʿĀʾishah \hon{\P_HER}{\BODY} said that the Messenger of Allāh \hon{\PBUH}{\BODY}
-said, "O people, you should do ~~whatever~~ good deeds **that are within your
-ability** ~~you are able to do~~, for (Allāh does not become weary until you
-become weary.) And the most beloved of good deeds to Allāh ~~is that~~ **are
-those that** ~~which is~~ are done consistently, even if **small** ~~it is
-little.~~"
+The Prophet \hon{\PBUH}{\BODY} said, "O people, do only as much as you are able
+to sustain, for Allāh does not cease rewarding you as long as you do not tire of
+doing good. The most beloved deeds to Allāh are those that are consistent, even
+if they are small."[-@@bukhari, vol. 5, p. 203, #5861]

@@ -90,7 +90,8 @@ from where he could never imagine. (Sūrat al-Ṭalāq, Q65:2--3)
 
 
 ʿAbdullāh ibn Masʿūd \hon{\P_HIM}{\BODY} said that this _āyah_ is the greatest
-_āyah_ in the Quran regarding relief and deliverance.[-@@tafsir_ibnkathir, vol. 7, pp. 300--1]
+_āyah_ in the Quran regarding relief and deliverance.[-@@tafsir_ibnkathir, vol.
+7, pp. 300--1]
 
 Imam Ibn al-Jawzī \hon{\M_HIM}{\BODY} said, "I was afflicted by a distress that
 caused me prolonged anxiety, and I sought relief by every possible means but
@@ -155,25 +156,7 @@ Imam Ibn al-Qayyim \hon{\M_HIM}{\BODY} said,
 > sincere of people, therefore, are those whose devotion and reliance upon Allāh
 > are most sound.[-@@fawaid, pp. 271--2]
 
-<!-- > There is nothing more beneficial for a servant than sincerity toward his Lord
-> in all his affairs, along with sincerity of resolve. So let him be sincere
-> toward Allāh in both his intention and his action. Allāh says, "Then if they
-> had been true to Allāh, it would have been better for them." (Sūrat Muḥammad,
-> Q47:21)
-
-> His happiness lies in the sincerity of resolve and the sincerity of action.
-> Sincerity of resolve means having firm determination to act without
-> hesitation. When resolve is sincere, all that remains is the sincerity of
-> action---doing one's utmost and striving fully, without allowing anything
-> inward or outward to hold him back. Sincerity of resolve protects him from
-> weakness of will, and sincerity of action protects him from laziness and
-> lethargy. Whoever is sincere toward Allāh in all his affairs, Allāh grants him
-> more than He grants others. This sincerity arises from true love of Allāh and
-> true reliance upon Him. Thus, the most sincere of people is the one who loves
-> Allāh the most and places the greatest trust in Him. \[al-Fawāʾid\] -->
-
-<!-- TODO outwardly returned? -->
-<!-- TODO I couldn't find the rest of the details -->
+<!-- TODO KHALID: I couldn't find the rest of the details -->
 The Companions embodied sincerity in every action. It is authentically reported
 in the books of Sīrah that al-Walīd ibn al-Walīd \hon{\P_HIM}{\BODY} was among
 those captured at the Battle of Badr. He later secured his release by paying a
@@ -224,11 +207,11 @@ realities:
     steadfastness.
 
 The Messenger of Allāh \hon{\PBUH}{\BODY} said, "...no one has been given a gift
-better and more expansive than patience."[-@@bukhari, vol.~2, p.~37, #1469]
+better and more expansive than patience."[-@@bukhari, vol. 2, p. 37, #1469]
 
 The Prophet \hon{\PBUH}{\BODY} said, "Allāh the Exalted says, 'If I test My
 servant by taking away his two beloved ones (his eyes) and he remains patient, I
-will compensate him with Jannah.'"[-@@bukhari,  vol.~5, p.~115, #5653]
+will compensate him with Jannah.'"[-@@bukhari,  vol. 5, p. 115, #5653]
 
 The Messenger of Allāh \hon{\PBUH}{\BODY} said, "...know that victory comes with
 patience, relief comes with distress, and ease comes with hardship."[-@@ahmad,
@@ -268,11 +251,9 @@ the effects of His blessings are reflected in a person’s words through praise
 and acknowledgment, in their heart through recognition and love, and in their
 actions through submission and obedience.”[-@@madarijsalikeen, vol. 2, p. 589]
 
-<!-- TODO add ayah? -->
-
 Prophet Sulaymān \hon{\S_HIM}{\BODY} supplicated, "My Lord, enable me to be
 grateful for Your Favor which You have bestowed upon me and upon my parents, and
-to do righteousness of which You Approve." \[Sūrat al-Naml, Q27:9\]
+to do righteousness of which You Approve." (Sūrat al-Naml, Q27:19)
 
 Muʿādh ibn Jabal \hon{\P_HIM}{\BODY} reported that the Messenger of Allāh
 \hon{\PBUH}{\BODY} took his hand and said, "O Muʿādh, by Allāh, I love you."
@@ -305,17 +286,11 @@ blessings:
 In essence, gratitude for every blessing lies in using it for the purpose for
 which Allāh created it.
 
-<!-- TODO A version of this occurs in Chapter 1. Double check translation. -->
-
 ʿĀʾishah \hon{\P_HER}{\BODY} said, "The Prophet \hon{\PBUH}{\BODY} would stand
-in prayer at night until his feet became swollen. I said, 'Why do you do this
-when Allāh has forgiven your past and future sins?' He \hon{\PBUH}{\BODY}
-replied, 'Should I not be a grateful servant?'"[-@@bukhari, vol.~4, p.~259,
-#4837]
-
-<!-- ʿAlī ibn Abī Ṭālib \hon{\P_HIM}{\BODY} said, "Blessings are tied to gratitude,
-and gratitude is tied to increase. The increase from Allāh will never cease
-unless gratitude from the servant ceases." \[Kitāb al-Shukr\] -->
+in prayer at night until his feet became swollen. I said, 'O Messenger of Allāh,
+why do you do this when Allāh has forgiven your past and future sins?' He
+\hon{\PBUH}{\BODY} said, 'Shall I not be a grateful servant?'"[-@@bukhari, vol.
+4, p. 259, #4837]
 
 ʿAlī ibn Abī Ṭālib \hon{\P_HIM}{\BODY} said, “Blessings are inseparably linked
 to gratitude, and gratitude brings further blessings. The two go hand in hand:
@@ -389,8 +364,6 @@ fully achieved without taking all the necessary means.”[-@@zad_ma3ad, vol. 2, 
 From this, it becomes clear that a person must take the necessary means (_asbāb_)
 and then entrust the outcome to Allāh. He does what is within his capacity and
 leaves the result to divine wisdom.
-
-<!-- TODO add ayah? -->
 
 There is a subtle wisdom in true _tawakkul_. If success comes, one does not
 become arrogant, knowing it is from Allāh. If failure occurs, one does not fall

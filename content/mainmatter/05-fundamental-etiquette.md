@@ -21,27 +21,36 @@ obedience and worship.
 Earning through labor, trade, farming, or employment---by any lawful means---is
 necessary to fulfill family obligations and to spend in the path of Allāh.
 
-<!-- TODO ref Shu3ab al-Iman -->
-
 The Prophet \hon{\PBUH}{\BODY} said, "After the obligatory duties, seeking
-lawful sustenance is an obligation." \[Shuʿab al-Īmān\]
-
-<!-- TODO ref Isabah -->
+lawful sustenance is an obligation."[-@@mu3jam_kabir, vol. 8, p. 2514, #9993]
 
 The Companions all worked: Abū Bakr, ʿUmar, and ʿUthmān engaged in trade; Salmān
-\hon{\PBUH}{\BODY} wove mats; one Companion worked with a pickaxe until his
-hands became blackened. When the Prophet \hon{\PBUH}{\BODY} saw his hands, he
-asked about them. The Companion replied that he labored to provide for his
-family. The Prophet \hon{\PBUH}{\BODY} kissed his hands. \[al-Iṣābah\]
+\hon{\PBUH}{\BODY} wove mats;[-@@usdghabah, p. 502] one Companion worked with a
+pickaxe until his hands became blackened. When the Prophet \hon{\PBUH}{\BODY}
+saw his hands, he asked about them. The Companion replied that he labored to
+provide for his family. The Prophet \hon{\PBUH}{\BODY} kissed his
+hands.[-@@usdghabah, p. 458, #1968]
 
 Begging is not permissible for a wealthy or able-bodied person. The Prophet
 \hon{\PBUH}{\BODY} said, "No one has ever eaten better food than that which he
-earns with his own hands..."[-@@bukhari, vol.~2, p.~274, #2072] In another place
+earns with his own hands..."[-@@bukhari, vol. 2, p. 274, #2072] In another place
 he \hon{\PBUH}{\BODY} said, "It is better for one of you to carry a bundle of
-firewood on his back than to ask people..."[-@@bukhari, vol.~2, p.~275, #2074.]
+firewood on his back than to ask people..."[-@@bukhari, vol. 2, p. 275, #2074]
 
+<!-- 
+Rāʾiṭah, the wife of ʿAbd Allāh ibn Masʿūd, was known for making things by hand
+and supporting her family through her work.
 
-<!-- TODO ref missing -->
+وَعَنْ رَائِطَةَ امْرَأَةِ عَبْدِ اللَّهِ بْنِ مَسْعُودٍ وَأُمِّ وَلَدِهِ، وَكَانَتِ امْرَأَةً صَنَاعَ الْيَدِ، قَالَ: فَكَانَتْ تُنْفِقُ عَلَيْهِ وَعَلَى وَلَدِهِ مِنْ صَنْعَتِهَا.
+
+«أَنْفِقِي عَلَيْهِمْ، فَإِنَّ لَكِ فِي ذَلِكَ أَجْرَ مَا أَنْفَقْتِ عَلَيْهِمْ».
+Musnad Ahmad, mu3jam kabir
+
+Zaynab bint Jahsh
+“Zaynab was a skilled craftswoman. She used to tan leather, sew leather goods,
+and give the proceeds of her work in charity for the sake of Allāh.”
+Ibn Saʿd, al-Ṭabaqāt al-Kubrā, 8/108; Ibn Ḥajar, al-Iṣābah fī Tamyīz al-Ṣaḥābah
+-->
 
 Some female Companions earned by weaving cloth.
 
@@ -66,7 +75,7 @@ al-Māʾidah, Q5:6)
 Maintaining purity and cleanliness is of immense importance. The very foundation
 of the religion rests upon purity.
 
-Once, Prophet Muḥammad \hon{\PBUH}{\BODY} passed by a grave and said that the person
+Once, the Prophet \hon{\PBUH}{\BODY} passed by a grave and said that the person
 within it was being punished because he did not protect himself from drops of
 urine (i.e. neglected cleanliness after relieving himself).
 
@@ -77,22 +86,18 @@ accepting Islam, he would generally perform _ghusl_ (ritual bathing) once daily.
 
 The Messenger of Allāh \hon{\PBUH}{\BODY} said, "...when one of you awakens from
 sleep, he should not put his hand into a vessel until he washes it three times,
-for he does not know where his hand spent the night."[-@@bukhari, vol.~1,
-p.~114, #162.]
+for he does not know where his hand spent the night."[-@@bukhari, vol. 1,
+p. 114, #162]
 
 
 ### 2. Cleaning the Teeth (Siwāk) {.unnumbered}
 
-<!-- TODO previously used tooth-stick -->
-
 The Messenger of Allāh \hon{\PBUH}{\BODY} said, "If it were not that I would
 cause hardship for my Ummah, I would have commanded them to use the _siwāk_ at
-every prayer."[-@@bukhari, vol.~1, p.~465, #887]
+every prayer."[-@@bukhari, vol. 1, p. 465, #887]
 
 
 ### 3. Avoiding Public Harm {.unnumbered}
-
-<!-- TODO review translation -->
 
 It is instructed that one should not relieve oneself on pathways or in the shade
 of trees, as it harms others.
@@ -124,8 +129,8 @@ multiple narrations describing the practice of the Prophet
 ### 6. Weekly Ghusl and Personal Care {.unnumbered}
 
 The Prophet \hon{\PBUH}{\BODY} said, "It is a duty upon every Muslim to perform
-_ghusl_ once every seven days, washing his head and body."[-@@bukhari, vol.~1,
-p.~469, #897.]
+_ghusl_ once every seven days, washing his head and body."[-@@bukhari, vol. 1,
+p. 469, #897]
 
 Additionally, wearing clean clothes and applying fragrance are from the
 recommended etiquettes of a believer. Some scholars have even considered this
@@ -149,9 +154,7 @@ al-Aʿrāf, Q7:26)
 Clothing serves two purposes:
 
 1.  To protect the body from heat and cold.
-2.  To cover those parts of the body that must not be exposed to others.
-
-<!-- TODO footnote for _ʿawrah_? -->
+2.  To cover those parts of the body that must not be exposed to others (_ʿawrah_).
 
 For men, the area from the navel to the knees is _ʿawrah_.
 
@@ -166,29 +169,31 @@ The Prophet \hon{\PBUH}{\BODY} said, "Never remain naked, for angels are with
 you who leave you only at times of relieving oneself and intimacy. Be shy before
 them."[-@@abuesa16, vol. 3, p. 601, #3022]
 
-<!-- TODO ref multiple books -->
-
 Further guidelines:
 
-- Men should not wear pure silk without necessity. \[Sunan Abī Dāwūd\]
+- Men should not wear pure silk without necessity.[-@@abuesa16, vol. 3, p. 55,
+  #1829; -@@abudawud, vol. 6, p. 264, #4008]
 
-- Men must not imitate women in dress, nor women imitate men. \[Ṣaḥīḥ
-  al-Bukhārī\]
+- Men must not imitate women in dress, nor women imitate men.[-@@bukhari, vol.
+  5, p. 212, #5885]
 
 - Men should not let garments hang below the ankles; women may lengthen their
-  garments. \[Ṣaḥīḥ al-Bukhārī and Jāmiʿ al-Tirmidhī\]
+  garments.[-@@bukhari, vol. 5, pp. 172--3, #5787; -@@abudawud, vol. 6, pp.
+  316--7, #4071]
 
 - Clothes should not be so thin that the body is visible. The Prophet
-  \hon{\PBUH}{\BODY} warned of women who are clothed yet naked. \[Ṣaḥīḥ Muslim\]
+  \hon{\PBUH}{\BODY} warned of women who are clothed yet naked.[-@@muslim, vol.
+  5, pp. 496--7, #2184]
 
 - Men should avoid flashy colors, especially solid red; striped red is
-  permitted. Saffron-dyed garments are disliked. \[Ṣaḥīḥ al-Bukhārī\]
+  permitted. Saffron-dyed garments are disliked.[-@@abudawud, vol. 6, p. 273,
+  #4021; -@@bukhari, vol. 5, p. 199, #5848; -@@bukhari, vol. 5, p. 198, #5846]
 
-- The Prophet \hon{\PBUH}{\BODY} preferred white clothing for men. \[Sunan Abī
-  Dāwūd\]
+- The Prophet \hon{\PBUH}{\BODY} preferred white clothing for men.[-@@abudawud,
+  vol. 6, pp. 146--7, #3830]
 
-- When wearing clothes with sleeves, one should first insert the right arm.
-  \[Ṣaḥīḥ al-Bukhārī\]
+- When wearing clothes with sleeves, one should first insert the right
+  arm.[-@@bukhari, vol. 1, p. 117, #168]
 
 When wearing new clothes, the Prophet \hon{\PBUH}{\BODY} would say,
 
@@ -233,53 +238,33 @@ Do not defame one another, nor call each other by offensive nicknames. (Sūrat
 al-Ḥujurāt, Q49:11)
 \AYAH_END
 
-<!-- TODO I'm unsure if this is in al-Bukhārī -->
 The Messenger of Allāh \hon{\PBUH}{\BODY} said, "A believer does not insult,
-curse, speak obscenely, or use foul language." \[Ṣaḥīḥ al-Bukhārī\]
-
-<!-- [-@@bukhari, vol. X, p. Y, #Z] -->
+curse, speak obscenely, or use foul language."[-@@abuesa16, vol. 3, p. 174,
+#2104]
 
 He \hon{\PBUH}{\BODY} also said, "...whoever believes in Allāh and the Last Day
-should speak good or remain silent."[-@@bukhari, vol.~5, p.~256, #6019]
-
-<!-- بِلِسَانِ نَفْسِهِ -->
-<!-- TODO I'm unsure if this is actually in al-Bukhārī -->
+should speak good or remain silent."[-@@bukhari, vol. 5, p. 256, #6019]
 
 Ḥārith ibn Hishām asked the Prophet \hon{\PBUH}{\BODY} to give him one piece of
 advice to hold firmly to. The Prophet \hon{\PBUH}{\BODY} pointed to his tongue
-and said, "Restrain this." \[Ṣaḥīḥ al-Bukhārī\]
+and said, "Restrain this."[-@@mu3jam_kabir, vol. 3, p. 830, #3348]
 
-<!-- [-@@bukhari, vol. X, p. Y, #Z] -->
-
-He \hon{\PBUH}{\BODY} said, "...a good word is charity..."[-@@bukhari, vol.~3,
-p.~83, #2989]
+He \hon{\PBUH}{\BODY} said, "...a good word is charity..."[-@@bukhari, vol. 3,
+p. 83, #2989]
 
 Indecent speech should be avoided. Speech should be truthful, just, and calm.
 One should not rush when speaking.
 
-<!-- TODO I'm unsure if this is in al-Bukhārī -->
 The Messenger of Allāh \hon{\PBUH}{\BODY} would speak slowly and distinctly---so
-clearly that if someone wished to count his words, he could do so. \[Ṣaḥīḥ
-al-Bukhārī\]
+clearly that if someone wished to count his words, he could do so.[-@@bukhari,
+vol. 3, p. 338, #3567]
 
-<!-- [-@@bukhari, vol. X, p. Y, #Z] -->
-
-
-<!-- TODO ref al-Tirmidhī SHOULD I CHANGE TO SHAMAIL?-->
-<!-- TODO KHALID: Change it -->
-<!--
-كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم يُقْبِلُ بِوَجْهِهِ وَحَدِيثِهِ عَلَى أَشَرِّ الْقَوْمِ يَتَأَلَّفُهُمْ بِذَلِكَ فَكَانَ يُقْبِلُ بِوَجْهِهِ وَحَدِيثِهِ عَلَيَّ، حَتَّى ظَنَنْتُ أَنِّي خَيْرُ الْقَوْمِ، فَقُلْتُ: يَا رَسُولَ اللَّهِ، أَنَا خَيْرٌ أَوْ أَبُو بَكْرٍ؟ قَالَ: «أَبُو بَكْرٍ» فَقُلْتُ: يَا رَسُولَ اللَّهِ، أَنَا خَيْرٌ أَوْ عُمَرُ؟ فَقَالَ: «عُمَرُ» ، فَقُلْتُ: يَا رَسُولَ اللَّهِ، أَنَا خَيْرٌ أَوْ عُثْمَانُ؟ قَالَ: «عُثْمَانُ» ، فَلَمَّا سَأَلْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم فَصَدَقَنِي فَلَوَدِدْتُ أَنِّي لَمْ أَكُنْ سَأَلْتُهُ
--->
 When addressing a group, one should direct attention to everyone, turning toward
-them gradually so that no one feels neglected. \[Jāmiʿ al-Tirmidhī\]
+them gradually so that no one feels neglected.[-@@shamail, pp. 245--6, #344]
 
-<!-- TODO I'm unsure if this is in al-Bukhārī -->
-<!-- Check Abū Dāwūd -->
 Speech should be concise. The Prophet \hon{\PBUH}{\BODY} said, "I have been
-commanded to be concise in speech, for brevity is better." \[Ṣaḥīḥ al-Bukhārī\]
-
-<!-- [-@@bukhari, vol. X, p. Y, #Z] -->
-
+commanded to be concise in speech, for brevity is better."[-@@abudawud, vol. 7,
+pp. 439--40, #4922]
 
 When women speak to non-_maḥram_ men, their tone should not be soft or alluring.
 (Sūrat al-Aḥzāb, Q33:32)
@@ -393,7 +378,7 @@ O believers! Do not enter houses other than your own until you have sought
 permission and greeted their occupants. That is better for you, so that you may
 take heed. And if you find no one therein, do not enter until permission is
 given to you. And if it is said to you, "Go back," then go back; that is purer
-for you. (Sūrat al-Nūr, Q24:27--28)
+for you. (Sūrat al-Nūr, Q24:27--8)
 \AYAH_END
 
 
@@ -408,18 +393,15 @@ the house. It is reported, "Whenever the Prophet \hon{\PBUH}{\BODY} came to a
 door, he would not stand facing it, but would stand to its right or
 left..."[-@@abudawud, vol. 7, p. 537, #5097]
 
-<!-- TODO ref Abū Dāwūd: I don't know if this exists -->
-
 Once, a man came and stood directly in front of the Prophet's \hon{\PBUH}{\BODY}
 door. The Prophet \hon{\PBUH}{\BODY} said to him to stand to the right or left
 of the door, because permission was prescribed so that the inside of the house
-is not looked into.[-@@abudawud, vol. , p. , #]
-
-<!-- TODO ref Adab Mufrad -->
+is not looked into.[-@@abudawud, vol. 7, p. 530, #5084]
 
 The correct method of seeking permission is to offer _salām_ and then ask, "May
-I enter?" A man asked, "Should I seek permission from my mother?" He
-\hon{\PBUH}{\BODY} replied, "Yes." \[Al-Adab al-Mufrad\]
+I enter?"[-@@abudawud, vol. 7, p. 532, #5087] A man asked, "Should I seek
+permission from my mother?" He \hon{\PBUH}{\BODY} replied, "Yes."[-@@malik16,
+vol. 2, p. 398, #1510]
 
 If permission is not granted after offering _salām_ three times, one should
 return.[-@@bukhari, vol. 5, p. 344, #6245] However, if a person has already been
@@ -427,19 +409,15 @@ invited, then permission is not required. The Prophet \hon{\PBUH}{\BODY} said,
 "The messenger sent to invite a man is his permission."[-@@abudawud, vol. 7, p.
 539, #5100]
 
-<!-- TODO review translation of ff para -->
-
 There is no need to seek permission when entering shops or similar public
 places. Even when entering one's own house, one should enter with _salām_. Allāh
-says, "When you enter houses, greet one another with a greeting from Allāh..."
-(Sūrat al-Nūr, Q24:61)
+says, "...when you enter houses, greet one another with a greeting [of peace]
+from Allāh..." (Sūrat al-Nūr, Q24:61)
 
 Some people would face hardship if required to seek permission repeatedly, such
 as small children or male and female servants, who frequently come and go in the
 house. For them, this ruling does not apply generally. However, there are three
 times when even they must seek permission:
-
-<!-- TODO footnote for references? -->
 
 1. After the night prayer (ʿIshāʾ)
 2. Before the dawn prayer (Fajr)
@@ -465,10 +443,13 @@ exercise patience and supplicate to Allāh. If tears flow due to grief, there is
 no harm in it. However, wailing loudly, tearing clothes, and similar actions are
 against the teachings of Islam.
 
-<!-- TODO double check translation -->
-The Messenger of Allāh \hon{\PBUH}{\BODY} said, "Whoever slaps his cheeks, tears
+<!-- The Messenger of Allāh \hon{\PBUH}{\BODY} said, "Whoever slaps his cheeks, tears
 his clothes, and cries in the manner of the Days of Ignorance is not from my
-Ummah."[-@@bukhari, vol.~1, p.~647, #1297]
+Ummah."[-@@bukhari, vol. 1, p. 647, #1297] -->
+
+The Messenger of Allāh \hon{\PBUH}{\BODY} said, “He is not one of us who slaps
+his cheeks, tears his clothes, or cries in the manner of the Days of
+Ignorance.”[-@@bukhari, vol. 1, p. 647, #1297]
 
 The Prophet \hon{\PBUH}{\BODY} loved Jaʿfar \hon{\P_HIM}{\BODY} deeply. When
 news of his martyrdom reached him, the women of his household began wailing. The
@@ -479,7 +460,7 @@ strong prohibition of wailing and lamentation.
 
 The Prophet \hon{\PBUH}{\BODY} himself wept at the death of his son Ibrāhīm and
 said, "The eyes shed tears, and the heart grieves, but we do not say except what
-pleases our Lord..."[-@@bukhari, vol.~1, pp.~649--650, #1303] This establishes
+pleases our Lord..."[-@@bukhari, vol. 1, pp. 649--50, #1303] This establishes
 the balance where natural grief is permitted, and excessive lamentation is
 prohibited.
 
