@@ -1496,7 +1496,7 @@ the Day of Resurrection."[-@@bukhari, vol. 2, p. 435, #2442]
 
 Abū Bakr al-Ṣiddīq \hon{\P_HIM}{\BODY} said, “Were I to apprehend someone who
 drinks intoxicants, I would wish that Allāh conceal him; and were I to apprehend
-a thief, I would wish that Allāh conceal him.”[-@@shaybah, vol. 15, p. 334,
+a thief, I would wish that Allāh conceal him.”[-@@shaybah15, vol. 15, p. 334,
 #29940]
 
 <!-- ZAHID REF -->
