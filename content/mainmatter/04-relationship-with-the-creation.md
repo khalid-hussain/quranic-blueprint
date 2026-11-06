@@ -1,5 +1,5 @@
 
-# Relationship With The Creation
+# Relationship with the Creation
 
 ## Enjoining Good and Forbidding Evil
 

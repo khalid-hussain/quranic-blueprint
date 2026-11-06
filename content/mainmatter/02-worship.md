@@ -659,7 +659,7 @@ The Prophet \hon{\PBUH}{\BODY} said, "Whoever sincerely asks Allāh for
 martyrdom, Allāh will cause him to reach the ranks of the martyrs, even if he
 dies on his bed."[-@@muslim, vol. 5, pp. 234--5, #1962]
 
-#### Dispelling A Misconception {.unnumbered}
+#### Dispelling a Misconception {.unnumbered}
 
 A few _āyāt_ are frequently misquoted to suggest that Islam commands the killing
 of all disbelievers, "Kill them wherever you find them" (Sūrat al-Baqarah,

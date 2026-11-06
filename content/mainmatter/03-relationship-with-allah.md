@@ -1,5 +1,5 @@
 
-# Relationship With Allāh
+# Relationship with Allāh
 
 ## God-Consciousness (Taqwá)
 
