@@ -26,7 +26,7 @@ crossing them is immorality, and this is disobedience to Allāh.
 Imam Ibn al-Qayyim \hon{\M_HIM}{\BODY} said, "_Faḥshāʾ_ includes every act whose
 ugliness is extreme, whether in speech or action." He further explained, "It is
 called _faḥshāʾ_ because it exceeds the limits in its ugliness and corruption."
-\[Madarij al-Salikin\] -->
+Madarij al-Salikin -->
 
 Imam Ibn al-Qayyim \hon{\M_HIM}{\BODY} said, "As for _al-faḥshāʾ_ (indecency)...
 It refers to an abhorrent act or an outrageous deed---something whose ugliness
@@ -83,7 +83,7 @@ burn, one who avoids the paths to sin avoids sin itself.
 <!-- Imam Ibn al-Qayyim \hon{\M_HIM}{\BODY} said, "When Allāh prohibits something, He
 prohibits all the ways and means that lead to it. This is from His mercy toward
 His servants, for if He were to permit the means, it would inevitably lead them
-to falling into the prohibited act itself." \[Iʿlām al-Muwaqqiʿīn\] -->
+to falling into the prohibited act itself." Iʿlām al-Muwaqqiʿīn -->
 
 Imam Ibn al-Qayyim \hon{\M_HIM}{\BODY} said, “When Allāh, Blessed and Exalted,
 prohibits something, He also prohibits and blocks the means that lead to it.
@@ -154,7 +154,7 @@ lie.[-@@ahmad, vol. 45, pp. 464--5, #27471]
 <!-- ZAHID REF -->
 <!-- Imam Ibn al-Qayyim \hon{\M_HIM}{\BODY} said, "Truthfulness and lying are the
 origin of righteousness and corruption. From truthfulness arise all forms of
-good, and from lying arise all forms of evil." \[Madarij al-Salikin\] -->
+good, and from lying arise all forms of evil." Madarij al-Salikin -->
 
 
 ## Oaths
@@ -206,8 +206,8 @@ al-ghamūs_)."[-@@bukhari, vol. 6, pp. 36--7, #6675]
 <!-- Shaykh al-Islām Ibn Taymīyah \hon{\M_HIM}{\BODY} said, "Oaths are of the nature
 of testimony, and swearing by Allāh is making Him a witness over what one says."
 He also said, "False oaths (_al-yamīn al-ghamūs_) are among the gravest of major
-sins because it combines lying with dishonoring the Name of Allāh." \[Majmūʿ
-al-Fatāwā\] -->
+sins because it combines lying with dishonoring the Name of Allāh." Majmūʿ
+al-Fatāwā -->
 
 Just as excessive oaths and false oaths are sinful, breaking an oath after
 taking it and failing to fulfill it is also sinful. Allāh has commanded that
@@ -242,7 +242,7 @@ Allāh that have reached us through him and not turning away from the path he ha
 shown. Failing to do so constitutes betrayal of the Messenger.
 
 Not betraying one another means that when something is entrusted to us and we
-accept responsibility for it, we must fulfil that trust faithfully. Betrayal
+accept responsibility for it, we must fulfill that trust faithfully. Betrayal
 includes failing to return the full amount of money entrusted to us, disclosing
 secrets shared with us, giving dishonest advice when someone seeks our counsel,
 or withholding part of what we are obligated to return. All such actions
@@ -264,7 +264,7 @@ p. 412, #51/2; -@@abuesa16, vol. 3, p. 153, #2052]
 <!-- ZAHID REF -->
 <!-- Shaykh al-Islām Ibn Taymīyah \hon{\M_HIM}{\BODY} said, "Trust (_amānah_) is the
 foundation of all obligations, and betrayal (_khiyānah_) is the foundation of
-all corruption." \[Majmūʿ al-Fatāwā\] -->
+all corruption." Majmūʿ al-Fatāwā -->
 
 
 ## Shortchanging in Weights and Measures
@@ -303,7 +303,7 @@ vol. 3, pp. 574--5, #4049]
 He \hon{\PBUH}{\BODY} warned that those who shortchange in weighing and
 measuring are committing actions due to which previous nations were destroyed.
 In the same narration, he \hon{\PBUH}{\BODY} said, “...Whenever immorality
-(_fāḥishah_) becomes widespread among a people and they practise it openly,
+(_fāḥishah_) becomes widespread among a people and they practice it openly,
 plagues and diseases that were unknown to their predecessors will spread among
 them...”[-@@majah14, vol. 3, pp. 574--5, #4049]
 
@@ -313,7 +313,7 @@ before them..." -->
 
 <!-- Shaykh al-Islām Ibn Taymīyah \hon{\M_HIM}{\BODY} said, "Injustice in
 transactions, such as cheating in weights and measures, is among the greatest
-forms of oppression." \[Majmūʿ al-Fatāwā\] -->
+forms of oppression." Majmūʿ al-Fatāwā -->
 
 Shaykh al-Islām Ibn Taymīyah \hon{\M_HIM}{\BODY} said, “As for shortchanging
 people in weights and measures, it is among the practices for which Allāh
@@ -325,7 +325,7 @@ punishment.”[-@@majmu3fatawa, vol. 29, p. 474]
 <!-- ZAHID REF -->
 <!-- Imam Ibn al-Qayyim \hon{\M_HIM}{\BODY} said, "The foundation of
 transactions is justice, and anything that departs from justice is oppression."
-\[Iʿlām al-Muwaqqiʿīn\] -->
+Iʿlām al-Muwaqqiʿīn -->
 
 Imam Ibn al-Qayyim \hon{\M_HIM}{\BODY} said, “The foundation of all contracts is
 justice, which is the very principle with which the Messengers were sent and the
@@ -356,7 +356,7 @@ so-and-so.'"[-@@bukhari, vol. 5, p. 315, #6177]
 
 The Messenger of Allāh \hon{\PBUH}{\BODY} would advise his military commanders
 not to commit treachery---that is, not to betray agreements made with
-enemies.[Muslim, vol. 5, pp. 6--8, #1780, #1781]
+enemies.[-@@muslim, vol. 5, pp. 6--8, #1780, #1781]
 
 Once, Amīr Muʿāwiyah \hon{\P_HIM}{\BODY} made a treaty with the Romans for a
 fixed period. As the end of the treaty approached, he moved his army near their
@@ -383,9 +383,9 @@ who commit such acts.”[-@@majmu3fatawa, vol. 145, pp. 145--6]
 <!-- ZAHID REF -->
 <!-- Imam Ibn al-Qayyim \hon{\M_HIM}{\BODY} said, "The Prophet \hon{\PBUH}{\BODY}
 would never betray a covenant, even with his enemies, and he commanded
-fulfillment of agreements in all circumstances." \[Zād al-Maʿād\] He further
+fulfillment of agreements in all circumstances." Zād al-Maʿād | He further
 said, "Treachery is a sign of corruption in the heart, just as fulfilling
-covenants is a sign of righteousness." \[Madarij al-Salikin\] -->
+covenants is a sign of righteousness." Madarij al-Salikin -->
 
 
 ## False Accusations (Buhtān)
@@ -455,11 +455,11 @@ women."[-@@bukhari, vol. 2, p. 203, #2766]
 
 <!-- ZAHID REF -->
 <!-- Shaykh al-Islām Ibn Taymīyah \hon{\M_HIM}{\BODY} said, "Slandering the innocent
-is among the gravest forms of injustice and falsehood." \[Majmūʿ al-Fatāwā\] -->
+is among the gravest forms of injustice and falsehood." Majmūʿ al-Fatāwā -->
 
 <!-- ZAHID REF -->
 <!-- Imam Ibn al-Qayyim \hon{\M_HIM}{\BODY} said, "_Buhtān_ is to attribute to a person
-what he is free from, and it is more severe than lying." \[Madarij al-Salikin\] -->
+what he is free from, and it is more severe than lying." Madarij al-Salikin -->
 
 
 ## Tale-Bearing (Namīmah)
@@ -514,13 +514,13 @@ Paradise."[-@@bukhari, vol. 5, p. 269, #6056]
 <!-- Shaykh al-Islām Ibn Taymīyah \hon{\M_HIM}{\BODY} said, "_Namīmah_ is conveying
 the speech of people to one another with the intent of causing corruption
 between them." He also said, "This is among the gravest causes of corruption
-between people and the severing of relationships." \[Majmūʿ al-Fatāwā\] -->
+between people and the severing of relationships." Majmūʿ al-Fatāwā -->
 
 <!-- ZAHID REF -->
 <!-- Imam Ibn al-Qayyim \hon{\M_HIM}{\BODY} said, "_Namīmah_ is among the most
 destructive diseases of the heart and the greatest causes of enmity between
 people." He further said, "The tale-bearer corrupts hearts, destroys
-relationships, and spreads hatred among people." \[al-Dāʾ wa al-Dawāʾ\] -->
+relationships, and spreads hatred among people." al-Dāʾ wa al-Dawāʾ -->
 
 
 ## Backbiting (Ghībah)
@@ -589,7 +589,7 @@ beware of him." -->
 The Messenger of Allāh \hon{\PBUH}{\BODY} said, “Why do you hold back from
 speaking about a wicked person? How else will people recognize him? Speak openly
 about his faults so that they may be on their guard against
-him.”[-@@nawadir_usul, vol. 4, p. 203, #917]
+him.”[@@nawadir_usul, vol. 4, p. 203, #917]
 
 He \hon{\PBUH}{\BODY} said, "Help your brother whether he is an oppressor or
 oppressed." They said, "O Messenger of Allāh, we help him if he is oppressed,
@@ -629,7 +629,7 @@ whom they intend to bring a dispute.
 <!-- Shaykh al-Islām Ibn Taymīyah \hon{\M_HIM}{\BODY} said, "Backbiting is
 mentioning a person in a way he dislikes, even if it is true." He also said, "If
 mentioning a person contains a legitimate benefit, such as warning or seeking
-justice, then it is permitted." \[Majmūʿ al-Fatāwā\] -->
+justice, then it is permitted." Majmūʿ al-Fatāwā -->
 
 <!-- وَأَيْسَرُ حَرَكَاتِ الْجَوَارِحِ حَرَكَةُ اللِّسَانِ، وَهِيَ أَضَرُّهَا عَلَى الْعَبْدِ. -->
 <!-- The easiest of the bodily movements is the movement of the tongue, yet it is the
@@ -645,7 +645,7 @@ destroyed them all.”[-@@daa_wa_dawa, p. 375]
 <!-- Imam Ibn al-Qayyim \hon{\M_HIM}{\BODY} said, "Backbiting harms honor, and harm
 to honor is more severe than harm to wealth." He further said, "The tongue is
 the greatest cause of destruction for a person in both this world and the
-Hereafter." \[al-Dāʾ wa al-Dawāʾ\] -->
+Hereafter." al-Dāʾ wa al-Dawāʾ -->
 
 
 
@@ -684,7 +684,7 @@ interferes in the affairs of others? After the commands of Allāh and His
 Messenger \hon{\PBUH}{\BODY}, no Muslim should commit such an error.
 
 <!-- Imam Ibn al-Qayyim \hon{\M_HIM}{\BODY} said, "Whoever busies himself with the
-faults of others will be tested with his own faults." \[al-Fawāʾid\] -->
+faults of others will be tested with his own faults." al-Fawāʾid -->
 
 Imam Ibn al-Qayyim \hon{\M_HIM}{\BODY} said, ““Blessed is the one whose own
 faults keep him occupied rather than the faults of others. Woe to the one who
@@ -739,12 +739,12 @@ possibility of suspicion.
 the words and actions of people in the best possible way, while the hypocrite
 follows suspicion and bad assumptions." He also said, "Suspicion without
 evidence is forbidden, for it is speaking about others without knowledge."
-\[Majmūʿ al-Fatāwā\] -->
+Majmūʿ al-Fatāwā -->
 
 <!-- ZAHID REF -->
 <!-- Imam Ibn al-Qayyim \hon{\M_HIM}{\BODY} said, "The foundation of brotherhood is a
-sound heart, and it is destroyed by suspicion and ill assumptions." \[Madarij
-al-Salikin\] -->
+sound heart, and it is destroyed by suspicion and ill assumptions." Madarij
+al-Salikin -->
 
 
 ## Greed (Ḥirṣ)
@@ -818,14 +818,8 @@ dependence is contrary to the reliance upon Allāh that one is commanded to
 cultivate, and contrary to true richness of the soul.”[-@@majmu3fatawa, vol. 18,
 p. 329]
 
-
-He also said, "Greed (_ḥirṣ_) is a form of poverty of the heart, even if
-a person possesses the world." \[Majmūʿ al-Fatāwā\]
-
-
-
-
-
+<!-- He also said, "Greed (_ḥirṣ_) is a form of poverty of the heart, even if
+a person possesses the world." Majmūʿ al-Fatāwā -->
 
 ## Anger (Ghaḍab)
 
@@ -926,14 +920,14 @@ reconcile.'"[-@@muslim, vol. 6, pp. 428--9, #2647]
 
 <!-- ZAHID REF -->
 <!-- Shaykh al-Islām Ibn Taymīyah \hon{\M_HIM}{\BODY} said, "Removing malice from
-the heart is among the greatest acts of purification of the soul." \[Majmūʿ
-al-Fatāwā\] -->
+the heart is among the greatest acts of purification of the soul." Majmūʿ
+al-Fatāwā -->
 
 <!-- Imam Ibn al-Qayyim \hon{\M_HIM}{\BODY} said, "The heart cannot be sound while it
 contains malice, envy, and hatred." -->
 
 Imam Ibn al-Qayyim \hon{\M_HIM}{\BODY} said, "A sound heart is one that is free
-from associating partners with Allah, rancour, malice, envy, miserliness,
+from associating partners with Allah, rancor, malice, envy, miserliness,
 arrogance, and love of worldly life and leadership. It is free from every
 affliction that distances it from Allah, every doubt that conflicts with what He
 has revealed, every desire that goes against His commands, every inclination
@@ -985,8 +979,8 @@ violent, and arrogant person."[-@@bukhari, vol. 4, pp. 307--8, #4918]
 
 <!-- ZAHID REF: This might be just the hadith -->
 <!-- Shaykh al-Islām Ibn Taymīyah \hon{\M_HIM}{\BODY} said, "Arrogance is rejecting
-the truth and despising people, and this is the essence of kibr." \[Majmūʿ
-al-Fatāwā\] -->
+the truth and despising people, and this is the essence of kibr." Majmūʿ
+al-Fatāwā -->
 
 Imam Ibn al-Qayyim \hon{\M_HIM}{\BODY} said,
 
@@ -1015,7 +1009,7 @@ people. (Sūrat al-Anfāl, Q8:47)
 
 
 This _āyah_ shows that Allāh dislikes actions done for show and arrogance. Showing
-off means performing acts such as prayer, fasting, Hajj, _Zakāh_, Jihād,
+off means performing acts such as prayer, fasting, Hajj, Zakāh, Jihād,
 generosity, and other good deeds not for fulfilling obligation or seeking
 Allāh's Pleasure, but so that people may call one pious, righteous, or noble.
 All such deeds have no value with Allāh.
@@ -1076,7 +1070,7 @@ minor _shirk_, and it invalidates the deed for which it is intended." -->
 
 <!-- OLD TEXT
 He also said, "Actions are only accepted when they are purely for Allāh and in
-accordance with the Sunnah." \[Majmūʿ al-Fatāwā\] -->
+accordance with the Sunnah." Majmūʿ al-Fatāwā -->
 
 
 Shaykh al-Islām Ibn Taymīyah \hon{\M_HIM}{\BODY} said, “Whoever performs a deed
@@ -1168,7 +1162,7 @@ Imam Ibn al-Qayyim \hon{\M_HIM}{\BODY} also said,
 > can scarcely gain power over someone who is devoted to doing good and giving
 > charity. Even if such a person is afflicted by any of these things, Allāh
 > treats him with kindness, grants him support and assistance, and ultimately
-> brings about a favourable outcome for him.
+> brings about a favorable outcome for him.
 
 > A person who does good and gives charity is under the protection of his good
 > deeds and charity. Allāh provides him with a protective shield and an
@@ -1288,13 +1282,13 @@ a distance of forty years."[-@@bukhari, vol. 3, p. 161, #3166]
 <!-- Shaykh al-Islām Ibn Taymīyah \hon{\M_HIM}{\BODY} said, "The sanctity of blood is
 among the greatest sanctities in Islam, and violating it is among the gravest
 sins." He also said, "Killing without right is among the greatest causes of
-punishment in this world and the Hereafter." \[Majmūʿ al-Fatāwā\] -->
+punishment in this world and the Hereafter." Majmūʿ al-Fatāwā -->
 
 <!-- ZAHID REF -->
 <!-- Imam Ibn al-Qayyim \hon{\M_HIM}{\BODY} said, "After _Shirk_, there is no sin
-greater than unlawful killing." \[al-Jawāb al-Kāfī\] He further said, "The
-preservation of life is one of the greatest objectives of the Sharīʿah." \[Iʿlām
-al-Muwaqqiʿīn\] -->
+greater than unlawful killing." al-Jawāb al-Kāfī | He further said, "The
+preservation of life is one of the greatest objectives of the Sharīʿah." Iʿlām
+al-Muwaqqiʿīn -->
 
 
 ## Self-Destruction (Halākah)
@@ -1351,24 +1345,26 @@ into destruction!" Abū Ayyūb al-Anṣārī \hon{\P_HIM}{\BODY} said, "O people
 interpret this _āyah_ incorrectly. It was revealed about us, the Anṣār..." (then
 he mentioned the above explanation)[-@@abuesa16, vol. 4, p. 69, #3229] -->
 
-It is reported that during a battle near Constantinople, a man charged alone
-into the ranks of the enemy. People said, "Subḥān Allāh! He is throwing himself
-into destruction!" Abū Ayyūb al-Anṣārī \hon{\P_HIM}{\BODY} said,
+In another version, it is reported that during a battle near Constantinople, a
+man charged alone into the ranks of the enemy. People said, "Subḥān Allāh! He is
+throwing himself into destruction!" Abū Ayyūb al-Anṣārī \hon{\P_HIM}{\BODY}
+said,
 
-O people! You interpret this _āyah_ incorrectly. It was revealed about us, the
-Anṣār when Allāh had strengthened Islam and its supporters had become numerous.
+> O people! You interpret this _āyah_ incorrectly. It was revealed about us, the
+> Anṣār when Allāh had strengthened Islam and its supporters had become
+> numerous.
 
-Some of us began speaking privately among ourselves, without the Messenger of
-Allāh \hon{\PBUH}{\BODY} present. We said, “Our wealth has been neglected, and
-now that Allāh has strengthened Islam and its supporters have grown in number,
-perhaps we should stay behind and attend to our property, restoring whatever has
-fallen into disrepair.”
+> Some of us began speaking privately among ourselves, without the Messenger of
+> Allāh \hon{\PBUH}{\BODY} present. We said, “Our wealth has been neglected, and
+> now that Allāh has strengthened Islam and its supporters have grown in number,
+> perhaps we should stay behind and attend to our property, restoring whatever
+> has fallen into disrepair.”
 
-In response to what we had said, Allāh, Blessed and Exalted is He, revealed to
-His Prophet \hon{\PBUH}{\BODY}, “Spend in the cause of Allāh, and do not cast
-yourselves into destruction.” (al-Baqarah, Q2:195) Thus, destruction meant
-staying behind to tend to our property and put it in order, thereby abandoning
-military expeditions.[-@@abuesa16, vol. 4, p. 69, #3229]
+> In response to what we had said, Allāh, Blessed and Exalted is He, revealed to
+> His Prophet \hon{\PBUH}{\BODY}, “Spend in the cause of Allāh, and do not cast
+> yourselves into destruction.” (al-Baqarah, Q2:195) Thus, destruction meant
+> staying behind to tend to our property and put it in order, thereby abandoning
+> military expeditions.[-@@abuesa16, vol. 4, p. 69, #3229]
 
 <!-- OLD TEXT
 Shaykh al-Islām Ibn Taymīyah \hon{\M_HIM}{\BODY} said, "Destruction (_tahlukah_)
@@ -1437,7 +1433,7 @@ faʿal_ ([It is] Allāh's decree, and whatever He wills, He does.),' For saying
 believer! All of his affairs are good, and this is not for anyone except the
 believer. If something pleasing happens to him, he is grateful, and that is good
 for him. If something harmful happens to him, he is patient, and that is good
-for him." \[Ṣaḥīḥ Muslim\] -->
+for him." Ṣaḥīḥ Muslim -->
 
 The Messenger of Allāh \hon{\PBUH}{\BODY} said, "How amazing is the affair of the
 believer! Indeed, all of his affairs are good, and this is not the case for
@@ -1447,7 +1443,7 @@ and that is good for him."[-@@muslim, vol. 7, p. 405, #3116]
 
 <!-- Imam Ibn al-Qayyim \hon{\M_HIM}{\BODY} said, "Knowledge and action are twins,
 and their mother is high aspiration. Ignorance and inactivity are twins, and
-their mother is laziness." \[al-Fawāʾid\] -->
+their mother is laziness." al-Fawāʾid -->
 
 Imam Ibn al-Qayyim \hon{\M_HIM}{\BODY} said, “Knowledge and action are twins,
 and their mother is high aspiration. Ignorance and idleness are twins, and their
@@ -1478,7 +1474,7 @@ mock others saying, "The gates of Paradise will be opened for one of you, and
 he will be called to enter, but when he comes, it will be closed before him.
 Then another gate will be opened, and he will be called again, and when he
 comes, it will be closed before him, until he becomes distressed. This is for
-the one who used to mock people." \[Shuʿab al-Īmān\] -->
+the one who used to mock people." Shuʿab al-Īmān -->
 
 The Messenger of Allāh \hon{\PBUH}{\BODY} described the condition of those who
 mock others saying, “Those who mock people will have a gate of Paradise opened
@@ -1486,7 +1482,7 @@ for one of them, and he will be told, ‘Come! Come!’ He will approach in angu
 and distress, but when he arrives, the gate will be shut in his face. This will
 continue until a gate of Paradise is opened for one of them and he is called,
 ‘Come!’ But, out of despair, he will no longer approach.”[-@@shu3abeman, vol. 9,
-p. 109, #6333; Note: This narration is reported, but its chain is not among the
+p. 109, #6333. Note: This narration is reported, but its chain is not among the
 strongest. It should be used cautiously.]
 
 The Companions were aware of people's major faults, yet they did not expose or
@@ -1501,7 +1497,7 @@ a thief, I would wish that Allāh conceal him.”[-@@shaybah15, vol. 15, p. 334,
 
 <!-- ZAHID REF -->
 <!-- Imam Ibn al-Qayyim \hon{\M_HIM}{\BODY} said, "Allāh has not permitted joking as
-an excuse to mock others." \[Iʿlām al-Muwaqqiʿīn\] -->
+an excuse to mock others." Iʿlām al-Muwaqqiʿīn -->
 
 
 ## Spreading Corruption and Discord (Fitnah wa Fasād)
@@ -1518,7 +1514,7 @@ Q2:60)
 \AYAH_END
 
 
-Islam is a religion of peace and security. It desires calmness and tranquility
+Islam is a religion of peace and security. It desires calmness and tranquillity
 in the world and commands that mischief and corruption not be spread on the
 earth.
 
@@ -1547,7 +1543,7 @@ p. 352, #3601]
 the earth is every action that leads to harm in religion or worldly affairs." -->
 <!-- ZAHID REF -->
 <!-- He also said, "The objective of the Sharīʿah is to bring about benefit and
-prevent corruption." \[Majmūʿ al-Fatāwā\] -->
+prevent corruption." Majmūʿ al-Fatāwā -->
 
 He also said, “The Sharīʿah aims to secure benefits and bring them to
 completion, while preventing harm and reducing it as far as possible. When two
@@ -1567,7 +1563,7 @@ vol. 3, p. 429]
 
 <!-- ZAHID REF: I'm not sure this even fits here -->
 <!-- He further said, "Wherever corruption prevails, it is due to abandoning the
-commands of Allāh and His Messenger." \[al-Dāʾ wa al-Dawāʾ\] -->
+commands of Allāh and His Messenger." al-Dāʾ wa al-Dawāʾ -->
 
 
 ## Claiming Self-Purity
@@ -1616,7 +1612,7 @@ alone..."[-@@abuesa16, vol. 4, p. 119, #3328]
 The Prophet \hon{\PBUH}{\BODY} said, "When you see miserliness being
 obeyed, desires being followed, worldly life being preferred, and every person
 being impressed with his own opinion, then focus on yourself and leave the
-common people." \[Sunan al-Tirmidhī\]
+common people." Sunan al-Tirmidhī
 -->
 
 <!-- HADITH TRANSLATION
@@ -1664,7 +1660,7 @@ submissiveness, love, fear, and hope.”
 -->
 <!-- ZAHID REF -->
 <!-- Imam Ibn al-Qayyim \hon{\M_HIM}{\BODY} said, "The more a servant recognizes the
-favors of Allāh upon him, the less he sees himself." \[al-Fawāʾid\] -->
+favors of Allāh upon him, the less he sees himself." al-Fawāʾid -->
 
 
 ## Reminding of One's Favors (Mann)
@@ -1729,12 +1725,12 @@ who remembers Allāh in solitude and his eyes overflow with tears." -->
 <!-- ZAHID REF -->
 <!-- Shaykh al-Islām Ibn Taymīyah \hon{\M_HIM}{\BODY} said, "Reminding others of
 one's favor (_mann_) invalidates charity just as Allāh has stated, because it
-harms the recipient and corrupts intention." \[Majmūʿ al-Fatāwā\] -->
+harms the recipient and corrupts intention." Majmūʿ al-Fatāwā -->
 
 <!-- ZAHID REF -->
 <!-- Imam Ibn al-Qayyim \hon{\M_HIM}{\BODY} said, "The perfection of giving is that
 the giver does not see himself as having any favor over the one he gives."
-\[Madarij al-Salikin\] -->
+Madarij al-Salikin -->
 
 
 ## Miserliness (Bukhl)
@@ -1807,9 +1803,9 @@ in one’s spiritual and worldly affairs.
 <!-- ZAHID REF -->
 <!-- Imam Ibn al-Qayyim \hon{\M_HIM}{\BODY} said, "Miserliness is among the greatest
 diseases of the heart, and it opposes trust in Allāh and reliance upon Him."
-\[Madarij al-Salikin\] He further said, "The cure for miserliness is generosity
+Madarij al-Salikin | He further said, "The cure for miserliness is generosity
 and certainty that what is with Allāh is better and more lasting."
-\[al-Fawāʾid\] -->
+al-Fawāʾid -->
 
 
 ## Extravagance (Isrāf / Tabdhīr)
@@ -1917,7 +1913,7 @@ Abū Hurayrah \hon{\P_HIM}{\BODY} narrated,
 > said, "Congratulations to him for martyrdom." The Messenger of Allāh
 > \hon{\PBUH}{\BODY} said, "No, by the One in Whose Hand is my soul, the cloak
 > which he took unlawfully from the spoils of Khaybar before they were
-> distributed is burning him with fire." Upon hearding this, a man came with one
+> distributed is burning him with fire." Upon hearing this, a man came with one
 > or two straps of sandals and said, "O Messenger of Allāh, I took these
 > unlawfully." The Messenger of Allāh \hon{\PBUH}{\BODY} said, "A strap of fire,
 > or two straps of fire."[-@@bukhari, vol. 3, pp. 625--6, #4234]
@@ -1926,7 +1922,7 @@ Abū Hurayrah \hon{\P_HIM}{\BODY} narrated,
 <!-- ZAHID REF -->
 <!-- Shaykh al-Islām Ibn Taymīyah \hon{\M_HIM}{\BODY} said, "_Ghulūl_ is among the
 gravest forms of betrayal because it combines theft and breach of trust."
-\[Majmūʿ al-Fatāwā\] -->
+Majmūʿ al-Fatāwā -->
 
 
 ## Consuming Wealth Unjustly
@@ -1951,10 +1947,10 @@ means of earning and must be avoided.
 The Prophet \hon{\PBUH}{\BODY} said,
 
 > O people, Allāh is Pure and accepts only what is pure. Allāh has commanded the
-> believers with what He commanded the Messengers: He said, {O messengers! Eat
+> believers with what He commanded the Messengers: He said, "O messengers! Eat
 > from what is good and lawful, and act righteously. Indeed, I fully know what
-> you do.} (Al-Muʾminūn, 23:51) and He said, {O you who believe, eat from the
-> good things We have provided for you.} (Al-Baqarah, 2:172).
+> you do." (Al-Muʾminūn, 23:51) and He said, "O you who believe, eat from the
+> good things We have provided for you." (Al-Baqarah, 2:172).
 
 > Then he mentioned a man who travels for a long time, disheveled and dusty,
 > stretching his hands to the sky, saying, "O Lord, O Lord," while his food is
@@ -2037,7 +2033,7 @@ stood on the pulpit and said,
 
 > He then raised his hands so high that we could see the whiteness of his
 > armpits and said twice, “O Allāh, have I conveyed Your message?”[-@@bukhari,
-> vol. 2, p. 504, #2597; -@@muslim, vol. 5, pp. 153--4, #1880; the wording is
+> vol. 2, p. 504, #2597; -@@muslim, vol. 5, pp. 153--4, #1880. The wording is
 > from the latter.]
 
 <!-- > What is the matter with an official whom we appoint, and he comes and says,
@@ -2055,7 +2051,7 @@ stood on the pulpit and said,
 falsehood or to prevent a right is unlawful by consensus." He also clarified,
 "If a person gives money to repel injustice from himself when he has no other
 means, the sin is upon the one who takes it, not the one compelled to give it."
-\[Majmūʿ al-Fatāwā\] -->
+Majmūʿ al-Fatāwā -->
 
 
 ## Theft
@@ -2072,7 +2068,7 @@ As for the thief, male or female, cut off their hands. (Sūrat al-Mā'idah, Q5:3
 
 
 Taking another person's property secretly and without their permission is called
-theft. The prescribed punishment for this offence is severe: amputation of the
+theft. The prescribed punishment for this offense is severe: amputation of the
 hand.
 
 <!-- Taking someone's property secretly without their permission is called theft. Its
@@ -2088,8 +2084,8 @@ The Messenger of Allāh \hon{\PBUH}{\BODY} said, “Pledge allegiance to me on t
 condition that you will not associate anything with Allāh, steal, commit
 adultery, kill your children, fabricate lies and falsely attribute them to
 others, or disobey me in anything that is right and proper. Whoever among you
-fulfils this pledge will have his reward with Allāh. Whoever commits any of
-these offences and is punished for it in this world, that punishment will serve
+fulfills this pledge will have his reward with Allāh. Whoever commits any of
+these offenses and is punished for it in this world, that punishment will serve
 as expiation for him. Whoever commits any of them but is then concealed by
 Allāh, his affair rests with Allāh: if He wills, He will forgive him; and if He
 wills, He will punish him.”[-@@bukhari, vol. 1, p. 25, #18]
@@ -2114,7 +2110,7 @@ if no one was paying attention, he would take it away.”[-@@muslim, vol. 3, pp.
 <!-- Imam Ibn al-Qayyim \hon{\M_HIM}{\BODY} said, "The punishment for theft is among
 the most effective deterrents, ensuring the protection of people's wealth." He
 further said, "Sharīʿah punishments are built upon justice, mercy, and wisdom,
-even if they appear severe." \[Iʿlām al-Muwaqqiʿīn\] -->
+even if they appear severe." Iʿlām al-Muwaqqiʿīn -->
 
 
 ## Usury (Ribā)
@@ -2175,7 +2171,7 @@ any such additional benefit received by the lender constitutes _ribā_
 <!-- Imam Ibn al-Mundhir \hon{\M_HIM}{\BODY} said, "They (the scholars) are
 unanimously agreed that if the lender stipulates that the borrower must pay
 extra or give a gift, and he gives the loan on that basis, then it is _ribā_."
-\[al-Ijmāʿ\] -->
+al-Ijmāʿ -->
 
 
 ## Intoxicants, Gambling, Divining Arrows, and Sacrificial Stones
@@ -2303,7 +2299,7 @@ engage in what was unlawful for them...’”[-@@shu3abeman, vol. 9, pp. 104--5,
 #6326]
 
 The Prophet \hon{\PBUH}{\BODY} said, “...Whenever immorality (_fāḥishah_)
-becomes widespread among a people and they practise it openly, plagues and
+becomes widespread among a people and they practice it openly, plagues and
 diseases that were unknown to their predecessors will spread among
 them...”[-@@majah14, vol. 3, pp. 574--5, #4049]
 
@@ -2314,14 +2310,14 @@ steals has removed the rope of Islam from his neck." -->
 
 And he \hon{\PBUH}{\BODY} said, “An adulterer does not commit adultery while he
 is a believer; a person does not steal while he is a believer, nor does he drink
-wine while he is a believer... When a person commits any of these offences, he
+wine while he is a believer... When a person commits any of these offenses, he
 casts off the bond of Islam from his neck. But if he repents, Allāh accepts his
 repentance.”[-@@nasaiis, vol. 7, p. 449, #4916]
 
 <!-- ZAHID REF -->
 <!-- Shaykh al-Islām Ibn Taymīyah \hon{\M_HIM}{\BODY} said, "_Zinā_ corrupts lineage,
 honor, and society, and thus its prohibition is among the greatest objectives of
-the Sharīʿah." \[Majmūʿ al-Fatāwā\] -->
+the Sharīʿah." Majmūʿ al-Fatāwā -->
 
 
 ## Begging Persistently

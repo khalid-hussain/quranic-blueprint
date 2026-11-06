@@ -24,7 +24,7 @@ truth until he is recorded with Allāh as truthful..."[-@@bukhari, vol. 5, p.
 284, #6094]
 
 Speaking the truth before a tyrannical ruler is the greatest form of Jihād. The
-Prophet \hon{\PBUH}{\BODY} said, "The best form of _jihād_ is a word of truth
+Prophet \hon{\PBUH}{\BODY} said, "The best form of Jihād is a word of truth
 spoken before an oppressive ruler."[-@@abudawud, vol. 6, p. 492, #4296]
 
 In speaking the truth, one should not favor relatives, close ones, friends, or
@@ -461,7 +461,7 @@ me, and martyrdom that He has granted me. My fate is no different from that of
 the martyrs who were killed alongside the Messenger of Allāh \hon{\PBUH}{\BODY}
 in the cause of Allāh before he departed from your midst. Bury me with them.” He
 chose not to retaliate against his killer and forgave him. He later passed away
-from that wound.[-@@shaybah15, vol. 9, p. 144, #28159; -@@usdghabah, p. 847]
+from that wound.[@@shaybah15, vol. 9, p. 144, #28159; -@@usdghabah, p. 847]
 
 ## Retaliation with Justice
 
@@ -519,7 +519,7 @@ kindness to parents, and goodness toward servants.[-@@abuesa16, vol. 3, p. 447,
 #2676]
 
 <!-- The Prophet \hon{\PBUH}{\BODY} said, "Whoever shows mercy, even to a small
-child, and honors the elderly, is among us." \[Sunan al-Tirmidhī\] -->
+child, and honors the elderly, is among us." Sunan al-Tirmidhī -->
 
 The Prophet \hon{\PBUH}{\BODY} said, “The one who shows no compassion to the
 young among us and no respect to our elders is not one of us.”[-@@abuesa16,
@@ -578,7 +578,7 @@ that people did not recognize him. Once, a man purchased fodder and placed the
 load on Salmān's head, making him carry it. As he walked, people told the man
 that he was a Companion and a governor. The man apologized and asked him to put
 the load down, but Salmān replied, "I had already resolved to do this, so I will
-not put it down until I bring it to your house."[-@@tabaqah01, vol. 3, p. 82]
+not put it down until I bring it to your house."[@@tabaqah01, vol. 3, p. 82]
 
 
 ## Self-Sacrifice (Īthār)
@@ -731,7 +731,7 @@ having already gone ahead of them. He was on a horse belonging to Abū Ṭalḥa
 with a sword around his neck, and he was saying, 'Do not be afraid, do not be
 afraid,'..."[-@@bukhari, vol. 3, pp. 52--3, #2908]
 
-The Prophet \hon{\PBUH}{\BODY} said, "The best form of _jihād_ is a
+The Prophet \hon{\PBUH}{\BODY} said, "The best form of Jihād is a
 word of truth spoken before an oppressive ruler."[-@@abudawud, vol. 6, p. 492,
 #4296]
 
@@ -957,8 +957,8 @@ them."[-@@bukhari, vol. 2, p. 555, #2690]
 The Prophet \hon{\PBUH}{\BODY} said, "Shall I not inform you of something more
 excellent in degree than fasting, prayer, and giving _ṣadaqah_?" The people
 replied, “Yes, of course!” He \hon{\PBUH}{\BODY} said, "Reconciling between
-people, whereas discord between people is the shaver."[-@@abudawud, vol. 7, p.
-380, #4838; "The shaver" refers to something that destroys and eradicates
+people, whereas discord between people is the shaver."[-@@abudawud, vol. 7,
+p. 380, #4838. "The shaver" refers to something that destroys and eradicates
 religion.]
 
 He \hon{\PBUH}{\BODY} said, "He is not a liar who reconciles between people,

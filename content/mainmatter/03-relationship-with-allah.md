@@ -67,8 +67,8 @@ person---except by _taqwá_..."[-@@ahmad, vol. 38, p. 474, #23489]
 
 <!-- Imam Ibn al-Qayyim \hon{\M_HIM}{\BODY} said, "Correct understanding of the
 religion is a light that Allāh casts into the heart of His servant, and it
-increases through having _taqwá_ of Allāh and having a sound intention." \[Iʿlām
-al-Muwaqqiʿīn\] -->
+increases through having _taqwá_ of Allāh and having a sound intention." Iʿlām
+al-Muwaqqiʿīn -->
 
 Imam Ibn al-Qayyim \hon{\M_HIM}{\BODY} said, "Sound understanding is a light
 that Allāh casts into a person’s heart, enabling them to distinguish between
@@ -124,15 +124,23 @@ associated with Allāh---whether idols of stone and clay, created beings, or
 inner desires such as fame, reputation, prestige, or worldly status.
 
 A deed lacking sincerity carries no weight with Allāh. Abū Umāmah al-Bāhilī
-\hon{\P_HIM}{\BODY} reported,
+\hon{\P_HIM}{\BODY} reported, "A man came to the Prophet \hon{\PBUH}{\BODY} and
+asked, 'What do you think of a man who goes on a military expedition seeking
+reward and fame? What will he gain?' The Messenger of Allāh \hon{\PBUH}{\BODY}
+replied, 'He will gain nothing.' The man repeated his question three times, and
+each time the Messenger of Allāh \hon{\PBUH}{\BODY} gave him the same answer:
+'He will gain nothing.' The Prophet \hon{\PBUH}{\BODY} then said, 'Indeed, Allāh
+accepts no deed unless it is done sincerely for Him and His Countenance is
+sought through it.'"[-@@nasaiis, vol. 5, p. 372, #3163]
 
-> A man came to the Prophet \hon{\PBUH}{\BODY} and said, "O Messenger of Allāh,
-> what do you say about a man who fights seeking reward and recognition?" The
-> Messenger of Allāh \hon{\PBUH}{\BODY} said, "He receives nothing." He repeated
-> the question three times, and the Prophet \hon{\PBUH}{\BODY} said each time,
-> "He receives nothing." Then the Prophet \hon{\PBUH}{\BODY} said, "Indeed,
-> Allāh does not accept any deed except that which is done sincerely for Him and
-> by which His Face is sought." \[Sunan al-Nasāʾī\]
+<!-- A man came to the Prophet \hon{\PBUH}{\BODY} and said, "O Messenger of Allāh,
+what do you say about a man who fights seeking reward and recognition?" The
+Messenger of Allāh \hon{\PBUH}{\BODY} said, "He receives nothing." He repeated
+the question three times, and the Prophet \hon{\PBUH}{\BODY} said each time, "He
+receives nothing." Then the Prophet \hon{\PBUH}{\BODY} said, "Indeed, Allāh does
+not accept any deed except that which is done sincerely for Him and by which His
+Face is sought." Sunan al-Nasāʾī -->
+
 
 Imam Ibn al-Qayyim \hon{\M_HIM}{\BODY} said,
 
@@ -167,7 +175,7 @@ al-Walīd \hon{\PBUH}{\BODY} later remarked to him that had he accepted Islam
 earlier, he would have avoided paying the ransom, al-Walīd replied with a
 statement that reflects his sincerity (_ikhlāṣ_): He said that he deliberately
 accepted Islam only after paying the ransom so that no one could claim that he
-embraced Islam merely to escape the payment.[-@@isti3ab_darma3rifah, p. 746]
+embraced Islam merely to escape the payment.[@@isti3ab_darma3rifah, p. 746]
 
 Imam Ibn al-Qayyim \hon{\M_HIM}{\BODY} said, “It has been said: Sincerity
 (_ikhlāṣ_) is for a person's outward and inward actions to be equal. Ostentation
@@ -244,7 +252,7 @@ Allāh's Mercy. Gratitude toward such a Beneficent Lord is essential.
 <!-- Imam Ibn al-Qayyim \hon{\M_HIM}{\BODY} said, "_Shukr_ (gratitude) is to manifest
 the effect of Allāh's blessing upon the tongue through praise and
 acknowledgment; in the heart through witnessing and love; and upon the limbs
-through submission and obedience." \[Madarīj al-Sālikīn\] -->
+through submission and obedience." Madarīj al-Sālikīn -->
 
 Imam Ibn al-Qayyim \hon{\M_HIM}{\BODY} said, “..._Shukr_ (gratitude) means that
 the effects of His blessings are reflected in a person’s words through praise
@@ -264,7 +272,7 @@ manner.'"[-@@abudawud, vol. 3, pp. 379--80, #1515]
 The Messenger of Allāh \hon{\PBUH}{\BODY} said, “Whoever is blessed with four
 things has been granted the best of this world and the Hereafter: a grateful
 heart, a tongue that constantly remembers Allāh, a body that patiently endures
-adversity, and a wife who remains faithful to him, safeguarding her honour and
+adversity, and a wife who remains faithful to him, safeguarding her honor and
 his wealth.”[-@@shu3abeman, vol. 6, p. 246, #4115]
 
 The Prophet \hon{\PBUH}{\BODY} said, "Indeed, Allāh is pleased with a servant
@@ -336,14 +344,14 @@ evening with them full."[-@@ahmad, vol. 1, p. 332, #205]
 <!-- The Messenger of Allāh \hon{\PBUH}{\BODY} said, "If you were to rely upon Allāh
 with true reliance, He would provide for you just as He provides for the birds:
 they go out in the morning with empty stomachs and return in the evening with
-full stomachs." \[Musnad Aḥmad\] -->
+full stomachs." Musnad Aḥmad -->
 
 <!-- Imam Aḥmad \hon{\M_HIM}{\BODY} said, "_Tawakkul_ is to sever hope from the
 creation." -->
 
-Imam Aḥmad \hon{\M_HIM}{\BODY} said, “It (tawakkul) is to abandon all
+Imam Aḥmad \hon{\M_HIM}{\BODY} said, “It (_tawakkul_) is to abandon all
 expectation of benefit from people and place no hope in what they
-possess.”[-@@tabaqat_hanabilah, vol. 2, p. 556]
+possess.”[@@tabaqat_hanabilah, vol. 2, p. 556]
 
 _Tawakkul_ does not mean abandoning effort. Anas ibn Mālik \hon{\P_HIM}{\BODY}
 narrated that a man said, "O Messenger of Allāh, should I tie my camel and rely
@@ -352,8 +360,8 @@ replied, "Tie it and then rely upon Allāh."[-@@abuesa16, vol. 3, p. 459, #2699]
 
 <!-- Imam Ibn al-Qayyim \hon{\M_HIM}{\BODY} said, "It is not from _tawakkul_ to
 abandon the means, nor to label helplessness as _tawakkul_. Rather, _tawakkul_
-is not complete except by taking the means that Allāh has established." \[Zād
-al-Maʿād\] -->
+is not complete except by taking the means that Allāh has established." Zād
+al-Maʿād -->
 
 Imam Ibn al-Qayyim \hon{\M_HIM}{\BODY} said, “ A person should not use reliance
 upon Allāh as an excuse for helplessness, nor mistake helplessness for reliance

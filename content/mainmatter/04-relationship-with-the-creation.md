@@ -97,7 +97,7 @@ Shaykh al-Islām Ibn Taymīyah \hon{\M_HIM}{\BODY} said,
 > with righteous action, he will not truly abandon evil deeds---except in a
 > deficient manner. Indeed, many prohibited matters are only forbidden because
 > they corrupt and undermine righteous deeds, so they are prohibited in order to
-> safeguard the soundness of righteous actions. \[Iqtiḍāʾ aṣ-Ṣirāṭ al-Mustaqīm\] -->
+> safeguard the soundness of righteous actions. Iqtiḍāʾ aṣ-Ṣirāṭ al-Mustaqīm -->
 
 > Rather, the religion is founded upon enjoining what is good and forbidding what
 > is evil; neither can be upheld without the other. Whenever an evil is forbidden,
@@ -417,7 +417,7 @@ The Messenger of Allāh \hon{\PBUH}{\BODY} said, "The best among you are those
 who are best to their wives."[-@@majah14, vol. 2, p. 324, #1968]
 
 He \hon{\PBUH}{\BODY} said, "...a man is a shepherd over his family and is
-responsible..."[-@@bukhari, vol. 4. pp. 436--7, no. 5188]
+responsible..."[-@@bukhari, vol. 4, pp. 436--7, #5188]
 
 He \hon{\PBUH}{\BODY} also said, "Do not hate your wife if you notice a fault in
 her---perhaps you will find another quality in her that pleases you."[-@@muslim,
@@ -435,11 +435,11 @@ The Prophet \hon{\PBUH}{\BODY} said to Anjashah, the Abyssinian servant, "Be
 gentle---do not break the glass vessels (i.e. the women)."[-@@bukhari, vol. 5,
 p. 327, #6211]
 
-The Companions showed deep affection toward their wives. Once, Ḥasan ibn ʿAlī
+The Companions showed deep affection toward their wives. Once, al-Ḥasan ibn ʿAlī
 \hon{\P_TWO}{\BODY} divorced his wife for a specific reason and sent her the
 full dowry (_mahr_). Upon seeing it, she wept and said, "This is insignificant
-compensation for separation from a beloved companion." When Ḥasan heard this, he
-too wept uncontrollably.[-@@mu3jam_kabir, vol. 2, p. 687, #2757]
+compensation for separation from a beloved companion." When al-Ḥasan heard this, he
+too wept uncontrollably.[@@mu3jam_kabir, vol. 2, p. 687, #2757]
 
 
 ## Conduct with Relatives
@@ -498,7 +498,7 @@ Allāh Says,
 \AYAH_AR_END
 
 \AYAH_START
-So do not oppress the orphan. (Sūrat al-Ḍuḥā, Q93:9)
+So do not oppress the orphan. (Sūrat al-Ḍuḥá, Q93:9)
 \AYAH_END
 
 
@@ -515,7 +515,7 @@ in Paradise like this," and he joined his index and middle fingers.[-@@bukhari,
 vol. 5, p. 251, #6005]
 
 ʿAbdullāh ibn ʿUmar \hon{\P_TWO}{\BODY} would never eat unless an orphan was
-present with him.[-@@adabmufrad, p. 73, #136]
+present with him.[@@adabmufrad, p. 73, #136]
 
 ʿĀʾishah \hon{\P_HER}{\BODY} took orphan girls from her family and the Anṣār
 into her home and raised them with great care.[-@@ahmad, vol. 43, p. 340,
@@ -558,8 +558,8 @@ passed away, he left behind a massive debt. His son ʿAbdullāh worried about
 repayment. Ḥakīm ibn Ḥizām \hon{\P_HIM}{\BODY} offered help if
 needed.[-@@bukhari, vol. 3, pp. 141--3, #3129]
 
-ʿAbdullāh ibn ʿUmar would not eat until a poor person was brought to eat with
-him.[-@@bukhari, vol. 5, pp. 12--3, #5393]
+ʿAbdullāh ibn ʿUmar \hon{\P_TWO}{\BODY} would not eat until a poor person was
+brought to eat with him.[-@@bukhari, vol. 5, pp. 12--3, #5393]
 
 When Ḥārithah ibn al-Nuʿmān \hon{\P_HIM}{\BODY} lost his eyesight, he tied a
 rope from his basket to the door. When a poor person arrived, he would take
@@ -629,7 +629,7 @@ Even neighbors of other religions must be treated with kindness. Once, ʿAbdull�
 ibn ʿUmar \hon{\P_TWO}{\BODY} slaughtered a goat and asked his household whether
 they had sent some to his Jewish neighbor. He said that he heard the Prophet
 \hon{\PBUH}{\BODY} say, "Jibrīl kept advising me regarding the neighbor until I
-thought he would make him an heir."[-@@bukhari, vol. 5, p. 254, #6014; #6015]
+thought he would make him an heir."[-@@bukhari, vol. 5, p. 254, #6014, #6015]
 
 In addition to these, there is another category that is not commonly called a
 neighbor but is treated as such due to constant association. The Quran refers to
@@ -695,7 +695,7 @@ support for food, clothing, shelter, and protection. Islam commands that they be
 treated with kindness.
 
 The Prophet \hon{\PBUH}{\BODY} said, "The one who strives to support a widow and
-a poor person is like one who performs _jihād_ in the path of Allāh---or like
+a poor person is like one who performs Jihād in the path of Allāh---or like
 one who stands in prayer at night and fasts during the day."[-@@bukhari, vol. 4,
 p. 507, #5353]
 
@@ -705,7 +705,7 @@ teachings.
 The Prophet \hon{\PBUH}{\BODY} said, "On the Day of Resurrection, I will be the
 first to open the gate of Paradise, and I will see a woman rushing ahead of me."
 When asked who she was, he said, "She is a widow who endured patiently while
-caring for her orphaned children."[-@@makarimkharaiti, pp. 396--7, #810]
+caring for her orphaned children."[@@makarimkharaiti, pp. 396--7, #810]
 
 Proper conduct toward widows includes arranging suitable marriages for them
 after their waiting period (_ʿiddah_).
@@ -920,7 +920,7 @@ A Companion narrated, "I asked the Messenger of Allāh \hon{\PBUH}{\BODY} about
 stray camels that come to my watering troughs, which I had prepared and filled
 for my own camels---is there any reward for me if I water them?" He replied,
 "Yes, there is a reward in [watering] every creature with a moist liver (i.e. a
-living creature)."[@@majah14, vol. 3, p. 443, #3711]
+living creature)."[-@@majah14, vol. 3, p. 443, #3711]
 
 Once during a journey, the Prophet \hon{\PBUH}{\BODY} saw that someone had lit a
 fire near an ant nest. He asked who had done it. He \hon{\PBUH}{\BODY} then
@@ -934,8 +934,8 @@ until it died."[-@@bukhari, vol. 2, p. 399, #2365]
 He \hon{\PBUH}{\BODY} warned that killing animals without need is a grave sin,
 and that Allāh will question a person who kills an animal unjustly. The Prophet
 \hon{\PBUH}{\BODY} said, "No person kills a bird or anything larger without a
-just cause except that Allāh will question him about it."[-@@nasaiis, vol. 7,
-pp. 101--2, #4389]
+just cause except that Allāh will question him about it."[-@@nasaiis, vol. 7, pp.
+101--2, #4389]
 
 He \hon{\PBUH}{\BODY} commanded excellence even in slaughter, saying, "Allāh has
 prescribed excellence in all things. If you kill, kill well; and if you
@@ -1012,7 +1012,7 @@ Islam, for if he did, he would inherit from her. However, he declined, so she
 made a bequest in his favor.[-@@musannafabdirrazzaq, vol. 6, p. 146, #10755--6]
 
 ʿAmr ibn Maymūn, ʿAmr ibn Shuraḥbīl, and Murrah al-Hamdānī gave _ṣadaqat
-al-fiṭr_ to Christian monks.[-@@kitab_amwal, p. 626, #1999]
+al-fiṭr_ to Christian monks.[@@kitab_amwal, p. 626, #1999]
 
 ʿUmar \hon{\P_HIM}{\BODY} sent a gift to his polytheist brother during the
 Prophet's \hon{\PBUH}{\BODY} lifetime.[-@@bukhari, vol. 1, p. 465, #886]
@@ -1025,4 +1025,4 @@ the household remained hungry that night.[-@@ahmad, vol. 45, pp. 202--3, #27226]
 The mother of Abū Hurayrah \hon{\P_HIM}{\BODY} was a disbeliever and used to
 insult the Prophet \hon{\PBUH}{\BODY}. When Abū Hurayrah complained, the Prophet
 \hon{\PBUH}{\BODY} raised his hands in supplication instead of anger.[-@@muslim,
-vol. 6, pp. 350--1, #2572; she became Muslim.]
+vol. 6, pp. 350--1, #2572. She became Muslim.]

@@ -26,7 +26,7 @@ lawful sustenance is an obligation."[-@@mu3jam_kabir, vol. 8, p. 2514, #9993]
 
 The Companions all worked: Abū Bakr, ʿUmar, and ʿUthmān engaged in trade; Salmān
 \hon{\PBUH}{\BODY} wove mats;[-@@usdghabah, p. 502] one Companion worked with a
-pickaxe until his hands became blackened. When the Prophet \hon{\PBUH}{\BODY}
+pickax until his hands became blackened. When the Prophet \hon{\PBUH}{\BODY}
 saw his hands, he asked about them. The Companion replied that he labored to
 provide for his family. The Prophet \hon{\PBUH}{\BODY} kissed his
 hands.[-@@usdghabah, p. 458, #1968]
@@ -122,8 +122,8 @@ the place where he bathes and then bathe there."[-@@abudawud, vol. 2, p. 24,
 It should be performed with the left hand. And cleansing should be done using
 water and [traditionally] earth or similar material. This is established from
 multiple narrations describing the practice of the Prophet
-\hon{\PBUH}{\BODY}.[-@@bukhari, vol. 1, pp. 164--5, #266; -@@muslim, vol. 2, p.
-103, #326; vol. 2, pp. 36--7, #253; -@@abudawud, vol. 2, p. 29, #33]
+\hon{\PBUH}{\BODY}.[-@@bukhari, vol. 1, pp. 164--5, #266; -@@muslim, vol. 2, p. 103,
+#326, and pp. 36--7, #253; -@@abudawud, vol. 2, p. 29, #33]
 
 
 ### 6. Weekly Ghusl and Personal Care {.unnumbered}
@@ -260,7 +260,7 @@ clearly that if someone wished to count his words, he could do so.[-@@bukhari,
 vol. 3, p. 338, #3567]
 
 When addressing a group, one should direct attention to everyone, turning toward
-them gradually so that no one feels neglected.[-@@shamail, pp. 245--6, #344]
+them gradually so that no one feels neglected.[@@shamail, pp. 245--6, #344]
 
 Speech should be concise. The Prophet \hon{\PBUH}{\BODY} said, "I have been
 commanded to be concise in speech, for brevity is better."[-@@abudawud, vol. 7,

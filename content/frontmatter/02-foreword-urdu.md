@@ -41,5 +41,5 @@ means of lasting benefit.
 ::: {custom-style="Ragged Right"}
 Shaykh Muʿīn al-Dīn Aḥmad \hon{\H_HIM}{\BODY}\
 Director, Dār al-Muṣannifīn, Aʿẓamgarh\
-21st Ṣafar 1379 AH \| 25th August 1959
+21st Ṣafar 1379\SC{h} \| 25th August 1959
 :::

@@ -14,8 +14,8 @@ the renowned work *Taʿlīm al-Quran*, authored several decades ago by the emine
 Islamic scholar of his era, the late Professor Shaykh Owais al-Nagrāmī al-Nadwī
 \hon{\M_HIM}{\BODY} of Dār al-ʿUlūm Nadwat al-ʿUlamāʾ, Lucknow. Shaykh Owais
 al-Nadwī \hon{\M_HIM}{\BODY} was a towering intellectual figure whose
-contributions to Quranic studies, tafsīr, and Islamic thought were widely
-recognised and deeply respected in scholarly circles across the subcontinent and
+contributions to Quranic studies, Tafsīr, and Islamic thought were widely
+recognized and deeply respected in scholarly circles across the subcontinent and
 beyond.
 
 Upon its original publication, *Taʿlīm al-Quran* was received with
@@ -44,10 +44,10 @@ addresses nearly every sphere in which guidance is required: from sound
 Islamic beliefs to lawful and unlawful matters, personal conduct, social
 dealings, ethics, morality, and spiritual refinement. Shaykh Owais
 al-Nadwī \hon{\M_HIM}{\BODY} supports his discussions with relevant
-Quranic āyahs, authentic aḥādīth, and references from leading scholars
+Quranic _āyāt_, authentic _aḥādīth_, and references from leading scholars
 of the Ummah, elaborating upon them in a manner that makes even complex
 concepts easily understandable for the ordinary reader. In this sense,
-the book serves not only as a work of tafsīr-inspired guidance but also
+the book serves not only as a work of Tafsīr-inspired guidance but also
 as a practical handbook of Islam for both youth and laypersons.
 
 One of the most remarkable features of *Taʿlīm al-Quran* is the
@@ -63,12 +63,12 @@ comprehensive work into English with sincerity and care, and for
 preserving the works of a family with a rich scholarly heritage. His
 efforts represent a meaningful service to the Ummah, particularly to
 those who earnestly wish to understand Islam through sound scholarship.
-We pray that Allāh \hon{\SWT}{\BODY} accepts this noble endeavour, places
-barakah in it, and grants success in both this world and the Hereafter
+We pray that Allāh \hon{\SWT}{\BODY} accepts this noble endeavor, places
+_barakah_ in it, and grants success in both this world and the Hereafter
 to all who contributed to its completion in any capacity. Āmīn.
 
 ::: {custom-style="Ragged Right"}
 Shaykh Bilāl ʿAbd al-Ḥayy al-Ḥasanī al-Nadwī \hon{\H_HIM}{\BODY}\
 Chancellor, Dār al-ʿUlūm Nadwat al-ʿUlamāʾ, Lucknow\
-19th Shaʿbān 1447 AH \| 7th February 2026
+19th Shaʿbān 1447\SC{h} \| 7th February 2026
 :::

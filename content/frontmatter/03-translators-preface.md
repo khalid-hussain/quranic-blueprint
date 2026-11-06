@@ -62,7 +62,7 @@ comprehensive presentation of the core religious and moral teachings of Islam
 for Muslim children. It is carefully developed from the Quran and authentic
 Sunnah, ensuring that every lesson is rooted in sound and verified sources.
 Rather than presenting abstract concepts, the book organizes essential Islamic
-values into clear, practical teachings supported by complete aḥādīth and
+values into clear, practical teachings supported by complete _aḥādīth_ and
 Quranic guidance. Each topic is explained with purpose, showing not only what
 Islam teaches but why it matters in daily life.
 
@@ -87,7 +87,7 @@ published by Dār al-Muṣannifīn at his expense.
 
 In preparing this edition, we have undertaken a careful and methodical
 refinement of the translation to enhance both clarity and scholarly integrity.
-Relevant āthār have been incorporated to strengthen the discussions and present
+Relevant _āthār_ have been incorporated to strengthen the discussions and present
 a more comprehensive treatment of the issues addressed. In recognition of the
 author's deep admiration for Shaykh al-Islām Ibn Taymīyah \hon{\M_HIM}{\BODY}
 and his student Imam Ibn al-Qayyim \hon{\M_HIM}{\BODY}, we have included
@@ -120,23 +120,22 @@ Publications, housed within Dār al-ʿUlūm Nadwat al-ʿUlamāʾ, Lucknow. Since
 establishment in 1959 under the supervision of Shaykh Sayyid Abū al-Ḥasan ʿAlī
 Ḥasanī al-Nadwī \hon{\M_HIM}{\BODY}, the Academy has served as a beacon of
 knowledge, scholarship, and guidance for Muslims across India and beyond. It is
-truly both an honour and a privilege to have this translation published under an
+truly both an honor and a privilege to have this translation published under an
 institution with such a rich and distinguished scholarly legacy.
 
 I would also like to extend my heartfelt gratitude to ʿAllāmah Shiblī Nuʿmānī
 Library and the entire department for all their help in bringing this
 publication to life. Last, but certainly not least, I thank my parents and my
 wife for their unending encouragement and steadfast presence throughout all my
-projects and endeavours. Their unwavering support has been my pillar of
-strength.
+projects and endeavors. Their unwavering support has been my pillar of strength.
 
-We ask Allāh to accept this meagre effort for His sake alone. We ask Allāh to
+We ask Allāh to accept this meager effort for His sake alone. We ask Allāh to
 grant us reunion with our Prophet \hon{\P_HIM}{\BODY} at al-Kawthar and to protect us
-from being among those about whom the Prophet \hon{\P_HIM}{\BODY} said, 'Allāh may
-support this religion through a wicked man.'
+from being among those about whom the Prophet \hon{\P_HIM}{\BODY} said, “Allāh may
+support this religion through a wicked man.”
 
 ::: {custom-style="Ragged Right"}
 Moḥammad Zāhid Ibn Ṭāriq al-Nagrāmī al-Najdī\
 Selangor Dār al-Iḥsān, Malaysia\
-1st Ramaḍān 1446 AH \| 1 March 2025
+1st Ramaḍān 1446\SC{h} \| 1 March 2025
 :::

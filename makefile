@@ -30,6 +30,7 @@ docx:
 	done; \
 	pandoc "$${FIFOS[@]}" -f markdown -t docx \
 	--lua-filter utils/lua-filters/inject-date.lua \
+	--lua-filter utils/lua-filters/thin-space-quotes-include.lua \
 	--number-sections \
 	--bibliography=utils/master.bib \
 	--citeproc --csl $(CSL) \
@@ -45,6 +46,7 @@ icml:
 		$(GPP) -DWORD -DNOW="$(shell date '+%a %d %b %Y %I:%M%p')" -x -o "$$fifo" & \
 	done; \
 	pandoc "$${FIFOS[@]}" -f markdown -t icml -s \
+	--lua-filter utils/lua-filters/thin-space-quotes-include.lua \
 	--number-sections \
 	--bibliography=utils/master.bib \
 	--citeproc --csl $(CSL) \

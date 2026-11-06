@@ -289,7 +289,7 @@ The Messenger of Allāh \hon{\PBUH}{\BODY} said, "My example and the example of
 the prophets before me is like that of a man who built a house, completed it,
 and beautified it, except for the place of one brick in a corner. People began
 to walk around it, admiring it, and saying, 'If only this brick were placed!'"
-He then said "I am that brick, and I am the Seal of the Prophets."[-@@bukhari,
+He then said "I am that brick, and I am the Seal of the Prophets."[@@bukhari,
 vol. 3, p. 329, #3535]
 
 The Messenger of Allāh \hon{\PBUH}{\BODY} said, "I am the master of the children
@@ -297,7 +297,7 @@ of Ādam on the Day of Resurrection, and I am not boasting. In my hand will be
 the Banner of Praise, and I am not boasting. There will not be a prophet on that
 day, neither Ādam nor anyone other than him, except that he will be under my
 banner. And I will be the first for whom the earth will be split open, and I am
-not boasting."[-@@abuesa16,  vol. 4, pp. 171--2, #3435]
+not boasting."[@@abuesa16, vol. 4, pp. 171--2, #3435]
 
 ## Faith in the Angels
 
@@ -314,7 +314,7 @@ Last Day has clearly gone far astray. (Sūrat al-Nisāʾ, Q4:136)
 
 
 Those who bring the Message of Allāh to the Messengers are called Angels.
-Believing in these Angels and believing in them as the conveyers of Allāh's
+Believing in these Angels and believing in them as the conveyors of Allāh's
 Message is necessary. The Angels do not disobey Allāh; they always speak pure
 and truthful words. They fear Allāh and tremble before Him. For the people of
 the earth, they generally supplicate for forgiveness, and especially for
@@ -353,7 +353,7 @@ as follows:
 The Prophet \hon{\PBUH}{\BODY} said, "The Ṣuḥuf of Ibrāhīm were sent down during
 the first night of Ramaḍān; the Tawrāh was sent down the sixth night of Ramaḍān;
 the Injīl was sent down the thirteenth night of Ramaḍān; and the Furqān (the
-Quran) was sent down the twenty-fourth night of Ramaḍān."[-@@ahmad, vol. 28, p.
+Quran) was sent down the twenty-fourth night of Ramaḍān."[@@ahmad, vol. 28, p.
 191, #16984] The Ṣuḥuf of Prophet Mūsá \hon{\S_HIM}{\BODY} were revealed before
 the Tawrāh.
 
@@ -488,7 +488,7 @@ Abū al-Dardāʾ \hon{\P_HIM}{\BODY} reported,
 > anything with Allāh, even if you are cut to pieces or burned. Do not
 > deliberately abandon any obligatory prayer, for whoever abandons it
 > deliberately has no protection from Allāh. And do not drink wine, for it is
-> the key to every evil."[-@@majah14, vol. 3, pp. 580--1, #4064]
+> the key to every evil."[@@majah14, vol. 3, pp. 580--1, #4064]
 
 ʿAbdullāh ibn Masʿūd \hon{\P_HIM}{\BODY} reported,
 
@@ -572,10 +572,10 @@ head), which is only for Allāh. Performing _sajdah_ for a _tāʿziyah_,[^ta3ziy
 graves, or for any god or goddess, is not correct.
 
 [^ta3ziyah]: In Lucknow, a _tāʿziyah_ is a highly ornate, temporary miniature
-    replica of the mausoleum of Imam al-Ḥussayn \hon{\P_HIM}{\BODY}. Derived
+    replica of the mausoleum of Imam al-Ḥusayn \hon{\P_HIM}{\BODY}. Derived
     from the Arabic word _ʿazzá_, meaning "to mourn" or "condole," the
     _tāʿziyah_ serves as the spiritual and cultural focal point of mourning
-    during Muharram, commemorating the martyrdom of Imam al-Ḥussayn
+    during Muharram, commemorating the martyrdom of Imam al-Ḥusayn
     \hon{\P_HIM}{\BODY} at the Battle of Karbala.
 
 Qays ibn Saʿd \hon{\P_HIM}{\BODY} reported,
@@ -644,7 +644,7 @@ and you may remember him?" They agreed. Their children grew up seeing this
 practice and learning about their remembrance of him, until eventually they
 began to regard him as a deity and worship him instead of Allāh. Thus, the first
 figure to be worshipped besides Allāh was Wadd, the idol they named after
-him.[-@@tafsir_ibnkathir, vol. 7, pp. 390--1]
+him.[@@tafsir_ibnkathir, vol. 7, pp. 390--1]
 
 Over time, the people came to possess many idols, with these five being the most
 prominent due to the deep love they held for them. Prophet Nūḥ
@@ -662,7 +662,7 @@ would place these stones at suitable locations in their new settlements, perform
 _ṭawāf_ around them just as they had performed _ṭawāf_ around the Kaʿbah, and
 show them reverence. Over time, the following generations began to worship not
 only those stones, but also any stone that resembled their original stones or
-appeared distinctive to them.[-@@sirahibnhisham, vol. 1, p. 77]
+appeared distinctive to them.[@@sirahibnhisham, vol. 1, p. 77]
 
 Abū Rajāʾ al-ʿUṭāridī \hon{\P_HIM}{\BODY} narrated, "We used to worship stones.
 When we found a better stone than the one we had, we would discard the first and
@@ -684,14 +684,14 @@ Pre-Islamic Arab society commonly used names that reflected servitude to
 entities other than Allāh, such as celestial bodies, tribal deities, or revered
 figures. Names such as ʿAbd Shams (servant of the sun) and ʿAbd Manāf were well
 known and widely used among Quraysh. The Messenger of Allāh \hon{\PBUH}{\BODY}
-forbade names in which _ʿubūdiyyah_ (servitude) is attributed to anyone other
+forbade names in which _ʿubūdīyah_ (servitude) is attributed to anyone other
 than Allāh.
 
 From among the Ahl al-Ṣuffah was a Companion known as ʿAbdullāh Dhū al-Bijādayn
 \hon{\P_HIM}{\BODY}. At birth, his name was ʿAbd al-ʿUzzá (servant of the idol
 al-ʿUzzá). When he embraced Islam, the Messenger of Allāh \hon{\PBUH}{\BODY}
 changed his name and said, "Rather, you are ʿAbdullāh Dhū
-al-Bijādayn."[-@@isabah, vol. 4, p. 139]
+al-Bijādayn."[@@isabah, vol. 4, p. 139]
 
 The Prophet \hon{\PBUH}{\BODY} also changed names that carried undesirable
 meanings. Zaynab bint Jaḥsh and Juwayriyah bint al-Ḥārith \hon{\P_TWO}{\BODY}
@@ -782,7 +782,7 @@ Abū Hurayrah \hon{\P_HIM}{\BODY} reported that the Messenger of Allāh
 > A servant will be told, "Enter the Fire." When he reaches the edge of Hell, he
 > will look around and say, "By Allāh, I always held good hope and a positive
 > expectation of Allāh." It will then be commanded, "Bring him back, for I am
-> according to My servant's expectation of Me."[-@@shu3abeman, vol. 2, p. 323,
+> according to My servant's expectation of Me."[@@shu3abeman, vol. 2, p. 323,
 > #984]
 
 Abū Hurayrah \hon{\P_HIM}{\BODY} reported that the Prophet \hon{\PBUH}{\BODY}
@@ -1008,7 +1008,7 @@ to him."[-@@bukhari, vol. 1, p. 486, #935] Imam Ibn al-Qayyim
 ʿAṣr.[-@@zad_ma3ad, vol. 1, p. 482]
 
 <!-- Imam Ibn al-Qayyim \hon{\M_HIM}{\BODY} said, "The strongest opinion is that it
-is the last hour after ʿAṣr." \[Zād al-Maʿād\] -->
+is the last hour after ʿAṣr." Zād al-Maʿād -->
 
 
 ### Understanding Duʿāʾ
@@ -1036,7 +1036,7 @@ supplicates to Allāh with a supplication in which there is no sin or severing o
 family ties except that Allāh grants him one of three things: either his
 supplication is answered quickly, or it is stored for him in the Hereafter, or
 an equivalent harm is averted from him." They said, "Then we will supplicate
-much." He said, "Allāh is more generous." \[Musnad Aḥmad\] -->
+much." He said, "Allāh is more generous." Musnad Aḥmad -->
 
 This is an area where many people fail to truly grasp the vast mercy of Allāh.
 When their supplications are not answered in the way or at the time they expect,
@@ -1162,12 +1162,12 @@ Imam Ibn al-Qayyim \hon{\M_HIM}{\BODY} said, "Gratitude is built upon three
 pillars: acknowledging the blessing inwardly, speaking of it outwardly, and
 using it to seek the pleasure of the One who granted it and bestowed it." -->
 
-Ibn al-Qayyim \hon{\M_HIM}{\BODY} said, “Gratitude is built upon three pillars:
-acknowledging blessings inwardly, speaking of them openly, and using them in
-ways that please the One who bestowed them.”[-@@wabilsayyib, pp. 5--6] In
-another place, Imam Ibn al-Qayyim \hon{\M_HIM}{\BODY} said, "Gratitude is
+Imam Ibn al-Qayyim \hon{\M_HIM}{\BODY} said, “Gratitude is built upon three
+pillars: acknowledging blessings inwardly, speaking of them openly, and using
+them in ways that please the One who bestowed them.”[-@@wabilsayyib, pp. 5--6]
+In another place, Imam Ibn al-Qayyim \hon{\M_HIM}{\BODY} said, "Gratitude is
 manifested in the heart through submission and humility; on the tongue through
-praise and acknowledgement; and through the limbs by means of obedience and
+praise and acknowledgment; and through the limbs by means of obedience and
 compliance."[-@@madarijsalikeen, vol. 2, p. 593]
 
 
@@ -1220,13 +1220,18 @@ Q33:36)
 \AYAH_END
 
 
-The Prophet \hon{\PBUH}{\BODY} said, "There are three qualities; whoever
+<!-- The Prophet \hon{\PBUH}{\BODY} said, "There are three qualities; whoever
 possesses them will find the sweetness of faith: that Allāh and His Messenger
 are more beloved to him than anything else; that he loves a person and loves him
 only for the sake of Allāh; and that he hates to return to disbelief as much as
-he hates to be thrown into the Fire." \[Ṣaḥīḥ al-Bukhārī\] Such a person always
-gives precedence to their commands over all others and follows them above all
-else.
+he hates to be thrown into the Fire." Ṣaḥīḥ al-Bukhārī -->
+
+The Prophet \hon{\PBUH}{\BODY} said, "Whoever possesses three qualities will
+experience the sweetness of faith: that Allāh and His Messenger are more beloved
+to him than anything else; that he loves a person solely for the sake of Allāh;
+and that he hates returning to disbelief as much as he hates being thrown into
+the Fire."[-@@bukhari, vol. 1, p. 24, #16] Such a person always gives precedence
+to their commands over all others and follows them above all else.
 
 The Messenger of Allāh \hon{\PBUH}{\BODY} said, "He has tasted the flavor of
 faith who is pleased with Allāh as his Lord, with Islam as his religion, and
@@ -1243,10 +1248,10 @@ with Muhammad \hon{\PBUH}{\BODY} as his Messenger."[-@@muslim, vol. 1, pp.
 > you are more beloved to me than myself." The Prophet \hon{\PBUH}{\BODY}
 > replied, "Now, O ʿUmar."[-@@bukhari, vol. 6, p. 20, #6632]
 
-During a gathering in Masjid al-Nabawi, Imam Mālik ibn Anas \hon{\M_HIM}{\BODY}
+During a gathering in Masjid Nabawī, Imam Mālik ibn Anas \hon{\M_HIM}{\BODY}
 said, while pointing to the grave of the Prophet \hon{\PBUH}{\BODY},
 "Everyone's statement may be accepted or rejected, except the companion of this
-grave."[-@@siyarelam, vol. 8, p. 93]
+grave."[@@siyarelam, vol. 8, p. 93]
 
 ## Obedience to Authority
 
@@ -1362,12 +1367,12 @@ The Messenger of Allāh \hon{\PBUH}{\BODY} said, “The truest words are the Boo
 of Allah, the finest guidance is the guidance of Muhammad, the worst of matters
 are those newly introduced, every newly introduced matter is an innovation,
 every innovation is misguidance, and every misguidance leads to the
-Fire.”[-@@nasaiis, vol. 3, p. 343, #1594]
+Fire.”[@@nasaiis, vol. 3, p. 343, #1594]
 
 <!-- OLD TRANSLATION
 "The best speech is the Book of Allāh, the best guidance is the guidance of
 Muḥammad \hon{\PBUH}{\BODY}, the worst of matters are newly invented matters,
-and every innovation is misguidance."[-@@nasaiis, vol. 3, p. 343, #1594] -->
+and every innovation is misguidance." nasaiis, vol. 3, p. 343, #1594 -->
 
 The Messenger of Allāh \hon{\PBUH}{\BODY} said, "Whoever innovates into this
 matter of ours that which does not belong to it, will be rejected."[-@@bukhari,
@@ -1379,7 +1384,7 @@ religion from one's own side that have no general or specific basis to support
 it is called _bidʿah_ (innovation). Ḥassān ibn ʿAṭīyah \hon{\M_HIM}{\BODY} said,
 "No people introduce an innovation into their religion except that Allāh removes
 from them a Sunnah equal to it, and He does not return it to them until the Day
-of Resurrection."[-@@darimi, p. 123, #106]
+of Resurrection."[@@darimi, p. 123, #106]
 
 ʿAbdullāh ibn Masʿūd \hon{\P_HIM}{\BODY} reported,
 
@@ -1470,7 +1475,7 @@ anything that shows disrespect toward Allāh and His Messenger
 status.
 
 The Companions exemplified this respect profoundly. When the Messenger of Allāh
-\hon{\PBUH}{\BODY} arrived in Madinah, he stayed in the home of Abū Ayyūb
+\hon{\PBUH}{\BODY} arrived in Madīnah, he stayed in the home of Abū Ayyūb
 al-Anṣārī \hon{\P_HIM}{\BODY}. The Prophet \hon{\PBUH}{\BODY} stayed on the
 lower floor, while Abū Ayyūb and his family stayed on the upper floor. One
 night, Abū Ayyūb awoke and said to his wife, "How can we remain above the
@@ -1524,7 +1529,7 @@ Faḍālah ibn ʿUbayd \hon{\P_HIM}{\BODY} said,
 ʿAbdullāh ibn Masʿūd \hon{\P_HIM}{\BODY} said, "When one of you wishes to ask
 Allāh, let him begin by praising Allāh as He deserves to be praised, then let
 him send blessings upon the Prophet \hon{\PBUH}{\BODY}, then let him supplicate
-thereafter, for that is more likely to be accepted."[-@@musannafabdirrazzaq,
+thereafter, for that is more likely to be accepted."[@@musannafabdirrazzaq,
 vol. 10, p. 58, #20700]
 
 ʿUmar ibn al-Khaṭṭāb \hon{\P_HIM}{\BODY} said, "Indeed, supplication remains
@@ -1575,7 +1580,7 @@ Indeed, His friends are only the people of _taqwá_. (Sūrat al-Anfāl, Q8:34)
 The Messenger of Allāh \hon{\PBUH}{\BODY} said, "...my ally is only Allāh and
 the righteous believers."[-@@bukhari, vol. 5, pp. 245--6, #5990]
 
-Imam Ḥasan al-Baṣrī \hon{\M_HIM}{\BODY} said that some people claimed to love
+Imam al-Ḥasan al-Baṣrī \hon{\M_HIM}{\BODY} said that some people claimed to love
 Allāh, so Allāh revealed this _āyah_ to test them:
 
 \AYAH_AR_START
@@ -1596,23 +1601,24 @@ be attached to him.
 Imam al-Junayd al-Baghdādī \hon{\M_HIM}{\BODY} said, “All paths are closed to
 creation except for those who follow in the footsteps of the Messenger of Allāh
 \hon{\PBUH}{\BODY}, adhere to his Sunnah, and remain committed to his way.
-Indeed, all paths of goodness are open to such a person.”[-@@hilyah09, vol. 8,
+Indeed, all paths of goodness are open to such a person.”[@@hilyah09, vol. 8,
 p. 320]
 
 Shaykh ʿAbd al-Qādir al-Jīlānī \hon{\M_HIM}{\BODY} said, “Hold fast to the way
 of following the revealed teachings without introducing religious innovations.
 Adhere to the way of the righteous Salaf and keep to the straight path. Avoid
 both likening Allāh to His creation and denying His attributes. Rather, follow
-the Sunnah of the Messenger of Allāh ﷺ without affectation, artificiality,
-extremism, pretentious speech, or excessive intellectual hair-splitting. What
-was sufficient for those who came before you should be sufficient for
-you.”[-@@fathrabbani, p. 45]
+the Sunnah of the Messenger of Allāh \hon{\PBUH}{\BODY} without affectation,
+artificiality, extremism, pretentious speech, or excessive intellectual
+hair-splitting. What was sufficient for those who came before you should be
+sufficient for you.”[-@@fathrabbani, p. 45]
 
 Khwājah Muḥammad Maʿṣūm \hon{\M_HIM}{\BODY} said, "Anyone whose actions do not
 conform to the Sunnah and who is not bound by the Sharīʿah, staying away from
 him is obligatory. All salvation lies in following Muḥammad
-\hon{\PBUH}{\BODY}."[^_Maktūbāt-i Maʿṣūmiyyah_; we couldn't find the exact
-reference.]
+\hon{\PBUH}{\BODY}."[^maktubat]
+
+[^maktubat]: _Maktūbāt-i Maʿṣūmiyyah_; we couldn't find the exact reference.
 
 Thus, the friend of Allāh is only the one who practices the religion and follows
 the Messenger of Allāh \hon{\PBUH}{\BODY}. Whoever does not do so is not a
@@ -1653,12 +1659,12 @@ replied, “Yes, O Messenger of Allāh!” He \hon{\PBUH}{\BODY} replied, “The
 among you are those who, when seen, remind people of Allāh, Mighty and
 Majestic.”[-@@majah14, vol. 4, pp. 47--8, #4152]
 
-ʿUmar \hon{\P_HIM}{\BODY} lived at some distance from Madinah and could not
+ʿUmar \hon{\P_HIM}{\BODY} lived at some distance from Madīnah and could not
 attend the Prophet \hon{\PBUH}{\BODY} daily. So he would go one day himself and
 send his brother in faith the next day so that he could learn the words of the
 Messenger \hon{\PBUH}{\BODY} through him. ʿUmar ibn al-Khaṭṭāb
 \hon{\P_HIM}{\BODY} narrated, "A neighbor of mine from the Anṣār and I lived
-among Banū Umayyah ibn Zayd, who lived on the outskirts of Madinah. We used to
+among Banū Umayyah ibn Zayd, who lived on the outskirts of Madīnah. We used to
 take turns going to the Messenger of Allāh \hon{\PBUH}{\BODY}. He would go one
 day, and I would go the next. When I went, I would bring him the news of that
 day regarding revelation and other matters, and when he went, he would do the
@@ -1713,7 +1719,7 @@ The meaning is that deep association with such people inevitably harms one's
 religion, so extreme caution is required.
 
 ʿAbdullāh ibn ʿAbbās \hon{\P_TWO}{\BODY} said, "Do not sit with the people of
-desires, for sitting with them causes sickness of the heart."[-@@shariah, p. 64,
+desires, for sitting with them causes sickness of the heart."[@@shariah, p. 64,
 #133]
 
 
@@ -1733,7 +1739,7 @@ Q3:103)
 The Rope of Allāh refers to the Noble Quran. One must cling firmly to its
 commands. The Messenger of Allāh \hon{\PBUH}{\BODY} said, "I have left among you
 two matters; you will never go astray so long as you hold firmly to them: the
-Book of Allāh and the Sunnah of His Messenger."[-@@malik16, vol. 2, p. 339,
+Book of Allāh and the Sunnah of His Messenger."[@@malik16, vol. 2, p. 339,
 #1364]
 
 The Messenger of Allāh \hon{\PBUH}{\BODY} said, “Indeed, Allah is pleased with
@@ -1763,7 +1769,7 @@ testify that there is no deity worthy of worship except Allāh and that I am the
 Messenger of Allāh?" They replied, "Yes." He \hon{\PBUH}{\BODY} said, "Indeed,
 this Quran is a rope---one end of it is in the Hand of Allāh, and the other end
 is in your hands. So hold fast to it, for you will never go astray nor be
-destroyed after it, ever.”[-@@ibnhibban, vol. 1, pp. 331--2, #413]
+destroyed after it, ever.”[@@ibnhibban, vol. 1, pp. 331--2, #413]
 
 This Rope of Allāh cannot be broken, but it can be let go. Whoever lets go of it
 will fall into the pit of misguidance, and whoever holds fast to it will be
@@ -1772,7 +1778,25 @@ harm. With it present, we should not turn elsewhere.
 
 Imam Ibn al-Qayyim \hon{\M_HIM}{\BODY} said,
 
-> Well-being and happiness in this world and the Hereafter are built upon
+> Happiness and well-being in this world and the Hereafter depend upon holding
+> fast to Allāh and holding fast to His Rope. No one can attain salvation
+> without firmly adhering to these two means of protection.
+
+> Holding fast to His Rope protects a person from misguidance, while holding
+> fast to Him protects a person from destruction. This is because one travelling
+> towards Allāh is like a traveller journeying along a road towards his
+> destination. He needs guidance to show him the way and protection to ensure
+> his safety along the journey. He cannot reach his destination without both.
+
+> A guide ensures that he does not lose his way and directs him along the right
+> path. Meanwhile, provisions, strength, and weapons enable him to protect
+> himself from highway robbers and the dangers of the road. In the same way,
+> holding fast to the Rope of Allāh leads a person to guidance and enables him
+> to follow the guide, while holding fast to Allāh grants him the strength,
+> provisions, weapons, and resources he needs to remain safe throughout his
+> journey.[-@@madarijsalikeen, vol. 2, p. 99]
+
+<!-- > Well-being and happiness in this world and the Hereafter are built upon
 > holding fast to Allāh and holding fast to His Rope, and there is no salvation
 > except for the one who adheres to these two foundations. Holding fast to His
 > Rope protects one from misguidance, and holding fast to Him protects one from
@@ -1782,8 +1806,7 @@ Imam Ibn al-Qayyim \hon{\M_HIM}{\BODY} said,
 > destination: he needs guidance to show him the path, and he needs strength and
 > equipment to protect him from bandits and dangers. Holding fast to the Rope of
 > Allāh leads him to guidance, and holding fast to Allāh grants him strength,
-> provision, and protection. \[Madarij al-Sālikīn\]
-
+> provision, and protection. Madarij al-Sālikīn -->
 
 ## Etiquette with the Quran
 

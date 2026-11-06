@@ -1,0 +1,62 @@
+-- thin-space-quotes.lua
+-- Pandoc Lua filter: inserts a thin space (U+2009)
+--   1. between consecutive single/double quotation marks
+--      (nested: “‘text’”  ->  “ ‘text’ ”,  adjacent: “a”‘b’ -> “a” ‘b’)
+--   2. between a quotation mark and a citation
+--      (before or after, inside or outside the quotation)
+--
+-- Usage: pandoc input.md --lua-filter=thin-space-quotes.lua -o output.pdf
+-- (With LaTeX, use a Unicode engine such as xelatex or lualatex.)
+
+local THIN = "\u{2009}"
+
+local function is_quoted(el) return el ~= nil and el.t == "Quoted" end
+local function is_cite(el)   return el ~= nil and el.t == "Cite" end
+local function is_thin(el)   return el ~= nil and el.t == "Str" and el.text == THIN end
+local function thin()        return pandoc.Str(THIN) end
+
+local function is_quote_or_cite(el)
+  return is_quoted(el) or is_cite(el)
+end
+
+-- Quotation marks at the edges of a Quoted element:
+-- a nested quote or a citation touching the opening/closing mark.
+function Quoted(el)
+  local c = el.content
+  local first, last = c[1], c[#c]
+
+  if is_quote_or_cite(first) then
+    c:insert(1, thin())
+  end
+  if #c > 0 and is_quote_or_cite(last) then
+    c:insert(thin())
+  end
+
+  el.content = c
+  return el
+end
+
+-- Adjacent inlines: quote|quote, quote|cite, cite|quote.
+-- (A Cite next to a Cite is left alone.)
+function Inlines(inlines)
+  local out = pandoc.List()
+  local changed = false
+
+  for i = 1, #inlines do
+    local cur, nxt = inlines[i], inlines[i + 1]
+    out:insert(cur)
+
+    if nxt ~= nil and not is_thin(cur) and not is_thin(nxt) then
+      local gap =
+        (is_quoted(cur) and is_quoted(nxt)) or
+        (is_quoted(cur) and is_cite(nxt))   or
+        (is_cite(cur)   and is_quoted(nxt))
+      if gap then
+        out:insert(thin())
+        changed = true
+      end
+    end
+  end
+
+  if changed then return out end
+end

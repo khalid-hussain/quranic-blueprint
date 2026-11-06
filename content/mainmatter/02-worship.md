@@ -89,13 +89,23 @@ Anas ibn Mālik \hon{\P_HIM}{\BODY} reported,
 > sleep, and I marry women. Whoever turns away from my Sunnah is not from
 > me."[-@@bukhari, vol. 4, p. 387, #5063]
 
-Shaykh al-Islām Ibn Taymīyah \hon{\M_HIM}{\BODY} said, “It is important to know
-that the pleasure and love of Allāh must not be sought by inflicting
-torture/harm on oneself and striving for difficulties. Some ignorant people
-believe that the more difficult the deed is, the better it is, and that the
-magnitude of the reward always depends on the degree of difficulty. No! This is
-an absolutely wrong belief! The magnitude of the reward for the deed depends on
-the benefit that it brings.”[-@@majmu3fatawa, vol. 25, pp. 281--2]
+
+Shaykh al-Islām Ibn Taymīyah \hon{\M_HIM}{\BODY} said, 
+
+"It is important to understand that Allah’s pleasure and love are not attained
+merely by tormenting oneself and subjecting oneself to hardship, such that the
+more difficult an act is, the better it becomes. Many ignorant people assume
+that the reward for every deed is proportional to its difficulty. This is not
+so! Rather, the reward depends on the benefit, merit, and usefulness of the
+deed, as well as the extent to which it conforms to the commands of Allah and
+His Messenger."[-@@majmu3fatawa, vol. 25, pp. 281--2]
+
+<!-- “It is important to know that the pleasure and love of Allāh must not be sought
+by inflicting torture/harm on oneself and striving for difficulties. Some
+ignorant people believe that the more difficult the deed is, the better it is,
+and that the magnitude of the reward always depends on the degree of difficulty.
+No! This is an absolutely wrong belief! The magnitude of the reward for the deed
+depends on the benefit that it brings.” -->
 
 
 ## Prayer (Ṣalāh)
@@ -141,7 +151,7 @@ _Ṣalāh_ deters a person from shamelessness and immorality. Allāh Says,
 \AYAH_START
 Recite [O Prophet] what is revealed to you of the Book, and establish _Salāh_.
 Surely [genuine] _Salāh_ deters one from indecency and evil acts. The
-remembrance of Allāh is [an] even greater [deterrant]. And Allāh [fully] knows
+remembrance of Allāh is [an] even greater [deterrent]. And Allāh [fully] knows
 what you [all] do. (Sūrat al-ʿAnkabūt, Q29:45)
 \AYAH_END
 
@@ -157,10 +167,6 @@ He \hon{\PBUH}{\BODY} also said, “...whoever abandons the prayer has no
 religion, for prayer is the pillar of the religion.”[-@@shu3abeman, vol. 4, p.
 300, #2550] He \hon{\PBUH}{\BODY} also said, “What separates a person from _shirk_
 and _kufr_ is the abandonment of prayer.”[-@@muslim, vol. 1, p. 424, #74]
-
-<!-- He \hon{\PBUH}{\BODY} also said, "_Ṣalāh_ is the pillar of the religion. Whoever
-establishes it has established the religion, and whoever abandons it has
-demolished the religion." \[Shuʿab al-Īmān\] -->
 
 When ʿUmar ibn al-Khaṭṭāb \hon{\P_HIM}{\BODY} was attacked with a dagger and lay
 wounded, he was awakened for the Fajr prayer that morning. He said, "There is no
@@ -217,7 +223,7 @@ bad habits begin forming in this period, so this greatest habit of righteousness
 should also be instilled at that time so that it becomes firmly established in
 adulthood.
 
-Care must be taken to pray with calmness and tranquility, without haste. The
+Care must be taken to pray with calmness and tranquillity, without haste. The
 Messenger of Allāh \hon{\PBUH}{\BODY} once said that the greatest thief is the
 one who steals from his prayer. The Companions asked, "O Messenger of Allāh, how
 does one steal from prayer?" He \hon{\PBUH}{\BODY} replied, "By not performing
@@ -288,7 +294,7 @@ and sides.[-@@muslim, vol. 3, pp. 168--71, #999]
 
 Likewise, those who withhold _Zakāh_ on livestock will find that their animals
 will trample and gore them on the Day of Resurrection. His wealth will be
-transformed into a serpent that will bite him.[-@@muslim,  vol. 3, pp. 175--6,
+transformed into a serpent that will bite him.[-@@muslim, vol. 3, pp. 175--6,
 #1000/1]
 
 Beyond _Zakāh_, a Muslim is encouraged to give _ṣadaqah_ (charity) whenever the
@@ -297,12 +303,18 @@ whereas _ṣadaqah_ refers to voluntary charity. Even non-monetary acts, such as
 smiling or removing something harmful from the road, are considered _ṣadaqah_. In
 essence, all _Zakāh_ is _ṣadaqah_, but not all _ṣadaqah_ is _Zakāh_.
 
-Abū Masʿūd al-Anṣārī \hon{\P_HIM}{\BODY} used to perform manual labor in
+<!-- Abū Masʿūd al-Anṣārī \hon{\P_HIM}{\BODY} used to perform manual labor in
 the marketplace, and whatever he earned, he would give in charity for the sake
-of Allāh. Salmān al-Fārsī \hon{\P_HIM}{\BODY} was the governor of
-al-Madāʾin. He received a stipend of five thousand dinars; whenever he received
-it, he would give it away in charity, and he would weave mats with his own hands
-to provide for his food and drink.
+of Allāh. -->
+
+Abū Masʿūd al-Anṣārī \hon{\P_HIM}{\BODY} reported, "Whenever the Messenger of
+Allāh \hon{\PBUH}{\BODY} called upon us to give charity, one of us would go to
+the marketplace and work as a porter, earning a _mudd_ (a measure of grain) to
+give in charity."[-@@bukhari, vol. 2, pp. 351--2, #2273]
+Salmān al-Fārsī \hon{\P_HIM}{\BODY} was the governor of al-Madāʾin. He received
+a stipend of five thousand dinars; whenever he received it, he would give it
+away in charity, and he would weave mats with his own hands to provide for his
+food and drink.[@@usdghabah, p. 502]
 
 
 ## Fasting (Ṣiyām)
@@ -318,7 +330,7 @@ O believers, fasting has been prescribed for you. (Sūrat al-Baqarah, Q2:183)
 \AYAH_END
 
 
-It is reported that fasting was legislated in 2 AH in the month of Sha'ban. The
+It is reported that fasting was legislated in 2 AH in the month of Shaʿbān. The
 Messenger of Allāh \hon{\P_HIM}{\BODY} fasted [nine]{.smallcaps} complete
 Ramaḍāns in his lifetime as per the consensus of the scholars.
 
@@ -477,12 +489,13 @@ to the best of his ability and capacity.
 > pp. 87--8, #3004]
 
 The Prophet \hon{\PBUH}{\BODY} said, "The one who strives to support a widow and
-a poor person is like one who performs _jihād_ in the path of Allāh---or like
-one who stands in prayer at night and fasts during the day."[-@@bukhari, vol. 4,
-p. 507, #5353]
+a poor person is like one who performs Jihād_ in the path of Allāh---or like one
+who stands in prayer at night and fasts during the day."[-@@bukhari, vol. 4, p.
+507, #5353]
 
-The Messenger of Allāh \hon{\PBUH}{\BODY} said, "The best form of _jihād_ is a
-word of truth spoken before an oppressive ruler."[-@@abudawud, vol. 6, p. 492, #4296]
+The Messenger of Allāh \hon{\PBUH}{\BODY} said, "The best form of Jihād is a
+word of truth spoken before an oppressive ruler."[-@@abudawud, vol. 6, p. 492,
+#4296]
 
 The Messenger of Allāh \hon{\PBUH}{\BODY} said, "The true _mujāhid_ is the one
 who strives against his own soul in Allāh's path."[-@@ahmad, vol. 39,
@@ -536,7 +549,7 @@ In this _āyah_, Muslims are commanded to fight against disbelievers. This comma
 applies specifically to those disbelievers who initiate warfare against Muslims,
 prevent them from practicing their religion, expel them from their homes, and
 with whom Muslims have no treaty or covenant. This form of struggle is called
-_jihād_ of combat.
+Jihād of combat.
 
 Muslims should possess sufficient strength so that they are not overawed by
 others, nor appear weak before them.
@@ -631,11 +644,11 @@ is confronted as a whole.
 All military expeditions of the Messenger of Allāh \hon{\PBUH}{\BODY} occurred
 after the Hijrah, within a span of ten years. Zayd ibn Arqam \hon{\P_HIM}{\BODY}
 narrated, "The Prophet \hon{\PBUH}{\BODY} participated in nineteen military
-expeditions and performed only one Ḥajj after migrating to Madinah, which was
+expeditions and performed only one Ḥajj after migrating to Madīnah, which was
 Ḥajj al-Wadāʿ (Farewell Ḥajj)."[-@@bukhari, vol. 3, p. 694, #4404]
 
 <!-- "The Prophet \hon{\PBUH}{\BODY} fought nineteen battles and performed
-only one Ḥajj after migrating to Madinah, which was Ḥajj al-Wadāʿ (Farewell
+only one Ḥajj after migrating to Madīnah, which was Ḥajj al-Wadāʿ (Farewell
 Ḥajj)." -->
 
 Buraydah \hon{\P_HIM}{\BODY} narrated, "The Messenger of Allāh
@@ -663,7 +676,7 @@ context, prophetic practice, and scholarly consensus.
     a general command, but a wartime directive addressing an active battlefield
     situation.
 
-2. Restricted by the very next _āyat_: The same passages in both instances
+2. Restricted by the very next _āyāt_: The same passages in both instances
    immediately state:
 
    "Fight in the way of Allāh those who fight you, but do not transgress" (Sūrat
