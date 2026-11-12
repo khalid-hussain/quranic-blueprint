@@ -98,15 +98,14 @@ Anas ibn Mālik \hon{\P_HIM}{\BODY} reported,
 > me."[-@@bukhari, vol. 4, p. 387, #5063]
 
 
-Shaykh al-Islām Ibn Taymīyah \hon{\M_HIM}{\BODY} said, 
-
-"It is important to understand that Allāh's pleasure and love are not attained
-merely by tormenting oneself and subjecting oneself to hardship, such that the
-more difficult an act is, the better it becomes. Many ignorant people assume
-that the reward for every deed is proportional to its difficulty. This is not
-so! Rather, the reward depends on the benefit, merit, and usefulness of the
-deed, as well as the extent to which it conforms to the commands of Allāh and
-His Messenger."[-@@majmu3fatawa, vol. 25, pp. 281--2]
+Shaykh al-Islām Ibn Taymīyah \hon{\M_HIM}{\BODY} said, "It is important to
+understand that Allāh's pleasure and love are not attained merely by tormenting
+oneself and subjecting oneself to hardship, such that the more difficult an act
+is, the better it becomes. Many ignorant people assume that the reward for every
+deed is proportional to its difficulty. This is not so! Rather, the reward
+depends on the benefit, merit, and usefulness of the deed, as well as the extent
+to which it conforms to the commands of Allāh and His
+Messenger."[-@@majmu3fatawa, vol. 25, pp. 281--2]
 
 <!-- “It is important to know that the pleasure and love of Allāh must not be sought
 by inflicting torture/harm on oneself and striving for difficulties. Some
