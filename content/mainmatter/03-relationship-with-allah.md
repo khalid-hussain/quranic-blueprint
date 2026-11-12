@@ -1,4 +1,12 @@
 
+::: {custom-style="Chapter Word"}
+CHAPTER
+:::
+
+::: {custom-style="Chapter Number"}
+3
+:::
+
 # Relationship with Allāh
 
 ## God-Consciousness (Taqwá)
@@ -337,7 +345,7 @@ truly believe in Allāh place their trust in Him alone, and their hearts do not
 settle on anyone besides Him.
 
 The Messenger of Allāh \hon{\PBUH}{\BODY} said, "If you were to place your trust
-in Allah as you truly should, He would provide for you just as He provides for
+in Allāh as you truly should, He would provide for you just as He provides for
 the birds: they set out in the morning with empty stomachs and return in the
 evening with them full."[-@@ahmad, vol. 1, p. 332, #205]
 

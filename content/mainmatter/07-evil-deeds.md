@@ -1,4 +1,12 @@
 
+::: {custom-style="Chapter Word"}
+CHAPTER
+:::
+
+::: {custom-style="Chapter Number"}
+7
+:::
+
 # Evil Deeds
 
 ## Immorality, Evil, and Transgression
@@ -32,7 +40,7 @@ Imam Ibn al-Qayyim \hon{\M_HIM}{\BODY} said, "As for _al-faḥshāʾ_ (indecency
 It refers to an abhorrent act or an outrageous deed---something whose ugliness
 is evident to everyone and which any sound-minded person considers utterly
 repugnant. Hence, it has been interpreted as referring to fornication and
-sodomy, which Allah has called _fāḥishah_ because of their extreme
+sodomy, which Allāh has called _fāḥishah_ because of their extreme
 depravity."[-@@madarijsalikeen, vol. 1, p. 571]
 
 
@@ -407,7 +415,7 @@ to someone a sin or wrongdoing of which he is innocent. This is also a form of
 lying. The Quran has classified it as betrayal.
 
 The Prophet \hon{\PBUH}{\BODY} said, "Whoever makes a false accusation against a
-believer, attributing to him something that is not true, Allah will make him
+believer, attributing to him something that is not true, Allāh will make him
 dwell in the pus of the inhabitants of Hell until he retracts what he
 said."[-@@abudawud, vol. 5, pp. 588--9, #3552]
 
@@ -927,9 +935,9 @@ al-Fatāwā -->
 contains malice, envy, and hatred." -->
 
 Imam Ibn al-Qayyim \hon{\M_HIM}{\BODY} said, "A sound heart is one that is free
-from associating partners with Allah, rancor, malice, envy, miserliness,
+from associating partners with Allāh, rancor, malice, envy, miserliness,
 arrogance, and love of worldly life and leadership. It is free from every
-affliction that distances it from Allah, every doubt that conflicts with what He
+affliction that distances it from Allāh, every doubt that conflicts with what He
 has revealed, every desire that goes against His commands, every inclination
 that competes with His will, and every obstacle that cuts it off from
 Him."[-@@daa_wa_dawa, pp. 282--3]
@@ -1518,7 +1526,7 @@ Islam is a religion of peace and security. It desires calmness and tranquillity
 in the world and commands that mischief and corruption not be spread on the
 earth.
 
-We should refrain from all actions that cause harm and distress to Allah’s
+We should refrain from all actions that cause harm and distress to Allāh’s
 creation, sow discord among people, and spread immorality and misconduct.
 Instead, we should participate in good deeds that establish genuine peace in the
 world, enabling people to embrace the truth and experience true tranquillity.
@@ -2215,7 +2223,6 @@ Muslim.
     of religion and life, gambling also makes one oblivious to profit and loss.
     A gambler's life becomes one of failure and loss. Countless respectable
     families have been ruined because of it; hence, Islam has prohibited it.
-
     The Prophet \hon{\PBUH}{\BODY} said, "...whoever says to his
     companion, 'Come, let me gamble with you,' must give charity."[-@@bukhari,
     vol. 4, p. 272, #4860]
@@ -2233,7 +2240,6 @@ Muslim.
     besides Allāh were sacrificial stones---unshaped stones erected for
     offerings and animal sacrifices. This was a polytheistic practice;
     therefore, Muslims were commanded to keep away from it.
-
     The Prophet \hon{\PBUH}{\BODY} said, "Allāh has cursed the one who
     sacrifices for other than Allāh."[-@@muslim, vol. 5, pp. 313--4, #2034]
 

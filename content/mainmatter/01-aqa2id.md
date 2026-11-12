@@ -1,4 +1,12 @@
 
+::: {custom-style="Chapter Word"}
+CHAPTER
+:::
+
+::: {custom-style="Chapter Number"}
+1
+:::
+
 # ʿAqāʾid (Creed)
 
 ## Faith in Allāh
@@ -171,7 +179,7 @@ And be patient! Certainly, Allāh Does not discount the reward of the good-doers
 \AYAH_END
 
 
-### If There Were More Than One God
+### If There Were More than One God
 
 There is just the One true God. He is alone, and there is none like Him. He Has no
 partner. If there were any other gods besides Him, this universe would be
@@ -415,7 +423,7 @@ own law, the Gospel has its own law, and the Quran has its own law. In each,
 Allāh permits whatever He wills and prohibits whatever He wills, as a test, so
 that He may establish those who obey Him from those who disobey Him. But the
 one religion that is accepted to the exclusion of all others is the affirmation
-of Allah's oneness (Tawḥīd) and sincere devotion to Him (_ikhlāṣ_)---the very
+of Allāh's oneness (Tawḥīd) and sincere devotion to Him (_ikhlāṣ_)---the very
 message brought by the messengers.”[@@tafsir_tabari, vol. 8, p. 494]
 
 ## Faith in the Hereafter
@@ -492,9 +500,9 @@ Abū al-Dardāʾ \hon{\P_HIM}{\BODY} reported,
 
 ʿAbdullāh ibn Masʿūd \hon{\P_HIM}{\BODY} reported,
 
-I asked, "O Messenger of Allāh, which sin is the greatest?" He
-\hon{\PBUH}{\BODY} replied, "That you set up a rival with Allāh, while He alone
-created you."[-@@bukhari, vol. 6, pp. 294--5, #4742]
+> I asked, "O Messenger of Allāh, which sin is the greatest?" He
+> \hon{\PBUH}{\BODY} replied, "That you set up a rival with Allāh, while He alone
+> created you."[-@@bukhari, vol. 6, pp. 294--5, #4742]
 
 Because of certain things, people fall into _shirk_, and Islam has prevented this.
 Some necessary points regarding this are highlighted here.
@@ -593,7 +601,7 @@ Qays ibn Saʿd \hon{\P_HIM}{\BODY} reported,
 > them.”[-@@abudawud vol. 4, pp. 157--8, #2129]
 
 
-### Shirk In Allāh's Exclusive Attributes
+### Shirk in Allāh's Exclusive Attributes
 
 Another form of _shirk_ is that Allāh's exclusive attributes are also believed
 to exist in others, such as causing death, giving life, providing sustenance,
@@ -890,7 +898,7 @@ repentance of His servant than one of you who finds his camel after having lost
 it in a barren land."[-@@muslim, vol. 7, p. 107, #2844]
 
 The Messenger of Allāh \hon{\PBUH}{\BODY} said, “If you were to commit sins
-until your sins reached the sky, then repent, Allah would surely accept your
+until your sins reached the sky, then repent, Allāh would surely accept your
 repentance.”[-@@majah14, vol. 4, p. 91, #4282] The Prophet \hon{\PBUH}{\BODY}
 also said, "Indeed, Allāh accepts the repentance of the servant as long as his
 soul has not reached the throat."[-@@abuesa16, vol. 4, p. 398, #3866]
@@ -960,7 +968,7 @@ wealth. One should also not ask only for worldly benefit; rather, one should ask
 for success and well-being in both this world and the Hereafter.
 
 
-### Times Of Acceptance
+### Times of Acceptance
 
 Whatever is asked should be asked with sincerity of heart and firm conviction
 that the supplication will surely be accepted. Supplication should be made
@@ -1119,11 +1127,11 @@ servants.
 Mālik ibn Naḍlah \hon{\P_HIM}{\BODY} said, "The Messenger of Allāh
 \hon{\PBUH}{\BODY} saw me wearing shabby clothes and asked, 'Do you have any
 wealth?' I replied, 'Yes.' He asked, 'What kind of wealth?' I said, 'All kinds.
-Allah, Mighty and Majestic, has blessed me with sheep and camels.' He said,
-'Then let the blessings and favor that Allah has bestowed upon you be
+Allāh, Mighty and Majestic, has blessed me with sheep and camels.' He said,
+'Then let the blessings and favor that Allāh has bestowed upon you be
 seen.'"[-@@ahmad, vol. 25, p. 222, #15887]
 
-The Messenger of Allāh \hon{\PBUH}{\BODY} said, "When Allah, Mighty and
+The Messenger of Allāh \hon{\PBUH}{\BODY} said, "When Allāh, Mighty and
 Majestic, bestows a blessing upon His servant, He loves to see its effects upon
 him."[-@@ahmad, vol. 25, p. 227, #15892]
 
@@ -1133,7 +1141,7 @@ blessing to a servant, He loves to see the effect of that blessing upon him. He
 dislikes misery and feigned misery, hates the persistent beggar, and loves the
 modest, chaste, and self-restrained person." -->
 
-The Messenger of Allāh \hon{\PBUH}{\BODY} said, “Indeed, when Allah bestows a
+The Messenger of Allāh \hon{\PBUH}{\BODY} said, “Indeed, when Allāh bestows a
 blessing upon a servant, He loves to see its effect upon him. He dislikes
 destitution and the affectation of destitution, detests the persistent beggar,
 and loves the modest, chaste person who refrains from asking
@@ -1364,7 +1372,7 @@ you must follow the Messenger of Allāh \hon{\PBUH}{\BODY}. Whatever he commands
 you to do, do it; and whatever he forbids you from, refrain from it.
 
 The Messenger of Allāh \hon{\PBUH}{\BODY} said, “The truest words are the Book
-of Allah, the finest guidance is the guidance of Muhammad, the worst of matters
+of Allāh, the finest guidance is the guidance of Muhammad, the worst of matters
 are those newly introduced, every newly introduced matter is an innovation,
 every innovation is misguidance, and every misguidance leads to the
 Fire.”[@@nasaiis, vol. 3, p. 343, #1594]
@@ -1742,10 +1750,10 @@ two matters; you will never go astray so long as you hold firmly to them: the
 Book of Allāh and the Sunnah of His Messenger."[@@malik16, vol. 2, p. 339,
 #1364]
 
-The Messenger of Allāh \hon{\PBUH}{\BODY} said, “Indeed, Allah is pleased with
+The Messenger of Allāh \hon{\PBUH}{\BODY} said, “Indeed, Allāh is pleased with
 three things for you and displeased with three things. He is pleased that you
 worship Him and associate no partners with Him, that you all hold fast to the
-Rope of Allah and do not become divided, and He is displeased with idle talk,
+Rope of Allāh and do not become divided, and He is displeased with idle talk,
 asking too many questions, and squandering wealth.”[-@@muslim, vol. 4, p. 476,
 #1761]
 

@@ -1,4 +1,12 @@
 
+::: {custom-style="Chapter Word"}
+CHAPTER
+:::
+
+::: {custom-style="Chapter Number"}
+5
+:::
+
 # Fundamental Etiquettes
 
 ## Seeking a Livelihood

@@ -1,4 +1,12 @@
 
+::: {custom-style="Chapter Word"}
+CHAPTER
+:::
+
+::: {custom-style="Chapter Number"}
+2
+:::
+
 # Worship (ʿIbādāt)
 
 Allāh Says,
@@ -92,12 +100,12 @@ Anas ibn Mālik \hon{\P_HIM}{\BODY} reported,
 
 Shaykh al-Islām Ibn Taymīyah \hon{\M_HIM}{\BODY} said, 
 
-"It is important to understand that Allah’s pleasure and love are not attained
+"It is important to understand that Allāh's pleasure and love are not attained
 merely by tormenting oneself and subjecting oneself to hardship, such that the
 more difficult an act is, the better it becomes. Many ignorant people assume
 that the reward for every deed is proportional to its difficulty. This is not
 so! Rather, the reward depends on the benefit, merit, and usefulness of the
-deed, as well as the extent to which it conforms to the commands of Allah and
+deed, as well as the extent to which it conforms to the commands of Allāh and
 His Messenger."[-@@majmu3fatawa, vol. 25, pp. 281--2]
 
 <!-- “It is important to know that the pleasure and love of Allāh must not be sought
@@ -159,7 +167,7 @@ The Messenger of Allāh \hon{\PBUH}{\BODY} said, "...the coolness of my eyes has
 been placed in _ṣalāh_."[-@@ahmad, vol. 19, p. 305, #12293] Muʿādh ibn Jabal
 \hon{\P_HIM}{\BODY} reported that the Prophet \hon{\PBUH}{\BODY} said, “Shall I
 not inform you of the head of the entire matter, its pillar, and its peak?” to
-which he said, “Yes, O Messenger of Allah.” He \hon{\PBUH}{\BODY} then said,
+which he said, “Yes, O Messenger of Allāh.” He \hon{\PBUH}{\BODY} then said,
 “The head of the matter is Islam, its pillar is the prayer, and its peak is
 Jihad.”[-@@abuesa16, vol. 3, pp. 515--6, #2817]
 

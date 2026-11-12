@@ -1,4 +1,12 @@
 
+::: {custom-style="Chapter Word"}
+CHAPTER
+:::
+
+::: {custom-style="Chapter Number"}
+4
+:::
+
 # Relationship with the Creation
 
 ## Enjoining Good and Forbidding Evil
@@ -963,7 +971,7 @@ Days of Allāh. -->
 \AYAH_AR_END
 
 \AYAH_START
-[O Prophet!] Tell the believers to forgive those who do not fear Allah’s days
+[O Prophet!] Tell the believers to forgive those who do not fear Allāh’s days
 [of torment]... (Sūrat al-Jāthiyah, Q45:14)
 \AYAH_END
 
