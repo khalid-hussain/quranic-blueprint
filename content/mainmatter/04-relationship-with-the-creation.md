@@ -699,7 +699,7 @@ And marry off the unmarried among you. (Sūrat al-Nūr, Q24:32)
 
 
 Widows are women whose husbands have passed away. They are often left without
-support for food, clothing, shelter, and protection. Islam commands that they be    
+support for food, clothing, shelter, and protection. Islam commands that they be
 treated with kindness.
 
 The Prophet \hon{\PBUH}{\BODY} said, "The one who strives to support a widow and
